@@ -1,0 +1,17 @@
+name: Trigger Server Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  trigger:
+    name: Notify ragsource server to redeploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.RAGSOURCE_DEPLOY_TOKEN }}
+          repository: ragsource-ai/ragsource-server
+          event-type: content-updated
+          client-payload: '{"repo": "ragsource-content"}'
