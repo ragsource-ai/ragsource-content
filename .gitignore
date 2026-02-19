@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.backup
+
+# Lokale Notizen / Entwuerfe
+DRAFT_*
+NOTIZEN_*
