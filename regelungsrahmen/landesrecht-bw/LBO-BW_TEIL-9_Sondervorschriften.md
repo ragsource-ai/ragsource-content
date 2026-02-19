@@ -1,0 +1,78 @@
+---
+titel: "Landesbauordnung Baden-Württemberg (LBO BW) – Neunter Teil: Sondervorschriften"
+ebene: land
+saule: regelungsrahmen
+bundesland: bw
+quelle: Gesetz neugefasst am 05.03.2010, zuletzt geändert durch Artikel 1 des Gesetzes vom 18.03.2025 (GBl. 2025 Nr. 25)
+gueltig_ab: 2010-03-01
+status: published
+projekte:
+  - amtsschimmel
+keywords:
+  - LBO BW
+  - Fliegende Bauten
+  - Abfallentsorgungsanlagen
+  - Erdwärme Genehmigung
+  - Aufschüttungen
+  - Abgrabungen
+  - Sondervorschriften Baurecht
+  - Volksfest
+  - Zelt Genehmigung
+fragen:
+  - "Brauche ich eine Genehmigung für ein Festzelt?"
+  - "Was sind Fliegende Bauten und welche Genehmigung brauchen sie?"
+  - "Brauche ich eine Baugenehmigung für eine Erdwärmepumpe?"
+  - "Wann ist eine Aufschüttung genehmigungspflichtig?"
+querverweise:
+  - Landesbauordnung Baden-Württemberg (LBO BW) – Achter Teil: Verwaltungsverfahren und Baulasten
+  - Landesbauordnung Baden-Württemberg (LBO BW) – Anhang: Verfahrensfreie Vorhaben
+---
+
+# Landesbauordnung für Baden-Württemberg (LBO)
+
+**Neugefasst:** 05.03.2010
+**Gültig ab:** 01.03.2010
+**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
+
+---
+## NEUNTER TEIL - Sondervorschriften
+
+### § 69 - Fliegende Bauten
+
+(1) Fliegende Bauten sind bauliche Anlagen, die geeignet und bestimmt sind, an wechselnden Orten wiederholt aufgestellt und zerlegt zu werden. Fliegende Bauten sind insbesondere Verkaufsstände und Verkaufsbuden, Zelte, Tribünen, Bühnen und Schaubuden.
+
+(2) Wer einen Fliegenden Bau aufstellen will, bedarf der Erlaubnis der Baurechtsbehörde. Die Erlaubnis kann mit Nebenbestimmungen versehen und befristet werden.
+
+(3) Die Erlaubnis ist zu versagen, wenn
+
+1. der Fliegende Bau an dem vorgesehenen Standort öffentlich-rechtlichen Vorschriften widerspricht,
+2. von dem Fliegenden Bau Gefahren für Leben, Gesundheit oder die öffentliche Sicherheit ausgehen,
+3. die nach Absatz 4 erforderliche Prüfung nicht vorliegt oder
+4. die Standsicherheit, die Verkehrssicherheit oder der Brandschutz nicht gewährleistet sind.
+
+(4) Fliegende Bauten, bei denen auf Grund ihrer Bauart oder ihres Betriebs in besonderem Maße Gefahren für Leben oder Gesundheit entstehen können, bedürfen vor ihrer ersten Inbetriebnahme und danach wiederkehrend einer Prüfung durch einen Prüfsachverständigen. Die Fristen für die wiederkehrenden Prüfungen werden von der Baurechtsbehörde festgelegt.
+
+### § 70 - Anlagen zur Abfallentsorgung
+
+(1) Die Errichtung und der Betrieb von Anlagen zur Lagerung, Behandlung oder Verwertung von Abfällen sind nach den Vorschriften des Bundes-Immissionsschutzgesetzes, des Kreislaufwirtschaftsgesetzes und der auf Grund dieser Gesetze erlassenen Rechtsverordnungen zu beurteilen.
+
+(2) Für Anlagen nach Absatz 1, die einer Genehmigung nach dem Bundes-Immissionsschutzgesetz bedürfen, gelten die bauordnungsrechtlichen Vorschriften dieses Gesetzes nur, soweit sie nicht durch das Bundes-Immissionsschutzgesetz oder die darauf beruhenden Rechtsverordnungen erfasst werden.
+
+### § 71 - Geothermische Anlagen
+
+(1) Für die Errichtung und den Betrieb von Anlagen zur Nutzung der Erdwärme (geothermische Anlagen) gelten die wasserrechtlichen und bergrechtlichen Vorschriften.
+
+(2) Bauliche Anlagen, die der Erdwärmenutzung dienen, bedürfen keiner Baugenehmigung, soweit sie nicht Gebäude sind und die wasserrechtlichen Anforderungen erfüllt sind.
+
+### § 72 - Aufschüttungen und Abgrabungen
+
+(1) Aufschüttungen und Abgrabungen, die die Gestalt oder die Nutzung von Grundstücken wesentlich verändern, bedürfen der Baugenehmigung.
+
+(2) Die Baugenehmigung ist zu versagen, wenn
+
+1. die Aufschüttung oder Abgrabung gegen öffentlich-rechtliche Vorschriften verstößt,
+2. die Standsicherheit oder die Verkehrssicherheit nicht gewährleistet ist,
+3. Gefahren für Nachbargrundstücke entstehen oder
+4. das Orts- oder Landschaftsbild erheblich beeinträchtigt wird.
+
+---

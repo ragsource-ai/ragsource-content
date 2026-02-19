@@ -8,11 +8,12 @@ Dieses Repository ist die **Saeule 1 (Regelungsrahmen)** der RAGSource-Wissensar
 
 | Ebene | Ordner | Beispiele |
 |-------|--------|-----------|
-| Bund | `regelungsrahmen/bund/` | BauGB, StGB, VwVfG |
-| Land BW | `regelungsrahmen/land-bw/` | GemO BW, LBO, FwG BW |
-| Landkreis Goeppingen | `regelungsrahmen/lkr-goeppingen/` | Kreissatzungen |
+| Bundesrecht | `regelungsrahmen/bundesrecht/` | BauGB, VwVfG, StGB |
+| Landesrecht BW | `regelungsrahmen/landesrecht-bw/` | GemO BW, LBO, FwG BW |
+| Kreisrecht Goeppingen | `regelungsrahmen/kreisrecht-goeppingen/` | Kreissatzungen |
 | GVV Raum Bad Boll | `regelungsrahmen/gvv-bad-boll/` | Verbandssatzung |
-| Gemeinde Bad Boll | `regelungsrahmen/gem-bad-boll/` | 37 Gemeindesatzungen |
+| Ortsrecht Bad Boll | `regelungsrahmen/ortsrecht-bad-boll/` | 37 Gemeindesatzungen |
+| Tarifrecht | `regelungsrahmen/tarifrecht/` | TVoeD, TV-L, AVR |
 
 ## Frontmatter-Schema
 
@@ -63,14 +64,17 @@ Das `projekte`-Feld steuert, welche RAGSource-Projekte diesen Artikel sehen:
 ```
 ragsource-content/
 └── regelungsrahmen/
-    ├── bund/
-    ├── land-bw/
-    ├── lkr-goeppingen/
-    ├── gvv-bad-boll/
-    └── gem-bad-boll/
+    ├── bundesrecht/              Bundesgesetze, Bundesverordnungen
+    ├── landesrecht-bw/           Landesgesetze Baden-Wuerttemberg
+    ├── kreisrecht-goeppingen/    Kreissatzungen Landkreis Goeppingen
+    ├── gvv-bad-boll/             Verbandssatzungen GVV Raum Bad Boll
+    ├── ortsrecht-bad-boll/       Gemeindesatzungen Bad Boll
+    └── tarifrecht/               TVoeD, TV-L, AVR (eigener Rechtskreis)
 ```
 
-Die Ordnerstruktur dient der menschlichen Orientierung. Der Server klassifiziert Artikel ausschliesslich anhand des Frontmatters (`ebene`, `gemeinde`, `bundesland`).
+Die Ordnerstruktur dient der **menschlichen Orientierung**. Der Server klassifiziert Artikel ausschliesslich anhand des Frontmatters (`ebene`, `gemeinde`, `bundesland`). Dateien koennen jederzeit verschoben oder umstrukturiert werden, ohne dass sich an der Server-Zuordnung etwas aendert.
+
+Bei wachsendem Bestand koennen Unterordner nach Rechtsgebiet angelegt werden (z.B. `bundesrecht/verwaltungsrecht/`, `bundesrecht/arbeitsrecht/`). Bei mehreren Gemeinden kann nach Bundesland und Landkreis verschachtelt werden (z.B. `ortsrecht/bw/lkr-goeppingen/bad-boll/`).
 
 ## Build-Pipeline
 
