@@ -55,7 +55,7 @@ Der Server klassifiziert Artikel **ausschließlich anhand des Frontmatters** —
 | Feld | Werte | Beschreibung |
 |------|-------|--------------|
 | `titel` | Freitext | Vollständiger Titel des Rechtsdokuments |
-| `ebene` | `bund` \| `land` \| `kreis` \| `gvv` \| `gemeinde` | Normenhierarchie |
+| `ebene` | `bund` \| `land` \| `kreis` \| `verband` \| `gemeinde` | Normenhierarchie |
 | `saule` | `regelungsrahmen` | Immer so in diesem Repo |
 
 **Optionale Felder:**

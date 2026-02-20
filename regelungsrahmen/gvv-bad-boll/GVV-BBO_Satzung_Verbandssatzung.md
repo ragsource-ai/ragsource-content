@@ -1,6 +1,6 @@
 ---
 titel: Verbandssatzung des Gemeindeverwaltungsverbandes Raum Bad Boll
-ebene: gvv
+ebene: verband
 saule: regelungsrahmen
 gemeinde: bad-boll
 bundesland: bw
