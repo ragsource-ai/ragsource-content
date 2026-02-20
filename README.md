@@ -1,102 +1,103 @@
 # RAGSource Content: Regelungsrahmen
 
-Oeffentliche Rechtstexte fuer das [RAGSource-Framework](https://github.com/ragsource-ai/ragsource) -- Gesetze, Satzungen und Verordnungen als Markdown mit strukturiertem YAML-Frontmatter.
+Öffentliche Rechtstexte für kommunale KI-Assistenten — Gesetze, Satzungen und Verordnungen als strukturiertes Markdown.
 
-## Zweck
+---
 
-Dieses Repository ist die **Saeule 1 (Regelungsrahmen)** der RAGSource-Wissensarchitektur. Es enthaelt oeffentliche Rechtstexte auf allen fuenf Ebenen der Normenhierarchie:
+## Was ist das hier?
+
+Dieses Repository enthält den **öffentlichen Rechtstext-Bestand** des RAGSource-Frameworks.
+Die Artikel bilden die Wissensbasis für KI-Assistenten wie [amtsschimmel.ai](https://amtsschimmel.ai), die Kommunen bei Verwaltungsaufgaben unterstützen.
+
+Jede Markdown-Datei entspricht einem Rechtsdokument (Gesetz, Satzung, Verordnung) mit strukturierten Metadaten. Der RAGSource-Server liest diese Dateien, indexiert sie und stellt sie über eine MCP-Schnittstelle für KI-Systeme bereit.
+
+**Aktuell:** 109 Artikel aus Bundes-, Landes-, Kreis- und Gemeinderecht
+
+---
+
+## Normenhierarchie
 
 | Ebene | Ordner | Beispiele |
 |-------|--------|-----------|
-| Bundesrecht | `regelungsrahmen/bundesrecht/` | BauGB, VwVfG, StGB |
+| Bundesrecht | `regelungsrahmen/bundesrecht/` | BauGB, VwVfG |
 | Landesrecht BW | `regelungsrahmen/landesrecht-bw/` | GemO BW, LBO, FwG BW |
-| Kreisrecht Goeppingen | `regelungsrahmen/kreisrecht-goeppingen/` | Kreissatzungen |
+| Kreisrecht Göppingen | `regelungsrahmen/kreisrecht-goeppingen/` | Kreissatzungen |
 | GVV Raum Bad Boll | `regelungsrahmen/gvv-bad-boll/` | Verbandssatzung |
 | Ortsrecht Bad Boll | `regelungsrahmen/ortsrecht-bad-boll/` | 37 Gemeindesatzungen |
-| Tarifrecht | `regelungsrahmen/tarifrecht/` | TVoeD, TV-L, AVR |
+| Tarifrecht | `regelungsrahmen/tarifrecht/` | TVöD, TV-L, AVR |
 
-## Frontmatter-Schema
+---
 
-Jede Markdown-Datei beginnt mit YAML-Frontmatter. Die Build-Pipeline des RAGSource-Servers liest diese Metadaten und laedt sie in die Datenbank.
+## Wie funktioniert das?
 
-### Pflichtfelder
+Jede Datei beginnt mit YAML-Frontmatter, das den Artikel klassifiziert:
 
 ```yaml
 ---
 titel: Feuerwehrsatzung der Gemeinde Bad Boll
-ebene: gemeinde          # bund | land | kreis | gvv | gemeinde
-saule: regelungsrahmen   # immer "regelungsrahmen" in diesem Repo
+ebene: gemeinde
+saule: regelungsrahmen
+gemeinde: bad-boll
+keywords:
+  - Feuerwehr
+  - Feuerwehrkommandant
+fragen:
+  - "Wie wird der Feuerwehrkommandant gewählt?"
 ---
 ```
 
-### Optionale Felder
+Der Server klassifiziert Artikel **ausschließlich anhand des Frontmatters** — nicht anhand des Dateipfads. Die Ordnerstruktur dient der menschlichen Orientierung und kann jederzeit angepasst werden.
 
-```yaml
-gemeinde: bad-boll       # Gemeinde-Slug (bei ebene: gemeinde)
-bundesland: bw           # Wird aus gemeinde auto-resolved
-landkreis: goeppingen    # Wird aus gemeinde auto-resolved
-quelle: Gemeinderatsbeschluss vom 25.03.2021
-gueltig_ab: 2021-03-25
-status: published        # published | draft
-projekte:                # Projekt-Zuordnung (Performance-Filter)
-  - amtsschimmel
-keywords:                # Suchbegriffe fuer FTS5-Retrieval
-  - Feuerwehr
-  - Feuerwehrkommandant
-fragen:                  # Typische Nutzerfragen
-  - "Wie wird der Feuerwehrkommandant gewaehlt?"
-querverweise:            # Verwandte Artikel (exakte Titel)
-  - Hauptsatzung der Gemeinde Bad Boll
-```
+### Vollständiges Frontmatter-Schema
 
-### Projekt-Tagging
+**Pflichtfelder:**
 
-Das `projekte`-Feld steuert, welche RAGSource-Projekte diesen Artikel sehen:
+| Feld | Werte | Beschreibung |
+|------|-------|--------------|
+| `titel` | Freitext | Vollständiger Titel des Rechtsdokuments |
+| `ebene` | `bund` \| `land` \| `kreis` \| `gvv` \| `gemeinde` | Normenhierarchie |
+| `saule` | `regelungsrahmen` | Immer so in diesem Repo |
 
-| Wert | Bedeutung |
-|------|-----------|
-| `projekte: [amtsschimmel, brandmeister]` | Nur fuer diese Projekte sichtbar |
-| `projekte: [amtsschimmel]` | Nur fuer amtsschimmel sichtbar |
-| Feld fehlt oder leer | Fuer **alle** Projekte sichtbar (universell) |
+**Optionale Felder:**
 
-## Ordnerstruktur
+| Feld | Beispiel | Beschreibung |
+|------|---------|--------------|
+| `gemeinde` | `bad-boll` | Gemeinde-Slug (bei ebene: gemeinde) |
+| `bundesland` | `bw` | Wird aus gemeinde auto-resolved |
+| `landkreis` | `goeppingen` | Wird aus gemeinde auto-resolved |
+| `quelle` | `Gemeinderatsbeschluss 25.03.2021` | Herkunft des Dokuments |
+| `gueltig_ab` | `2021-03-25` | Datum des Inkrafttretens |
+| `status` | `published` \| `draft` | Veröffentlichungsstatus |
+| `projekte` | `[amtsschimmel]` | Projekt-Sichtbarkeit (leer = alle) |
+| `keywords` | `[Feuerwehr, Satzung]` | Suchbegriffe für den Volltext-Index |
+| `fragen` | `["Wie wird ...?"]` | Typische Nutzerfragen |
+| `querverweise` | `[Hauptsatzung ...]` | Verwandte Artikel (exakte Titel) |
 
-```
-ragsource-content/
-└── regelungsrahmen/
-    ├── bundesrecht/              Bundesgesetze, Bundesverordnungen
-    ├── landesrecht-bw/           Landesgesetze Baden-Wuerttemberg
-    ├── kreisrecht-goeppingen/    Kreissatzungen Landkreis Goeppingen
-    ├── gvv-bad-boll/             Verbandssatzungen GVV Raum Bad Boll
-    ├── ortsrecht-bad-boll/       Gemeindesatzungen Bad Boll
-    └── tarifrecht/               TVoeD, TV-L, AVR (eigener Rechtskreis)
-```
-
-Die Ordnerstruktur dient der **menschlichen Orientierung**. Der Server klassifiziert Artikel ausschliesslich anhand des Frontmatters (`ebene`, `gemeinde`, `bundesland`). Dateien koennen jederzeit verschoben oder umstrukturiert werden, ohne dass sich an der Server-Zuordnung etwas aendert.
-
-Bei wachsendem Bestand koennen Unterordner nach Rechtsgebiet angelegt werden (z.B. `bundesrecht/verwaltungsrecht/`, `bundesrecht/arbeitsrecht/`). Bei mehreren Gemeinden kann nach Bundesland und Landkreis verschachtelt werden (z.B. `ortsrecht/bw/lkr-goeppingen/bad-boll/`).
-
-## Build-Pipeline
-
-Bei Push auf `main` wird ein `repository_dispatch` an das Server-Repo (`ragsource-ai/ragsource`) gesendet. Die dortige GitHub Action:
-
-1. Checkt dieses Repo aus
-2. Scannt alle `.md`-Dateien rekursiv
-3. Liest Frontmatter + Content
-4. Schreibt alles in die D1-Datenbank
-5. Deployed den Cloudflare Worker
+---
 
 ## Mitmachen
 
-1. Fork erstellen
-2. Feature-Branch anlegen
+Fehlende Rechtstexte? Fehler gefunden? Beiträge sind willkommen.
+
+1. Repository forken
+2. Feature-Branch anlegen (`git checkout -b add-gemeindeordnung-by`)
 3. Frontmatter-Schema einhalten (siehe oben)
 4. Pull Request erstellen
 
-Projektleitung: Christian Traub
+Alle Inhalte müssen **öffentlich zugänglich und lizenzrechtlich frei verwendbar** sein (amtliche Werke nach § 5 UrhG oder vergleichbar).
+
+Projektleitung: **Christian Traub** — alle PRs werden manuell geprüft.
+
+---
+
+## CI/CD
+
+Bei Push auf `main` wird automatisch ein Rebuild der RAGSource-Datenbank ausgelöst. Neue Artikel sind typischerweise **innerhalb von 2 Minuten live**.
+
+---
 
 ## Lizenz
 
-CC-BY 4.0 -- siehe [LICENSE](LICENSE)
+**CC-BY 4.0** — siehe [LICENSE](LICENSE)
 
-Powered by [RAGSource](https://github.com/ragsource-ai/ragsource)
+Powered by [RAGSource](https://ragsource.ai)
