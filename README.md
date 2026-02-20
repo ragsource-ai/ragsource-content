@@ -37,12 +37,21 @@ Jede Datei beginnt mit YAML-Frontmatter, das den Artikel klassifiziert:
 titel: Feuerwehrsatzung der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+# ARS-Felder (maschinell, fuer Geo-Filterung)
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+# Klartext-Felder (Lesehilfe, fuer Obsidian + LLM-Response)
+land: Baden-Wuerttemberg
+kreis: Goeppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 keywords:
   - Feuerwehr
   - Feuerwehrkommandant
 fragen:
-  - "Wie wird der Feuerwehrkommandant gewählt?"
+  - "Wie wird der Feuerwehrkommandant gewaehlt?"
 ---
 ```
 
@@ -58,18 +67,30 @@ Der Server klassifiziert Artikel **ausschließlich anhand des Frontmatters** —
 | `ebene` | `bund` \| `land` \| `kreis` \| `verband` \| `gemeinde` | Normenhierarchie |
 | `saule` | `regelungsrahmen` | Immer so in diesem Repo |
 
-**Optionale Felder:**
+**Geo-Felder (ARS = Amtlicher Regionalschluessel):**
+
+Nur die Felder setzen, die zur `ebene` passen (bund = keine, land = `land_ars`, usw.):
 
 | Feld | Beispiel | Beschreibung |
 |------|---------|--------------|
-| `gemeinde` | `bad-boll` | Gemeinde-Slug (bei ebene: gemeinde) |
-| `bundesland` | `bw` | Wird aus gemeinde auto-resolved |
-| `landkreis` | `goeppingen` | Wird aus gemeinde auto-resolved |
+| `land_ars` | `"08"` | 2-stellig, Bundesland |
+| `kreis_ars` | `"08117"` | 5-stellig, Landkreis |
+| `verband_ars` | `"081175009"` | 9-stellig, Gemeindeverband |
+| `gemeinde_ars` | `"081175009012"` | 12-stellig, Gemeinde |
+| `land` | `Baden-Wuerttemberg` | Klartext zum ARS (Lesehilfe) |
+| `kreis` | `Goeppingen` | Klartext zum ARS |
+| `verband` | `GVV Raum Bad Boll` | Klartext zum ARS |
+| `gemeinde` | `Bad Boll` | Klartext zum ARS |
+
+**Weitere optionale Felder:**
+
+| Feld | Beispiel | Beschreibung |
+|------|---------|--------------|
 | `quelle` | `Gemeinderatsbeschluss 25.03.2021` | Herkunft des Dokuments |
 | `gueltig_ab` | `2021-03-25` | Datum des Inkrafttretens |
-| `status` | `published` \| `draft` | Veröffentlichungsstatus |
+| `status` | `published` \| `draft` | Veroeffentlichungsstatus |
 | `projekte` | `[amtsschimmel]` | Projekt-Sichtbarkeit (leer = alle) |
-| `keywords` | `[Feuerwehr, Satzung]` | Suchbegriffe für den Volltext-Index |
+| `keywords` | `[Feuerwehr, Satzung]` | Suchbegriffe fuer den Volltext-Index |
 | `fragen` | `["Wie wird ...?"]` | Typische Nutzerfragen |
 | `querverweise` | `[Hauptsatzung ...]` | Verwandte Artikel (exakte Titel) |
 
