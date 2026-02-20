@@ -2,7 +2,14 @@
 titel: Satzung über die Form der öffentlichen Bekanntmachung der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 14.04.1983, Stand Januar 2008
 gueltig_ab: 1983-04-14
 status: published

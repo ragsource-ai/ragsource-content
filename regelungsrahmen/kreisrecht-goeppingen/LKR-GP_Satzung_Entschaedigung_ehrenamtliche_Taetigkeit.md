@@ -2,8 +2,10 @@
 titel: Satzung über die Entschädigung für ehrenamtliche Tätigkeit des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 20.05.2022
 gueltig_ab: 2022-07-01
 status: published

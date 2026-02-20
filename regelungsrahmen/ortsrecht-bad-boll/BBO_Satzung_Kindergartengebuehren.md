@@ -2,7 +2,14 @@
 titel: Satzung über die Erhebung von Benutzungsgebühren für die Kindertageseinrichtungen
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 09.12.2021, geändert durch Satzungen vom 25.05.2023, 26.09.2024
 gueltig_ab: 2022-09-01
 status: published

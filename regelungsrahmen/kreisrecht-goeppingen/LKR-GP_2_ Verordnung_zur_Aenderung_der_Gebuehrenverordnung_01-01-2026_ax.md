@@ -2,8 +2,10 @@
 titel: 2. Verordnung zur Änderung der Gebührenverordnung des Landratsamts Göppingen (untere Verwaltungsbehörde und untere Baurechtsbehörde), gültig ab 01.01.2026
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Rechtsverordnung des Landratsamts Göppingen vom 18.12.2025
 gueltig_ab: 2026-01-01
 status: published

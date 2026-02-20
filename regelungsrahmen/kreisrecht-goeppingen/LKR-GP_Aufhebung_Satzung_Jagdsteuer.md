@@ -2,8 +2,10 @@
 titel: Satzung über die Erhebung der Jagdsteuer im Landkreis Göppingen (aufgehoben zum 01.04.2009)
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss zur Aufhebung vom 30.01.2009
 gueltig_ab: 2009-04-01
 status: published

@@ -2,7 +2,14 @@
 titel: Satzung über die Benutzung von Obdachlosen- und Flüchtlingsunterkünften der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 30.07.2015, geändert durch Satzungen vom 29.06.2023 sowie 24.10.2024, Stand Januar 2025
 gueltig_ab: 2015-07-30
 status: published

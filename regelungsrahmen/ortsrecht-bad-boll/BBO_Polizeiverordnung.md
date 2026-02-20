@@ -2,7 +2,14 @@
 titel: Polizeiverordnung der Gemeinde Bad Boll (Polizeiliche Umweltschutz-Verordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 25.02.2021, zustimmungsbedürftig nach § 17 Abs. 1 PolG
 gueltig_ab: 2021-04-30
 status: published

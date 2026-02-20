@@ -2,7 +2,14 @@
 titel: Umweltleitlinien der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinde Bad Boll, beschlossen 12.02.1999, Stand Januar 2008
 gueltig_ab: 1999-02-12
 status: published

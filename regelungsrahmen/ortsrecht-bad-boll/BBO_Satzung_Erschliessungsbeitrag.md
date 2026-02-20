@@ -2,7 +2,14 @@
 titel: Satzung über die Erhebung von Erschließungsbeiträgen der Gemeinde Bad Boll (Erschließungsbeitragssatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 14.05.2009, geändert durch Satzung vom 08.03.2018, Stand März 2018
 gueltig_ab: 2018-03-08
 status: published

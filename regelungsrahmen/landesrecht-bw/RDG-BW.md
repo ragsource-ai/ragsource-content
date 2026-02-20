@@ -2,7 +2,8 @@
 titel: "Rettungsdienstgesetz Baden-Württemberg (RDG)"
 ebene: land
 saule: regelungsrahmen
-bundesland: bw
+land_ars: "08"
+land: Baden-Württemberg
 quelle: Gesetz vom 25.07.2024 (GBl. 2024, Nr. 66), gültig ab 02.08.2024
 gueltig_ab: 2024-08-02
 status: published

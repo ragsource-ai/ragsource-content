@@ -2,7 +2,14 @@
 titel: Verordnung der Gemeinde Bad Boll zum Schutz freilebender Katzen (Katzenschutzverordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 30.09.2021
 gueltig_ab: 2022-01-01
 status: published

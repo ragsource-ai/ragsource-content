@@ -2,8 +2,10 @@
 titel: Gebührenverzeichnis zur Gebührenverordnung des Landratsamts Göppingen – Teil 1 von 3 (Kommunalamt, Rechts- und Ordnungsamt)
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Anlage zur Gebührenverordnung des Landratsamts Göppingen vom 01.03.2025
 gueltig_ab: 2025-03-01
 status: published

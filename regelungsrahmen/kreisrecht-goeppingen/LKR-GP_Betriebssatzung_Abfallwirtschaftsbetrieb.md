@@ -2,8 +2,10 @@
 titel: Betriebssatzung für den Abfallwirtschaftsbetrieb des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 24.11.2000
 gueltig_ab: 2001-01-01
 status: published

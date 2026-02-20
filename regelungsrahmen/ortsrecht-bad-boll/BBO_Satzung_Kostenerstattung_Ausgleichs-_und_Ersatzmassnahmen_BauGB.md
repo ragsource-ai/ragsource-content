@@ -2,7 +2,14 @@
 titel: Satzung zur Erhebung von Kostenerstattungsbeträgen nach §§ 135 a-c BauGB der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 25.03.1999, Stand Januar 2008
 gueltig_ab: 1999-03-25
 status: published

@@ -2,8 +2,10 @@
 titel: Rechtsverordnung des Landratsamts Göppingen über die Erhebung von Gebühren für die Wahrnehmung von Aufgaben als untere Verwaltungsbehörde und als untere Baurechtsbehörde (Gebührenverordnung)
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Rechtsverordnung des Landratsamts Göppingen vom 28.02.2025
 gueltig_ab: 2025-03-01
 status: published

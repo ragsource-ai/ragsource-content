@@ -2,7 +2,14 @@
 titel: Feuerwehrsatzung der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 25.03.2021, Rechtsgrundlage § 4 GemO i.V.m. § 6 Abs. 1 Satz 3 und Abs. 3, § 7 Abs. 1 Satz 1, § 8 Abs. 2 Satz 2 HS 2, § 10 Abs. 2 Satz 1 und Abs. 3 Satz 1, § 18 Abs. 1 Satz 1 und Abs. 4 FwG BW
 gueltig_ab: 2021-03-25
 status: published

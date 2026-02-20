@@ -2,7 +2,14 @@
 titel: Satzung über weitere Verkaufssonntage der Gemeinde Bad Boll nach § 8 LadÖG
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 29.03.2007, Stand Dezember 2007
 gueltig_ab: 2007-03-29
 status: published

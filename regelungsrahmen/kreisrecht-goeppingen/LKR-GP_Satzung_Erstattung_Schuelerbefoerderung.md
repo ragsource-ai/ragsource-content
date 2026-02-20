@@ -2,8 +2,10 @@
 titel: Satzung über die Erstattung der notwendigen Schülerbeförderungskosten des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 10.10.2025
 gueltig_ab: 2026-01-01
 status: published

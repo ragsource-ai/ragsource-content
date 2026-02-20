@@ -2,7 +2,14 @@
 titel: Satzung über die Benutzung des Freibades der Gemeinde Bad Boll (Badeordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 20.10.2022, geändert durch Satzungen vom 07.12.2023 sowie 24.10.2024, Stand Oktober 2024
 gueltig_ab: 2022-10-20
 status: published

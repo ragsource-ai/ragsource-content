@@ -2,8 +2,10 @@
 titel: Satzung über öffentliche Bekanntmachungen des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 05.05.1978
 gueltig_ab: 1978-07-01
 status: published

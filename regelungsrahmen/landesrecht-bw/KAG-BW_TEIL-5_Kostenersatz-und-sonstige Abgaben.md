@@ -2,7 +2,8 @@
 titel: "Kommunalabgabengesetz Baden-Württemberg (KAG BW) – Fünfter Teil: Kostenersatz und sonstige Abgaben"
 ebene: land
 saule: regelungsrahmen
-bundesland: bw
+land_ars: "08"
+land: Baden-Württemberg
 quelle: Gesetz vom 17.03.2005 (GBl. 2005, 206), zuletzt geändert durch Artikel 7 des Gesetzes vom 17.12.2020 (GBl. S. 1233, 1249)
 gueltig_ab: 2005-03-31
 status: published

@@ -2,7 +2,8 @@
 titel: "Landesverwaltungsvollstreckungsgesetz Baden-Württemberg (LVwVG BW)"
 ebene: land
 saule: regelungsrahmen
-bundesland: bw
+land_ars: "08"
+land: Baden-Württemberg
 quelle: Gesetz vom 12.03.1974 (GBl. 1974, 93), zuletzt geändert durch Artikel 5 der Verordnung vom 23.02.2017 (GBl. S. 99, 100)
 gueltig_ab: 1974-07-01
 status: published

@@ -2,8 +2,10 @@
 titel: Hauptsatzung des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 24.11.2000, zuletzt geändert am 15.12.2020
 gueltig_ab: 2021-01-01
 status: published

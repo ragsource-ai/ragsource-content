@@ -2,7 +2,14 @@
 titel: Satzung zur Regelung des Marktwesens in der Gemeinde Bad Boll (Marktordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 09.05.1985, geändert durch Satzung vom 03.07.1986, Stand Januar 2008
 gueltig_ab: 1985-05-09
 status: published

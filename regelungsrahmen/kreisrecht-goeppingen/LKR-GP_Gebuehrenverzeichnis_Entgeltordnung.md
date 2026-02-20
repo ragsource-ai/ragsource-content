@@ -2,8 +2,10 @@
 titel: Tarif für die Benutzung kreiseigener Einrichtungen des Landkreises Göppingen (Entgeltordnung)
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 01.01.2021
 gueltig_ab: 2021-01-01
 status: published

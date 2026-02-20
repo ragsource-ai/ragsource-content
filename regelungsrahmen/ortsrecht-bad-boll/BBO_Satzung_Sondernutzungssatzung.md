@@ -2,7 +2,14 @@
 titel: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen der Gemeinde Bad Boll (Sondernutzungssatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 21.06.2001, geändert durch Satzung vom 09.10.2003, Stand Januar 2008
 gueltig_ab: 2001-06-21
 status: published

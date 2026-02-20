@@ -2,7 +2,14 @@
 titel: Satzung zur Regelung des Kostenersatzes für Leistungen der Freiwilligen Feuerwehr der Gemeinde Bad Boll (Feuerwehr-Kostenersatz-Satzung – FwKS)
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 17.05.2018, geändert durch Satzungen vom 22.09.2022 und 16.05.2024, Rechtsgrundlage § 4 GemO i.V.m. § 34 Abs. 4, § 26 Abs. 2 FwG BW
 gueltig_ab: 2024-05-16
 status: published

@@ -2,8 +2,10 @@
 titel: Satzung über das Jugendamt des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 12.03.1993, geändert am 20.05.2003
 gueltig_ab: 1993-04-03
 status: published

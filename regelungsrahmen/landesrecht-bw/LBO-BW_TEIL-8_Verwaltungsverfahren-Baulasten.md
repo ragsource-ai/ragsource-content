@@ -2,7 +2,8 @@
 titel: "Landesbauordnung Baden-Württemberg (LBO BW) – Achter Teil: Verwaltungsverfahren, Baulasten"
 ebene: land
 saule: regelungsrahmen
-bundesland: bw
+land_ars: "08"
+land: Baden-Württemberg
 quelle: Gesetz neugefasst am 05.03.2010, zuletzt geändert durch Artikel 1 des Gesetzes vom 18.03.2025 (GBl. 2025 Nr. 25)
 gueltig_ab: 2010-03-01
 status: published

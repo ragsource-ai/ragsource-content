@@ -2,8 +2,10 @@
 titel: Geschäftsordnung des Kreistags und der Ausschüsse des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 09.07.1974, zuletzt geändert am 13.07.2018
 gueltig_ab: 2018-07-13
 status: published

@@ -2,7 +2,14 @@
 titel: Satzung über die Verpflichtung der Straßenanlieger zum Reinigen, Schneeräumen und Bestreuen der Gehwege der Gemeinde Bad Boll (Streupflichtsatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 25.10.2007, Stand Dezember 2007
 gueltig_ab: 2007-10-25
 status: published

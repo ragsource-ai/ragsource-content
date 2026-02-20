@@ -2,7 +2,8 @@
 titel: "Gemeindeordnung Baden-Württemberg (GemO BW) – Dritter Teil Abschnitt 5: Besorgung des Finanzwesens"
 ebene: land
 saule: regelungsrahmen
-bundesland: bw
+land_ars: "08"
+land: Baden-Württemberg
 quelle: Gesetz neugefasst am 24.07.2000 (GBl. 2000, 581), zuletzt geändert durch Artikel 13 des Gesetzes vom 18.11.2025 (GBl. 2025 Nr. 124)
 gueltig_ab: 1999-12-01
 status: published

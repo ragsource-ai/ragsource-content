@@ -2,8 +2,10 @@
 titel: Archivordnung des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 30.06.1989
 gueltig_ab: 1989-07-20
 status: published

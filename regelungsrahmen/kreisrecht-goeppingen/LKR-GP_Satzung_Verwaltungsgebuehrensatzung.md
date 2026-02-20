@@ -2,8 +2,10 @@
 titel: Satzung über die Erhebung von Gebühren für öffentliche Leistungen des Landkreises Göppingen (Verwaltungsgebührensatzung)
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 13.11.2020, geändert ab 01.01.2021
 gueltig_ab: 2020-01-01
 status: published

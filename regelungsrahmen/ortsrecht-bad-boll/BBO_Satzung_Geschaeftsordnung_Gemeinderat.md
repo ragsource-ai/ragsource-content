@@ -2,7 +2,14 @@
 titel: Geschäftsordnung für den Gemeinderat der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-gemeinde: bad-boll
+land_ars: "08"
+kreis_ars: "08117"
+verband_ars: "081175009"
+gemeinde_ars: "081175009012"
+land: Baden-Württemberg
+kreis: Göppingen
+verband: GVV Raum Bad Boll
+gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 12.04.2018, Rechtsgrundlage § 36 Abs. 2 GemO BW
 gueltig_ab: 2018-04-12
 status: published

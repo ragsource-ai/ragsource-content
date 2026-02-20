@@ -2,8 +2,10 @@
 titel: Satzung über die Rabattierung von Zeitfahrausweisen im Ausbildungsverkehr im Landkreis Göppingen (Allgemeine Vorschrift gemäß VO (EG) Nr. 1370/2007)
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 16.04.2021
 gueltig_ab: 2021-01-01
 status: published

@@ -2,8 +2,10 @@
 titel: Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen des Landkreises Göppingen (Abfallwirtschaftssatzung) – Teil 1 von 2
 ebene: kreis
 saule: regelungsrahmen
-bundesland: bw
-landkreis: goeppingen
+land_ars: "08"
+kreis_ars: "08117"
+land: Baden-Württemberg
+kreis: Göppingen
 quelle: Kreistagsbeschluss vom 12.11.2021
 gueltig_ab: 2022-01-01
 status: published
