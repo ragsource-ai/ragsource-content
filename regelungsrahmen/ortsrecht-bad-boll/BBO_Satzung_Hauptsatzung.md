@@ -28,12 +28,25 @@ keywords:
   - Gemeindeorgane
   - Kommunalverfassung
   - GemO
+  - Aufgaben des Bürgermeisters
+  - Aufgaben des Gemeinderats
+  - Aufgaben der Ausschüsse
+  - Geschäftskreis
+  - Personalangelegenheiten
+  - Bauleitplanung
 fragen:
   - "Welche Ausschüsse gibt es im Gemeinderat Bad Boll?"
   - "Bis zu welchem Betrag kann der Bürgermeister selbst entscheiden?"
   - "Was ist der Unterschied zwischen dem Verwaltungsausschuss und dem Ausschuss für Technik und Umwelt?"
   - "Wer entscheidet über Personalangelegenheiten in der Gemeinde Bad Boll?"
   - "Welche Wertgrenzen gelten für Beschlüsse des Gemeinderats?"
+  - "Was sind die Aufgaben des Bürgermeisters in Bad Boll?"
+  - "Welche Zuständigkeiten hat der Bürgermeister laut Hauptsatzung?"
+  - "Was sind die Aufgaben des Gemeinderats in Bad Boll?"
+  - "Wofür ist der Gemeinderat zuständig?"
+  - "Was macht der Verwaltungsausschuss in Bad Boll?"
+  - "Wofür ist der Ausschuss für Technik und Umwelt zuständig?"
+  - "Welche Aufgaben haben die beschließenden Ausschüsse?"
 querverweise:
   - Geschäftsordnung für den Gemeinderat der Gemeinde Bad Boll
   - Gemeindeordnung für Baden-Württemberg
