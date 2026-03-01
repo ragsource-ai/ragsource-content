@@ -9,9 +9,18 @@ jobs:
     name: Notify ragsource server to redeploy
     runs-on: ubuntu-latest
     steps:
-      - uses: peter-evans/repository-dispatch@v3
+      - name: Trigger v1 DB-Rebuild (ragsource-server main)
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.RAGSOURCE_DEPLOY_TOKEN }}
           repository: ragsource-ai/ragsource-server
           event-type: content-updated
+          client-payload: '{"repo": "ragsource-content"}'
+
+      - name: Trigger v2 DB-Rebuild (ragsource-server v2-agentic)
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.RAGSOURCE_DEPLOY_TOKEN }}
+          repository: ragsource-ai/ragsource-server
+          event-type: content-updated-v2
           client-payload: '{"repo": "ragsource-content"}'
