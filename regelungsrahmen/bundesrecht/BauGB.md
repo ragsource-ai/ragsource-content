@@ -4,6 +4,9 @@ ebene: bund
 saule: regelungsrahmen
 quelle: BGBl. I 2017 S. 3634, zuletzt geändert durch Art. 5 G v. 22.12.2025 (BGBl. 2025 I Nr. 348)
 gueltig_ab: 2025-12-22
+url: "https://www.gesetze-im-internet.de/bbaug/"
+beschreibung: "Regelt Bauleitplanung, Bodenrecht und städtebauliche Maßnahmen auf Bundesebene. Grundlage für Flächennutzungs- und Bebauungspläne."
+stand: "2025-12-22"
 status: published
 projekte:
   - amtsschimmel
