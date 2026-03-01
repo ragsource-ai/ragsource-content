@@ -2,8 +2,8 @@
 titel: Geschäftsordnung des Kreistags und der Ausschüsse des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 09.07.1974, zuletzt geändert am 13.07.2018
@@ -11,55 +11,47 @@ gueltig_ab: 2018-07-13
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Geschäftsordnung
-  - Kreistag Göppingen
-  - Kreisrat
-  - Fraktion
-  - Sitzungsordnung
-  - Abstimmung
-  - Kreistagssitzung
-  - Einberufung Sitzung
-  - Tagesordnung
-  - Fragestunde
-  - Niederschrift
-  - Hausrecht
-  - Ausschüsse Landkreis
-  - LKrO BW
-fragen:
-  - "Wie läuft eine Kreistagssitzung ab?"
-  - "Wie wird der Kreistag einberufen und wer kann das beantragen?"
-  - "Wie viele Kreisräte braucht man für eine Fraktion im Kreistag Göppingen?"
-  - "Wie wird im Kreistag abgestimmt?"
-  - "Können Bürger im Kreistag Fragen stellen?"
-  - "Was passiert, wenn ein Kreisrat die Sitzung stört?"
-querverweise:
-  - Hauptsatzung des Landkreises Göppingen
-  - Landkreisordnung für Baden-Württemberg (LKrO)
 ---
-# Geschäftsordnung des Kreistags und der Ausschüsse
+
+## Inhaltsverzeichnis
+
+- § 1 Vorsitz
+- § 2 Fraktionen
+- § 3 Sitzordnung
+- § 4 Einberufung von Sitzungen
+- § 5 Teilnahmepflicht, Sitzungsdauer
+- § 6 Weitere Teilnehmer
+- § 7 Änderung der Tagesordnung
+- § 8 Vortrag und Aussprache
+- § 9 Stimmordnung bei Wahlen und Abstimmungen
+- § 10 Anfragen
+- § 10 a Fragestunde, Anhörung
+- § 11 Hausrecht
+- § 12 Niederschrift
+- § 13 Geschäftsordnung der Ausschüsse
+- § 14 Inkrafttreten
 
 **Landkreis Göppingen**
 
 vom 9. Juli 1974 mit Änderungen vom 25. Juni 1976, 18. Juli 1980, 28. Juni 1991, 21. November 1997, 18. März 2005 und 13. Juli 2018
 
-## § 1 Vorsitz
+### § 1 Vorsitz
 
 (1) Vorsitzender des Kreistags ist der Landrat.
 
 (2) Der Kreistag wählt aus seiner Mitte drei stellvertretende Vorsitzende, die den Landrat als Vorsitzenden des Kreistags im Verhinderungsfall in der vom Kreistag bestimmten Reihenfolge vertreten.
 
-## § 2 Fraktionen
+### § 2 Fraktionen
 
 (1) Die Kreisräte können sich zu Fraktionen zusammenschließen. Eine Fraktion muss aus mindestens 4 Kreisräten bestehen. Jeder Kreisrat kann nur einer Fraktion angehören.
 
 (2) Bildung und Auflösung einer Fraktion, ihre Bezeichnung, die Namen der Vorsitzenden und deren Mitglieder sind dem Landrat schriftlich mitzuteilen.
 
-## § 3 Sitzordnung
+### § 3 Sitzordnung
 
 Die Kreisräte sitzen nach ihrer Fraktionszugehörigkeit. Kommt eine Einigung nicht zustande, bestimmt der Kreistag die Sitzordnung in seiner ersten Sitzung. Die Sitzordnung innerhalb der Fraktionen wird von diesen selbst festgelegt. Kreisräten, die keiner Fraktion angehören, weist der Vorsitzende den Sitzplatz zu.
 
-## § 4 Einberufung von Sitzungen
+### § 4 Einberufung von Sitzungen
 
 (1) Der Landrat beruft den Kreistag schriftlich oder elektronisch mit angemessener Frist ein und teilt rechtzeitig, in der Regel mindestens 7 Tage vor dem Sitzungstag (grundsätzlich zugleich mit der Einberufung) die Verhandlungsgegenstände mit. Der Kreistag ist einzuberufen, wenn es die Geschäftslage erfordert. Der Kreistag ist unverzüglich einzuberufen, wenn es ein Viertel der Kreisräte unter Angabe des Verhandlungsgegenstands beantragt. Auf Antrag einer Fraktion oder eines Sechstels der Kreisräte ist ein Verhandlungsgegenstand auf die Tagesordnung der nächsten Sitzung des Kreistags zu setzen. Die Verhandlungsgegenstände müssen zum Aufgabengebiet des Kreistags gehören. Sätze 3 und 4 gelten nicht, wenn der Kreistag den gleichen Verhandlungsgegenstand innerhalb der letzten sechs Monate bereits behandelt hat.
 
@@ -67,7 +59,7 @@ Die Kreisräte sitzen nach ihrer Fraktionszugehörigkeit. Kommt eine Einigung ni
 
 (3) Zeit, Ort und Tagesordnung der öffentlichen Sitzungen sind rechtzeitig in den Tageszeitungen des Landkreises bekanntzugeben.
 
-## § 5 Teilnahmepflicht, Sitzungsdauer
+### § 5 Teilnahmepflicht, Sitzungsdauer
 
 (1) Die Kreisräte sind verpflichtet an den Sitzungen des Kreistags teilzunehmen. Die an der Teilnahme verhinderten Kreisräte haben dies dem Vorsitzenden unter Angabe der Gründe unverzüglich mitzuteilen.
 
@@ -75,7 +67,7 @@ Die Kreisräte sitzen nach ihrer Fraktionszugehörigkeit. Kommt eine Einigung ni
 
 (3) Das vorzeitige Verlassen der Sitzung ist unter Angabe der Gründe dem Vorsitzenden zur Kenntnis zu bringen.
 
-## § 6 Weitere Teilnehmer
+### § 6 Weitere Teilnehmer
 
 (1) Der Vorsitzende kann sachkundige Kreiseinwohner und Sachverständige zu den Beratungen einzelner Angelegenheiten zuziehen.
 
@@ -87,13 +79,13 @@ b) die Leiter der unteren Sonderbehörden und der sonstigen Körperschaften, Beh
 
 c) die leitenden Beamten und Angestellten des Landratsamts.
 
-## § 7 Änderung der Tagesordnung
+### § 7 Änderung der Tagesordnung
 
 Änderungen in der Reihenfolge der Tagesordnung oder Absetzung einzelner Punkte von der Tagesordnung beschließt der Kreistag.
 
 Der Landrat kann in dringenden Fällen die Tagesordnung nachträglich erweitern. Bei öffentlichen Sitzungen ist dies jedoch nur möglich, solange die Nachträge noch rechtzeitig öffentlich bekanntgemacht werden können.
 
-## § 8 Vortrag und Aussprache
+### § 8 Vortrag und Aussprache
 
 (1) Der Vorsitzende trägt die Verhandlungsgegenstände vor, soweit er hierzu nicht einen Berichterstatter bestimmt.
 
@@ -105,7 +97,7 @@ Der Landrat kann in dringenden Fällen die Tagesordnung nachträglich erweitern.
 
 (5) Der Vorsitzende kann Redner, die nicht bei der Sache bleiben oder sich fortwährend wiederholen, "zur Sache" verweisen. Er kann Redner und Zwischenrufer, die sich unsachlich äußern oder die Ordnung der Sitzung stören, "zur Ordnung" rufen.
 
-## § 9 Stimmordnung bei Wahlen und Abstimmungen
+### § 9 Stimmordnung bei Wahlen und Abstimmungen
 
 (1) Liegen Anträge zur Geschäftsordnung und zur Sache vor, so wird zunächst über die Anträge zur Geschäftsordnung abgestimmt. Bei mehreren Anträgen wird zunächst über den Weitestgehenden abgestimmt. Kommt eine Einigung darüber, welcher der weitestgehende ist, nicht zustande, ist die zeitliche Reihenfolge der Antragsteller maßgebend.
 
@@ -117,17 +109,17 @@ Der Landrat kann in dringenden Fällen die Tagesordnung nachträglich erweitern.
 
 (5) Die Zählung der Stimmen bei geheimen Abstimmungen und geheimen Wahlen nimmt der Vorsitzende unter Zuziehung eines Kreisrates je Fraktion oder von Bediensteten des Landratsamts vor.
 
-## § 10 Anfragen
+### § 10 Anfragen
 
 Mündliche Anfragen über Gegenstände, die nicht auf der Tagesordnung stehen, können am Schluss der Sitzung vorgebracht werden. Die Beantwortung dieser sowie schriftlicher Anfragen kann in einer Sitzung des Kreistags oder schriftlich erfolgen.
 
-## § 10 a Fragestunde, Anhörung
+### § 10 a Fragestunde, Anhörung
 
 (1) Der Kreistag kann bei öffentlichen Sitzungen Kreiseinwohnern und den ihnen gleichgestellten Personen und Personenvereinigungen nach § 16 Abs. 2 und 3 der Landkreisordnung die Möglichkeit einräumen, Fragen zu Angelegenheiten des Landkreises zu stellen oder Anregungen und Vorschläge zu unterbreiten (Fragestunde). Die Fragestunde muss auf der Tagesordnung stehen. Eine spontane Einbeziehung von Zuhörern in Beratungen des Kreistags ist unzulässig. Der Kreistag kann die Redezeit und die Dauer der Fragestunde begrenzen. Die Stellungnahme des Vorsitzenden kann in einer Sitzung des Kreistags, schriftlich oder in elektronischer Form erfolgen. Eine Aussprache findet nicht statt.
 
 (2) Der Kreistag kann Personen und Personengruppen, die von Gegenständen der Tagesordnung betroffen sind, Gelegenheit geben, ihre Auffassung im Kreistag vorzutragen (Anhörung). Der Kreistag kann die Redezeit und die Dauer der Anhörung begrenzen. Im Übrigen findet § 8 Abs. 5 Anwendung.
 
-## § 11 Hausrecht
+### § 11 Hausrecht
 
 Der Vorsitzende handhabt die Ordnung und übt das Hausrecht aus.
 
@@ -149,7 +141,7 @@ Dabei stehen ihm insbesondere folgende Mittel zur Verfügung:
    
    c) Entfernung aus dem Sitzungsraum.
 
-## § 12 Niederschrift
+### § 12 Niederschrift
 
 (1) Über den wesentlichen Inhalt der Verhandlungen des Kreistags ist eine fortlaufende Niederschrift zu fertigen.
 
@@ -157,11 +149,11 @@ Dabei stehen ihm insbesondere folgende Mittel zur Verfügung:
 
 (3) Die Niederschrift über die öffentliche und nichtöffentliche Sitzung wird den Kreisräten durch Auflegen in der nächsten Kreistagssitzung bekannt gegeben.
 
-## § 13 Geschäftsordnung der Ausschüsse
+### § 13 Geschäftsordnung der Ausschüsse
 
 Diese Geschäftsordnung findet auf die beschließenden und die beratenden Ausschüsse sinngemäß Anwendung.
 
-## § 14 Inkrafttreten
+### § 14 Inkrafttreten
 
 Diese Geschäftsordnung tritt am 1.9.1974 in Kraft. Gleichzeitig wird die Geschäftsordnung vom 30. Juni 1969, geändert am 26. November 1971, außer Kraft gesetzt. *)
 

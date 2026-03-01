@@ -2,8 +2,8 @@
 titel: Tarif für die Benutzung kreiseigener Einrichtungen des Landkreises Göppingen (Entgeltordnung)
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 01.01.2021
@@ -11,32 +11,11 @@ gueltig_ab: 2021-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Entgeltordnung
-  - kreiseigene Einrichtungen
-  - Kreishochbauamt
-  - Kreisarchivar
-  - Gemeindearchivpfleger
-  - Forstamt Göppingen
-  - Holzverkaufsstelle
-  - Privatwaldbetreuung
-  - Schulentgelt
-  - Benutzungsentgelt
-  - Kreiskasse
-fragen:
-  - "Was kostet die Inanspruchnahme des Kreisarchivars im Landkreis Göppingen?"
-  - "Was kostet die Inanspruchnahme des Gemeindearchivpflegers?"
-  - "Welche Entgelte erhebt das Forstamt des Landkreises Göppingen für Privatwaldbetreuung?"
-  - "Was kostet die Inanspruchnahme des Kreishochbauamts?"
-querverweise:
-  - Satzung über die Erhebung von Gebühren für öffentliche Leistungen des Landkreises Göppingen (Verwaltungsgebührensatzung)
-  - Archivordnung des Landkreises Göppingen
 ---
-# Tarif für die Benutzung kreiseigener Einrichtungen
 
 **Gültig ab 1. Januar 2021**
 
-## A. Allgemeine Geschäftsbedingungen
+### A. Allgemeine Geschäftsbedingungen
 
 für die Benutzung kreiseigener Einrichtungen nach dem Beschluss des Kreistags vom 01.01.2021:
 
@@ -60,7 +39,7 @@ für die Benutzung kreiseigener Einrichtungen nach dem Beschluss des Kreistags v
 
 Diese Regelung tritt am 1. Januar 2021 in Kraft.
 
-## B. Verzeichnis: Benutzung kreiseigener Einrichtungen
+### B. Verzeichnis: Benutzung kreiseigener Einrichtungen
 
 ### Nr. 1 - Inanspruchnahme des Kreishochbauamts
 
@@ -88,11 +67,11 @@ je angefangene Stunde der Inanspruchnahme, pauschal: 58,00 €
 
 ### Nr. 4 - Inanspruchnahme des Forstamtes und der Holzverkaufsstelle des Landkreises Göppingen
 
-#### 4.1 Privatwaldbetreuung
+### 4.1 Privatwaldbetreuung
 
 Die Ordnungsziffern richten sich nach der Privatwaldverordnung vom 01.01.2020 (PWaldVO).
 
-##### 4.1.1 Fallweise Betreuung ≤ 50 ha | 52,50 €/Std.
+### 4.1.1 Fallweise Betreuung ≤ 50 ha | 52,50 €/Std.
 
 **I. Betriebsvollzug – Revierleitung**
 
@@ -119,7 +98,7 @@ Die Ordnungsziffern richten sich nach der Privatwaldverordnung vom 01.01.2020 (P
 17. Vergabe von Betriebsarbeiten (nur in Verbindung mit 6.1-6.8)
 18. Beschaffungswesen (nur in Verbindung mit 6.1-6.8)
 
-##### 4.1.2 Vertragliche Holzernte ≥ 30 ha | 52,50 €/Std.
+### 4.1.2 Vertragliche Holzernte ≥ 30 ha | 52,50 €/Std.
 
 **I. Betriebsvollzug – Revierleitung**
 
@@ -135,14 +114,14 @@ Die Ordnungsziffern richten sich nach der Privatwaldverordnung vom 01.01.2020 (P
 9. Holzaufnahme: sonst. Aufnahme
 10. Holzlistenerstellung
 
-##### 4.1.3 Waldinspektionsvertrag ≥ 2 - < 30 ha | 52,50 €/Std.
+### 4.1.3 Waldinspektionsvertrag ≥ 2 - < 30 ha | 52,50 €/Std.
 
 2.6 Waldinspektionsbericht  
 3.5 Vollzug Waldinspektionsvertrag
 
 Die Abrechnung der Verträge zur ständigen Betreuung des Privatwaldes erfolgt für alle Betreuungskomponenten aus den Modulen Planung und Vollzugsnachweisen nach § 4 Abs. 2 Nr. 1 und Betriebsvollzug nach § 4 Abs. 2 Nr. 2 PWaldVO über ein flächenbezogenes Entgelt.
 
-##### 4.1.4 Ständige Betreuung ≥ 30 < 100 ha | 59,00 €/ha
+### 4.1.4 Ständige Betreuung ≥ 30 < 100 ha | 59,00 €/ha
 
 **I. Planung und Vollzugsnachweise**
 
@@ -186,7 +165,7 @@ Die Abrechnung der Verträge zur ständigen Betreuung des Privatwaldes erfolgt f
 17. Vergabe von Betriebsarbeiten
 18. Beschaffungswesen
 
-##### 4.1.5 Ständige Betreuung > 100 ha | 59,00 €/ha
+### 4.1.5 Ständige Betreuung > 100 ha | 59,00 €/ha
 
 **I. Planung und Vollzugsnachweise**
 
@@ -233,7 +212,7 @@ Die Abrechnung der Verträge zur ständigen Betreuung des Privatwaldes erfolgt f
 17. Vergabe von Betriebsarbeiten
 18. Beschaffungswesen
 
-#### 4.2 Kommunalwaldbetreuung
+### 4.2 Kommunalwaldbetreuung
 
 Die Abrechnung der Verträge für Tätigkeiten im forstlichen Revierdienst im Körperschaftswald erfolgt nach § 7 Körperschaftswaldverordnung (KWaldVO).
 
@@ -245,9 +224,9 @@ Der vom Land Baden-Württemberg gewährte Mehrbelastungsausgleich für die erhö
 **II. Betriebsvollzug – Revierleitung**  
 **III. Wirtschaftsverwaltung**
 
-#### 4.3 Inanspruchnahme der Holzverkaufsstelle des Landkreises Göppingen
+### 4.3 Inanspruchnahme der Holzverkaufsstelle des Landkreises Göppingen
 
-##### 4.3.1 Holzverkauf
+### 4.3.1 Holzverkauf
 
 | Position | Entgelt |
 |----------|---------|
@@ -256,7 +235,7 @@ Der vom Land Baden-Württemberg gewährte Mehrbelastungsausgleich für die erhö
 | III. Haushaltstechnische Abwicklung von Gemeinschaftsverkäufen (GEHO-Verfahren) | 0,50 € Fm (optional) |
 | IV. Einpflegen in Submissionsverzeichnisse | 1,00 €/Fm (optional) |
 
-##### 4.3.2 Wirtschaftsverwaltung
+### 4.3.2 Wirtschaftsverwaltung
 
 | Position | Entgelt |
 |----------|---------|

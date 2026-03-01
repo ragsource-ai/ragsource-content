@@ -2,10 +2,10 @@
 titel: Satzung über die Erhebung der Grund- und Gewerbesteuer der Gemeinde Bad Boll (Hebesatzsatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,32 +15,19 @@ gueltig_ab: 2025-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Grundsteuer
-  - Gewerbesteuer
-  - Hebesatz
-  - Grundsteuer A
-  - Grundsteuer B
-  - Steuermessbetrag
-  - Grundsteuerreform
-  - Landesgrundsteuergesetz
-  - Gewerbesteuergesetz
-  - Steuerhebesatz
-fragen:
-  - "Wie hoch ist die Grundsteuer B in Bad Boll?"
-  - "Wie hoch ist die Gewerbesteuer in Bad Boll?"
-  - "Wann wird die Grundsteuer in Bad Boll fällig?"
-  - "Wie hoch ist die Grundsteuer A für land- und forstwirtschaftliche Betriebe in Bad Boll?"
-  - "Welcher Hebesatz gilt für die Gewerbesteuer in Bad Boll?"
-querverweise:
-  - Satzung über die Erhebung von Verwaltungsgebühren der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL - Hebesatzsatzung
+## Inhaltsverzeichnis
+
+- § 1 Steuererhebung
+- § 2 Steuerhebesätze
+- § 3 Geltungsdauer
+- § 4 Grundsteuerkleinbeträge
+- § 5 Inkrafttreten
 
 **Stand:** Januar 2025
 
-## Satzung über die Erhebung der Grund- und Gewerbesteuer (Hebesatzsatzung)
+### Satzung über die Erhebung der Grund- und Gewerbesteuer (Hebesatzsatzung)
 
 Auf Grund von § 4 der Gemeindeordnung und §§ 2 und 9 des Kommunalabgabengesetzes für Baden-Württemberg in Verbindung mit §§ 1, 50 und 52 des Landesgrundsteuergesetzes für Baden-Württemberg und §§ 1, 4 und 16 des Gewerbesteuergesetzes hat der Gemeinderat der Gemeinde Bad Boll am 26. September 2024 folgende Satzung beschlossen:
 
@@ -80,7 +67,7 @@ Diese Satzung tritt am 01.01.2025 in Kraft. Gleichzeitig tritt die Satzung über
 
 ---
 
-## Hinweis
+### Hinweis
 
 Eine etwaige Verletzung von Verfahrens- oder Formvorschriften der Gemeindeordnung für Baden-Württemberg (GemO) oder aufgrund der GemO beim Zustandekommen dieser Satzung wird nach § 4 Abs. 4 GemO unbeachtlich, wenn sie nicht schriftlich oder elektronisch innerhalb eines Jahres seit der Bekanntmachung dieser Satzung gegenüber der Gemeinde geltend gemacht worden ist; der Sachverhalt, der die Verletzung begründen soll, ist zu bezeichnen. Dies gilt nicht, wenn die Vorschriften über die Öffentlichkeit der Sitzung, die Genehmigung oder die Bekanntmachung der Satzung verletzt worden sind.
 

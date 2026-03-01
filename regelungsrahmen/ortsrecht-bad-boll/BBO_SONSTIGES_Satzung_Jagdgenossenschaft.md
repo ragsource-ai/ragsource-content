@@ -2,10 +2,10 @@
 titel: Satzung der Jagdgenossenschaft Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,37 +15,37 @@ gueltig_ab: 2021-11-30
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Jagdgenossenschaft
-  - Jagdrecht
-  - Jagdbezirk
-  - Jagdgenossen
-  - JWMG
-  - Jagd- und Wildtiermanagementgesetz
-  - Jagdverpachtung
-  - Wildschadensersatz
-  - Abschussplan
-  - gemeinschaftlicher Jagdbezirk
-  - Jagdbeirat
-fragen:
-  - "Wer ist Mitglied der Jagdgenossenschaft Bad Boll?"
-  - "Wie wird die Jagd in Bad Boll verwaltet?"
-  - "Wer entscheidet über die Vergabe des Jagdrechts in Bad Boll?"
-  - "Wie bekomme ich als Grundstückseigentümer meinen Anteil aus der Jagdverpachtung?"
-  - "Wer zahlt bei Wildschäden auf meinem Grundstück?"
-  - "Welche Aufgaben hat der Jagdbeirat?"
-querverweise:
-  - Hauptsatzung der Gemeinde Bad Boll
-  - Geschäftsordnung des Gemeinderates der Gemeinde Bad Boll
 ---
 
-# Satzung der Jagdgenossenschaft Bad Boll
+## Inhaltsverzeichnis
+
+- § 1 Name und Sitz
+- § 2 Hinweis zur Verwendung weiblicher und männlicher Formulierungen
+- § 3 Mitgliedschaft
+- § 4 Aufgaben
+- § 5 Organe
+- § 6 Versammlung der Jagdgenossen
+- § 7 Stimmrecht und Beschlussfassung der Jagdgenossen
+- § 8 Sitzungsniederschrift
+- § 9 Aufgaben der Versammlung der Jagdgenossen
+- § 10 Gemeinderat
+- § 11 Aufgaben des Gemeinderats
+- § 12 Jagdbeirat
+- § 13 Verzeichnis der Jagdgenossen (Jagdkataster)
+- § 14 Verfahren bei der Jagdverpachtung
+- § 15 Abschussplanung
+- § 16 Anteil an Nutzungen und Lasten
+- § 17 Verwendung des Reinertrags
+- § 18 Haushalts-, Kassen- und Rechnungswesen sowie Kassen- und Rechnungsprüfung
+- § 18a Umlage
+- § 19 Wirtschaftsjahr
+- § 20 Bekanntmachungen
 
 **Stand:** November 2021
 
 Auf Grund von § 15 Abs. 4 Jagd- und Wildtiermanagementgesetz vom 25. November 2014 (GBl. S. 550), zuletzt geändert durch Artikel 1 des Gesetzes vom 24. Juni 2020 (GBl. S. 421), sowie § 1 der Verordnung des Ministeriums für Ländlichen Raum und Verbraucherschutz zur Durchführung des Jagd- und Wildtiermanagementgesetzes (DVO JWMG) vom 2. April 2015 (GBl. S. 202) hat die Versammlung der Jagdgenossenschaft am 30.11.2021 folgende
 
-## Satzung
+### Satzung
 
 beschlossen:
 

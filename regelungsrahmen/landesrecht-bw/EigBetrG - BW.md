@@ -1,39 +1,37 @@
 ---
-titel: "Eigenbetriebsgesetz Baden-Württemberg (EigBG)"
+titel: Eigenbetriebsgesetz Baden-Württemberg (EigBG)
 ebene: land
 saule: regelungsrahmen
-land_ars: "08"
+land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz in der Fassung der Bekanntmachung vom 08.01.1992, zuletzt geändert durch Artikel 3 des Gesetzes vom 12.11.2024 (GBl. 2024 Nr. 98)
 gueltig_ab: 1992-01-08
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - EigBG
-  - Eigenbetriebsgesetz
-  - Eigenbetrieb
-  - kommunaler Eigenbetrieb
-  - Betriebsleitung
-  - Betriebssatzung
-  - Betriebsausschuss
-  - Wirtschaftsplan
-  - Jahresabschluss
-  - kommunale Unternehmen
-  - Gemeindewirtschaft
-fragen:
-  - "Was ist ein Eigenbetrieb der Gemeinde?"
-  - "Wie wird eine Betriebsleitung für einen Eigenbetrieb bestellt?"
-  - "Welche Aufgaben hat der Betriebsausschuss?"
-  - "Was muss in der Betriebssatzung eines Eigenbetriebs geregelt sein?"
-  - "Wie wird der Wirtschaftsplan eines Eigenbetriebs aufgestellt?"
-  - "Wer prüft den Jahresabschluss eines kommunalen Eigenbetriebs?"
-querverweise:
-  - Gemeindeordnung für Baden-Württemberg (GemO BW) – Teil 3 Abschnitt 3: Unternehmen und Beteiligungen
-  - Kommunalabgabengesetz Baden-Württemberg (KAG BW)
 ---
 
-# Gesetz über die Eigenbetriebe der Gemeinden (Eigenbetriebsgesetz - EigBG)
+## Inhaltsverzeichnis
+
+- § 1 Anwendungsbereich
+- § 2 Zusammenfassung von Unternehmen, Einrichtungen und Hilfsbetrieben
+- § 3 Rechtsgrundlagen
+- § 4 Betriebsleitung
+- § 5 Aufgaben der Betriebsleitung
+- § 6 Vertretungsberechtigung der Betriebsleitung
+- § 7 Betriebsausschuß
+- § 8 Aufgaben des Betriebsausschusses
+- § 9 Aufgaben des Gemeinderats
+- § 10 Stellung des Bürgermeisters
+- § 11 Bedienstete beim Eigenbetrieb
+- § 12 Vermögen des Eigenbetriebs
+- § 13 Wirtschaftsjahr
+- § 14 Wirtschaftsplan und Finanzplanung
+- § 15 Änderung und Ausführung des Wirtschaftsplans
+- § 16 Jahresabschluß und Lagebericht
+- § 17 Aufbau des Rechnungswesens
+- § 18 Durchführungsbestimmungen
+- § 19 Übergangsregelungen
 
 in der Fassung der Bekanntmachung vom 8. Januar 1992
 
@@ -41,27 +39,26 @@ Zum 22.01.2026 aktuellste verfügbare Fassung der Gesamtausgabe
 
 Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 3 des Gesetzes vom 12. November 2024 (GBl. 2024 Nr. 98)
 
----
 
-# 1. ABSCHNITT - Grundsätzliche Bestimmungen
+## 1. ABSCHNITT - Grundsätzliche Bestimmungen
 
-## § 1 Anwendungsbereich
+### § 1 Anwendungsbereich
 
 Die Gemeinden können Unternehmen, Einrichtungen und Hilfsbetriebe im Sinne des § 102 Abs. 1 und Abs. 4 Satz 1 Nr. 1 bis 3 der Gemeindeordnung als Eigenbetriebe führen, wenn deren Art und Umfang eine selbständige Wirtschaftsführung rechtfertigen.
 
-## § 2 Zusammenfassung von Unternehmen, Einrichtungen und Hilfsbetrieben
+### § 2 Zusammenfassung von Unternehmen, Einrichtungen und Hilfsbetrieben
 
 Mehrere Unternehmen, Einrichtungen und Hilfsbetriebe im Sinne des § 1 können zu einem Eigenbetrieb zusammengefaßt werden.
 
-## § 3 Rechtsgrundlagen
+### § 3 Rechtsgrundlagen
 
 (1) Für den Eigenbetrieb gelten die Vorschriften der Gemeindeordnung sowie die sonstigen für Gemeinden maßgebenden Vorschriften, soweit in diesem Gesetz oder auf Grund dieses Gesetzes durch Rechtsverordnung nichts anderes bestimmt ist.
 
 (2) Die Rechtsverhältnisse des Eigenbetriebs sind im Rahmen der in Absatz 1 genannten Vorschriften durch Betriebssatzung zu regeln. In ihr sind unbeschadet des § 11 Abs. 1 auch solche Angelegenheiten des Eigenbetriebs zu regeln, die nach der Gemeindeordnung der Hauptsatzung vorbehalten sind. § 4 Abs. 2 der Gemeindeordnung gilt sinngemäß.
 
-# 2. ABSCHNITT - Verfassung und Verwaltung
+## 2. ABSCHNITT - Verfassung und Verwaltung
 
-## § 4 Betriebsleitung
+### § 4 Betriebsleitung
 
 (1) Für den Eigenbetrieb kann eine Betriebsleitung bestellt werden. Die Betriebssatzung kann bestimmen, daß die Betriebsleitung eine andere Bezeichnung führt.
 
@@ -71,7 +68,7 @@ Mehrere Unternehmen, Einrichtungen und Hilfsbetriebe im Sinne des § 1 können z
 
 (4) Die Geschäftsverteilung innerhalb der Betriebsleitung regelt der Bürgermeister mit Zustimmung des Betriebsausschusses durch eine Geschäftsordnung.
 
-## § 5 Aufgaben der Betriebsleitung
+### § 5 Aufgaben der Betriebsleitung
 
 (1) Die Betriebsleitung leitet den Eigenbetrieb, soweit in diesem Gesetz oder auf Grund dieses Gesetzes nichts anderes bestimmt ist. Ihr obliegt insbesondere die laufende Betriebsführung. Im Rahmen ihrer Zuständigkeit ist sie für die wirtschaftliche Führung des Eigenbetriebs verantwortlich.
 
@@ -79,7 +76,7 @@ Mehrere Unternehmen, Einrichtungen und Hilfsbetriebe im Sinne des § 1 können z
 
 (3) Die Betriebsleitung hat den Bürgermeister über alle wichtigen Angelegenheiten des Eigenbetriebs rechtzeitig zu unterrichten. Sie hat ferner dem Fachbediensteten für das Finanzwesen oder dem sonst für das Finanzwesen der Gemeinde zuständigen Bediensteten (§ 116 der Gemeindeordnung) alle Maßnahmen mitzuteilen, welche die Finanzwirtschaft der Gemeinde berühren. Näheres ist durch Betriebssatzung zu regeln.
 
-## § 6 Vertretungsberechtigung der Betriebsleitung
+### § 6 Vertretungsberechtigung der Betriebsleitung
 
 (1) Die Betriebsleitung vertritt die Gemeinde im Rahmen ihrer Aufgaben. Besteht die Betriebsleitung aus mehreren Betriebsleitern, sind zwei von ihnen gemeinschaftlich vertretungsberechtigt, soweit die Betriebssatzung nichts anderes bestimmt.
 
@@ -91,7 +88,7 @@ Mehrere Unternehmen, Einrichtungen und Hilfsbetriebe im Sinne des § 1 können z
 
 (5) Sind in Angelegenheiten des Eigenbetriebs Erklärungen Dritter gegenüber der Gemeinde abzugeben, genügt die Abgabe gegenüber einem Betriebsleiter.
 
-## § 7 Betriebsausschuß
+### § 7 Betriebsausschuß
 
 (1) Für die Angelegenheiten des Eigenbetriebs kann ein beratender oder beschließender Ausschuß des Gemeinderats (Betriebsausschuß) gebildet werden. Die Betriebssatzung kann bestimmen, daß der Betriebsausschuß eine andere Bezeichnung führt.
 
@@ -99,7 +96,7 @@ Mehrere Unternehmen, Einrichtungen und Hilfsbetriebe im Sinne des § 1 können z
 
 (3) Die Betriebsleitung ist auf Verlangen verpflichtet, zu den Beratungsgegenständen des Betriebsausschusses Stellung zu nehmen und Auskünfte zu erteilen.
 
-## § 8 Aufgaben des Betriebsausschusses
+### § 8 Aufgaben des Betriebsausschusses
 
 (1) Der Betriebsausschuß berät alle Angelegenheiten des Eigenbetriebs vor, die der Entscheidung des Gemeinderats vorbehalten sind.
 
@@ -119,7 +116,7 @@ Mehrere Unternehmen, Einrichtungen und Hilfsbetriebe im Sinne des § 1 können z
 3. Aufgaben nach Absatz 2 Nr. 4 bis 6 der Entscheidung des Gemeinderats vorbehalten,
 4. bestimmen, daß der Betriebsausschuß in bestimmten Angelegenheiten andere Ausschüsse zu beteiligen hat.
 
-## § 9 Aufgaben des Gemeinderats
+### § 9 Aufgaben des Gemeinderats
 
 (1) Der Gemeinderat entscheidet unbeschadet seiner Zuständigkeit in den Fällen des § 39 Abs. 2 der Gemeindeordnung über
 
@@ -131,7 +128,7 @@ Eine Übertragung dieser Aufgaben auf beschließende Ausschüsse ist ausgeschlos
 
 (2) Ist für den Eigenbetrieb kein beschließender Betriebsausschuß gebildet, entscheidet der Gemeinderat auch in den nach diesem Gesetz dem beschließenden Betriebsausschuß obliegenden Angelegenheiten, soweit diese nicht durch Betriebssatzung auf andere beschließende Ausschüsse übertragen werden. Aufgaben nach § 8 Abs. 2 Nr. 1 bis 3 können durch Betriebssatzung auch auf den Bürgermeister oder die Betriebsleitung ganz oder teilweise übertragen werden.
 
-## § 10 Stellung des Bürgermeisters
+### § 10 Stellung des Bürgermeisters
 
 (1) Der Bürgermeister kann der Betriebsleitung Weisungen erteilen, um die Einheitlichkeit der Gemeindeverwaltung zu wahren, die Erfüllung der Aufgaben des Eigenbetriebs zu sichern und Mißstände zu beseitigen.
 
@@ -139,7 +136,7 @@ Eine Übertragung dieser Aufgaben auf beschließende Ausschüsse ist ausgeschlos
 
 (3) Ist für den Eigenbetrieb keine Betriebsleitung bestellt, nimmt der Bürgermeister auch die nach diesem Gesetz der Betriebsleitung obliegenden Aufgaben wahr.
 
-## § 11 Bedienstete beim Eigenbetrieb
+### § 11 Bedienstete beim Eigenbetrieb
 
 (1) Die Zuständigkeit für die Ernennung und Entlassung der beim Eigenbetrieb beschäftigten Beamten richtet sich nach den Vorschriften der Gemeindeordnung.
 
@@ -151,9 +148,9 @@ Eine Übertragung dieser Aufgaben auf beschließende Ausschüsse ist ausgeschlos
 
 (5) Die Betriebsleitung ist Vorgesetzter, der Bürgermeister Dienstvorgesetzter und oberste Dienstbehörde der beim Eigenbetrieb beschäftigten Bediensteten.
 
-# 3. ABSCHNITT - Wirtschaftsführung und Rechnungswesen
+## 3. ABSCHNITT - Wirtschaftsführung und Rechnungswesen
 
-## § 12 Vermögen des Eigenbetriebs
+### § 12 Vermögen des Eigenbetriebs
 
 (1) Der Eigenbetrieb ist finanzwirtschaftlich als Sondervermögen der Gemeinde gesondert zu verwalten und nachzuweisen. Dabei sind die Belange der gesamten Gemeindewirtschaft zu berücksichtigen.
 
@@ -163,11 +160,11 @@ Eine Übertragung dieser Aufgaben auf beschließende Ausschüsse ist ausgeschlos
 
 (4) Für das Sondervermögen gelten aus dem Dritten Teil, 1. Abschnitt der Gemeindeordnung § 77 Absätze 1 und 2, §§ 78, 81 Absatz 2, §§ 83, 86 und § 87 Absatz 1 mit der Maßgabe, dass Kredite auch für die Rückführung von Eigenkapital an die Gemeinde aufgenommen werden dürfen, § 87 Absätze 2 bis 6, §§ 88, 89, 91 und 92 entsprechend.
 
-## § 13 Wirtschaftsjahr
+### § 13 Wirtschaftsjahr
 
 Wirtschaftsjahr des Eigenbetriebs ist das Haushaltsjahr der Gemeinde. Wenn die Art des Betriebs es erfordert, kann die Betriebssatzung ein hiervon abweichendes Wirtschaftsjahr bestimmen.
 
-## § 14 Wirtschaftsplan und Finanzplanung
+### § 14 Wirtschaftsplan und Finanzplanung
 
 (1) Für jedes Wirtschaftsjahr ist vor dessen Beginn ein Wirtschaftsplan aufzustellen. Der Wirtschaftsplan kann für zwei Wirtschaftsjahre, nach Jahren getrennt, aufgestellt werden. Er besteht aus dem Erfolgsplan, dem Liquiditätsplan mit Investitionsprogramm und der Stellenübersicht. Dem Wirtschaftsplan ist eine fünfjährige Finanzplanung zu Grunde zu legen.
 
@@ -189,7 +186,7 @@ Wirtschaftsjahr des Eigenbetriebs ist das Haushaltsjahr der Gemeinde. Wenn die A
 
 (4) Der Finanzplan ist mit dem Investitionsprogramm dem Gemeinderat spätestens mit dem Entwurf des Wirtschaftsplans vorzulegen und vom Gemeinderat spätestens mit dem Wirtschaftsplan zu beschließen.
 
-## § 15 Änderung und Ausführung des Wirtschaftsplans
+### § 15 Änderung und Ausführung des Wirtschaftsplans
 
 (1) Der Wirtschaftsplan ist zu ändern, wenn sich im Laufe des Wirtschaftsjahres zeigt, daß trotz Ausnutzung von Sparmöglichkeiten
 
@@ -202,7 +199,7 @@ Für die Änderung des Wirtschaftsplans gelten die Vorschriften für den Wirtsch
 
 (2) Erfolgsgefährdende Mehraufwendungen des Erfolgsplans bedürfen der Zustimmung des Betriebsausschusses, sofern sie nicht unabweisbar sind. Das gleiche gilt für erhebliche Mehrausgaben bei einzelnen Investitionsvorhaben, sofern sie nicht unabweisbar sind.
 
-## § 16 Jahresabschluß und Lagebericht
+### § 16 Jahresabschluß und Lagebericht
 
 (1) Die Betriebsleitung hat für den Schluß eines jeden Wirtschaftsjahres einen aus der Bilanz, der Erfolgsrechnung, der Liquiditätsrechnung und dem Anhang bestehenden Jahresabschluß sowie einen Lagebericht aufzustellen.
 
@@ -215,13 +212,13 @@ Für die Änderung des Wirtschaftsplans gelten die Vorschriften für den Wirtsch
 
 (4) Der Beschluß über die Feststellung des Jahresabschlusses ist ortsüblich bekanntzugeben. In der ortsüblichen Bekanntgabe ist im Falle einer Jahresabschlußprüfung der Prüfungsvermerk des Abschlußprüfers anzugeben; ferner ist dabei die nach Absatz 3 Satz 2 beschlossene Verwendung des Jahresgewinns oder die Behandlung des Jahresverlusts anzugeben. Gleichzeitig sind der Jahresabschluss und der Lagebericht bis zur ortsüblichen Bekanntgabe der Feststellung des folgenden Jahresabschlusses öffentlich zugänglich zu machen. Dies soll durch elektronische Bereitstellung auf der Internetseite der Gemeinde oder der Körperschaft, der die Aufgaben im Wege einer Verwaltungsvereinbarung übertragen wurden, bewirkt werden. Anderenfalls sind der Jahresabschluss und der Lagebericht an sieben Tagen öffentlich auszulegen und danach bis zur ortsüblichen Bekanntgabe des folgenden Jahresabschlusses zur Einsichtnahme verfügbar zu halten. In der Bekanntmachung ist auf die jeweilige Möglichkeit zur Einsichtnahme hinzuweisen, im Fall der elektronischen Bereitstellung unter Nennung der genauen Internetadresse.
 
-## § 17 Aufbau des Rechnungswesens
+### § 17 Aufbau des Rechnungswesens
 
 Alle Zweige des Rechnungswesens des Eigenbetriebs (Wirtschaftsplan, Buchführung, Kostenrechnung, Jahresabschluß, Lagebericht) sollen zusammengefaßt verwaltet und, wenn die Betriebsleitung aus mehreren Betriebsleitern besteht, dem Geschäftskreis eines Betriebsleiters zugeteilt werden.
 
-# 4. ABSCHNITT - Übergangs- und Schlußbestimmungen
+## 4. ABSCHNITT - Übergangs- und Schlußbestimmungen
 
-## § 18 Durchführungsbestimmungen
+### § 18 Durchführungsbestimmungen
 
 (1) Das Innenministerium erläßt die Verwaltungsvorschriften zur Durchführung dieses Gesetzes, ferner Rechtsverordnungen über
 
@@ -234,7 +231,7 @@ Alle Zweige des Rechnungswesens des Eigenbetriebs (Wirtschaftsplan, Buchführung
 
 (2) Das Innenministerium kann durch Rechtsverordnung die Wirtschaftsführung und das Rechnungswesen der nach § 38 Abs. 2 Nr. 1 des Landeskrankenhausgesetzes geführten Krankenhäuser und der Pflegeeinrichtungen bestimmen.
 
-## § 19 Übergangsregelungen
+### § 19 Übergangsregelungen
 
 (1) Für Wirtschaftsjahre, die vor dem 1. Januar 2023 beginnen, kann der Wirtschaftsplan nach dem bis zum Inkrafttreten des Gesetzes zur Änderung des Eigenbetriebsgesetzes, des Gesetzes über kommunale Zusammenarbeit und der Gemeindeordnung vom 17. Juni 2020 (GBl. S. 401, 403) geltenden Recht aufgestellt werden. Der Jahresabschluss muss auf der Basis des gleichen Rechtsstands wie die Wirtschaftsplanung erfolgen.
 

@@ -2,10 +2,10 @@
 titel: Benutzungsordnung für den Grünmassesammelplatz der Gemeinde Bad Boll (Grünmassesammelplatzordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,36 +15,23 @@ gueltig_ab: 2017-05-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Grünmassesammelplatz
-  - Grünmasse
-  - Kompostplatz
-  - Gartenabfälle
-  - Grünschnitt
-  - Strauchschnitt
-  - Häckseln
-  - Grüngut
-  - Biomüll
-  - Pflanzenabfälle
-  - Kompostierung
-fragen:
-  - "Wer darf den Grünmassesammelplatz in Bad Boll nutzen?"
-  - "Was darf ich am Grünmassesammelplatz anliefern?"
-  - "Was ist am Grünmassesammelplatz verboten?"
-  - "Kostet die Nutzung des Grünmassesammelplatzes etwas?"
-  - "Darf ich als Gartenbauer Grünmasse beim Sammelplatz anliefern?"
-querverweise:
-  - Satzung über die öffentliche Abwasserbeseitigung (Abwassersatzung) der Gemeinde Bad Boll
 ---
 
-# Benutzungsordnung für den Grünmassesammelplatz der Gemeinde Bad Boll (Grünmassesammelplatzordnung)
+## Inhaltsverzeichnis
+
+- § 1 (Zweck, Benutzerkreis)
+- § 2 (Einschränkung des Pflanzenmaterials)
+- § 3 (Allgemeines)
+- § 4 (Benutzung)
+- § 5 (Ordnungswidrigkeiten)
+- § 6 (Inkrafttreten)
 
 **GEMEINDE BAD BOLL**  
 **Stand: Mai 2017**
 
 Gemäß § 4 i.V.m. § 142 der Gemeindeordnung für Baden-Württemberg (GemO) hat der Gemeinderat der Gemeinde Bad Boll am 4. Mai 2017 folgende Benutzungsordnung als Satzung beschlossen:
 
-## § 1 (Zweck, Benutzerkreis)
+### § 1 (Zweck, Benutzerkreis)
 
 (1) Der Grünmassesammelplatz in Bad Boll ist eine öffentliche Einrichtung der Gemeinde Bad Boll. Er dient der Sammlung von verwertungsfähigen Pflanzenmaterialien.
 
@@ -52,13 +39,13 @@ Gemäß § 4 i.V.m. § 142 der Gemeindeordnung für Baden-Württemberg (GemO) ha
 
 (3) Nicht zulässig sind Anlieferungen und Abholungen im Zuge von gewerblicher Betätigung, z.B. im Rahmen des Garten- und Landschaftsbaus. Unzulässig sind auch Anlieferungen von Material, das nicht aus der Gemeinde Bad Boll stammt.
 
-## § 2 (Einschränkung des Pflanzenmaterials)
+### § 2 (Einschränkung des Pflanzenmaterials)
 
 (1) Angeliefert werden darf nur kompostierfähiges bzw. verrottbares Pflanzenmaterial, wie z.B. Baum- und Strauchschnitt, Gras und sonstige Gartenabfälle aus Privathaushalten. Es ist auf den dafür vorgesehenen Flächen innerhalb des eingefriedeten Bereiches abzulagern.
 
 (2) Nicht angeliefert werden dürfen Abfälle aller Art, wie z.B. Haus- und Sperrmüll, Bauschutt, Papier und Kartonagen, Kunststoffe. Verpacktes Pflanzenmaterial darf nicht abgeladen werden, weiterhin untersagt ist die Anlieferung von Baumstümpfen, Wurzelstöcken, Astmaterial mit einem Durchmesser von mehr als 10 cm und Biomüll (z.B. Küchenabfälle, Speisereste, verdorbene Lebensmittel, etc.). Mit Krankheiten infiziertes Pflanzenmaterial oder solches, das im Verdacht steht, mit Infektionskrankheiten befallen zu sein (z.B. Feuerbrand), darf ebenfalls nicht angeliefert werden.
 
-## § 3 (Allgemeines)
+### § 3 (Allgemeines)
 
 (1) Die Benutzung des Kompostplatzes erfolgt auf eigene Gefahr.
 
@@ -66,7 +53,7 @@ Gemäß § 4 i.V.m. § 142 der Gemeindeordnung für Baden-Württemberg (GemO) ha
 
 (3) Die Gemeinde Bad Boll haftet nur für Schäden, die sie oder ihre Organe und Mitarbeiter vorsätzlich oder grob fahrlässig verursacht haben.
 
-## § 4 (Benutzung)
+### § 4 (Benutzung)
 
 (1) Die Benutzung des Grünmassesammelplatzes ist nur während der festgesetzten Betriebszeiten gestattet.
 
@@ -74,7 +61,7 @@ Gemäß § 4 i.V.m. § 142 der Gemeindeordnung für Baden-Württemberg (GemO) ha
 
 (3) Den Anweisungen des Personals der Gemeinde Bad Boll, der mit den Häcksel- und Siebarbeiten beauftragten Firma sowie eines ggf. bestellten Platzwartes ist Folge zu leisten, ebenso den durch Aushang bekannt gegebenen Ordnungsvorschriften auf dem Grünmassesammelplatz.
 
-## § 5 (Ordnungswidrigkeiten)
+### § 5 (Ordnungswidrigkeiten)
 
 (1) Ordnungswidrig handelt gem. § 142 Abs. 1 Gemeindeordnung, wer
 
@@ -92,7 +79,7 @@ f) den Grünmassesammelplatz zu anderen als den in § 1 Abs. 1 und § 2 Abs. 1 b
 
 (2) Diese Ordnungswidrigkeiten können mit einer Geldbuße geahndet werden.
 
-## § 6 (Inkrafttreten)
+### § 6 (Inkrafttreten)
 
 Diese Satzung tritt am Tag nach der öffentlichen Bekanntmachung in Kraft.
 

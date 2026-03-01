@@ -2,8 +2,8 @@
 titel: Satzung über die Erhebung von Gebühren für öffentliche Leistungen des Landkreises Göppingen (Verwaltungsgebührensatzung)
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 13.11.2020, geändert ab 01.01.2021
@@ -11,34 +11,28 @@ gueltig_ab: 2020-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Verwaltungsgebührensatzung
-  - Verwaltungsgebühren
-  - Gebühren Landkreis Göppingen
-  - Benutzungsgebühren
-  - Sondernutzungsgebühren
-  - Kreiskasse
-  - Landratsamt Göppingen
-  - Gebührenfreiheit
-  - Kommunalabgabengesetz
-  - KAG
-  - Kreisarchiv Gebühren
-  - Privatwald Betreuung
-  - Holzverkaufsstelle
-fragen:
-  - "Welche Verwaltungsgebühren erhebt das Landratsamt Göppingen?"
-  - "Was kostet eine Beglaubigung beim Landratsamt Göppingen?"
-  - "Wer ist von Verwaltungsgebühren im Landkreis Göppingen befreit?"
-  - "Was kostet die Inanspruchnahme des Kreisarchivars?"
-  - "Wie wird die Privatwaldbetreuung durch den Landkreis Göppingen abgerechnet?"
-querverweise:
-  - Kommunalabgabengesetz Baden-Württemberg (KAG)
-  - Landkreisordnung für Baden-Württemberg (LKrO)
-  - Straßengesetz Baden-Württemberg (StrG)
-  - Gebührenverzeichnis zur Verwaltungsgebührensatzung des Landkreises Göppingen
-  - Archivordnung des Landkreises Göppingen
 ---
-# Satzung über die Erhebung von Gebühren für öffentliche Leistungen des Landkreises Göppingen (Verwaltungsgebührensatzung)
+
+## Inhaltsverzeichnis
+
+- § 1 Gebührenpflichtige öffentliche Leistungen
+- § 2 Gebührenschuldner
+- § 3 Gebührenfestsetzung
+- § 4 Sachliche und persönliche Gebührenfreiheit
+- § 5 Entstehung, Fälligkeit und Zahlung der Gebühr, Sicherheitsleistung
+- § 6 Auslagen
+- § 7 Gebührenerhebung
+- § 8 Gebührenschuldner
+- § 9 Entstehung, Fälligkeit und Zahlung der Gebühr
+- § 10 Gebührenerhebung
+- § 11 Gebührenschuldner
+- § 12 Entstehung, Fälligkeit und Zahlung der Gebühr
+- § 13 Gebührenerstattung
+- § 14
+- § 15
+- § 16
+- § 17
+- § 18
 
 **Landkreis Göppingen 3.7**  
 **vom 1. Januar 2020 mit Änderungen vom 01.01.2021**  
@@ -205,9 +199,9 @@ Eine etwaige Verletzung von Verfahrens- oder Formvorschriften der Landkreisordnu
 
 ---
 
-## Gebührenverzeichnis
+### Gebührenverzeichnis
 
-### 1. Verwaltungsgebühren
+## 1. Verwaltungsgebühren
 
 | Nr. | Öffentliche Leistung | Gebühr |
 |-----|---------------------|--------|
@@ -225,7 +219,7 @@ Eine etwaige Verletzung von Verfahrens- oder Formvorschriften der Landkreisordnu
 | 12 | **Holzverkaufsstelle:** | entfällt (in „Tarif für die Benutzung kreiseigener Einrichtungen „ verortet.) |
 | 13 | **Verwaltungsgebühren an Schulen**<br>a) Beglaubigungen bei Schulzeugnissen (einschließlich benötigter Kopien) je Einzelfall, unabhängig von der Seitenzahl je Fertigung<br>b) Abschriften und Kopien von Schulzeugnissen (ohne Beglaubigung) in jedem Einzelfall, unabhängig von der Seitenzahl je Fertigung<br>c) Ersatzweise Ausstellung eines verloren gegangenen Schülerausweises | 5,50 €<br><br>2,00 €<br><br>6,00 € |
 
-### 2. Benutzungsgebühren
+## 2. Benutzungsgebühren
 
 | Nr. | Öffentliche Leistung | Gebühr |
 |-----|---------------------|--------|
@@ -239,7 +233,7 @@ Eine etwaige Verletzung von Verfahrens- oder Formvorschriften der Landkreisordnu
 
 ---
 
-## Tarif für die Benutzung kreiseigener Einrichtungen
+### Tarif für die Benutzung kreiseigener Einrichtungen
 
 **Gültig ab 1. Januar 2021**
 
@@ -247,7 +241,7 @@ Eine etwaige Verletzung von Verfahrens- oder Formvorschriften der Landkreisordnu
 
 für die Benutzung kreiseigener Einrichtungen nach dem Beschluss des Kreistags vom 01.01.2021:
 
-#### I. Benutzung kreiseigener Einrichtungen
+### I. Benutzung kreiseigener Einrichtungen
 
 1. Für die Benutzung erhebt der Landkreis privatrechtliche Entgelte nach dem nachstehenden Verzeichnis.
 
@@ -263,7 +257,7 @@ für die Benutzung kreiseigener Einrichtungen nach dem Beschluss des Kreistags v
 
 7. Die Stundensätze unter Nr. 5 des nachstehenden Verzeichnisses richten sich nach den jeweiligen Verwaltungsvorschriften des Finanzministeriums Baden-Württemberg über die Berücksichtigung des Verwaltungsaufwands bei der Festlegung von Verwaltungs- und Benutzungsgebühren und von sonstigen Entgelten für die Inanspruchnahme der Landesverwaltung (VwV-Kostenfestlegung), die im Staatsanzeiger für Baden-Württemberg veröffentlicht werden.
 
-#### II. Inkrafttreten
+### II. Inkrafttreten
 
 Diese Regelung tritt am 1. Januar 2021 in Kraft.
 
@@ -280,9 +274,9 @@ Diese Regelung tritt am 1. Januar 2021 in Kraft.
 | **3a** | **Inanspruchnahme des Kreisarchivars**<br>je angefangene Stunde der Inanspruchnahme<br>zuzügl. Reisekosten | 78,00 € |
 | **3b** | **Inanspruchnahme des Gemeindearchivpflegers**<br>je angefangene Stunde der Inanspruchnahme, pauschal | 58,00 € |
 
-#### 4 Inanspruchnahme des Forstamtes und der Holzverkaufsstelle des Landkreises Göppingen
+### 4 Inanspruchnahme des Forstamtes und der Holzverkaufsstelle des Landkreises Göppingen
 
-##### 4.1 Privatwaldbetreuung
+### 4.1 Privatwaldbetreuung
 
 Die Ordnungsziffern richten sich nach der Privatwaldverordnung vom 01.01.2020 (PWaldVO).
 
@@ -437,7 +431,7 @@ Die Abrechnung der Verträge zur ständigen Betreuung des Privatwaldes erfolgt f
 
 ---
 
-##### 4.2 Kommunalwaldbetreuung
+### 4.2 Kommunalwaldbetreuung
 
 Die Abrechnung der Verträge für Tätigkeiten im forstlichen Revierdienst im Körperschaftswald erfolgt nach § 7 Körperschaftswaldverordnung (KWaldVO).
 
@@ -451,7 +445,7 @@ III. Wirtschaftsverwaltung
 
 ---
 
-##### 4.3 Inanspruchnahme der Holzverkaufsstelle des Landkreises Göppingen
+### 4.3 Inanspruchnahme der Holzverkaufsstelle des Landkreises Göppingen
 
 **4.3.1 Holzverkauf**
 

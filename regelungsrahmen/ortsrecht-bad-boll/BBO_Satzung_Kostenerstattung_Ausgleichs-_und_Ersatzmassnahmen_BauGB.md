@@ -2,10 +2,10 @@
 titel: Satzung zur Erhebung von Kostenerstattungsbeträgen nach §§ 135 a-c BauGB der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,42 +15,31 @@ gueltig_ab: 1999-03-25
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Kostenerstattung
-  - Ausgleichsmaßnahmen
-  - Ersatzmaßnahmen
-  - BauGB
-  - Eingriffsregelung
-  - Naturschutzausgleich
-  - Ökokonto
-  - Bebauungsplan
-  - Ausgleichsfläche
-  - Vorauszahlung
-  - Grundfläche
-fragen:
-  - "Muss ich als Grundstückseigentümer Kosten für Naturschutzausgleich bezahlen?"
-  - "Was sind Kostenerstattungsbeträge nach BauGB?"
-  - "Wie werden Ausgleichsmaßnahmen den Grundstücken in Bad Boll zugeordnet?"
-  - "Wann werden Kostenerstattungsbeträge fällig?"
-  - "Kann man Kostenerstattungsbeträge ablösen?"
-querverweise:
-  - Satzung über die Erhebung von Erschließungsbeiträgen der Gemeinde Bad Boll (Erschließungsbeitragssatzung)
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
 
-## Satzung zur Erhebung von Kostenerstattungsbeträgen nach §§ 135 a - c BauGB
+- § 1 Erhebung von Kostenerstattungsbeträgen
+- § 2 Umfang der erstattungsfähigen Kosten
+- § 3 Ermittlung der erstattungsfähigen Kosten
+- § 4 Verteilung der erstattungsfähigen Kosten
+- § 5 Anforderung von Vorauszahlungen
+- § 6 Fälligkeit des Kostenerstattungsbetrages
+- § 7 Ablösung
+- § 8 Inkrafttreten
+
+### Satzung zur Erhebung von Kostenerstattungsbeträgen nach §§ 135 a - c BauGB
 
 **Stand:** Januar 2008  
 **Seite:** K3 - 1
 
 Aufgrund von § 135 c des Baugesetzbuches und von § 4 der Gemeindeordnung Baden-Württemberg und den §§ 2 und 10 Abs. 10 KAG hat der Rat der Gemeinderat der Gemeinde Boll in der Sitzung am 25.03.1999 folgende Satzung beschlossen:
 
-## § 1 Erhebung von Kostenerstattungsbeträgen
+### § 1 Erhebung von Kostenerstattungsbeträgen
 
 Kostenerstattungsbeträge für die Durchführung von zugeordneten Ausgleichsmaßnahmen werden nach den Bestimmungen des Baugesetzbuches (BauGB) und dieser Satzung erhoben.
 
-## § 2 Umfang der erstattungsfähigen Kosten
+### § 2 Umfang der erstattungsfähigen Kosten
 
 (1) Erstattungsfähig sind die Kosten für die Durchführung von allen Ausgleichsmaßnahmen, die nach § 9 Abs. 1 a BauGB zugeordnet sind.
 
@@ -63,46 +52,46 @@ Dazu gehört auch der Wert der von der Gemeinde aus ihrem Vermögen bereitgestel
 
 (3) Die Ausgestaltung der Ausgleichs- und Ersatzmaßnahmen einschließlich deren Durchführungsdauer ergibt sich aus den Festsetzungen des Bebauungsplans in Verbindung mit den in der Anlage dargestellten Grundsätzen. Der Bebauungsplan kann im Einzelfall von den in der Anlage beschriebenen Grundsätzen Abweichungen vorsehen. Dies gilt entsprechend für Satzungen nach § 34 Abs. 4 Satz 1 Nr. 3 BauGB.
 
-## § 3 Ermittlung der erstattungsfähigen Kosten
+### § 3 Ermittlung der erstattungsfähigen Kosten
 
 Die erstattungsfähigen Kosten werden nach den tatsächlichen Kosten ermittelt.
 
-## § 4 Verteilung der erstattungsfähigen Kosten
+### § 4 Verteilung der erstattungsfähigen Kosten
 
 Die nach den §§ 2, 3 erstattungsfähigen Kosten werden auf die nach § 9 Abs. 1 a BauGB zugeordneten Grundstücke nach Maßgabe der zulässigen Grundfläche (§ 19 Abs. 2 BauNVO) verteilt. Ist keine zulässige Grundfläche festgesetzt, wird die überbaubare Grundstücksfläche zugrundegelegt. Für sonstige selbständige versiegelbare Flächen gilt die versiegelbare Fläche als überbaubare Grundstücksfläche.
 
-## § 5 Anforderung von Vorauszahlungen
+### § 5 Anforderung von Vorauszahlungen
 
 Die Gemeinde kann für Grundstücke, für die eine Kostenerstattungspflicht noch nicht oder nicht in vollem Umfang entstanden ist, Vorauszahlungen bis zur Höhe des voraussichtlichen Kostenbetrages anfordern, sobald die Grundstücke, auf denen Eingriffe zu erwarten sind, baulich oder gewerblich genutzt werden dürfen.
 
-## § 6 Fälligkeit des Kostenerstattungsbetrages
+### § 6 Fälligkeit des Kostenerstattungsbetrages
 
 Der Kostenerstattungsbetrag wird einen Monat nach Bekanntgabe der Anforderung fällig.
 
-## § 7 Ablösung
+### § 7 Ablösung
 
 Der Kostenerstattungsbetrag kann auf Antrag abgelöst werden. Der Ablösebetrag bemißt sich nach der voraussichtlichen Höhe des zu erwartenden endgültigen Erstattungsbetrages.
 
-## § 8 Inkrafttreten
+### § 8 Inkrafttreten
 
 Die Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
 
 ---
 
-## Anlage zu § 2 Abs. 3 der Satzung zur Erhebung von Kostenerstattungsbeträgen nach §§ 135 a - 135 c BauGB
+### Anlage zu § 2 Abs. 3 der Satzung zur Erhebung von Kostenerstattungsbeträgen nach §§ 135 a - 135 c BauGB
 
 ### Grundsätze für die Ausgestaltung von Ausgleichs- und Ersatzmaßnahmen
 
-### 1. Anpflanzung/Aussaat von standortheimischen Gehölzen, Kräutern und Gräsern
+## 1. Anpflanzung/Aussaat von standortheimischen Gehölzen, Kräutern und Gräsern
 
-#### 1.1 Anpflanzung von Einzelbäumen
+### 1.1 Anpflanzung von Einzelbäumen
 
 - Schaffung günstiger Wachstumsbedingungen durch Herstellen der Vegetationstragschicht nach DIN 18915 und der Pflanzgrube gem. DIN 18916
 - Anpflanzung von Hochstammbäumen mit einem Stammumfang der Sortierung 18/20
 - Verankerung der Bäume und Schutz vor Beschädigungen sowie Sicherung der Baumscheibe
 - Fertigstellungs- und Entwicklungspflege: 4 Jahre
 
-#### 1.2 Anpflanzung von Gehölzen, freiwachsenden Hecken und Waldmänteln
+### 1.2 Anpflanzung von Gehölzen, freiwachsenden Hecken und Waldmänteln
 
 - Schaffung günstiger Wachstumsbedingungen durch Bodenvorbereitung nach DIN 18915
 - Anpflanzung von Bäumen I. Ordnung mit einem Stammumfang der Sortierung 18/20, Bäumen II. Ordnung mit einem Stammumfang der Sortierung 16/18, Heistern 150/175 hoch und zweimal verpflanzten Sträuchern je nach Art in der Sortierung 60/80, 80/100 oder 100/150 hoch
@@ -110,7 +99,7 @@ Die Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
 - Verankerung der Gehölze und Erstellung von Schutzeinrichtungen
 - Fertigstellungs- und Entwicklungspflege: 3 Jahre
 
-#### 1.3 Anlage standortgerechter Wälder
+### 1.3 Anlage standortgerechter Wälder
 
 - Schaffung günstiger Wachstumsbedingungen durch Bodenvorbereitung nach DIN 18915
 - Aufforstung mit standortgerechten Arten
@@ -118,7 +107,7 @@ Die Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
 - Erstellung von Schutzeinrichtungen
 - Fertigstellungs- und Entwicklungspflege: 5 Jahre
 
-#### 1.4 Schaffung von Streuobstwiesen
+### 1.4 Schaffung von Streuobstwiesen
 
 - Schaffung günstiger Wachstumsbedingungen durch Bodenvorbereitung nach DIN 18915
 - Anpflanzung von Obstbaumhochstämmen und Befestigung der Bäume
@@ -127,22 +116,22 @@ Die Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
 - Erstellung von Schutzeinrichtungen
 - Fertigstellungs- und Entwicklungspflege: 5 Jahre
 
-#### 1.5 Anlage von naturnahen Wiesen und Krautsäumen
+### 1.5 Anlage von naturnahen Wiesen und Krautsäumen
 
 - Schaffung günstiger Wachstumsbedingungen durch Bodenvorbereitung nach DIN 18915
 - Einsaat von Wiesengräsern und -kräutern, möglichst aus autochtonem Saatgut
 - Fertigstellungs- und Entwicklungspflege: 3 Jahre
 
-### 2. Schaffung und Renaturierung von Wasserflächen
+## 2. Schaffung und Renaturierung von Wasserflächen
 
-#### 2.1 Herstellung von Stillgewässern
+### 2.1 Herstellung von Stillgewässern
 
 - Aushub und Einbau bzw. Abfuhr des anstehenden Bodens
 - -ggf. Abdichtung des Untergrundes
 - Anpflanzung standortheimischer Pflanzen
 - Fertigstellungs- und Entwicklungspflege: 3 Jahre
 
-#### 2.2 Renaturierung von Still- und Fließgewässern
+### 2.2 Renaturierung von Still- und Fließgewässern
 
 - Offenlegung und Rückbau von technischen Ufer- und Sohlbefestigungen
 - Gestaltung der Ufer und Einbau natürlicher Baustoffe unter Berücksichtigung ingenieurbiologischer Vorgaben
@@ -150,55 +139,55 @@ Die Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
 - Entschlammung
 - Fertigstellungs- und Entwicklungspflege: 3 Jahre
 
-### 3. Begrünung von baulichen Anlagen
+## 3. Begrünung von baulichen Anlagen
 
-#### 3.1 Fassadenbegrünung
+### 3.1 Fassadenbegrünung
 
 - Anpflanzung von selbstklimmenden Pflanzen
 - Anbringung von Kletterhilfen und Pflanzung von Schling- und Kletterpflanzen
 - eine Pflanze je 2 lfm.
 - Fertigstellungs- und Entwicklungspflege: 2 Jahre
 
-#### 3.2 Dachbegrünung
+### 3.2 Dachbegrünung
 
 - intensive Begrünung von Dachflächen
 - extensive Begrünung von Dachflächen
 - Fertigstellungs- und Entwicklungspflege: 3 Jahre
 
-### 4. Entsiegelung und Maßnahmen zur Grundwasseranreicherung
+## 4. Entsiegelung und Maßnahmen zur Grundwasseranreicherung
 
-#### 4.1 Entsiegelung befestigter Flächen
+### 4.1 Entsiegelung befestigter Flächen
 
 - Ausbau und Abfuhr wasserundurchlässiger Beläge
 - Aufreißen wasserdurchlässiger Unterbauschichten
 - Einbau wasserdurchlässiger Deckschichten
 - Fertigstellungs- und Entwicklungspflege: 1 Jahr
 
-#### 4.2 Maßnahmen zur Grundwasseranreicherung
+### 4.2 Maßnahmen zur Grundwasseranreicherung
 
 - Schaffung von Gräben und Mulden zur Regenwasserversickerung
 - Rückbau/Anstau von Entwässerungsgräben, Verschließen von Drainagen
 - Fertigstellungs- und Entwicklungspflege: 1 Jahr
 
-### 5. Maßnahmen zur Extensivierung
+## 5. Maßnahmen zur Extensivierung
 
-#### 5.1 Umwandlung von Acker bzw. intensivem Grünland in Acker- und Grünlandbrache
+### 5.1 Umwandlung von Acker bzw. intensivem Grünland in Acker- und Grünlandbrache
 
 - Nutzungsaufgabe
 - Fertigstellungs- und Entwicklungspflege: 1 Jahr
 
-#### 5.2 Umwandlung von Acker in Ruderalflur
+### 5.2 Umwandlung von Acker in Ruderalflur
 
 - ggf. Abtragen und Abtransport des Oberbodens
 - Fertigstellungs- und Entwicklungspflege: 1 Jahr
 
-#### 5.3 Umwandlung von Acker in extensiv genutztes Grünland
+### 5.3 Umwandlung von Acker in extensiv genutztes Grünland
 
 - Bodenvorbereitung ggf. Abtragen und Abtransport des Oberbodens
 - Einsaat von Wiesengräsern und Kräutern
 - Fertigstellungs- und Entwicklungspflege: 5 Jahre
 
-#### 5.4 Umwandlung von intensivem Grünland in extensiv genutztes Grünland
+### 5.4 Umwandlung von intensivem Grünland in extensiv genutztes Grünland
 
 - Nutzungsreduzierung
 - Aushagerung durch Mahd und Verwertung oder Abtransport des Mähguts

@@ -2,10 +2,10 @@
 titel: Richtlinien für die Ehrung von besonderen Leistungen im sportlichen, kulturellen und sozialen Bereich in Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,47 +15,26 @@ gueltig_ab: 1986-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Sportlerehrung
-  - Ehrung
-  - Ehrenurkunde
-  - Sportleistung
-  - Meisterschaft
-  - Vereinsehrung
-  - kulturelle Ehrung
-  - Sozialengagement
-  - Ehrenamtsehrung
-  - Auszeichnung
-fragen:
-  - "Wie kann ein Sportler oder Verein in Bad Boll geehrt werden?"
-  - "Welche sportlichen Leistungen werden von der Gemeinde Bad Boll ausgezeichnet?"
-  - "Bis wann muss ein Verein eine Ehrung melden?"
-  - "Gibt es einen Rechtsanspruch auf eine Sportlerehrung in Bad Boll?"
-  - "Werden auch kulturelle und soziale Leistungen geehrt?"
-querverweise:
-  - Satzung über die Entschädigung für ehrenamtliche Tätigkeit der Gemeinde Bad Boll
 ---
-
-# Richtlinien für die Ehrung von besonderen Leistungen im sportlichen, kulturellen und sozialen Bereich in Boll
 
 **GEMEINDE BAD BOLL**  
 **Stand: Januar 2008**
 
-## I. Ehrung im Sportbereich
+### I. Ehrung im Sportbereich
 
-### 1. Ehrungsgrundsatz
+## 1. Ehrungsgrundsatz
 
 1.1 Die Gemeinde Boll ehrt jährlich Sportler und/oder Mannschaften Boller Vereine, die besondere öffentlich auszeichnungswürdige Leistungen erbracht haben.
 
 1.2 Durch die Sportlerehrung will die Gemeinde Boll zum Ausdruck bringen, dass sie sportliche Leistungen würdigt.
 
-### 2. Form der Ehrung
+## 2. Form der Ehrung
 
 2.1 Als sichtbares Zeichen der Ehrung wird dem Sportler eine Ehrenurkunde, verbunden mit einer Erinnerungsabgabe bzw. eine Ehrenurkunde überreicht.
 
 2.2 Bei der Ehrung von Mannschaften kann abweichend davon der ganzen Mannschaft die Urkunde und gegebenenfalls die Erinnerungsabgabe überreicht werden.
 
-### 3. Voraussetzungen der Ehrung
+## 3. Voraussetzungen der Ehrung
 
 3.1 Geehrt werden Einzelsportler oder Mannschaften, die jeweils in dem der Ehrung vorausgegangenen Jahr eine der folgenden Leistungen erbracht haben:
 
@@ -75,13 +54,13 @@ b) Ehrenurkunden
 
 3.2 Abweichend von Ziffer 3.1 können Sportler geehrt werden, bei denen zwar die Voraussetzungen nach Buchstabe a) und b) nicht vorliegen, die aber hervorragende und auszeichnungswürdige Leistungen erzielt haben. Für besondere Einzelfälle, z.B. Teilnehmer an olympischen Spielen oder Mitgliedschaft in Nationalmannschaften, wird eine Sonderregelung getroffen.
 
-## II. Ehrungen im kulturellen Bereich
+### II. Ehrungen im kulturellen Bereich
 
 4.1 Die Gemeinde Boll ehrt auch besonders herausragende Leistungen auf kulturellem und sozial-caritativem Gebiet von Einzelpersonen oder Vereinen.
 
 4.2 Abschnitt I ist entsprechend anzuwenden.
 
-## III. Verfahren
+### III. Verfahren
 
 5.1 Die örtlichen Vereine in Boll sind aufgefordert, jährlich die zur Ehrung anstehenden Personen und Vereine zu benennen, bei denen die Voraussetzungen nach Ziffer I oder Ziffer II vorliegen.
 
@@ -89,7 +68,7 @@ b) Ehrenurkunden
 
 5.3 Die Ehrungen werden in einer öffentlichen Veranstaltung der Gemeinde Boll vorgenommen.
 
-### 6. Ausnahmen und Rechtsanspruch
+## 6. Ausnahmen und Rechtsanspruch
 
 6.1 Von einer Ehrung kann abgesehen werden, wenn besondere Gründe für eine Ausnahme von einer Ehrung sprechen.
 
@@ -97,6 +76,6 @@ b) Ehrenurkunden
 
 6.3 Ein Rechtsanspruch auf Ehrung besteht nicht. Der Rechtsweg ist ausgeschlossen.
 
-### 7. Inkrafttreten
+## 7. Inkrafttreten
 
 Diese Richtlinien gelten ab 1986.

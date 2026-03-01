@@ -1,37 +1,54 @@
 ---
-titel: "Landesverwaltungsvollstreckungsgesetz Baden-Württemberg (LVwVG BW)"
+titel: Landesverwaltungsvollstreckungsgesetz Baden-Württemberg (LVwVG BW)
 ebene: land
 saule: regelungsrahmen
-land_ars: "08"
+land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz vom 12.03.1974 (GBl. 1974, 93), zuletzt geändert durch Artikel 5 der Verordnung vom 23.02.2017 (GBl. S. 99, 100)
 gueltig_ab: 1974-07-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - LVwVG BW
-  - Verwaltungsvollstreckungsgesetz
-  - Verwaltungsvollstreckung
-  - Vollstreckung Verwaltungsakt
-  - Zwangsgeld
-  - Ersatzvornahme
-  - unmittelbarer Zwang
-  - Vollstreckungsbehörde
-  - Vollstreckungshilfe
-  - Pfändung
-fragen:
-  - "Wie kann die Behörde Verwaltungsakte durchsetzen?"
-  - "Was ist ein Zwangsgeld?"
-  - "Was ist eine Ersatzvornahme durch die Behörde?"
-  - "Wann kann die Gemeinde unmittelbaren Zwang anwenden?"
-  - "Wie wird ein Bußgeldbescheid vollstreckt?"
-querverweise:
-  - Landesverwaltungsverfahrensgesetz Baden-Württemberg (LVwVfG BW)
-  - Gemeindeordnung für Baden-Württemberg (GemO BW)
 ---
 
-# Verwaltungsvollstreckungsgesetz für Baden-Württemberg (Landesverwaltungsvollstreckungsgesetz - LVwVG -)
+## Inhaltsverzeichnis
+
+- § 1 - Geltungsbereich
+- § 2 - Allgemeine Voraussetzungen der Vollstreckung
+- § 3 - Vollstreckung gegen den Rechtsnachfolger
+- § 4 - Vollstreckungsbehörde, Zuständigkeit für Vollstreckungshilfe
+- § 5 - Vollstreckungsauftrag
+- § 6 - Betreten und Durchsuchen
+- § 7 - Widerstand gegen Vollstreckungshandlungen
+- § 8 - Zuziehung von Zeugen
+- § 9 - Vollstreckung zur Nachtzeit und an Sonntagen und gesetzlichen Feiertagen
+- § 10 - Niederschrift
+- § 11 - Einstellung der Vollstreckung
+- § 12 - Wegfall der aufschiebenden Wirkung von Widerspruch und Anfechtungsklage
+- § 13 - Art und Weise der Vollstreckung
+- § 14 - Mahnung
+- § 15 - Beitreibung
+- § 15a - Beitreibung durch Gerichtsvollzieher
+- § 16 - Vermögensauskunft
+- § 17 - Vollstreckung gegen juristische Personen des öffentlichen Rechts
+- § 18 - Art und Weise der Vollstreckung
+- § 19 - Zwangsmittel
+- § 20 - Androhung
+- § 21 - Vollstreckung bei Gefahr im Verzug
+- § 22 - Vollstreckung gegen Behörden und juristische Personen des öffentlichen Rechts
+- § 23 - Zwangsgeld
+- § 24 - Zwangshaft
+- § 25 - Ersatzvornahme
+- § 26 - Unmittelbarer Zwang
+- § 27 - Zwangsräumung
+- § 28 - Wegnahme
+- § 29 - Einschränkung von Grundrechten
+- § 30 - Weiterführung eingeleiteter Verfahren
+- § 31 - Kosten
+- § 32 - Verwaltungsvorschriften
+- § 33 - Änderung von Rechtsvorschriften
+- § 34 - Aufhebung von Rechtsvorschriften
+- § 35 - Inkrafttreten
 
 **Vom 12. März 1974**
 
@@ -46,7 +63,6 @@ Gliederungs-Nr: 201
 Zum 22.01.2026 aktuellste verfügbare Fassung der Gesamtausgabe  
 Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 5 der Verordnung vom 23. Februar 2017 (GBl. S. 99, 100)
 
----
 
 Der Landtag hat am 1. März 1974 das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
@@ -198,13 +214,13 @@ Bei einem Vollstreckungsersuchen, das mit Hilfe automatischer Einrichtungen erst
 
 ## DRITTER TEIL - Vollstreckung von Verwaltungsakten, die zu einer sonstigen Handlung, einer Duldung oder einer Unterlassung verpflichten
 
-### 1. Abschnitt - Allgemeine Vorschriften
+## 1. Abschnitt - Allgemeine Vorschriften
 
-#### § 18 - Art und Weise der Vollstreckung
+### § 18 - Art und Weise der Vollstreckung
 
 Verwaltungsakte, die zu einer Handlung, ausgenommen einer Geldleistung, einer Duldung oder einer Unterlassung verpflichten, werden mit Zwangsmitteln vollstreckt.
 
-#### § 19 - Zwangsmittel
+### § 19 - Zwangsmittel
 
 (1) Zwangsmittel sind
 
@@ -218,7 +234,7 @@ Verwaltungsakte, die zu einer Handlung, ausgenommen einer Geldleistung, einer Du
 
 (4) Zwangsmittel dürfen wiederholt und solange angewandt werden, bis der Verwaltungsakt vollzogen oder auf andere Weise erledigt ist.
 
-#### § 20 - Androhung
+### § 20 - Androhung
 
 (1) Zwangsmittel sind vor ihrer Anwendung von der Vollstreckungsbehörde schriftlich anzudrohen. Dem Pflichtigen ist in der Androhung zur Erfüllung der Verpflichtung eine angemessene Frist zu bestimmen; eine Frist braucht nicht bestimmt zu werden, wenn eine Duldung oder Unterlassung erzwungen werden soll.
 
@@ -230,21 +246,21 @@ Verwaltungsakte, die zu einer Handlung, ausgenommen einer Geldleistung, einer Du
 
 (5) Wird Ersatzvornahme angedroht, so sollen in der Androhung die voraussichtlichen Kosten angegeben werden.
 
-#### § 21 - Vollstreckung bei Gefahr im Verzug
+### § 21 - Vollstreckung bei Gefahr im Verzug
 
 Von § 2 Nr. 1, §§ 3, 5, 8, 9 und § 20 Abs. 1 kann abgewichen werden, soweit die Abwehr einer Gefahr, durch die die öffentliche Sicherheit oder Ordnung bedroht oder gestört wird, dies erfordert.
 
-#### § 22 - Vollstreckung gegen Behörden und juristische Personen des öffentlichen Rechts
+### § 22 - Vollstreckung gegen Behörden und juristische Personen des öffentlichen Rechts
 
 Gegen Behörden und juristische Personen des öffentlichen Rechts kann nur vollstreckt werden, soweit dies durch Rechtsvorschriften ausdrücklich gestattet ist.
 
-### 2. Abschnitt - Die einzelnen Zwangsmittel
+## 2. Abschnitt - Die einzelnen Zwangsmittel
 
-#### § 23 - Zwangsgeld
+### § 23 - Zwangsgeld
 
 Das Zwangsgeld wird auf mindestens zehn und höchstens fünfzigtausend Euro schriftlich festgesetzt.
 
-#### § 24 - Zwangshaft
+### § 24 - Zwangshaft
 
 (1) Ist das Zwangsgeld uneinbringlich, so kann das Verwaltungsgericht auf Antrag der Vollstreckungsbehörde nach Anhörung des Pflichtigen die Zwangshaft anordnen, wenn bei der Androhung des Zwangsgeldes auf die Zulässigkeit der Zwangshaft hingewiesen worden ist. Ordnet das Verwaltungsgericht die Zwangshaft an, so hat es einen Haftbefehl auszufertigen, in dem die antragstellende Behörde, der Pflichtige und der Grund der Verhaftung zu bezeichnen sind. Einer Zustellung des Haftbefehls vor seiner Vollziehung bedarf es nicht.
 
@@ -252,11 +268,11 @@ Das Zwangsgeld wird auf mindestens zehn und höchstens fünfzigtausend Euro schr
 
 (3) Die Zwangshaft ist auf Antrag der Vollstreckungsbehörde von der Justizverwaltung zu vollstrecken. § 802g Absatz 2 und § 802h der Zivilprozeßordnung sind sinngemäß anzuwenden.
 
-#### § 25 - Ersatzvornahme
+### § 25 - Ersatzvornahme
 
 Ersatzvornahme ist die Ausführung einer vertretbaren Handlung, zu welcher der Verwaltungsakt verpflichtet, durch die Vollstreckungsbehörde oder einen von ihr beauftragten Dritten auf Kosten des Pflichtigen.
 
-#### § 26 - Unmittelbarer Zwang
+### § 26 - Unmittelbarer Zwang
 
 (1) Unmittelbarer Zwang ist jede Einwirkung auf Personen oder Sachen durch einfache körperliche Gewalt, Hilfsmittel der körperlichen Gewalt oder Waffengebrauch. Waffengebrauch ist nur zulässig, soweit dies durch Gesetz ausdrücklich gestattet ist.
 
@@ -264,9 +280,9 @@ Ersatzvornahme ist die Ausführung einer vertretbaren Handlung, zu welcher der V
 
 (3) Gegenüber Personen darf unmittelbarer Zwang nur angewandt werden, wenn der Zweck der Vollstreckung durch unmittelbaren Zwang gegen Sachen nicht erreichbar erscheint. Das angewandte Mittel muß nach Art und Maß dem Alter und dem Zustand des Betroffenen angemessen sein.
 
-### 3. Abschnitt - Besondere Fälle der Anwendung des unmittelbaren Zwangs
+## 3. Abschnitt - Besondere Fälle der Anwendung des unmittelbaren Zwangs
 
-#### § 27 - Zwangsräumung
+### § 27 - Zwangsräumung
 
 (1) Hat der Pflichtige eine unbewegliche Sache, einen Raum oder ein eingetragenes Schiff zu räumen, zu überlassen oder herauszugeben, so können er und die Personen, die zu seinem Haushalt oder Geschäftsbetrieb gehören, aus dem Besitz gesetzt werden. Der Zeitpunkt der Zwangsräumung soll dem Pflichtigen angemessene Zeit vorher mitgeteilt werden.
 
@@ -274,7 +290,7 @@ Ersatzvornahme ist die Ausführung einer vertretbaren Handlung, zu welcher der V
 
 (3) Weigert sich der Empfangsberechtigte nach Absatz 2, die Sachen in Empfang zu nehmen, sind sie zu verwahren. Der Pflichtige ist aufzufordern, die Sachen binnen einer bestimmten Frist abzuholen. Kommt der Pflichtige der Aufforderung nicht nach, so kann die Vollstreckungsbehörde die Sachen nach den Vorschriften dieses Gesetzes über die Verwertung gepfändeter Sachen verkaufen und den Erlös verwahren.
 
-#### § 28 - Wegnahme
+### § 28 - Wegnahme
 
 (1) Hat der Pflichtige eine bewegliche Sache herauszugeben oder vorzulegen, so kann der Vollstreckungsbeamte sie ihm wegnehmen.
 

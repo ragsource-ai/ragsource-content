@@ -2,10 +2,10 @@
 titel: Benutzungsordnung für die Sporthallen der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,41 +15,29 @@ gueltig_ab: 2016-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Sporthalle
-  - Hallenbelegung
-  - Hallenbelegungsplan
-  - Vereinssport
-  - Turnhalle
-  - Hallenvermietung
-  - Hallenbenutzung
-  - Hallengebühr
-  - Sportveranstaltung
-  - Übungsleiter
-  - Hausrecht Sporthalle
-fragen:
-  - "Wie kann ein Verein die Sporthalle in Bad Boll nutzen?"
-  - "Was ist in der Sporthalle verboten?"
-  - "Wer hat Vorrang bei der Nutzung der Sporthalle?"
-  - "Was passiert, wenn jemand die Sporthalle beschädigt?"
-  - "Wer übt das Hausrecht in der Sporthalle aus?"
-  - "Sind die Sporthallen in den Schulferien nutzbar?"
-querverweise:
-  - Satzung über die Erhebung von Gebühren für die Benutzung der gemeindlichen öffentlichen Einrichtungen und Anlagen der Gemeinde Bad Boll
 ---
 
-# Benutzungsordnung für die Sporthallen der Gemeinde Bad Boll
+## Inhaltsverzeichnis
+
+- § 1 Zweckbestimmung
+- § 2 Geltungsbereich / Hausrecht
+- § 3 Überlassung der Sporthallen
+- § 4 Pflichten der Veranstalter und Benutzer
+- § 5 Aufsicht
+- § 6 Haftung
+- § 7 Gebühren
+- § 8 Inkrafttreten
 
 **GEMEINDE BAD BOLL**  
 **Stand: Januar 2016**
 
-## § 1 Zweckbestimmung
+### § 1 Zweckbestimmung
 
 (1) Die Sporthallen der Gemeinde Bad Boll dienen Sportveranstaltungen, dem Übungsbetrieb der örtlichen Vereine und dem Turn- und Sportunterricht an öffentlichen Schulen.
 
 (2) Schul- und Sportveranstaltungen jeder Art haben Vorrang vor einer anderen Benutzung.
 
-## § 2 Geltungsbereich / Hausrecht
+### § 2 Geltungsbereich / Hausrecht
 
 (1) Benutzer und Besucher der Sporthallen unterwerfen sich mit dem Betreten der Anlagen den Bestimmungen dieser Benutzungsordnung.
 
@@ -59,7 +47,7 @@ querverweise:
 
 (4) Das Hausrecht der Schulleitungen nach dem Schulgesetz bleibt hiervon unberührt.
 
-## § 3 Überlassung der Sporthallen
+### § 3 Überlassung der Sporthallen
 
 (1) Die Gemeinde Bad Boll stellt die Sporthallen den ortsansässigen Vereinen und Organisationen auf Antrag zur Durchführung von Trainings-, Sport- und sonstigen Veranstaltungen zur Verfügung, soweit dadurch schulische Belange nicht beeinträchtigt werden.
 
@@ -67,7 +55,7 @@ querverweise:
 
 (3) Die Sporthallen werden mit dem letzten Schultag für die Dauer der Sommer- und Weihnachtsferien geschlossen und stehen dem Vereinssport wieder ab dem ersten Schultag zur Verfügung. Für die übrigen Ferientermine können anderweitige Regelungen vereinbart werden.
 
-## § 4 Pflichten der Veranstalter und Benutzer
+### § 4 Pflichten der Veranstalter und Benutzer
 
 (1) Jeder Benutzer hat alles zu unterlassen, was der allgemeinen Ordnung zuwider ist und hat dazu beizutragen, die Sporthallen in einem zweckdienlichen Zustand zu erhalten. Im Übrigen ist alles zu vermeiden, was Schäden an und in den Sporthallen oder ihren Gerätschaften verursachen könnte.
 
@@ -91,7 +79,7 @@ g) die Verwendung von Harz oder sonstigen Haftsubstanzen.
 
 (4) Der Verkauf von Speisen und Getränken im Bereich der Sporthallen bedarf der Genehmigung durch die Gemeindeverwaltung. Die Ausgabe von Getränken ist ausschließlich in den Wirtschaftsbereichen der Sporthallen zulässig.
 
-## § 5 Aufsicht
+### § 5 Aufsicht
 
 (1) Bei Benutzung der Sporthallen hat immer eine Aufsichtsperson, ein Übungsleiter, Lehrer oder eine andere für die Benutzung verantwortliche Person (Verantwortlicher) anwesend zu sein. Dieser hat für den reibungslosen Ablauf des Übungs- und Sportbetriebs sowie für die Einhaltung dieser Benutzungsordnung zu sorgen.
 
@@ -105,17 +93,17 @@ g) die Verwendung von Harz oder sonstigen Haftsubstanzen.
 
 (6) Der Verantwortliche hat sich weiterhin davon zu überzeugen, dass die Sporthallen und Nebenräume in einem sauberen und geordneten Zustand hinterlassen werden und die Fenster, Räume und Hallen ordnungsgemäß verschlossen sind. Jede Unordnung ist sofort zu beheben.
 
-## § 6 Haftung
+### § 6 Haftung
 
 (1) Der Benutzer haftet für Schäden aller Art, die während seiner Benutzungszeit an den Sporthallen oder den halleneigenen Gerätschaften entstanden sind. Die Gemeinde Bad Boll behält sich vor, die Verursacher von Schäden von der weiteren Benutzung auszuschließen. Die Benutzer sind verpflichtet, für den erforderlichen Versicherungsschutz zu sorgen und diesen auf Verlangen der Gemeinde Bad Boll nachzuweisen.
 
 (2) Die Gemeinde Bad Boll übernimmt keine Haftung für Schäden aller Art, insbesondere nicht für Unfälle, Diebstahl oder sonstigen Personen- und Sachschäden.
 
-## § 7 Gebühren
+### § 7 Gebühren
 
 Die Erhebung von Gebühren für die Überlassung der Sporthallen wird in einer Gebührenordnung geregelt.
 
-## § 8 Inkrafttreten
+### § 8 Inkrafttreten
 
 Diese Benutzungsordnung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft.
 

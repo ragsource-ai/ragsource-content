@@ -2,10 +2,10 @@
 titel: Satzung über die Entschädigung der ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr (Feuerwehrentschädigungssatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,36 +15,21 @@ gueltig_ab: 2013-11-07
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Feuerwehrentschädigungssatzung
-  - Feuerwehr Entschädigung
-  - Aufwandsentschädigung Feuerwehr
-  - Verdienstausfall Feuerwehr
-  - Feuerwehrkommandant Vergütung
-  - Gerätewart Vergütung
-  - Jugendfeuerwehr Entschädigung
-  - Aus- und Fortbildung Feuerwehr
-  - Durchschnittssatz Feuerwehr
-  - Ehrenamt Feuerwehr
-fragen:
-  - "Wie viel Entschädigung erhalten Feuerwehrangehörige in Bad Boll pro Stunde?"
-  - "Bekomme ich als Feuerwehrkommandant eine zusätzliche jährliche Vergütung?"
-  - "Werden Fahrtkosten zu Feuerwehrlehrgängen erstattet?"
-  - "Was erhalten Feuerwehrangehörige, die den Haushalt führen, als Entschädigung?"
-  - "Wie wird die Entschädigungszeit bei Feuerwehreinsätzen berechnet?"
-querverweise:
-  - Feuerwehrsatzung der Gemeinde Bad Boll
-  - Feuerwehrgesetz Baden-Württemberg
-  - Landesreisekostengesetz Baden-Württemberg
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
+
+- § 1 Entschädigung für Einsätze
+- § 2 Entschädigung für Aus- und Fortbildungslehrgänge
+- § 3 Zusätzliche Entschädigung
+- § 4 Entschädigung für haushaltsführende Personen
+- § 5 Inkrafttreten
 
 **Satzung über die Entschädigung der ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr (Feuerwehrentschädigungssatzung)**
 
 Stand: November 2013
 
-## Satzung über die Entschädigung der ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr (Feuerwehrentschädigungssatzung)
+### Satzung über die Entschädigung der ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr (Feuerwehrentschädigungssatzung)
 
 Aufgrund § 4 der Gemeindeordnung für Baden-Württemberg in Verbindung mit § 16 des Feuerwehrgesetzes für Baden-Württemberg hat der Gemeinderat am 7. November 2013 folgende Satzung beschlossen.
 

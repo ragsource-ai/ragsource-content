@@ -2,10 +2,10 @@
 titel: Veröffentlichungsrichtlinie für das amtliche Mitteilungsblatt des Gemeindeverwaltungsverbandes Raum Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,39 +15,16 @@ gueltig_ab: 2016-07-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Mitteilungsblatt
-  - Amtsblatt
-  - Gemeindeblatt
-  - Veröffentlichungsrichtlinie
-  - Bekanntmachung
-  - Vereinsveröffentlichung
-  - Fraktionsbeitrag
-  - Wählergruppierung
-  - GVV Raum Bad Boll
-  - Presseverantwortlicher
-  - amtliche Bekanntmachung
-fragen:
-  - "Was darf im Mitteilungsblatt des GVV Raum Bad Boll veröffentlicht werden?"
-  - "Wie reicht ein Verein einen Bericht im Gemeindeblatt ein?"
-  - "Dürfen politische Parteien im Mitteilungsblatt veröffentlichen?"
-  - "Wie viele Zeichen haben Fraktionen im Mitteilungsblatt?"
-  - "Was wird im Mitteilungsblatt nicht veröffentlicht?"
-  - "Gibt es einen Rechtsanspruch auf Veröffentlichung im Gemeindeblatt?"
-querverweise:
-  - Satzung über die Form der öffentlichen Bekanntmachung der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL
-
-## Veröffentlichungsrichtlinie für das amtliche Mitteilungsblatt des Gemeindeverwaltungsverbandes Raum Bad Boll und der Gemeinden Aichelberg, Bad Boll, Dürnau, Gammelshausen, Hattenhofen und Zell u. A.
+### Veröffentlichungsrichtlinie für das amtliche Mitteilungsblatt des Gemeindeverwaltungsverbandes Raum Bad Boll und der Gemeinden Aichelberg, Bad Boll, Dürnau, Gammelshausen, Hattenhofen und Zell u. A.
 
 **Stand:** Juli 2016  
 **Seite:** V2 - 1
 
 Das amtliche Mitteilungsblatt (´s Blättle) ist das amtliche Veröffentlichungsorgan des Gemeindeverwaltungsverbandes Raum Bad Boll und der Gemeinden Aichelberg, Bad Boll, Dürnau, Gammelshausen, Hattenhofen und Zell u. A. und deren Zweckverbände. Es dient in erster Linie der Veröffentlichung amtlicher Bekanntmachungen und für die Information der Bevölkerung über kommunale Angelegenheiten durch den Gemeindeverwaltungsverband und der Gemeinden. Darüber heraus werden Informationen von örtlichen Vereinen, Organisationen, Kirchen, Fraktionen bzw. Wählergruppierungen und Parteien im Rahmen dieser Veröffentlichungsrichtlinie veröffentlicht.
 
-## 1) In das amtliche Mitteilungsblatt werden aufgenommen:
+### 1) In das amtliche Mitteilungsblatt werden aufgenommen:
 
 a) Öffentliche Bekanntmachungen und sonstige amtliche Mitteilungen des Gemeindeverwaltungsverbandes und der Gemeindeverwaltungen oder anderer öffentlicher Behörden und Stellen.
 
@@ -80,7 +57,7 @@ e) Veranstaltungsberichte örtlicher Vereine, Organisationen und Interessengemei
 
 f) Werbeanzeigen, Privatanzeigen und Anzeigen örtlicher Personenvereinigungen. Zur Entgegennahme von Anzeigen sind die Bürgermeisterämter berechtigt, aber nicht verpflichtet.
 
-## 2) Grundsätze
+### 2) Grundsätze
 
 a) Das amtliche Mitteilungsblatt hat die Aufgabe die Bürgerschaft über das örtliche Geschehen in den Gemeinden des Gemeindeverwaltungsverbandes zu informieren.
 
@@ -92,7 +69,7 @@ d) Veröffentlichungen sind möglichst kurz zu halten.
 
 e) Es besteht kein Rechtsanspruch auf eine Veröffentlichung. Der Herausgeber behält sich das Recht vor, Berichte zu kürzen und die Veröffentlichung von Bildern zu untersagen.
 
-## 3) Im amtlichen Mitteilungsblatt werden nicht veröffentlicht:
+### 3) Im amtlichen Mitteilungsblatt werden nicht veröffentlicht:
 
 a) Anzeigen mit nachteiligem Inhalt für den Gemeindeverwaltungsverband und die Mitgliedsgemeinden bzw. mit strafrechtlichem Inhalt.
 

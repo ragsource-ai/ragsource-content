@@ -2,9 +2,9 @@
 titel: Verbandssatzung des Gemeindeverwaltungsverbandes Raum Bad Boll
 ebene: verband
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -13,61 +13,40 @@ gueltig_ab: 2024-07-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Gemeindeverwaltungsverband
-  - GVV Raum Bad Boll
-  - GVV
-  - Verbandssatzung
-  - Mitgliedsgemeinden
-  - Aichelberg
-  - Bad Boll
-  - Dürnau
-  - Gammelshausen
-  - Hattenhofen
-  - Zell unter Aichelberg
-  - Verbandsversammlung
-  - Verwaltungsrat
-  - Verbandsvorsitzender
-  - Verbandsumlage
-  - Kapitalumlage
-  - Volkshochschule
-  - GVV-Bürgerauto
-  - Bauleitplanung
-  - Flächennutzungsplan
-  - interkommunale Zusammenarbeit
-  - GKZ
-  - Kassenverwaltung
-fragen:
-  - "Welche Gemeinden gehören zum GVV Raum Bad Boll?"
-  - "Was sind die Aufgaben des GVV Raum Bad Boll?"
-  - "Wer ist für die Volkshochschule Raum Bad Boll zuständig?"
-  - "Wie ist die Verbandsversammlung zusammengesetzt und wer hat wie viele Stimmen?"
-  - "Wie wird die Verbandsumlage berechnet und wann wird sie fällig?"
-  - "Wer stellt den Flächennutzungsplan auf – der GVV oder die einzelne Gemeinde?"
-  - "Was kann der Verbandsvorsitzende eigenständig entscheiden?"
-  - "Wie kann eine Gemeinde aus dem GVV ausscheiden?"
-querverweise:
-  - Gemeindeordnung für Baden-Württemberg (GemO BW)
-  - Gesetz über kommunale Zusammenarbeit Baden-Württemberg (GKZ)
-  - Hauptsatzung der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
 
-## Verbandsatzung des Gemeindeverwaltungsverbandes Raum Bad Boll
+- § 1 Mitglieder, Rechtsform, Name und Sitz
+- § 2 Aufgaben des Verbandes
+- § 3 Führung der Kassengeschäfte
+- § 4 Organe des Verbands
+- § 5 Verbandsversammlung
+- § 6 Verwaltungsrat
+- § 7 Geschäftsgang
+- § 8 Verbandsvorsitzender
+- § 9 Verbandsverwaltung
+- § 10 Finanzierung
+- § 11 Öffentliche Bekanntmachungen
+- § 12 Neuaufnahme und Ausscheiden von Mitgliedern
+- § 13 Auflösung des Verbands
+- § 14 Schiedsstelle
+- § 15 Schlussbestimmungen (Inkrafttreten)
+
+### Verbandsatzung des Gemeindeverwaltungsverbandes Raum Bad Boll
 
 **Stand:** Juli 2024
 **Seite:** V1 - 1
 
 Die in § 1 dieser Satzung genannten Gemeinden vereinbaren aufgrund von § 60 der Gemeindeordnung für Baden-Württemberg (GemO) in Verbindung mit § 6 des Gesetzes über kommunale Zusammenarbeit (GKZ) die nachstehende Verbandssatzung.
 
-## § 1 Mitglieder, Rechtsform, Name und Sitz
+### § 1 Mitglieder, Rechtsform, Name und Sitz
 
 (1) Die Gemeinden Aichelberg, Bad Boll, Dürnau, Gammelshausen, Hattenhofen, Zell u. A, alle Landkreis Göppingen, im folgenden Mitgliedsgemeinden genannt, bilden den „Gemeindeverwaltungsverband Raum Bad Boll".
 
 (2) Der Gemeindeverwaltungsverband, im folgenden Verband genannt, hat seinen Sitz in Bad Boll.
 
-## § 2 Aufgaben des Verbandes
+### § 2 Aufgaben des Verbandes
 
 (1) Der Verband berät die Mitgliedsgemeinden bei der Wahrnehmung Ihrer Aufgaben. Bei Angelegenheiten, die andere Mitgliedsgemeinden berühren und eine gemeinsame Abstimmung erfordern, haben sich die Mitgliedsgemeinden (§ 61 Abs. 1, Satz 2 GemO) der Beratung durch den Verband zu bedienen.
 
@@ -99,7 +78,7 @@ e) Der Verband ist Träger der Volkshochschule für sämtliche Verbandsmitgliede
 
 (5) Der Verband nimmt ferner die ihm sonst noch durch Gesetz oder aufgrund eines Gesetzes übertragenen Aufgaben wahr.
 
-## § 3 Führung der Kassengeschäfte
+### § 3 Führung der Kassengeschäfte
 
 (1) zu den Kassengeschäften nach § 2 Abs. 3 Buchstabe a) gehören insbesondere
 
@@ -115,11 +94,11 @@ d) die Beitreibung oder Veranlassung der Beitreibung nicht rechtzeitig bezahlter
 
 (3) Die Mitgliedsgemeinden können eigene Handvorschüsse und Zahlstellen zur Annahme und zur Auszahlung kleiner Geldbeträge führen. Für die Führung der Handvorschüsse und Zahlstellen sind die Mitgliedsgemeinden selbst verantwortlich. Die Handvorschüsse und Zahlstellen sind nach Bedarf mit der Gemeindekasse unter Belegung der Einnahmen und Ausgaben abzurechnen. Für die Prüfung der Handvorschüsse und Zahlstellen ist der Verband zuständig.
 
-## § 4 Organe des Verbands
+### § 4 Organe des Verbands
 
 Organe des Verbands sind die Verbandsversammlung der Verwaltungsrat und der Verbandsvorsitzende.
 
-## § 5 Verbandsversammlung
+### § 5 Verbandsversammlung
 
 (1) Die Verbandsversammlung ist das Hauptorgan des Verbands. Sie ist für alle Angelegenheiten des Verbands zuständig, für die nicht die Zuständigkeit des Verwaltungsrates oder des Verbandsvorsitzenden gegeben ist, insbesondere für:
 
@@ -145,7 +124,7 @@ Organe des Verbands sind die Verbandsversammlung der Verwaltungsrat und der Verb
 
 (6) Jede Mitgliedsgemeinde hat so viele Stimmen wie Vertreter in der Verbandsversammlung. Die Stimmen jeder Mitgliedsgemeinde können nur einheitlich abgegeben werden.
 
-## § 6 Verwaltungsrat
+### § 6 Verwaltungsrat
 
 (1) Der Verwaltungsrat beschließt über alle Angelegenheiten des Verbands, die nicht in die Zuständigkeit der Verbandsversammlung oder des Vorsitzenden fallen. Er hat wichtige Angelegenheiten, über die die Verbandsversammlung zu entscheiden hat, vorzuberaten und seine Stellungnahme durch den Vorsitzenden der Verbandsversammlung vortragen zu lassen.
 
@@ -159,7 +138,7 @@ Organe des Verbands sind die Verbandsversammlung der Verwaltungsrat und der Verb
 4. Verzicht auf Forderungen oder Niederschlagung von solchen, wenn der Wert 5.000 € übersteigt bis zu einem Betrag von 10.000 €,
 5. die Gewährung von übertariflichen Leistungen bis zu einem Betrag von 10.000 €.
 
-## § 7 Geschäftsgang
+### § 7 Geschäftsgang
 
 (1) Soweit sich aus dem Gesetz über kommunale Zusammenarbeit nicht anderes ergibt, sind auf die Verbandsversammlung und auf den Verwaltungsrat die Bestimmungen der Gemeindeordnung über den Gemeinderat und auf den Verbandsvorsitzenden die Bestimmungen der Gemeindeordnung über den Bürgermeister anzuwenden.
 
@@ -169,7 +148,7 @@ Organe des Verbands sind die Verbandsversammlung der Verwaltungsrat und der Verb
 
 (4) Die Niederschrift über die Verhandlungen der Verbandsversammlung und des Verwaltungsrats ist vom Vorsitzenden und vom Schriftführer zu unterzeichnen. Sie ist der Verbandsversammlung bzw. dem Verwaltungsrat spätestens bei der nächsten Sitzung zur Kenntnis zu bringen.
 
-## § 8 Verbandsvorsitzender
+### § 8 Verbandsvorsitzender
 
 (1) Der Verbandsvorsitzende und fünf Stellvertreter werden in der ersten Sitzung der Verbandsversammlung nach jeder regelmäßigen Neubestellung der weiteren Vertreter nach § 5 Abs. 4 und nach Ablauf der Hälfte der Amtszeit der weiteren Vertreter aus der Reihe der Bürgermeister der beteiligten Gemeinden gewählt. Scheiden sie vorzeitig aus der Verbandsversammlung aus, so findet für den Rest ihrer Amtszeit eine Neuwahl statt.
 
@@ -181,7 +160,7 @@ Organe des Verbands sind die Verbandsversammlung der Verwaltungsrat und der Verb
 4. Verzicht Forderungen oder Niederschlagung von solchen, wenn der Wert 5.000 € nicht übersteigt,
 5. Die Entscheidung über die Einstellung und Entlassung befristeter Beschäftigter, Aushilfskräften und Auszubildenden.
 
-## § 9 Verbandsverwaltung
+### § 9 Verbandsverwaltung
 
 (1) Zur Erfüllung seiner Aufgaben nach § 2 stellt der Verband Beamte mit der Befähigung zum Gemeindefachbeamten und sonstige Bedienstete nach Maßgabe des Stellenplans ein. Er kann auch die sonstigen Bediensteten zu hauptamtlichen Beamten ernennen.
 
@@ -189,7 +168,7 @@ Organe des Verbands sind die Verbandsversammlung der Verwaltungsrat und der Verb
 
 (3) Verletzt ein Bediensteter nach Abs. 2 in Ausübung seiner Tätigkeit bei der Wahrnehmung einer Verbandsaufgabe nach § 2 Abs. 4 und 5 die einem Dritten gegenüber obliegende Amtspflicht, so haftet der Verband. Im Übrigen haftet die Mitgliedsgemeinde, für die er tätig geworden ist.
 
-## § 10 Finanzierung
+### § 10 Finanzierung
 
 (1) Verband erhebt für die Inanspruchnahme seiner Dienstleistungen nach § 2 Abs. 3 Buchstabe b) und c) kostendeckende Entgelte nach zeitlicher Inanspruchnahme.
 
@@ -203,11 +182,11 @@ Für die Inanspruchnahme der Volkshochschule nach § 2 Abs. 4 Buchstabe e) werde
 
 (5) Die vorstehenden Regelungen über die Finanzierung sind anzuwenden, sofern im Einzelfall keine Sondervereinbarungen bestehen.
 
-## § 11 Öffentliche Bekanntmachungen
+### § 11 Öffentliche Bekanntmachungen
 
 Öffentliche Bekanntmachungen des Verbandes erfolgen durch Einrücken in das Mitteilungsblatt des Verbandes.
 
-## § 12 Neuaufnahme und Ausscheiden von Mitgliedern
+### § 12 Neuaufnahme und Ausscheiden von Mitgliedern
 
 (1) Weitere Gemeinden können in den Verband nur zu Beginn eines Rechnungsjahres aufgenommen werden. Entsprechendes gilt für das Ausscheiden einer Mitgliedsgemeinde aus dem Verband.
 
@@ -215,15 +194,15 @@ Für die Inanspruchnahme der Volkshochschule nach § 2 Abs. 4 Buchstabe e) werde
 
 (3) Scheidet eine Gemeinde aus dem Verband aus, so werden die erforderlichen Regelungen entsprechend § 62 Abs. 2 GemO in einer öffentlich-rechtlichen Vereinbarung getroffen.
 
-## § 13 Auflösung des Verbands
+### § 13 Auflösung des Verbands
 
 Bei der Auflösung des Verbands regeln die Mitgliedsgemeinden die erforderliche Auseinandersetzung durch eine öffentlich-rechtliche Vereinbarung gemäß § 62 Abs. 2 GemO. Der Beschluss der Verbandsversammlung über die Auflösung bedarf der Zustimmung aller Mitgliedsgemeinden.
 
-## § 14 Schiedsstelle
+### § 14 Schiedsstelle
 
 Bei Streitigkeiten aus dieser Verbandssatzung verpflichten sich die Beteiligten, vor Beschreitung des Rechtswegs das Landratsamt Göppingen zur Vermittlung einer gütlichen Einigung anzurufen.
 
-## § 15 Schlussbestimmungen (Inkrafttreten)
+### § 15 Schlussbestimmungen (Inkrafttreten)
 
 Die Satzung tritt am 18. Januar 1988 in Kraft.
 

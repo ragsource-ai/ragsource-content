@@ -2,10 +2,10 @@
 titel: Geschäftsordnung für den Gemeinderat der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,33 +15,47 @@ gueltig_ab: 2018-04-12
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Geschäftsordnung Gemeinderat
-  - Gemeinderatssitzung
-  - Tagesordnung Gemeinderat
-  - Beschlussfassung Gemeinderat
-  - Befangenheit Gemeinderat
-  - Verschwiegenheit Gemeinderat
-  - Fragestunde Gemeinderat
-  - öffentliche Sitzung
-  - nichtöffentliche Sitzung
-  - Fraktionen Gemeinderat
-  - Sitzungsprotokoll
-  - GemO
-fragen:
-  - "Wann tagt der Gemeinderat Bad Boll?"
-  - "Wie läuft eine Gemeinderatssitzung ab?"
-  - "Wann muss ein Gemeinderat wegen Befangenheit ausgeschlossen werden?"
-  - "Können Bürger bei Gemeinderatssitzungen Fragen stellen?"
-  - "Wie wird über Anträge im Gemeinderat abgestimmt?"
-  - "Wann darf der Gemeinderat nichtöffentlich tagen?"
-  - "Wie kann ich als Gemeinderat Akteneinsicht beantragen?"
-querverweise:
-  - Hauptsatzung der Gemeinde Bad Boll
-  - Gemeindeordnung für Baden-Württemberg
 ---
 
-# Geschäftsordnung für den Gemeinderat
+## Inhaltsverzeichnis
+
+- § 1 Zusammensetzung des Gemeinderats, Vorsitzender
+- § 2 Fraktionen
+- § 3 Rechtsstellung der Gemeinderäte
+- § 4 Unterrichtungsrecht, Akteneinsicht, Anfragerecht der Gemeinderäte
+- § 5 Amtsführung
+- § 6 Pflicht zur Verschwiegenheit
+- § 7 Vertretungsverbot
+- § 8 Ausschluss wegen Befangenheit
+- § 9 Öffentlichkeitsgrundsatz, Bekanntgabe nichtöffentlich gefasster Beschlüsse
+- § 10 Verhandlungsgegenstände
+- § 11 Sitzordnung
+- § 12 Einberufung
+- § 13 Tagesordnung
+- § 14 Beratungsunterlagen
+- § 15 Verhandlungsfähigkeit und Verhandlungsleitung
+- § 16 Handhabung der Ordnung, Hausrecht
+- § 17 Verhandlungsablauf, Änderung der Tagesordnung durch den Gemeinderat
+- § 18 Vortrag, beratende Mitwirkung im Gemeinderat
+- § 19 Redeordnung
+- § 20 Sachanträge
+- § 21 Geschäftsordnungsanträge
+- § 22 Beschlussfassung, Beschlussfähigkeit
+- § 23 Abstimmungen
+- § 24 Wahlen
+- § 25 Ernennung, Einstellung und Entlassung der Gemeindebediensteten
+- § 26 Persönliche Erklärungen
+- § 27 Fragestunde
+- § 28 Anhörung
+- § 29 Schriftliches Verfahren
+- § 30 Offenlegung
+- § 31 Inhalt der Niederschrift
+- § 32 Führung der Niederschrift
+- § 33 Anerkennung der Niederschrift
+- § 34 Einsichtnahme in die Niederschrift
+- § 35 Anwendung der Geschäftsordnung des Gemeinderats
+- § 36 In-Kraft-Treten
+- § 37 Außer-Kraft-Treten bisheriger Bestimmungen
 
 **Gemeinde Bad Boll**
 
@@ -49,9 +63,8 @@ Aufgrund des § 36 Abs. 2 der Gemeindeordnung für Baden-Württemberg (GemO) hat
 
 > *Hinweis: Die männliche Form wird zur textlichen Vereinfachung verwendet und bezieht die weibliche Form mit ein.*
 
----
 
-## I. Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 ### § 1 Zusammensetzung des Gemeinderats, Vorsitzender
 
@@ -73,7 +86,7 @@ Aufgrund des § 36 Abs. 2 der Gemeindeordnung für Baden-Württemberg (GemO) hat
 
 ---
 
-## II. Rechte und Pflichten der Gemeinderäte und der zur Beratung zugezogenen Einwohner und Sachverständigen
+### II. Rechte und Pflichten der Gemeinderäte und der zur Beratung zugezogenen Einwohner und Sachverständigen
 
 ### § 3 Rechtsstellung der Gemeinderäte
 
@@ -149,7 +162,7 @@ Die Gemeinderäte und die zur Beratung zugezogenen Einwohner müssen ihre Tätig
 
 ---
 
-## III. Sitzungen des Gemeinderats
+### III. Sitzungen des Gemeinderats
 
 ### § 9 Öffentlichkeitsgrundsatz, Bekanntgabe nichtöffentlich gefasster Beschlüsse
 
@@ -371,7 +384,7 @@ c) Zu den gestellten Fragen, Anregungen und Vorschlägen nimmt der Vorsitzende S
 
 ---
 
-## IV. Beschlussfassung im schriftlichen Verfahren und durch Offenlegung
+### IV. Beschlussfassung im schriftlichen Verfahren und durch Offenlegung
 
 ### § 29 Schriftliches Verfahren
 
@@ -391,7 +404,7 @@ c) Zu den gestellten Fragen, Anregungen und Vorschlägen nimmt der Vorsitzende S
 
 ---
 
-## V. Niederschrift
+### V. Niederschrift
 
 ### § 31 Inhalt der Niederschrift
 
@@ -433,7 +446,7 @@ c) Zu den gestellten Fragen, Anregungen und Vorschlägen nimmt der Vorsitzende S
 
 ---
 
-## VI. Geschäftsordnung der Ausschüsse
+### VI. Geschäftsordnung der Ausschüsse
 
 ### § 35 Anwendung der Geschäftsordnung des Gemeinderats
 
@@ -457,7 +470,7 @@ g) Die an der Teilnahme einer Sitzung verhinderten Mitglieder von Ausschüssen h
 
 ---
 
-## VII. Schlussbestimmungen
+### VII. Schlussbestimmungen
 
 ### § 36 In-Kraft-Treten
 

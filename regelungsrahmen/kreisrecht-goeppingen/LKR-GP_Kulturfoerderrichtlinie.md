@@ -2,8 +2,8 @@
 titel: Kulturförderrichtlinien des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss, gültig ab 2020
@@ -11,28 +11,7 @@ gueltig_ab: 2020-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Kulturförderung
-  - Kulturbudget
-  - Landkreis Göppingen
-  - Förderrichtlinien
-  - Kulturprojekte
-  - Musik Förderung
-  - Kunst Förderung
-  - Veranstaltungsförderung
-  - Förderantrag
-  - Verwendungsnachweis
-  - Landratsamt Kreisarchiv
-fragen:
-  - "Wie beantrage ich eine Kulturförderung beim Landkreis Göppingen?"
-  - "Bis wann muss der Antrag auf Kulturförderung beim Landkreis Göppingen eingereicht werden?"
-  - "Wie viel Geld kann der Landkreis Göppingen für ein Kulturprojekt fördern?"
-  - "Welche Voraussetzungen muss ein Kulturprojekt für eine Kreisförderung erfüllen?"
-  - "Können kommerzielle Veranstaltungen vom Landkreis Göppingen gefördert werden?"
-querverweise:
-  - Hauptsatzung des Landkreises Göppingen
 ---
-# Kulturförderrichtlinien des Landkreises Göppingen
 
 Der Landkreis Göppingen verfügt über ein vielseitiges kulturelles Profil und fördert dieses regelmäßig mit finanziellen Mitteln aus dem Kreishaushalt. Die Kulturförderung des Landkreises ist dabei grundsätzlich nachrangig zur kommunalen Kulturförderung zu sehen. Sie verfolgt eine kontinuierliche Sicherung sowie eine innovative Weiterentwicklung von qualitativ hochwertigen Kulturangeboten aus den Bereichen Musik, Kunst, Kulturpflege und Bildung für die Bewohnerinnen und Bewohner sowie die Besucherinnen und Besucher des Landkreises.
 

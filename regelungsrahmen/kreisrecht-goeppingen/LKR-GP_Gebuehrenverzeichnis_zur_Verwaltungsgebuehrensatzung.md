@@ -2,8 +2,8 @@
 titel: Gebührenverzeichnis zur Verwaltungsgebührensatzung des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Anlage zur Verwaltungsgebührensatzung des Landkreises Göppingen
@@ -11,27 +11,7 @@ gueltig_ab: 2021-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Gebührenverzeichnis
-  - Verwaltungsgebühren
-  - Landratsamt Göppingen
-  - Beglaubigung
-  - Akteneinsicht
-  - Schulzeugnis Beglaubigung
-  - Obst- und Gartenbauberatung
-  - Kreishochbauamt
-  - Verwaltungsgebührensatzung
-  - Kreiskasse
-fragen:
-  - "Was kostet eine Beglaubigung beim Landratsamt Göppingen?"
-  - "Was kostet die Einsichtnahme in Akten des Landratsamts Göppingen?"
-  - "Was kostet die Beglaubigung eines Schulzeugnisses im Landkreis Göppingen?"
-  - "Was kostet ein Obst- und Gartenbaukurs beim Landkreis Göppingen?"
-querverweise:
-  - Satzung über die Erhebung von Gebühren für öffentliche Leistungen des Landkreises Göppingen (Verwaltungsgebührensatzung)
-  - Tarif für die Benutzung kreiseigener Einrichtungen des Landkreises Göppingen (Entgeltordnung)
 ---
-# Gebührenverzeichnis zur Verwaltungsgebührensatzung des Landkreises Göppingen
 
 ## 1. Verwaltungsgebühren
 

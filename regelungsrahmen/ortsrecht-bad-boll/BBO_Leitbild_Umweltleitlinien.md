@@ -2,10 +2,10 @@
 titel: Umweltleitlinien der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,28 +15,9 @@ gueltig_ab: 1999-02-12
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Umweltleitlinien
-  - Umweltschutz
-  - Umweltmanagement
-  - Umweltmanagementsystem
-  - Nachhaltigkeit
-  - Ressourcenschonung
-  - ökologische Beschaffung
-  - Emissionsminimierung
-  - Klimaschutz
-  - kommunaler Umweltschutz
-fragen:
-  - "Welche Umweltziele hat die Gemeinde Bad Boll?"
-  - "Wie setzt die Gemeinde Bad Boll Umweltschutz in der Verwaltung um?"
-  - "Was sind die Umweltleitlinien der Gemeinde Bad Boll?"
-  - "Wie werden Umweltgesichtspunkte bei der Beschaffung berücksichtigt?"
-querverweise: []
 ---
 
-# GEMEINDE BAD BOLL
-
-## Umweltleitlinien für die Gemeinde Bad Boll
+### Umweltleitlinien für die Gemeinde Bad Boll
 
 **Stand:** Januar 2008  
 **Seite:** U1 - 1

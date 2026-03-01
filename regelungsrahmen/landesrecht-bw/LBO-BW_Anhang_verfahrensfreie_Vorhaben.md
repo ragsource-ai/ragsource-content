@@ -1,51 +1,25 @@
 ---
-titel: "Landesbauordnung Baden-Württemberg (LBO BW) – Anhang: Verfahrensfreie Vorhaben (zu § 50 Abs. 1)"
+titel: Landesbauordnung Baden-Württemberg (LBO BW)
 ebene: land
 saule: regelungsrahmen
-land_ars: "08"
+land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz neugefasst am 05.03.2010, zuletzt geändert durch Artikel 1 des Gesetzes vom 18.03.2025 (GBl. 2025 Nr. 25)
 gueltig_ab: 2010-03-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - LBO BW
-  - verfahrensfreie Vorhaben
-  - genehmigungsfreies Bauen
-  - Carport genehmigungsfrei
-  - Gartenhaus Genehmigung
-  - Schuppen genehmigungsfrei
-  - Solaranlage genehmigungsfrei
-  - Terrassenüberdachung
-  - Einfriedung
-  - Schwimmbecken Genehmigung
-  - Kleinbauten
-  - Nebengebäude
-fragen:
-  - "Brauche ich eine Baugenehmigung für ein Gartenhaus?"
-  - "Ab welcher Größe braucht ein Carport eine Baugenehmigung?"
-  - "Ist eine Photovoltaikanlage auf dem Dach genehmigungsfrei?"
-  - "Brauche ich eine Genehmigung für einen Swimmingpool?"
-  - "Muss eine Einfriedung genehmigt werden?"
-  - "Was sind verfahrensfreie Vorhaben nach der LBO Baden-Württemberg?"
-querverweise:
-  - Landesbauordnung Baden-Württemberg (LBO BW) – Teil 8: Verwaltungsverfahren und Baulasten
-  - Landesbauordnung Baden-Württemberg (LBO BW) – Teil 2: Grundstück und Bebauung
 ---
-
-# Landesbauordnung für Baden-Württemberg (LBO)
 
 **Neugefasst:** 05.03.2010  
 **Gültig ab:** 01.03.2010  
 **Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
 
----
-## ANHANG - Verfahrensfreie Vorhaben (zu § 50 Absatz 1)
+### ANHANG - Verfahrensfreie Vorhaben (zu § 50 Absatz 1)
 
 Verfahrensfrei sind die Errichtung, Änderung und Nutzungsänderung von:
 
-### 1. Gebäude
+## 1. Gebäude
 
 1.1 Gebäude ohne Aufenthaltsräume, ohne Feuerungsanlagen und ohne Toiletten mit nicht mehr als 50 m³ Brutto-Rauminhalt, im Außenbereich nur, wenn sie einem land- oder forstwirtschaftlichen Betrieb dienen;
 
@@ -55,7 +29,7 @@ Verfahrensfrei sind die Errichtung, Änderung und Nutzungsänderung von:
 
 1.4 Stellplätze in Gebäuden und sonstige Gebäude mit nicht mehr als 50 m³ Brutto-Rauminhalt für Fahrräder und Kinderwagen.
 
-### 2. Sonstige bauliche Anlagen
+## 2. Sonstige bauliche Anlagen
 
 2.1 Stützmauern und Einfriedungen bis zu 2 m Höhe;
 
@@ -101,7 +75,7 @@ b) auf dem Grundstück stehend, außerhalb der im Zusammenhang bebauten Ortsteil
 
 2.20 Kamine, Brennstoffbehälter für Heizungsanlagen, Schornsteine, Abgasanlagen und Lüftungsanlagen, soweit sie den Technischen Baubestimmungen entsprechen.
 
-### 3. Änderungen und Nutzungsänderungen
+## 3. Änderungen und Nutzungsänderungen
 
 3.1 Die Nutzungsänderung ist verfahrensfrei, wenn für die neue Nutzung keine anderen oder weitergehenden Anforderungen gelten als für die bisherige Nutzung oder durch die neue Nutzung Wohnraum im Innenbereich geschaffen wird;
 
@@ -113,7 +87,7 @@ b) auf dem Grundstück stehend, außerhalb der im Zusammenhang bebauten Ortsteil
 
 3.5 Änderungen in der Fassadengestaltung von Gebäuden sind verfahrensfrei, wenn das Erscheinungsbild nicht wesentlich verändert wird und keine Belange des Denkmalschutzes berührt werden.
 
-### 4. Besondere Bestimmungen
+## 4. Besondere Bestimmungen
 
 4.1 Die Verfahrensfreiheit entfällt, wenn
 

@@ -1,8 +1,8 @@
 ---
-titel: "Rettungsdienstgesetz Baden-Württemberg (RDG)"
+titel: Rettungsdienstgesetz Baden-Württemberg (RDG)
 ebene: land
 saule: regelungsrahmen
-land_ars: "08"
+land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz vom 25.07.2024 (GBl. 2024, Nr. 66), gültig ab 02.08.2024
 gueltig_ab: 2024-08-02
@@ -10,39 +10,25 @@ status: published
 projekte:
   - amtsschimmel
   - brandmeister
-keywords:
-  - RDG
-  - Rettungsdienstgesetz
-  - Rettungsdienst
-  - Notfallrettung
-  - Krankentransport
-  - Integrierte Leitstelle
-  - Notarzt
-  - Telenotarzt
-  - Rettungssanitäter
-  - Notfallsanitäter
-  - Bereichsausschuss
-  - Rettungsdienstbereich
-  - Luftrettung
-  - Benutzungsentgelt
-  - Bereichsplan
-fragen:
-  - "Wer ist für den Rettungsdienst in Baden-Württemberg zuständig?"
-  - "Was ist der Unterschied zwischen Notfallrettung und Krankentransport?"
-  - "Wie wird der Rettungsdienst in Baden-Württemberg organisiert und finanziert?"
-  - "Was sind die Aufgaben der Integrierten Leitstelle im Rettungsdienst?"
-  - "Wer darf Krankentransporte in Baden-Württemberg durchführen?"
-  - "Was ist ein Telenotarzt und wie wird er im Rettungsdienst eingesetzt?"
-  - "Welche Pflichten hat eine Gemeinde im Bereich Rettungsdienst?"
-querverweise:
-  - Feuerwehrgesetz Baden-Württemberg (FwG BW)
-  - Landeskatastrophenschutzgesetz Baden-Württemberg (LKatSG BW)
-  - Gemeindeordnung für Baden-Württemberg (GemO BW)
 ---
 
-# Rettungsdienstgesetz Baden-Württemberg (RDG)
+## Inhaltsverzeichnis
 
-## Amtliche Angaben
+- § 1 - Aufgabe des Rettungsdienstes
+- § 2 - Begriffsbestimmungen
+- § 3 - Trägerschaft und Durchführung des bodengebundenen Rettungsdienstes und des Berg- und Wasser-Rettungsdienstes
+- § 4 - Trägerschaft und Durchführung des Luftrettungsdienstes
+- § 5 - Ärztliche Leitungen Rettungsdienst
+- § 6 - Planung
+- § 7 - Experimentierklausel
+- § 8 - Landesausschuss für den Rettungsdienst
+- § 9 - Zentrale Stelle für Qualitätssicherung
+- § 10 - Bereichsausschuss für den Rettungsdienst
+- § 11 - Integrierte Leitstelle, Aufgaben und Befugnisse
+- § 12 - Integrierte Leitstelle, Trägerschaft und personelle Ausstattung
+- § 13 - Integrierte Leitstelle, Zusammenarbeit mit anderen Stellen
+
+### Amtliche Angaben
 
 **Amtliche Abkürzung**: RDG  
 **Ausfertigungsdatum**: 25.07.2024  
@@ -53,9 +39,9 @@ querverweise:
 **Gliederungs-Nr.**: 2126-1
 
 
-### ERSTER ABSCHNITT - Aufgabe, Trägerschaft und Durchführung des Rettungsdienstes
+## ERSTER ABSCHNITT - Aufgabe, Trägerschaft und Durchführung des Rettungsdienstes
 
-#### § 1 - Aufgabe des Rettungsdienstes
+### § 1 - Aufgabe des Rettungsdienstes
 
 (1) Aufgabe des Rettungsdienstes ist die Sicherstellung einer bedarfsgerechten Versorgung der Bevölkerung mit Leistungen der Notfallrettung und des Krankentransportes zu sozial tragbaren Benutzungsentgelten.
 
@@ -63,7 +49,7 @@ querverweise:
 
 (3) Gegenstand des Krankentransportes ist es, anderen Kranken, Verletzten oder sonst Hilfebedürftigen nötigenfalls Erste Hilfe zu leisten und sie unter fachgerechter Betreuung zu befördern. Nicht zum Krankentransport gehört die Beförderung von kranken Personen, die, in der Regel nach ärztlicher Beurteilung, während der Beförderung keiner medizinisch-fachlichen Betreuung bedürfen (Krankenfahrten).
 
-#### § 2 - Begriffsbestimmungen
+### § 2 - Begriffsbestimmungen
 
 Im Sinne des Rettungsdienstgesetzes bezeichnen
 
@@ -94,7 +80,7 @@ Im Sinne des Rettungsdienstgesetzes bezeichnen
 20. „Versorgungsbereich" den einer Rettungswache oder einem Notarztstandort zugeordneten geografischen Planungsbereich; der Versorgungsbereich kann über die Grenzen eines Rettungsdienstbereiches hinausreichen;
 21. „Rettungsdienstbereich" die administrativ-normative Gliederung, der alle Einrichtungen des Rettungsdienstes, die sich auf einem durch die Verordnung nach § 6 Absatz 2 Satz 4 Nummer 5 festgelegten Gebiet befinden, zugeordnet sind.
 
-#### § 3 - Trägerschaft und Durchführung des bodengebundenen Rettungsdienstes und des Berg- und Wasser-Rettungsdienstes
+### § 3 - Trägerschaft und Durchführung des bodengebundenen Rettungsdienstes und des Berg- und Wasser-Rettungsdienstes
 
 (1) Das Innenministerium schließt auf Landesebene mit dem Arbeiter-Samariter-Bund, dem Deutschen Roten Kreuz und seiner Bergwacht Württemberg, der Johanniter-Unfall-Hilfe und dem Malteser Hilfsdienst, ferner mit der Bergwacht Schwarzwald und der Deutschen Lebensrettungsgesellschaft Vereinbarungen über die bedarfsgerechte Versorgung der Bevölkerung mit leistungsfähigen Einrichtungen des Rettungsdienstes, soweit diese hierzu bereit und in der Lage sind.
 
@@ -113,7 +99,7 @@ Bei der Auswahl und der Beauftragung weiterer Stellen mit der Wahrnehmung von Au
 
 (5) Das Innenministerium stellt nach Anhörung der kommunalen Landesverbände fest, welche Landkreise und Stadtkreise, in denen die Durchführung des Rettungsdienstes nach Absatz 1 nicht sichergestellt ist, diese Aufgabe nach Absatz 4 wahrnehmen. Soweit durch die Übertragung der Aufgabe eine Ausgleichspflicht des Landes nach Artikel 71 Absatz 3 der Verfassung des Landes Baden-Württemberg begründet wird, schließt das Land eine Vereinbarung mit den Landkreisen und Stadtkreisen über einen angemessenen Ausgleich.
 
-#### § 4 - Trägerschaft und Durchführung des Luftrettungsdienstes
+### § 4 - Trägerschaft und Durchführung des Luftrettungsdienstes
 
 (1) Träger der Luftrettung ist das Land.
 
@@ -121,7 +107,7 @@ Bei der Auswahl und der Beauftragung weiterer Stellen mit der Wahrnehmung von Au
 
 (3) Das Land kann dem mit der Durchführung der Luftrettung beauftragten Unternehmen die erforderliche Infrastruktur ganz oder teilweise zur Verfügung stellen. Das Land kann sich am Bau eines Standortes zur Durchführung der Luftrettung finanziell beteiligen.
 
-#### § 5 - Ärztliche Leitungen Rettungsdienst
+### § 5 - Ärztliche Leitungen Rettungsdienst
 
 (1) In jedem Regierungspräsidium als oberer Rechtsaufsichtsbehörde wird eine hauptamtliche Ärztliche Leitung Rettungsdienst mit dem Umfang mindestens eines Vollzeitäquivalents eingerichtet. Ein Regierungspräsidium richtet nach Festlegung des Innenministeriums zusätzlich eine hauptamtliche Ärztliche Leitung Rettungsdienst Koordination Baden-Württemberg im Umfang mindestens eines halben Vollzeitäquivalents mit einer landesweiten Vor-Ort-Zuständigkeit ein. Zur Ärztlichen Leitung Rettungsdienst nach Satz 1 und 2 kann nur bestellt werden, wer das Studium der Humanmedizin absolviert hat und eine ärztliche Approbation sowie eine abgeschlossene Facharztausbildung auf dem Gebiet der Anästhesiologie, der Inneren Medizin, der Chirurgie oder des Öffentlichen Gesundheitswesens sowie die Zusatzweiterbildung Notfallmedizin besitzt.
 
@@ -133,9 +119,9 @@ Bei der Auswahl und der Beauftragung weiterer Stellen mit der Wahrnehmung von Au
 
 (5) Sofern es zur Qualitätssicherung oder im Interesse der Sicherstellung der Versorgung der Notfallpatientinnen und Notfallpatienten erforderlich ist, erhalten die Ärztlichen Leitungen Rettungsdienst nach Absatz 1 Satz 1 und 2 in begründeten Fällen Einblick in die Einsatzdokumentation. Die Einsichtnahme und ihre Gründe sind zu dokumentieren.
 
-### ZWEITER ABSCHNITT - Organisation und Einrichtungen des Rettungsdienstes
+## ZWEITER ABSCHNITT - Organisation und Einrichtungen des Rettungsdienstes
 
-#### § 6 - Planung
+### § 6 - Planung
 
 (1) In der Notfallrettung ist für bestimmte Notfallkategorien bei der Planung der bedarfsgerechten und wirtschaftlichen Vorhaltungsstrukturen die Zeit
 
@@ -179,7 +165,7 @@ jeweils bezogen auf ein Kalenderjahr im jeweiligen Rettungsdienstbereich anzuset
 
 (8) Die Standorte der Luftrettungsstationen werden landesweit durch das Innenministerium festgelegt.
 
-#### § 7 - Experimentierklausel
+### § 7 - Experimentierklausel
 
 (1) Zur Erprobung neuer Versorgungskonzepte, die der Erhaltung oder Verbesserung der Leistungsfähigkeit, der Qualitätsverbesserung oder der Wirtschaftlichkeit des Rettungsdienstes dienen, kann das Innenministerium im Benehmen mit dem Landesausschuss für den Rettungsdienst unter Beachtung der datenschutzrechtlichen Regelungen der §§ 49 bis 58 auf Antrag insbesondere Ausnahmen von den Vorgaben der § 14 Absatz 1, § 15 Absatz 1 bis 3, § 16 Absatz 1 bis 3 und § 45 Absatz 1, soweit dieser auf § 16 Absatz 2 verweist, sowie von den Vorgaben der nach § 6 Absatz 4 und der nach § 23 Absatz 2 erlassenen Verordnungen zulassen, wenn die grundsätzliche Erfüllung des gesetzlichen Auftrages nach § 1 sichergestellt ist. Wenn die Ausnahmen Auswirkungen auf die Ausbildung der Notfallsanitäterinnen und Notfallsanitäter haben, ist das Einvernehmen mit dem Sozialministerium herzustellen.
 
@@ -189,7 +175,7 @@ jeweils bezogen auf ein Kalenderjahr im jeweiligen Rettungsdienstbereich anzuset
 
 (4) Hat das Innenministerium eine Zulassung erteilt, hat die oder der Antragstellende die Durchführung des Erprobungsvorhabens aufgrund der Grundlage der durch den Landesausschuss für das Rettungswesen abgestimmten Kriterien zu dokumentieren und zu evaluieren. Über das Ergebnis ist im Landesausschuss für den Rettungsdienst zu berichten.
 
-#### § 8 - Landesausschuss für den Rettungsdienst
+### § 8 - Landesausschuss für den Rettungsdienst
 
 (1) Es wird ein Landesausschuss für den Rettungsdienst gebildet. Ihm gehören eine Vertreterin oder ein Vertreter des Innenministeriums und zehn Vertreterinnen oder Vertreter der Leistungsträger im Sinne des § 3 Absatz 1 oder § 4 sowie zehn Vertreterinnen oder Vertreter der Kostenträger an, wobei jeder Leistungsträger im Sinne des § 3 Absatz 1 mindestens ein Stimmrecht erhält. Die Aufteilung der weiteren Stimmrechte der Leistungsträger hat sich an der Verteilung der Vorhaltungen zu orientieren. Die Vertreterinnen und Vertreter der Leistungsträger und der Kostenträger werden auf Vorschlag ihrer Landesverbände vom Innenministerium berufen. Darüber hinaus gehören dem Landesausschuss für den Rettungsdienst mit beratender Stimme eine Vertreterin oder ein Vertreter des Sozialministeriums, der Baden-Württembergischen Krankenhausgesellschaft, der Landesärztekammer Baden-Württemberg, der Zentralen Stelle nach § 9, der kommunalen Landesverbände sowie die oder der Landes-Behindertenbeauftragte an. Der Landesausschuss für den Rettungsdienst oder das Innenministerium kann weitere sachkundige Personen als beratende Mitglieder berufen.
 
@@ -197,7 +183,7 @@ jeweils bezogen auf ein Kalenderjahr im jeweiligen Rettungsdienstbereich anzuset
 
 (3) Der Landesausschuss für den Rettungsdienst gibt sich eine Geschäftsordnung. Den Vorsitz hat die Vertreterin oder der Vertreter des Innenministeriums. Die oder der Vorsitzende muss Beschlüssen des Landesausschusses für den Rettungsdienst widersprechen, wenn sie oder er der Auffassung ist, dass sie rechtswidrig sind. Der Widerspruch muss unverzüglich, spätestens jedoch binnen einer Woche nach Beschlussfassung gegenüber den Mitgliedern des Landesausschusses für den Rettungsdienst ausgesprochen werden. Der Widerspruch hat aufschiebende Wirkung. Der Widerspruch ist gegenüber den Mitgliedern des Landesausschusses für den Rettungsdienst innerhalb eines Monats schriftlich oder elektronisch zu begründen und zu übermitteln. Der Beschluss ist endgültig gescheitert, sobald allen Mitgliedern des Landesausschusses für den Rettungsdienst die schriftliche oder elektronische Begründung zugegangen ist. Für den Zugang gilt § 41 des Landesverwaltungsverfahrensgesetzes entsprechend.
 
-#### § 9 - Zentrale Stelle für Qualitätssicherung
+### § 9 - Zentrale Stelle für Qualitätssicherung
 
 (1) Der Landesausschuss für den Rettungsdienst bestimmt eine zentrale Stelle für die trägerübergreifende Qualitätssicherung. Um die trägerübergreifende Qualitätssicherung zu gewährleisten, nimmt sie insbesondere folgende Aufgaben wahr:
 
@@ -231,9 +217,9 @@ Die Zentrale Stelle nach Absatz 1 stellt sicher, dass die Zugriffe auf das Onlin
 2. die am Rettungsdienst Beteiligten gegenüber der Zentralen Stelle nach Absatz 1 auskunftspflichtig, soweit dies für die Erfüllung der in Absatz 1 genannten Aufgaben erforderlich ist und
 3. die am Rettungsdienst Beteiligten verpflichtet, an vorgegebenen Qualitätssicherungsverfahren teilzunehmen.
 
-### ZWEITER ABSCHNITT - Organisation und Einrichtungen des Rettungsdienstes (Fortsetzung)
+## ZWEITER ABSCHNITT - Organisation und Einrichtungen des Rettungsdienstes (Fortsetzung)
 
-#### § 10 - Bereichsausschuss für den Rettungsdienst
+### § 10 - Bereichsausschuss für den Rettungsdienst
 
 (1) Im Rettungsdienstbereich wird ein Bereichsausschuss für den Rettungsdienst (Bereichsausschuss) gebildet. Ihm gehören eine gleiche Zahl von stimmberechtigten Vertreterinnen oder Vertretern der Leistungsträger und der Kostenträger im Rettungsdienstbereich, höchstens je sieben Vertreterinnen oder Vertreter, an. Ferner haben die Leistungsträger im Rettungsdienstbereich, die nicht mit stimmberechtigten Mitgliedern vertreten sind, das Recht, mit einer Vertreterin oder einem Vertreter an den Sitzungen des Bereichsausschusses beratend teilzunehmen. Darüber hinaus sollen dem Bereichsausschuss mit beratender Stimme eine Vertreterin oder ein Vertreter des Stadt- oder Landkreises, eine Ärztliche Leitung Rettungsdienst des zuständigen Regierungspräsidiums, eine Vertreterin oder ein Vertreter der Feuerwehr, eine Notärztliche Standortleitung sowie eine Leitende Notärztin oder ein Leitender Notarzt des Rettungsdienstbereiches, eine Vertreterin oder ein Vertreter der Kassenärztlichen Vereinigung sowie eine Vertreterin oder ein Vertreter der Krankenhäuser angehören. Bei Bedarf können weitere sachverständige Personen auf Beschluss des Bereichsausschusses zu den Beratungen hinzugezogen werden.
 
@@ -249,7 +235,7 @@ Die Zentrale Stelle nach Absatz 1 stellt sicher, dass die Zugriffe auf das Onlin
 
 (7) Die Kosten des Bereichsausschusses sind Kosten des Rettungsdienstes.
 
-#### § 11 - Integrierte Leitstelle, Aufgaben und Befugnisse
+### § 11 - Integrierte Leitstelle, Aufgaben und Befugnisse
 
 (1) Die Integrierten Leitstellen haben die Aufgabe, alle Notrufe, Notfallmeldungen, Krankentransportanforderungen, sonstige Hilfeersuchen und Informationen zum Rettungsdienst in ihrem Zuständigkeitsbereich entgegenzunehmen und zu bearbeiten. Notrufe für Feuerwehr und Rettungsdienst werden über die Notrufnummer 112 und über das bundesweite Notruf-App-System „nora" entgegengenommen und auf Basis einer landesweit einheitlichen Systematik abgefragt. Die Integrierten Leitstellen unterstützen die Hilfesuchenden bei der Durchführung von Erstmaßnahmen einschließlich von Erste-Hilfe-Maßnahmen, insbesondere Reanimation und Selbsthilfemaßnahmen.
 
@@ -269,19 +255,19 @@ Die Zentrale Stelle nach Absatz 1 stellt sicher, dass die Zugriffe auf das Onlin
 
 (9) Für überregionale oder spezielle Aufgaben kann das Innenministerium die Einrichtung besonderer Leitstellen festlegen oder diese Aufgaben auf bestehende Integrierte Leitstellen übertragen. Hierzu gehört auch die Einrichtung von Telenotärztlichen Zentralen und den darin enthaltenen telemedizinischen Arbeitsplätzen. Das Innenministerium wird ermächtigt, Einzelheiten zur Zuständigkeit, Aufgabenstellung und zu den Befugnissen besonderer Leitstellen und der Übertragung von überregionalen oder speziellen Aufgaben auf bestehende Integrierte Leitstellen durch Rechtsverordnung zu regeln.
 
-#### § 12 - Integrierte Leitstelle, Trägerschaft und personelle Ausstattung
+### § 12 - Integrierte Leitstelle, Trägerschaft und personelle Ausstattung
 
 (1) Leitstellen sind für Feuerwehr und Rettungsdienst als Integrierte Leitstellen in gemeinsamer Trägerschaft so einzurichten und so zu betreiben, dass die Aufgabenerfüllung jederzeit gewährleistet ist. In einer gemeinsamen vertraglichen Vereinbarung der Leitstellenträger sind insbesondere Standort, Kostenaufteilung und Leistungsumfang festzulegen. Die Vereinbarung nach Satz 2 bedarf der Zustimmung des Bereichsausschusses im Rettungsdienstbereich.
 
 (2) Die Integrierten Leitstellen müssen während ihrer Betriebszeit jederzeit einsatzbereit und bedarfsgerecht mit qualifiziertem Personal ausgestattet sein. Die Bedarfsgerechtigkeit der Personalausstattung der Integrierten Leitstellen ist alle zwei Jahre zu überprüfen und bei Bedarf anzupassen. Das Ergebnis der Prüfung und die daraus folgenden Änderungen sind der zuständigen Fachaufsichtsbehörde mitzuteilen.
 
-#### § 13 - Integrierte Leitstelle, Zusammenarbeit mit anderen Stellen
+### § 13 - Integrierte Leitstelle, Zusammenarbeit mit anderen Stellen
 
 Die Integrierten Leitstellen arbeiten zur Erfüllung ihrer Aufgaben mit benachbarten Integrierten Leitstellen, den besonderen und den mit überregionalen oder speziellen Aufgaben beauftragten bestehenden Integrierten Leitstellen nach § 11 Absatz 8, den Feuerwehren, den Leistungserbringern und den im Bevölkerungsschutz tätigen Hilfsorganisationen, der Polizei, dem öffentlichen Gesundheitsdienst, den Krankenhäusern, der Kassenärztlichen Vereinigung Baden-Württemberg, den Katastrophenschutzbehörden, den Einrichtungen des Digitalfunks BOS, den weiteren Behörden und Organisationen mit Sicherheitsaufgaben sowie mit sonstigen in der Notfall- und Akutversorgung tätigen Stellen und Kräften zusammen. Die Zusammenarbeit mit der Kassenärztlichen Vereinigung Baden-Württemberg sollte auch mittels einer wechselseitigen digitalen Fallübergabe auf Basis eines abgestimmten Ersteinschätzungsverfahrens erfolgen.
 
 ---
 
-## Vollständiger Gesetzestext verfügbar
+### Vollständiger Gesetzestext verfügbar
 
 Das vollständige Rettungsdienstgesetz Baden-Württemberg umfasst 61 Paragraphen in 8 Abschnitten:
 
@@ -343,7 +329,7 @@ Das vollständige Rettungsdienstgesetz Baden-Württemberg umfasst 61 Paragraphen
 
 ---
 
-## Zusammenfassung für Feuerwehrpraxis
+### Zusammenfassung für Feuerwehrpraxis
 
 Das RDG BW 2024 ist eine umfassende Neuregelung des Rettungsdienstes in Baden-Württemberg. Für Feuerwehren besonders relevant:
 

@@ -2,10 +2,10 @@
 titel: Satzung über die Entschädigung für ehrenamtliche Tätigkeit der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,36 +15,22 @@ gueltig_ab: 2022-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Ehrenamtsentschädigung
-  - Aufwandsentschädigung
-  - Sitzungsgeld
-  - Gemeinderat
-  - ehrenamtliche Tätigkeit
-  - Durchschnittssatz
-  - Verdienstausfall
-  - Reisekostenvergütung
-  - Gemeinderatsmitglied
-  - Grundbetrag
-fragen:
-  - "Wie viel Sitzungsgeld bekommt ein Gemeinderat in Bad Boll?"
-  - "Was erhalten Gemeinderäte als monatliche Aufwandsentschädigung?"
-  - "Wie wird die ehrenamtliche Tätigkeit in Bad Boll entschädigt?"
-  - "Bekommen Gemeinderat-Mitglieder eine Entschädigung für Fahrtkosten?"
-  - "Wie wird die zeitliche Inanspruchnahme beim Ehrenamt berechnet?"
-querverweise:
-  - Hauptsatzung der Gemeinde Bad Boll
-  - Geschäftsordnung des Gemeinderates der Gemeinde Bad Boll
 ---
 
-# Satzung über die Entschädigung für ehrenamtliche Tätigkeit vom 10. Mai 2001
+## Inhaltsverzeichnis
+
+- § 1 Entschädigung nach Durchschnittssätzen
+- § 2 Berechnung der zeitlichen Inanspruchnahme
+- § 3 Aufwandsentschädigung
+- § 4 Reisekostenvergütung
+- § 5 Inkrafttreten
 
 **GEMEINDE BAD BOLL**  
 **Stand: Januar 2022**
 
 Der Gemeinderat der Gemeinde Bad Boll hat am 10. Mai 2001 aufgrund des § 4 in Verbindung mit § 19 der Gemeindeordnung für Baden-Württemberg folgende Satzung beschlossen, die mit Satzungen vom 8. November 2012 sowie vom 9. Dezember 2021 geändert wurde:
 
-## § 1 Entschädigung nach Durchschnittssätzen
+### § 1 Entschädigung nach Durchschnittssätzen
 
 (1) Ehrenamtlich Tätige erhalten den Ersatz ihrer Auslagen und ihres Verdienstausfalls nach einheitlichen Durchschnittssätzen.
 
@@ -58,7 +44,7 @@ Der Gemeinderat der Gemeinde Bad Boll hat am 10. Mai 2001 aufgrund des § 4 in V
 |von mehr als 6 bis zu 8 Stunden|45,00 €|
 |von mehr als 8 Stunden (Tageshöchstsatz)|55,00 €|
 
-## § 2 Berechnung der zeitlichen Inanspruchnahme
+### § 2 Berechnung der zeitlichen Inanspruchnahme
 
 (1) Der für die ehrenamtliche Tätigkeit benötigten Zeit wird je eine halbe Stunde vor ihrem Beginn und nach ihrer Beendigung hinzugerechnet (zeitliche Inanspruchnahme). Beträgt der Zeitabstand zwischen zwei ehrenamtlichen Tätigkeiten weniger als eine Stunde, so darf nur der tatsächliche Zeitabstand zwischen Beendigung der ersten und Beginn der zweiten Tätigkeit zugerechnet werden.
 
@@ -68,7 +54,7 @@ Der Gemeinderat der Gemeinde Bad Boll hat am 10. Mai 2001 aufgrund des § 4 in V
 
 (4) Die Entschädigung für mehrmalige Inanspruchnahme am selben Tag darf zusammengerechnet den Tageshöchstsatz nach § 1 Abs. 2 nicht übersteigen.
 
-## § 3 Aufwandsentschädigung
+### § 3 Aufwandsentschädigung
 
 (1) Gemeinderäte erhalten für die Ausübung ihres Amts eine Aufwandsentschädigung.
 
@@ -85,10 +71,10 @@ Diese wird gezahlt
 
 (2) Der Grundbetrag der Aufwandsentschädigung nach Absatz 1 Nr. 1 und das Sitzungsgeld nach Absatz 1 Nr. 2 werden halbjährlich im Nachhinein gezahlt. Die Aufwandsentschädigung entfällt, wenn der Anspruchsberechtigte sein Amt ununterbrochen länger als drei Monate tatsächlich nicht ausübt, für die über drei Monate hinausgehende Zeit.
 
-## § 4 Reisekostenvergütung
+### § 4 Reisekostenvergütung
 
 Bei Dienstverrichtungen außerhalb des Gemeindegebiets erhalten ehrenamtlich Tätige neben der Entschädigung nach § 1 Abs. 2 und § 3 eine Reisekostenvergütung in entsprechender Anwendung der Bestimmungen des Landesreisekostengesetzes. Maßgebend ist die Reisekostenstufe B, für die Fahrtkostenerstattung die für Dienstreisende der Besoldungsgruppen A 8 bis A 16 geltende Stufe.
 
-## § 5 Inkrafttreten
+### § 5 Inkrafttreten
 
 Diese Satzung tritt am 01. Januar 2002, die Änderungssatzungen am 01. Januar 2013 sowie am 01. Januar 2022 in Kraft. Gleichzeitig tritt die Satzung über die Entschädigung für ehrenamtliche Tätigkeit vom 14. Dezember 1989 außer Kraft.

@@ -2,8 +2,8 @@
 titel: 1. Verordnung zur Änderung der Gebührenverordnung des Landratsamts Göppingen (untere Verwaltungsbehörde und untere Baurechtsbehörde)
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Rechtsverordnung des Landratsamts Göppingen vom 28.04.2025
@@ -11,45 +11,19 @@ gueltig_ab: 2025-05-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Gebührenverordnung Änderung
-  - Landratsamt Göppingen
-  - Schornsteinfeger
-  - Kaminkehrer
-  - Umweltschutzamt
-  - Baurechtsbehörde
-  - Immissionsschutz
-  - Arbeitsschutz
-  - Arbeitszeitgesetz
-  - Jugendarbeitsschutz
-  - Änderungsverordnung
-fragen:
-  - "Was hat sich an den Gebühren des Landratsamts Göppingen ab Mai 2025 geändert?"
-  - "Welche neuen Gebühren gelten für Schornsteinfegerbestellungen beim Landratsamt Göppingen?"
-  - "Welche Änderungen gibt es bei den Umweltschutzamt-Gebühren?"
-querverweise:
-  - Rechtsverordnung des Landratsamts Göppingen über die Erhebung von Gebühren für die Wahrnehmung von Aufgaben als untere Verwaltungsbehörde und als untere Baurechtsbehörde (Gebührenverordnung)
-  - Landesgebührengesetz Baden-Württemberg (LGebG)
 ---
-# 1. Verordnung zur Änderung der Rechtsverordnung des Landratsamts Göppingen über die Erhebung von Gebühren für die Wahrnehmung von Aufgaben als untere Verwaltungsbehörde und als untere Baurechtsbehörde (Gebührenverordnung) vom 01.03.2025
 
-Auf Grund von § 4 Abs. 3 des Landesgebührengesetzes in der Fassung des Gesetzes zur Neuregelung des Gebührenrechts vom 14. Dezember 2004 (GBl. S. 895) in der jeweils geltenden Fassung wird verordnet:
+## Inhaltsverzeichnis
 
-## Artikel 1 - Änderungen
+- Artikel 2 - Inkrafttreten
 
-Die Rechtsverordnung des Landratsamts Göppingen über die Erhebung von Gebühren für die Wahrnehmung von Aufgaben als untere Verwaltungsbehörde und als untere Baurechtsbehörde (Gebührenverordnung) vom 01.03.2025 wird wie folgt geändert:
-
-### (1) Änderungen Bauamt als untere Baurechtsbehörde
-
-Im ursprünglichen Gebührenverzeichnis (Anlage zur Gebührenverordnung vom 01.03.2025) werden die nachfolgenden Gebührentatbestände des „Bauamts als untere Baurechtsbehörde" geändert.
-
-#### 1. Die lfd. Nr. 26 wird wie folgt neu gefasst:
+## 1. Die lfd. Nr. 26 wird wie folgt neu gefasst:
 
 |Lfd. Nr.|Produktbezeichnung|Gebühr|
 |---|---|---|
 |26|Bestellungen/ Verlängerung  <br>1. Bestellung als bBSF nach §§ 9, 10 SchfHwG  <br>2. Bestellung als betriebsangehöriger Vertreter nach § 11 b SchfHwG  <br>3. Antrag auf Verlängerung nach § 10 Abs. 1 SchfHwG|500 € (Festgebühr)  <br>200 € (Festgebühr)  <br>je angefangene Stunde 78 € (Zeitgebühr)|
 
-#### 2. Die lfd. Nr. 32 wird wie folgt neu gefasst:
+## 2. Die lfd. Nr. 32 wird wie folgt neu gefasst:
 
 |Lfd. Nr.|Produktbezeichnung|Gebühr|
 |---|---|---|
@@ -65,7 +39,7 @@ Im ursprünglichen Gebührenverzeichnis (Anlage zur Gebührenverordnung vom 01.0
 4. In lfd. Nr. 9.5 lit. c) wird in der Produktbezeichnung „Fläche" durch „Flächen" ersetzt.
 5. In lfd. Nr. 19.2 werden lit. a) und lit. b) ersatzlos gestrichen.
 
-#### 6. Nach lfd. Nr. 20.1 werden lit. a) bis lit. d) wie folgt eingefügt:
+## 6. Nach lfd. Nr. 20.1 werden lit. a) bis lit. d) wie folgt eingefügt:
 
 |Produktbezeichnung|Gebühr|
 |---|---|
@@ -84,7 +58,7 @@ Im ursprünglichen Gebührenverzeichnis (Anlage zur Gebührenverordnung vom 01.0
 14. In lfd. Nr. 71 wird bei der Gebühr „63 bis 68" durch „61 bis 66" ersetzt.
 15. In lfd. Nr. 72 wird bei der Gebühr „63 bis 68" durch „61 bis 66" ersetzt.
 
-#### 16. Ersetzung der Gebührentatbestände lfd. Nr. 74 bis Nr. 92.3 durch lfd. Nr. 73 bis Nr. 90.3:
+## 16. Ersetzung der Gebührentatbestände lfd. Nr. 74 bis Nr. 92.3 durch lfd. Nr. 73 bis Nr. 90.3:
 
 Im Übrigen werden die Gebührentatbestände des ursprünglichen Gebührenverzeichnisses (Anlage zum Gebührenverzeichnis vom 01.03.2025) ab der lfd. Nr. 74 bis Nr. 92.3 durch die folgenden Gebührentatbestände lfd. Nr. 73 bis Nr. 90.3 ersetzt:
 
@@ -135,7 +109,7 @@ c) Schließt die Erlaubnis andere die Anlage betreffende behördliche Entscheidu
 |88.|Anordnungen und sonstige Entscheidungen nach dem Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen (NiSG) sowie nach Verordnungen, die auf Grund dieses Gesetzes erlassen worden sind, pro Std.|76,50 €/Std. (Zeitgebühr)|
 |89.|Anordnungen und sonstige Entscheidungen nach dem Arbeitszeitgesetz (ArbZG), mit Ausnahme der Nr. 89.1 bis 89.5|77,00 €/Std. (Zeitgebühr)|
 
-#### 89.1 Bewilligungen nach § 7 Abs. 5, § 15 Abs. 1 Nr. 1 u. 2 ArbZG
+### 89.1 Bewilligungen nach § 7 Abs. 5, § 15 Abs. 1 Nr. 1 u. 2 ArbZG
 
 Zahl der Beschäftigten, für die eine Ausnahmebewilligung erteilt wird:
 
@@ -152,7 +126,7 @@ Festgebühr in Abhängigkeit der Bewilligungsdauer:
 |---|---|---|
 |89.2|Feststellungen nach § 13 Absatz 3 Nummer 1 ArbZG|77,00 €/Std. (Zeitgebühr)|
 
-#### 89.3 Bewilligungen nach § 13 Absatz 3 Nummer 2 ArbZG
+### 89.3 Bewilligungen nach § 13 Absatz 3 Nummer 2 ArbZG
 
 Zahl der Beschäftigten, für die eine Ausnahmebewilligung erteilt wird:
 
@@ -165,7 +139,7 @@ Festgebühr in Abhängigkeit der Zahl der Sonn- und Feiertage:
 |21 bis 200|360 €|460 €|560 €|660 €|860 €|1.460 €|
 |über 200|660 €|860 €|1.060 €|1.260 €|1.660 €|2.660 €|
 
-#### 89.4 Bewilligungen nach § 13 Abs. 4 u. 5, § 15 Abs. 2 ArbZG
+### 89.4 Bewilligungen nach § 13 Abs. 4 u. 5, § 15 Abs. 2 ArbZG
 
 Zahl der Beschäftigten, für die eine Ausnahmebewilligung erteilt wird:
 
@@ -178,7 +152,7 @@ Festgebühr in Abhängigkeit der Dauer der Befristung:
 |21 bis 200|1.400 €|3.200 €|5.200 €|
 |über 200|3.200 €|5.200 €|8.400 €|
 
-#### 89.5 Bewilligungen nach § 15 Abs. 1 Nr. 4 ArbZG
+### 89.5 Bewilligungen nach § 15 Abs. 1 Nr. 4 ArbZG
 
 Zahl der Beschäftigten, für die eine Ausnahmebewilligung erteilt wird:
 
@@ -189,9 +163,9 @@ Zahl der Beschäftigten, für die eine Ausnahmebewilligung erteilt wird:
 |21 bis 2000|700 €|
 |über 200|1.300 €|
 
-### 90. Jugendarbeitsschutz
+## 90. Jugendarbeitsschutz
 
-#### 90.1 Ausnahmebewilligungen von den Vorschriften über Kinderarbeit nach § 6 Absatz 1 Jugendarbeitsschutzgesetz (JArbSchG)
+### 90.1 Ausnahmebewilligungen von den Vorschriften über Kinderarbeit nach § 6 Absatz 1 Jugendarbeitsschutzgesetz (JArbSchG)
 
 Zahl der Kinder, für die eine Ausnahmebewilligung erteilt wird:
 
@@ -213,7 +187,7 @@ Festgebühr in Abhängigkeit des Umfangs der Kinderarbeit pro Kalenderjahr:
 
 Die weiteren Gebührentatbestände des ursprünglichen Gebührenverzeichnisses (Anlage zur Gebührenverordnung vom 01.03.2025) bleiben von dieser Änderung unberührt.
 
-## Artikel 2 - Inkrafttreten
+### Artikel 2 - Inkrafttreten
 
 Diese Verordnung tritt am 01. Mai 2025 in Kraft.
 

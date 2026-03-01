@@ -2,10 +2,10 @@
 titel: Satzung über die Erhebung von Erschließungsbeiträgen der Gemeinde Bad Boll (Erschließungsbeitragssatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,42 +15,43 @@ gueltig_ab: 2018-03-08
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Erschließungsbeitrag
-  - Erschließungsbeitragssatzung
-  - Anbaustraße
-  - Wohnweg
-  - Straßenbeitrag
-  - Anliegerbeitrag
-  - Erschließungskosten
-  - Vorausleistung
-  - Beitragsschuldner
-  - KAG
-  - Kommunalabgabengesetz
-  - Erschließungsanlage
-fragen:
-  - "Muss ich als Grundstückseigentümer in Bad Boll einen Erschließungsbeitrag zahlen?"
-  - "Wie wird der Erschließungsbeitrag in Bad Boll berechnet?"
-  - "Was ist eine Vorausleistung beim Erschließungsbeitrag?"
-  - "Wann entsteht die Erschließungsbeitragspflicht?"
-  - "Wie kann ich den Erschließungsbeitrag in Raten zahlen?"
-  - "Welche Kosten sind beim Erschließungsbeitrag beitragsfähig?"
-querverweise:
-  - Satzung über die Kostenerstattung für Ausgleichs- und Ersatzmaßnahmen nach BauGB der Gemeinde Bad Boll
-  - Satzung über die Erhebung von Verwaltungsgebühren der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL - Erschließungsbeitragssatzung
+## Inhaltsverzeichnis
+
+- § 1 Erhebung des Erschließungsbeitrags
+- § 2 Umfang der Erschließungsanlagen
+- § 3 Ermittlung der beitragsfähigen Erschließungskosten
+- § 4 Merkmale der endgültigen Herstellung der Anbaustraßen und der Wohnwege
+- § 5 Anteil der Gemeinde an den beitragsfähigen Erschließungskosten
+- § 6 Erschlossene Grundstücke, Abrechnungsgebiet, Verteilung der umlagefähigen Erschließungskosten
+- § 7 Nutzungsflächen und Nutzungsfaktoren
+- § 8 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan die Geschosszahl festsetzt
+- § 9 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan eine Baumassenzahl festsetzt
+- § 10 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan die Höhe baulicher Anlagen festsetzt
+- § 11 Sonderregelungen für Grundstücke in beplanten Gebieten
+- § 12 Ermittlung des Nutzungsmaßes bei Grundstücken, für die keine Planfestsetzungen i.S.d. §§ 8 bis 11 bestehen
+- § 13 Artzuschlag
+- § 14 Mehrfach erschlossene Grundstücke
+- § 15 Vorauszahlungen
+- § 16 Entstehung der Beitragsschuld
+- § 17 Beitragsschuldner
+- § 18 Fälligkeit des Erschließungsbeitrags und der Vorauszahlungen
+- § 19 Ablösung des Erschließungsbeitrags
+- § 20 Erhebung des Erschließungsbeitrags
+- § 21 Andere Erschließungsanlagen
+- § 22 Übergangsregelung
+- § 23 Inkrafttreten
 
 **Stand:** März 2018
 
-## Satzung über die Erhebung von Erschließungsbeiträgen (Erschließungsbeitragssatzung)
+### Satzung über die Erhebung von Erschließungsbeiträgen (Erschließungsbeitragssatzung)
 
 Aufgrund der §§ 2, 26 Abs. 1 Satz 3, 34, 38 Abs. 1 Satz 2 i.V.m. § 31 Abs. 2 und § 38 Abs. 4 des Kommunalabgabengesetzes (KAG) i.V.m. § 4 der Gemeindeordnung für Baden-Württemberg (GemO) hat der Gemeinderat der Gemeinde Bad Boll am 14. Mai 2009 folgende Satzung beschlossen, die mit Satzung vom 8. März 2018 geändert wurde:
 
 ---
 
-## I. Erschließungsbeitrag für Anbaustraßen und Wohnwege
+### I. Erschließungsbeitrag für Anbaustraßen und Wohnwege
 
 ### § 1 Erhebung des Erschließungsbeitrags
 
@@ -262,7 +263,7 @@ Der Erschließungsbeitrag und die Vorauszahlungen sind innerhalb eines Monats na
 
 ---
 
-## II. Erschließungsbeitrag für Lärmschutzanlagen
+### II. Erschließungsbeitrag für Lärmschutzanlagen
 
 ### § 20 Erhebung des Erschließungsbeitrags
 
@@ -280,7 +281,7 @@ Der Erschließungsbeitrag und die Vorauszahlungen sind innerhalb eines Monats na
 
 ---
 
-## III. Schlussvorschriften
+### III. Schlussvorschriften
 
 ### § 21 Andere Erschließungsanlagen
 

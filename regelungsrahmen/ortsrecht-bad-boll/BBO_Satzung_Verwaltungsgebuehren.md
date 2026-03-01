@@ -2,10 +2,10 @@
 titel: Satzung über die Erhebung von Gebühren für öffentliche Leistungen der Gemeinde Bad Boll (Verwaltungsgebührensatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,41 +15,33 @@ gueltig_ab: 2025-07-31
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Verwaltungsgebühr
-  - Verwaltungsgebührensatzung
-  - Gebührenverzeichnis
-  - öffentliche Leistung
-  - Gebührenfreiheit
-  - Gebührenschuldner
-  - Amtshandlung
-  - Rahmengebühr
-  - KAG
-  - Kommunalabgabengesetz
-fragen:
-  - "Wofür erhebt die Gemeinde Bad Boll Verwaltungsgebühren?"
-  - "Wer ist von Verwaltungsgebühren befreit?"
-  - "Wie hoch sind die Verwaltungsgebühren in Bad Boll?"
-  - "Wann entsteht die Gebührenpflicht bei einer Amtshandlung?"
-  - "Werden Verwaltungsgebühren auch erhoben, wenn ein Antrag abgelehnt wird?"
-querverweise:
-  - Hauptsatzung der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
 
-## Satzung über die Erhebung von Gebühren für öffentliche Leistungen (Verwaltungsgebührensatzung)
+- § 1 Gebührenpflicht
+- § 2 Gebührenfreiheit
+- § 3 Gebührenschuldner
+- § 4 Gebührenhöhe
+- § 5 Umsatzsteuer
+- § 6 Auskunftspflicht
+- § 7 Entstehung der Gebühr
+- § 8 Fälligkeit, Zahlung
+- § 9 Auslagen
+- § 10 Schlussvorschriften
+
+### Satzung über die Erhebung von Gebühren für öffentliche Leistungen (Verwaltungsgebührensatzung)
 
 **Stand:** Juli 2025  
 **Seite:** V3 - 1
 
 Aufgrund von § 4 der Gemeindeordnung für Baden-Württemberg (GemO) und §§ 2 und 11 des Kommunalabgabengesetzes für Baden-Württemberg (KAG) hat der Gemeinderat der Gemeinde Bad Boll in seiner öffentlichen Sitzung am 31.07.2025 folgende Satzung beschlossen:
 
-## § 1 Gebührenpflicht
+### § 1 Gebührenpflicht
 
 Die Gemeinde Bad Boll erhebt für öffentliche Leistungen, die sie auf Veranlassung oder im Interesse Einzelner vornimmt, Gebühren nach dieser Satzung (Verwaltungsgebühren), soweit nicht Bundesrecht oder Landesrecht etwas anderes bestimmen. Unberührt bleiben Bestimmungen über Verwaltungsgebühren in besonderen Gebührensatzungen der Gemeinde Bad Boll.
 
-## § 2 Gebührenfreiheit
+### § 2 Gebührenfreiheit
 
 (1) Verwaltungsgebühren werden nicht erhoben für öffentliche Leistungen, die folgende Angelegenheiten betreffen:
 
@@ -79,7 +71,7 @@ Die Befreiung tritt nicht ein, soweit die in Satz 1 Genannten berechtigt sind, d
 
 (3) Weitere spezialgesetzliche Gebührenbefreiungstatbestände bleiben unberührt.
 
-## § 3 Gebührenschuldner
+### § 3 Gebührenschuldner
 
 (1) Zur Zahlung der Verwaltungsgebühren und Auslagen ist derjenige verpflichtet,
 
@@ -89,7 +81,7 @@ Die Befreiung tritt nicht ein, soweit die in Satz 1 Genannten berechtigt sind, d
 
 (2) Mehrere Gebühren- und Auslagenschuldner haften als Gesamtschuldner.
 
-## § 4 Gebührenhöhe
+### § 4 Gebührenhöhe
 
 Die Höhe der Verwaltungsgebühren richtet sich nach dem dieser Satzung beigefügten Gebührenverzeichnis. Das Gebührenverzeichnis ist Bestandteil der Satzung. Für öffentliche Leistungen, die im Gebührenverzeichnis nicht explizit benannt sind und für die keine Gebührenfreiheit vorgesehen ist, ist eine Gebühr nach Nummer 1 des Gebührenverzeichnisses (Allgemeine Verwaltungsgebühr) zu erheben.
 
@@ -103,21 +95,21 @@ Die Höhe der Verwaltungsgebühren richtet sich nach dem dieser Satzung beigefü
 
 (5) Wird der Antrag auf Erbringung einer öffentlichen Leistung abgelehnt, so ist Absatz 5 entsprechend anzuwenden. Wird der Antrag ausschließlich wegen Unzuständigkeit abgelehnt, wird keine Gebühr erhoben.
 
-## § 5 Umsatzsteuer
+### § 5 Umsatzsteuer
 
 Sofern die Leistungen, die den in dieser Satzung festgelegten Gebühren zugrunde liegen, nach § 2b UstG umsatzsteuerpflichtig sind, wird ab Anwendungsbeginn zu diesen Gebühren zusätzlich der jeweils gültige Mehrwertsteuersatz erhoben.
 
-## § 6 Auskunftspflicht
+### § 6 Auskunftspflicht
 
 Der Gebührenschuldner ist verpflichtet, die zur Festsetzung der Verwaltungsgebühr erforderlichen Angaben wahrheitsgemäß und vollständig zu machen und die notwendigen Unterlagen in Urschrift oder beglaubigter Abschrift vorzulegen. Es gelten die Bestimmungen der Abgabenordnung.
 
-## § 7 Entstehung der Gebühr
+### § 7 Entstehung der Gebühr
 
 (1) Die Gebührenschuld entsteht mit der Beendigung der öffentlichen Leistung.
 
 (2) Bei Zurücknahme eines Antrages nach § 4 Abs. 5 entsteht die Gebührenschuld mit der Zurücknahme, in den anderen Fällen des § 4 Abs. 6 mit der Beendigung der öffentlichen Leistung.
 
-## § 8 Fälligkeit, Zahlung
+### § 8 Fälligkeit, Zahlung
 
 (1) Die Verwaltungsgebühr wird durch schriftlichen oder mündlichen Bescheid festgesetzt und ist mit der Bekanntgabe der Gebührenfestsetzung an den Schuldner fällig.
 
@@ -125,7 +117,7 @@ Der Gebührenschuldner ist verpflichtet, die zur Festsetzung der Verwaltungsgeb�
 
 (3) Ausfertigungen, Abschriften sowie zurückzugebende Urkunden, die aus Anlass der öffentlichen Leistung eingereicht worden sind, können bis zur Bezahlung der festgesetzten Gebühren und Auslagen zurückbehalten werden.
 
-## § 9 Auslagen
+### § 9 Auslagen
 
 (1) In der Verwaltungsgebühr sind die der Gemeinde Bad Boll erwachsenen Auslagen inbegriffen. Übersteigen die Auslagen das übliche Maß erheblich, werden sie gesondert in der tatsächlich entstandenen Höhe festgesetzt. Dies gilt auch dann, wenn für eine öffentliche Leistung keine Gebühr erhoben wird.
 
@@ -145,7 +137,7 @@ f) Kosten der Beförderung und Verwahrung von Personen und Sachen.
 
 (3) Auf die Erstattung von Auslagen sind die für Verwaltungsgebühren geltenden Vorschriften entsprechend anzuwenden. Der Anspruch auf Erstattung der Auslagen entsteht mit der Aufwendung des zu erstattenden Betrags.
 
-## § 10 Schlussvorschriften
+### § 10 Schlussvorschriften
 
 (1) Diese Satzung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft.
 
@@ -169,7 +161,7 @@ Bürgermeister
 
 ---
 
-## Gebührenverzeichnis der Gemeinde Bad Boll
+### Gebührenverzeichnis der Gemeinde Bad Boll
 
 **Anlage zur Verwaltungsgebührensatzung (Stand 31.07.2025)**
 

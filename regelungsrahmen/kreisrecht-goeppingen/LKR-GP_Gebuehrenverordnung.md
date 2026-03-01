@@ -2,8 +2,8 @@
 titel: Rechtsverordnung des Landratsamts Göppingen über die Erhebung von Gebühren für die Wahrnehmung von Aufgaben als untere Verwaltungsbehörde und als untere Baurechtsbehörde (Gebührenverordnung)
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Rechtsverordnung des Landratsamts Göppingen vom 28.02.2025
@@ -11,34 +11,19 @@ gueltig_ab: 2025-03-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Gebührenverordnung
-  - Landratsamt Göppingen
-  - untere Verwaltungsbehörde
-  - untere Baurechtsbehörde
-  - Verwaltungsgebühren
-  - Zeitgebühr
-  - Baurecht Gebühren
-  - Baugenehmigung Gebühren
-  - Beglaubigung
-  - Landesgebührengesetz
-  - Widerspruchsgebühr
-fragen:
-  - "Welche Gebühren erhebt das Landratsamt Göppingen als untere Baurechtsbehörde?"
-  - "Was kostet eine Beglaubigung beim Landratsamt Göppingen?"
-  - "Wie viel kostet die Bearbeitung eines Widerspruchs beim Landratsamt Göppingen?"
-  - "Was kostet eine Fotokopie beim Landratsamt Göppingen?"
-  - "Was passiert gebührentechnisch, wenn ich meinen Antrag beim Landratsamt zurückziehe?"
-querverweise:
-  - Landesgebührengesetz Baden-Württemberg (LGebG)
-  - Satzung über die Erhebung von Gebühren für öffentliche Leistungen des Landkreises Göppingen (Verwaltungsgebührensatzung)
-  - Gebührenverzeichnis zur Gebührenverordnung des Landratsamts Göppingen
 ---
-# Rechtsverordnung des Landratsamts Göppingen über die Erhebung von Gebühren für die Wahrnehmung von Aufgaben als untere Verwaltungsbehörde und als untere Baurechtsbehörde (Gebührenverordnung) vom 1. März 2025
+
+## Inhaltsverzeichnis
+
+- § 1
+- § 2
+- § 3
+- § 4
+- § 5
 
 Aufgrund von § 4 Abs. 3 des Landesgebührengesetzes in der Fassung des Gesetzes zur Neuregelung des Gebührenrechts vom 14. Dezember 2004 (GBl. S. 895) in der jeweils geltenden Fassung wird verordnet:
 
-## § 1
+### § 1
 
 (1) Für die Wahrnehmung von Aufgaben des Landratsamts Göppingen als untere Verwaltungsbehörde im Sinne des Landesverwaltungsgesetzes und als untere Baurechtsbehörde im Sinne der Landesbauordnung werden Gebühren nach der Anlage zu dieser Verordnung erhoben, soweit nicht durch Rechtsvorschrift etwas Anderes bestimmt ist.
 
@@ -48,7 +33,7 @@ Aufgrund von § 4 Abs. 3 des Landesgebührengesetzes in der Fassung des Gesetzes
 
 (4) Im Übrigen gelten die Regelungen des Landesgebührengesetztes in der jeweils geltenden Fassung.
 
-## § 2
+### § 2
 
 (1) Wird ein Antrag auf eine öffentliche Leistung abgelehnt, wird eine Gebühr in Höhe von einem Zehntel bis zum vollen Betrag der Gebühr, mindestens 12 € erhoben. Wird der Antrag ausschließlich wegen Unzuständigkeit der Behörde abgelehnt, wird keine Gebühr erhoben.
 
@@ -69,17 +54,17 @@ Aufgrund von § 4 Abs. 3 des Landesgebührengesetzes in der Fassung des Gesetzes
 
 (7) Die Absätze 1 bis 5 gelten nur, sofern in der Anlage nichts Besonderes bestimmt ist.
 
-## § 3
+### § 3
 
 Soweit die aufgrund dieser Rechtsverordnung festgelegten Gebühren bzw. Entgelte der Umsatzsteuer unterliegen, erhöhen sich diese Gebühren bzw. Entgelte um die Umsatzsteuer in der gesetzlichen Höhe.
 
-## § 4
+### § 4
 
 **Salvatorische Klausel**
 
 Die Unwirksamkeit einer einzelnen Ordnungsziffer oder eines einzelnen Paragraphen führt nur zur Unwirksamkeit der gesamten Rechtsverordnung, wenn anzunehmen ist, dass die Rechtsverordnung ohne diese Ziffer oder des Paragraphen nicht in dieser Form erlassen worden wäre.
 
-## § 5
+### § 5
 
 Diese Verordnung tritt am 01.03.2025 in Kraft. Die Verordnung des Landratsamts Göppingen über die Erhebung von Gebühren für die Wahrnehmung von Aufgaben als untere Verwaltungsbehörde und als untere Baurechtsbehörde vom 20.12.2021, in Kraft getreten am 01.01.2022, in ihrer zuletzt gültigen Fassung vom 26.04.2022, tritt mit Wirkung zum 28.02.2025 außer Kraft.
 

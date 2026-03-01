@@ -2,10 +2,10 @@
 titel: Satzung über die Benutzung von Obdachlosen- und Flüchtlingsunterkünften der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,37 +15,33 @@ gueltig_ab: 2015-07-30
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Obdachlosenunterkunft
-  - Flüchtlingsunterkunft
-  - Obdachlosigkeit
-  - Wohnungsnotlage
-  - Anschlussunterbringung
-  - Einweisung
-  - Unterbringung
-  - Flüchtlingsaufnahme
-  - FlüAG
-  - Unterkünfte Benutzungsgebühr
-  - Benutzungsverhältnis
-fragen:
-  - "Wie wird jemand in eine Obdachlosenunterkunft in Bad Boll eingewiesen?"
-  - "Was sind die Pflichten der Bewohner einer Flüchtlingsunterkunft?"
-  - "Wann endet das Benutzungsverhältnis in einer Gemeindeunterkunft?"
-  - "Darf man in der Obdachlosenunterkunft Tiere halten?"
-  - "Wann darf die Gemeinde eine Unterkunft betreten?"
-  - "Was kostet die Unterbringung in einer Obdachlosenunterkunft in Bad Boll?"
-querverweise:
-  - Satzung über die Erhebung von Verwaltungsgebühren der Gemeinde Bad Boll
 ---
 
-# Satzung über die Benutzung von Obdachlosen- und Flüchtlingsunterkünften
+## Inhaltsverzeichnis
+
+- § 1 Rechtsform/Anwendungsbereich
+- § 2 Benutzungsverhältnis
+- § 3 Beginn und Ende der Nutzung
+- § 4 Benutzung der überlassenen Räume und Hausrecht
+- § 5 Instandhaltung der Unterkünfte
+- § 6 Räum- und Streupflicht
+- § 7 Hausordnungen
+- § 8 Rückgabe der Unterkunft
+- § 9 Haftung und Haftungsausschluss
+- § 10 Personenmehrheit als Benutzer
+- § 11 Verwaltungszwang
+- § 12 Gebührenpflicht und Gebührenschuldner
+- § 13 Gebührenmaßstab und Gebührenhöhe
+- § 14 Entstehung der Gebührenschuld, Beginn und Ende der Gebührenpflicht
+- § 15 Festsetzung und Fälligkeit
+- § 16 Inkrafttreten
 
 **GEMEINDE BAD BOLL**  
 **Stand: Januar 2025**
 
 Auf Grund der §§ 4 und 11 der Gemeindeordnung für Baden-Württemberg (GemO) sowie §§ 2 und 13 des Kommunalabgabengesetzes für Baden-Württemberg (KAG) hat der Gemeinderat der Gemeinde Bad Boll am 30.07.2015 folgende Satzung beschlossen, die mit Satzungen vom 29.06.2023 sowie 24.10.2024 geändert wurde:
 
-## I. Rechtsform und Zweckbestimmung der Obdachlosen- und Flüchtlingsunterkünfte
+### I. Rechtsform und Zweckbestimmung der Obdachlosen- und Flüchtlingsunterkünfte
 
 ### § 1 Rechtsform/Anwendungsbereich
 
@@ -57,7 +53,7 @@ Auf Grund der §§ 4 und 11 der Gemeindeordnung für Baden-Württemberg (GemO) s
 
 (4) Die Unterkünfte dienen der Aufnahme und i. d. R. der vorübergehenden Unterbringung von Personen, die obdachlos sind oder sich in einer außergewöhnlichen Wohnungsnotlage befinden und die erkennbar nicht fähig sind, sich selbst eine geordnete Unterkunft zu beschaffen oder eine Wohnung zu erhalten.
 
-## II. Gemeinsame Bestimmungen für die Benutzung der Obdachlosen- und Flüchtlingsunterkünfte
+### II. Gemeinsame Bestimmungen für die Benutzung der Obdachlosen- und Flüchtlingsunterkünfte
 
 ### § 2 Benutzungsverhältnis
 
@@ -146,7 +142,7 @@ Dem Benutzer obliegt die Räum- und Streupflicht nach der örtlichen Satzung üb
 
 Räumt ein Benutzer seine Unterkunft nicht, obwohl gegen ihn eine bestandskräftige oder vorläufig vollstreckbare Umsetzungsverfügung vorliegt, so kann die Umsetzung durch unmittelbaren Zwang nach Maßgabe des § 27 Landesverwaltungsvollstreckungsgesetzes vollzogen werden. Dasselbe gilt für die Räumung der Unterkunft nach Beendigung des Benutzungsverhältnisses durch schriftliche Verfügung (§ 3 Abs. 2 Satz 1).
 
-## III. Gebühren für die Benutzung der Obdachlosen- und Flüchtlingsunterkünfte
+### III. Gebühren für die Benutzung der Obdachlosen- und Flüchtlingsunterkünfte
 
 ### § 12 Gebührenpflicht und Gebührenschuldner
 
@@ -176,7 +172,7 @@ Räumt ein Benutzer seine Unterkunft nicht, obwohl gegen ihn eine bestandskräft
 
 (3) Eine vorübergehende Nichtbenutzung der Unterkunft entbindet den Benutzer nicht von der Verpflichtung, die Gebühren entsprechend Abs. 1 und 2 vollständig zu entrichten.
 
-## IV. Schlussbestimmungen
+### IV. Schlussbestimmungen
 
 ### § 16 Inkrafttreten
 

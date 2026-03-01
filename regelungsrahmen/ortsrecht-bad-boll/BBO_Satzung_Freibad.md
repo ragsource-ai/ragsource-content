@@ -2,10 +2,10 @@
 titel: Satzung über die Benutzung des Freibades der Gemeinde Bad Boll (Badeordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,34 +15,30 @@ gueltig_ab: 2022-10-20
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Freibad
-  - Badeordnung
-  - Schwimmbad
-  - Eintrittskarte
-  - Freibadgebühr
-  - Schwimmmeister
-  - Badegast
-  - Badekleidung
-  - Betriebszeiten
-  - Freibad Bad Boll
-  - Saisonkarte
-fragen:
-  - "Was kostet der Eintritt ins Freibad Bad Boll?"
-  - "Wann hat das Freibad Bad Boll geöffnet?"
-  - "Dürfen Kinder alleine ins Freibad Bad Boll?"
-  - "Was ist im Freibad Bad Boll verboten?"
-  - "Gibt es eine Saisonkarte für das Freibad Bad Boll?"
-  - "Darf ich Tiere ins Freibad Bad Boll mitbringen?"
-querverweise:
-  - Satzung über die Erhebung von Verwaltungsgebühren der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL - Satzung über die Benutzung des Freibades
+## Inhaltsverzeichnis
+
+- § 1 Zweck des Bades
+- § 2 Zweck der Badeordnung
+- § 3 Badegäste
+- § 4 Eintritt
+- § 5 Betriebszeiten
+- § 6 Zutritt
+- § 7 Badekleidung
+- § 8 Aus- und Ankleiden, Aufbewahrung von Kleidung und Wertsachen
+- § 9 Körperreinigung
+- § 10 Badbenutzung
+- § 11 Verhalten im Bad
+- § 12 Haftung
+- § 13 Fundsachen
+- § 14 Aufsicht
+- § 15 Umsatzsteuer
+- § 16 Inkrafttreten
 
 **Stand:** Oktober 2024
 
-## Satzung über die Benutzung des Freibades (Badeordnung)
+### Satzung über die Benutzung des Freibades (Badeordnung)
 
 Aufgrund von § 4 der Gemeindeordnung für Baden-Württemberg sowie den §§ 2 und 13 des Kommunalabgabengesetzes für Baden-Württemberg hat der Gemeinderat am 20. Oktober 2022 folgende Badeordnung beschlossen, die mit Satzungen vom 7.12.2023 sowie 24.10.2024 geändert wurde:
 
@@ -189,7 +185,7 @@ Diese Satzung tritt am 01.01.2023 in Kraft, die Änderungssatzungen treten am 15
 
 ---
 
-## Anlage zur Badeordnung - Gebührenverzeichnis
+### Anlage zur Badeordnung - Gebührenverzeichnis
 
 | Leistung | Preis |
 |----------|-------|

@@ -2,10 +2,10 @@
 titel: Betriebssatzung für die Wasserversorgung der Gemeinde Bad Boll (Eigenbetrieb)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,34 +15,22 @@ gueltig_ab: 2023-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Eigenbetrieb
-  - Wasserversorgung Bad Boll
-  - Betriebssatzung
-  - EigBG
-  - Eigenbetriebsgesetz
-  - Stammkapital
-  - Bürgermeister Betriebsleitung
-  - Wirtschaftsführung
-  - Gemeinderat Wasserversorgung
-  - öffentliche Wasserversorgung
-fragen:
-  - "Wie ist die Wasserversorgung Bad Boll organisiert?"
-  - "Wer leitet den Eigenbetrieb Wasserversorgung Bad Boll?"
-  - "Was ist das Stammkapital des Eigenbetriebs Wasserversorgung?"
-  - "Welche Aufgaben hat der Gemeinderat beim Eigenbetrieb Wasserversorgung?"
-querverweise:
-  - Satzung über den Anschluss an die öffentliche Wasserversorgungsanlage und die Versorgung der Grundstücke mit Wasser (Wasserversorgungssatzung) der Gemeinde Bad Boll
 ---
 
-# Betriebssatzung für die Wasserversorgung der Gemeinde Bad Boll
+## Inhaltsverzeichnis
+
+- § 1 Gegenstand des Eigenbetriebes
+- § 2 Name des Eigenbetriebs
+- § 3 Zuständigkeit
+- § 4 Wirtschaftsführung und Rechnungswesen, Stammkapital
+- § 5 Inkrafttreten
 
 **GEMEINDE BAD BOLL**  
 **Stand: Januar 2023**
 
 Aufgrund von § 4 der Gemeindeordnung für Baden-Württemberg (GemO) und § 3 Abs 2 des Eigenbetriebsgesetzes (EigBG) hat der Gemeinderat der Gemeinde Bad Boll am 26.01.2023 folgende Betriebssatzung beschlossen:
 
-## § 1 Gegenstand des Eigenbetriebes
+### § 1 Gegenstand des Eigenbetriebes
 
 (1) Die Wasserversorgung der Gemeinde Bad Boll wird als Eigenbetrieb nach dem Eigenbetriebsgesetz und den Bestimmungen dieser Satzung geführt.
 
@@ -50,11 +38,11 @@ Aufgrund von § 4 der Gemeindeordnung für Baden-Württemberg (GemO) und § 3 Ab
 
 (3) Der Eigenbetrieb betreibt alle diesen Betriebszweck fördernden oder ihn wirtschaftlich berührenden Geschäfte.
 
-## § 2 Name des Eigenbetriebs
+### § 2 Name des Eigenbetriebs
 
 Der Eigenbetrieb führt den Namen „Wasserversorgung Bad Boll".
 
-## § 3 Zuständigkeit
+### § 3 Zuständigkeit
 
 (1) Für den Eigenbetrieb wird kein Betriebsausschuss gebildet. Der Gemeinderat beschließt über alle Angelegenheiten, die ihm durch die Gemeindeordnung und das Eigenbetriebsgesetz vorbehalten sind. Der Gemeinderat entscheidet auch in den Angelegenheiten, die nach dem Eigenbetriebsgesetz einem beschließenden Betriebsausschuss obliegen.
 
@@ -72,13 +60,13 @@ Dazu gehören
     - die Anordnung von Instandsetzungen
     - die Bewirtschaftung von Vorräten im Rahmen einer wirtschaftlichen Lagerhaltung.
 
-## § 4 Wirtschaftsführung und Rechnungswesen, Stammkapital
+### § 4 Wirtschaftsführung und Rechnungswesen, Stammkapital
 
 (1) Die Wirtschaftsführung und das Rechnungswesen des Eigenbetriebs erfolgt nach den Vorschriften des Eigenbetriebsgesetzes (EigBG) und der Eigenbetriebsverordnung-HGB (EigBVO-HGB) auf der Grundlage der Vorschriften des Handelsgesetzbuchs.
 
 (2) Das Stammkapital des Eigenbetriebs wird auf 150.000 € festgesetzt.
 
-## § 5 Inkrafttreten
+### § 5 Inkrafttreten
 
 Die Betriebssatzung tritt am 01.01.2023 in Kraft. Gleichzeitig tritt die Betriebssatzung vom 04.11.1993 außer Kraft.
 

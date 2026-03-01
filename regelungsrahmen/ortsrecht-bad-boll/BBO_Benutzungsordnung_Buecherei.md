@@ -2,10 +2,10 @@
 titel: Benutzungsordnung der Bücherei im Alten Schulhaus Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,46 +15,33 @@ gueltig_ab: 2014-05-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Bücherei
-  - Bibliothek
-  - Leseausweis
-  - Ausleihe
-  - Leihfrist
-  - Medienausleihe
-  - Bücher ausleihen
-  - Mahnung
-  - Versäumnisgebühr
-  - Bücherrückgabe
-  - Online-Bibliothek
-  - Sommerleseclubs
-fragen:
-  - "Wie melde ich mich bei der Bücherei in Bad Boll an?"
-  - "Wie lange kann ich Bücher ausleihen?"
-  - "Was kostet es, wenn ich ein Buch zu spät zurückbringe?"
-  - "Ab welchem Alter dürfen Kinder die Bücherei alleine nutzen?"
-  - "Kann ich meine Ausleihe verlängern?"
-  - "Was passiert, wenn ich ein ausgeliehenes Medium beschädige?"
-querverweise:
-  - Satzung über die Erhebung von Verwaltungsgebühren der Gemeinde Bad Boll
 ---
 
-# Benutzungsordnung der Bücherei im Alten Schulhaus Bad Boll
+## Inhaltsverzeichnis
+
+- § 1 Allgemeines
+- § 2 Benutzerkreis
+- § 3 Anmeldung
+- § 4 Ausleihe/ Nutzung der Büchereiangebote
+- § 5 Behandlung der Medien/ Haftung
+- § 6 Gebühren
+- § 7 Aufenthalt in der Bücherei, Ausschluss von der Büchereibenutzung
+- § 8 Inkrafttreten
 
 **GEMEINDE BAD BOLL**  
 **Stand: Mai 2014**
 
-## § 1 Allgemeines
+### § 1 Allgemeines
 
 (1) Die Bücherei im Alten Schulhaus ist eine öffentliche kulturelle Einrichtung der Gemeinde Bad Boll. Als zentrale Institution der Medien- und Informationsversorgung ermöglicht die Bücherei den Zugang zu Büchern und anderen Druckerzeugnissen, Bild-, Ton- und Datenträgern und anderen online verfügbaren Datenquellen und vermittelt einen kompetenten Umgang mit Medien. Sie dient der Information, der staatsbürgerlichen Bildung, der beruflichen Fortbildung und der Freizeitgestaltung aller Bevölkerungskreise. Sie unterstützt und ergänzt das lebenslange Lernen sowie die persönliche und berufliche Qualifizierung und hat die Aufgabe, Lesen und Literatur zu fördern.
 
 (2) Zu dem in Abs. 1 genannten Zweck stellt die Bücherei auch öffentliche Internetzugänge bereit.
 
-## § 2 Benutzerkreis
+### § 2 Benutzerkreis
 
 (1) Ab dem vollendeten siebten Lebensjahr ist jedermann im Rahmen dieser Benutzungsordnung berechtigt, die Medien der Bücherei zu entleihen. Kinder unter sieben Jahren besuchen die Bücherei in Begleitung eines Erziehungsberechtigten.
 
-## § 3 Anmeldung
+### § 3 Anmeldung
 
 (1) Neue Leserinnen und Leser melden sich persönlich unter Vorlage eines gültigen Personalausweises an. Kinder und Jugendliche bis zum vollendeten 15. Lebensjahr benötigen eine Einverständniserklärung des Erziehungsberechtigten. Dieser haftet für die Einhaltung der Benutzungsordnung und verpflichtet sich, für anfallende Gebühren aufzukommen.
 
@@ -66,7 +53,7 @@ querverweise:
 
 (5) Die Benutzer/ innen erkennen mit ihrer Unterschrift bei der Anmeldung die Benutzungsordnung der Bücherei an.
 
-## § 4 Ausleihe/ Nutzung der Büchereiangebote
+### § 4 Ausleihe/ Nutzung der Büchereiangebote
 
 (1) Gegen Vorlage des Leseausweises können Medien aus der Bücherei entliehen werden. Dabei gelten folgende Leihfristen:
 
@@ -97,7 +84,7 @@ querverweise:
 
 (10) Jede/ r Büchereinutzer/ in hat sich während des Aufenthaltes in der Bücherei so zu betragen, dass andere Personen nicht gestört und die Einrichtungen der Bücherei nicht vorsätzlich beschädigt werden.
 
-## § 5 Behandlung der Medien/ Haftung
+### § 5 Behandlung der Medien/ Haftung
 
 (1) Jede/ r Büchereinutzer/ in ist verpflichtet, die Medien der Bücherei sorgfältig zu behandeln und sie gegen Verschmutzung und Beschädigung zu schützen. Der Zustand der entliehenen Medien ist beim Empfang zu prüfen und festgestellte Mängel unverzüglich anzuzeigen. Für verschmutze, beschädigte oder verlorengegangene Medien ist der/ diejenige Nutzer/ in ersatzpflichtig, auf dessen/ deren Ausweis sie entliehen sind. Als Ersatzbeträge gelten in der Regel die Wiederbeschaffungskosten. Kann die Bücherei den Schaden in Eigenleistung beheben, ist eine Reparaturgebühr zu bezahlen. Bei Kindern und Jugendlichen haftet der gesetzliche Vertreter.
 
@@ -109,29 +96,28 @@ querverweise:
 
 (5) Die Bücherei übernimmt keine Haftung für Schäden, die aus der Verletzung urheberrechtlicher Bestimmungen durch Büchereibenutzer/innen entstehen.
 
-## § 6 Gebühren
+### § 6 Gebühren
 
 (1) Die Gebührentarife sind im Anhang zur Benutzungsordnung in der Gebührenordnung geregelt.
 
 (2) Bei Personen, die sich in besonderer Weise für die Ziele der Bibliothek engagieren sowie im Rahmen von Werbeaktionen kann die Bibliotheksleitung auf die Erhebung von Entgelten ganz oder teilweise verzichten.
 
-## § 7 Aufenthalt in der Bücherei, Ausschluss von der Büchereibenutzung
+### § 7 Aufenthalt in der Bücherei, Ausschluss von der Büchereibenutzung
 
 (1) Büchereibenutzer/ innen, die wiederholt gegen die Bestimmungen der Benutzungsordnung oder gegen die Anordnungen des Büchereipersonals verstoßen, können auf Zeit oder andauernd von der Benutzung der Bücherei ausgeschlossen werden. Dies gilt auch für Büchereinutzer/ innen, die ihren aus dem Benutzungsverhältnis resultierenden Verpflichtungen nicht nachkommen (Nichtbegleichung von Mahn- und Versäumnisgebühren, Ersatzbeträgen). Bestehende Verpflichtungen bleiben von dem Ausschluss unberührt.
 
 (2) Für Wertsachen und Garderobe übernimmt die Bücherei keine Haftung.
 
-## § 8 Inkrafttreten
+### § 8 Inkrafttreten
 
 Diese Benutzungsordnung tritt am 13.05.2014 in Kraft. Die bisherige Benutzungsordnung vom 01.06.2007 verliert damit ihre Gültigkeit.
 
 ---
 
-# Anlage zur Benutzungsordnung der Bücherei im Alten Schulhaus Bad Boll
 
 **Stand: Mai 2015**
 
-## Gebührenordnung für die Benutzung der Bücherei
+### Gebührenordnung für die Benutzung der Bücherei
 
 (1) Die Benutzung der Bücherei ist kostenlos für Nutzer bis zur Vollendung des 18. Lebensjahres. Im Übrigen ist die Benutzung der Bücherei kostenpflichtig. Es besteht die Wahlmöglichkeit zwischen einer Jahres- und einer Einzelgebühr.
 

@@ -2,10 +2,10 @@
 titel: Feuerwehrsatzung der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,43 +15,34 @@ gueltig_ab: 2021-03-25
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Feuerwehrsatzung
-  - Freiwillige Feuerwehr
-  - Feuerwehr Bad Boll
-  - Feuerwehrkommandant
-  - Feuerwehrausschuss
-  - Jugendfeuerwehr
-  - Altersabteilung
-  - Einsatzabteilung
-  - Hauptversammlung
-  - Aufnahme Feuerwehr
-  - Feuerwehrpflichten
-  - Kameradschaftskasse
-  - Brandschutz
-  - FwG
-fragen:
-  - "Wie kann ich Mitglied der Freiwilligen Feuerwehr Bad Boll werden?"
-  - "Welche Voraussetzungen gelten für die Aufnahme in die Feuerwehr?"
-  - "Wie wird der Feuerwehrkommandant in Bad Boll gewählt?"
-  - "Was ist der Feuerwehrausschuss und wie ist er zusammengesetzt?"
-  - "Ab welchem Alter kann man in die Jugendfeuerwehr Bad Boll eintreten?"
-  - "Wann endet der ehrenamtliche Feuerwehrdienst automatisch?"
-  - "Welche Pflichten haben aktive Feuerwehrangehörige?"
-  - "Wie wird die Kameradschaftskasse der Feuerwehr verwaltet?"
-querverweise:
-  - Feuerwehrentschädigungssatzung der Gemeinde Bad Boll
-  - Feuerwehr-Kostenersatz-Satzung der Gemeinde Bad Boll
-  - Feuerwehrgesetz Baden-Württemberg
-  - Hauptsatzung der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
+
+- § 1 Name und Gliederung der Freiwilligen Feuerwehr
+- § 2 Aufgaben
+- § 3 Aufnahme in die Feuerwehr
+- § 4 Beendigung des ehrenamtlichen Feuerwehrdienstes
+- § 5 Rechte und Pflichten der Angehörigen der Gemeindefeuerwehr
+- § 6 Altersabteilung
+- § 7 Jugendfeuerwehr
+- § 8 Ehrenmitglieder
+- § 9 Organe der Feuerwehr
+- § 10 Feuerwehrkommandant
+- § 11 Stellvertretende Feuerwehrkommandanten
+- § 12 Unterführer
+- § 13 Schriftführer, Kassenverwalter, Gerätewart
+- § 14 Feuerwehrausschuss
+- § 15 Hauptversammlung
+- § 16 Wahlen
+- § 17 Sondervermögen für die Kameradschaftspflege (Kameradschaftskasse)
+- § 18 Rechtsschutz für Feuerwehrangehörige
+- § 19 Inkrafttreten
 
 **Feuerwehrsatzung**
 Stand: März 2021
 
-## Feuerwehrsatzung der Gemeinde Bad Boll
+### Feuerwehrsatzung der Gemeinde Bad Boll
 
 Aufgrund von § 4 der Gemeindeordnung in Verbindung mit § 6 Abs. 1 Satz 3 und Abs. 3, § 7 Abs. 1 Satz 1, § 8 Absatz 2 Satz 2 HS 2, § 10 Abs. 2 Satz 1 und Abs. 3 Satz 1, § 18 Abs. 1 Satz 1 und Abs. 4 des Feuerwehrgesetzes (FwG) hat der Gemeinderat am 25. März 2021 folgende Satzung beschlossen
 

@@ -2,8 +2,8 @@
 titel: Satzung über die Entschädigung für ehrenamtliche Tätigkeit des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 20.05.2022
@@ -11,37 +11,22 @@ gueltig_ab: 2022-07-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Ehrenamtsentschädigung
-  - ehrenamtliche Tätigkeit
-  - Sitzungsgeld
-  - Aufwandsentschädigung
-  - Kreisrat Entschädigung
-  - Verdienstausfall
-  - Reisekostenvergütung
-  - Kreistagsmitglied
-  - Pauschalbetrag
-  - Kreisbrandmeister
-  - Fraktionsvorsitzender
-fragen:
-  - "Wie viel Sitzungsgeld bekommt ein Kreisrat in Göppingen?"
-  - "Was erhalten Kreisräte als monatliche Aufwandsentschädigung?"
-  - "Bekomme ich als Kreisrat auch Entschädigung für Fraktionssitzungen?"
-  - "Wie wird die Fahrkostenerstattung für ehrenamtliche Tätigkeiten im Landkreis berechnet?"
-  - "Was bekommt der Kreisbrandmeister-Stellvertreter als Aufwandsentschädigung?"
-querverweise:
-  - Hauptsatzung des Landkreises Göppingen
-  - Landkreisordnung für Baden-Württemberg (LKrO)
-  - Landesreisekostengesetz Baden-Württemberg (LRKG)
 ---
-# Satzung über die Entschädigung für ehrenamtliche Tätigkeit
+
+## Inhaltsverzeichnis
+
+- § 1 Entschädigung nach Durchschnittssätzen
+- § 2 Aufwandsentschädigung
+- § 3 Berechnung der zeitlichen Inanspruchnahme
+- § 4 Reisekostenvergütung
+- § 5 Inkrafttreten
 
 **Landkreis Göppingen 3.3**  
 **vom 20. Mai 2022**
 
 Aufgrund §§ 3 und 15 der Landkreisordnung für Baden-Württemberg (LKrO) in der Fassung vom 19. Juni 1987 (GBl. S. 289), zuletzt geändert durch Gesetz vom 15.10.2020 (GBl. S. 910) hat der Kreistag des Landkreises Göppingen am 20.05.2022 folgende Neufassung der Satzung über die Entschädigung für ehrenamtliche Tätigkeit beschlossen:
 
-## § 1 Entschädigung nach Durchschnittssätzen
+### § 1 Entschädigung nach Durchschnittssätzen
 
 (1) Ehrenamtlich Tätige erhalten den Ersatz ihrer Auslagen und ihres Verdienstausfalls nach einheitlichen Durchschnittssätzen.
 
@@ -52,7 +37,7 @@ Aufgrund §§ 3 und 15 der Landkreisordnung für Baden-Württemberg (LKrO) in de
 
 Bei mehrmaliger Inanspruchnahme an einem Tag beträgt die Entschädigung pro Tag maximal 100 €.
 
-## § 2 Aufwandsentschädigung
+### § 2 Aufwandsentschädigung
 
 (1) Den Mitgliedern des Kreistags, sonstigen Mitgliedern der Ausschüsse des Kreistags und Ehrenbeamten wird für die Ausübung ihres Amtes anstelle des Ersatzes ihrer Auslagen und ihres Verdienstausfalls eine Aufwandsentschädigung gewährt.
 
@@ -73,13 +58,13 @@ Die Vorsitzenden der Kreistagsfraktionen erhalten monatlich jeweils eine zusätz
 
 (7) Die Aufwandsentschädigung für die Stellvertretungen des Kreisbrandmeisters beträgt monatlich je 75 €. Sie wird monatlich im Voraus bezahlt. Der Anspruch entfällt, wenn die Anspruchsberechtigten ihr Amt ununterbrochen länger als drei Monate tatsächlich nicht ausüben, für die darüberhinausgehende Zeit.
 
-## § 3 Berechnung der zeitlichen Inanspruchnahme
+### § 3 Berechnung der zeitlichen Inanspruchnahme
 
 (1) Der für die ehrenamtliche Tätigkeit benötigten Zeit wird für die Hin- und Rückfahrt je eine Stunde vor ihrem Beginn und nach ihrer Beendigung hinzugerechnet (zeitliche Inanspruchnahme).
 
 (2) Bei mehrmaliger Inanspruchnahme am gleichen Tag wird jede Tätigkeit für sich berechnet. Beträgt der Zeitabstand zwischen zwei ehrenamtlichen Tätigkeiten nicht mehr als zwei Stunden, so werden diese beiden Tätigkeiten als eine zusammenhängende Inanspruchnahme berechnet.
 
-## § 4 Reisekostenvergütung
+### § 4 Reisekostenvergütung
 
 (1) Ehrenamtlich Tätige erhalten neben der Entschädigung nach den §§ 1 oder 2 eine Fahrkostenerstattung nach § 4 des Landesreisekostengesetzes (LRKG) bzw. eine Wegstreckenentschädigung nach dem in § 5 Abs. 2 Satz 1 LRKG festgelegten Satz.
 
@@ -89,7 +74,7 @@ Reisekosten bei Gremiensitzungen (insbesondere Kreistag, Ausschüsse und Fraktio
 
 Als Dienstreisedauer ist die nach § 3 berechnete Dauer der Inanspruchnahme zugrunde zu legen.
 
-## § 5 Inkrafttreten
+### § 5 Inkrafttreten
 
 Diese Satzung tritt zum 1. Juli 2022 in Kraft.
 

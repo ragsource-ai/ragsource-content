@@ -2,10 +2,10 @@
 titel: Verordnung der Gemeinde Bad Boll zum Schutz freilebender Katzen (Katzenschutzverordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,34 +15,20 @@ gueltig_ab: 2022-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Katzenschutzverordnung
-  - KatzenschutzVO
-  - Kastrationspflicht
-  - freilebende Katzen
-  - Straßenkatzen
-  - Mikrochip Katze
-  - Tierschutz
-  - Katzenregistrierung
-  - TASSO
-  - Katzenhalter
-  - freilaufende Katze
-fragen:
-  - "Müssen Katzen in Bad Boll kastriert werden?"
-  - "Gilt in Bad Boll eine Kastrationspflicht für Freigängerkatzen?"
-  - "Wie muss ich meine Katze in Bad Boll registrieren lassen?"
-  - "Was passiert, wenn meine unkastierte Katze in Bad Boll aufgegriffen wird?"
-  - "Darf die Gemeinde freilaufende Katzen einfangen?"
-querverweise:
-  - Polizeiverordnung der Gemeinde Bad Boll
-  - Satzung über die Erhebung der Hundesteuer der Gemeinde Bad Boll
 ---
 
-# Verordnung der Gemeinde Bad Boll zum Schutz freilebender Katzen (Katzenschutzverordnung)
+## Inhaltsverzeichnis
+
+- § 1 Regelungszweck, Geltungsbereich
+- § 2 Begriffsbestimmungen
+- § 3 Kastrations-, Kennzeichnungs- und Registrierungspflicht für freilaufende Halterkatzen
+- § 4 Maßnahmen gegenüber Katzenhalterinnen und Katzenhaltern
+- § 5 Maßnahmen gegenüber freilebenden Katzen
+- § 6 Inkrafttreten
 
 **Stand:** September 2021
 
-## Verordnung der Gemeinde Bad Boll zum Schutz freilebender Katzen (Katzenschutzverordnung – KatzenschutzVO) vom 30.09.2021
+### Verordnung der Gemeinde Bad Boll zum Schutz freilebender Katzen (Katzenschutzverordnung – KatzenschutzVO) vom 30.09.2021
 
 Auf Grund von §13b des Tierschutzgesetzes in der Fassung der Bekanntmachung vom 18. Mai 2006, zuletzt geändert am 19.06.2020, in Verbindung mit der Verordnung der Landesregierung über die Übertragung der Ermächtigung nach §13b des Tierschutzgesetzes vom 19.11.2013 wird verordnet:
 

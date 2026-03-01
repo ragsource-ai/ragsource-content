@@ -2,10 +2,10 @@
 titel: Friedhofsatzung der Gemeinde Bad Boll (Friedhofsordnung und Bestattungsgebührensatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,58 +15,57 @@ gueltig_ab: 2022-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Friedhof
-  - Bestattung
-  - Beerdigung
-  - Beisetzung
-  - Urnengrab
-  - Erdbestattung
-  - Grabstätte
-  - Wahlgrab
-  - Reihengrab
-  - Grabnutzungsrecht
-  - Grabstein
-  - Grabmal
-  - Ruhezeit
-  - Umbettung
-  - Bestattungsgebühr
-  - Friedhofsgebühr
-  - Leichenhalle
-  - Friedhofsordnung
-  - Baumgrab
-  - anonymes Grab
-  - Rasengrab
-  - Urnengemeinschaftsgrab
-  - Friedhof Bad Boll
-  - Friedhof Eckwälden
-fragen:
-  - "Was kostet eine Beerdigung in Bad Boll?"
-  - "Wie lange ist die Ruhezeit auf dem Friedhof Bad Boll?"
-  - "Was ist ein Wahlgrab und wie bekomme ich eines?"
-  - "Gibt es anonyme Bestattungen in Bad Boll?"
-  - "Kann ich einen Grabstein aufstellen, den ich selbst ausgesucht habe?"
-  - "Was passiert, wenn das Grab nicht gepflegt wird?"
-  - "Wie melde ich eine Bestattung an?"
-  - "Was kostet ein Urnengrab auf dem Friedhof Eckwälden?"
-  - "Darf ich meinen Hund mit auf den Friedhof nehmen?"
-  - "Wo darf ich einen gewerblichen Steinmetz für Grabarbeiten beauftragen?"
-querverweise:
-  - Bestattungsgesetz Baden-Württemberg
-  - Verwaltungsgebührensatzung der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL - Friedhofsatzung
+## Inhaltsverzeichnis
+
+- § 1 Widmung
+- § 2 Öffnungszeiten
+- § 3 Verhalten auf dem Friedhof
+- § 4 Gewerbliche Betätigung auf dem Friedhof
+- § 5 Allgemeines
+- § 6 Särge
+- § 7 Ausheben der Gräber
+- § 8 Ruhezeit
+- § 9 Umbettungen
+- § 10 Allgemeines
+- § 11 Reihengräber
+- § 11a anonyme Rasengräber für Erd- und Urnenbestattungen
+- § 11b Rasengräber mit Gedenktafel für Erdbestattungen
+- § 12 Wahlgräber
+- § 13 Urnenreihen- und Urnenwahlgräber
+- § 13a Rasengräber mit Gedenktafel für Urnenbeisetzungen
+- § 13b Urnengemeinschaftsgrabfeld
+- § 13c Baumgräber für Urnenbeisetzungen
+- § 14 Auswahlmöglichkeiten
+- § 15 Allgemeiner Gestaltungsgrundsatz
+- § 16 Grabfelder mit Gestaltungsvorschriften
+- § 17 Genehmigungserfordernis
+- § 18 Standsicherheit
+- § 19 Unterhaltung
+- § 20 Entfernung
+- § 21 Allgemeines
+- § 22 Vernachlässigung der Grabpflege
+- § 23 Benutzung der Leichenhalle
+- § 24 Obhuts- und Überwachungspflicht, Haftung
+- § 25 Ordnungswidrigkeiten
+- § 26 Erhebungsgrundsatz
+- § 27 Gebührenschuldner
+- § 28 Entstehung und Fälligkeit der Gebühren
+- § 29 Verwaltungs- und Benutzungsgebühren
+- § 29a Umsatzsteuer
+- § 30 Alte Rechte
+- § 31 Inkrafttreten
 
 **Stand:** Oktober 2024
 
-## Friedhofsatzung der Gemeinde Bad Boll (Friedhofsordnung und Bestattungsgebührensatzung) vom 21. Oktober 2021
+### Friedhofsatzung der Gemeinde Bad Boll (Friedhofsordnung und Bestattungsgebührensatzung) vom 21. Oktober 2021
 
 Auf Grund der §§ 12 Abs. 2, 13 Abs. 1, 15 Abs. 1, 39 Abs. 2 und 49 Abs. 3 Nr. 2 des Bestattungsgesetzes in Verbindung mit den §§ 4 und 11 der Gemeindeordnung für Baden-Württemberg sowie den §§ 2, 11 und 13 des Kommunalabgabengesetzes für Baden-Württemberg hat der Gemeinderat am 21. Oktober 2021 nachstehende Friedhofsatzung erlassen, die mit Satzungen vom 22. September 2022, 19. Oktober 2023 sowie 26. September 2024 geändert wurde:
 
 ---
 
-## I. Allgemeine Vorschriften
+### I. Allgemeine Vorschriften
 
 ### § 1 Widmung
 
@@ -84,7 +83,7 @@ Die Verstorbenen sind auf dem Friedhof des Bestattungsbezirks zu bestatten bzw. 
 
 ---
 
-## II. Ordnungsvorschriften
+### II. Ordnungsvorschriften
 
 ### § 2 Öffnungszeiten
 
@@ -128,7 +127,7 @@ Die Zulassung erfolgt durch Ausstellung eines Berechtigungsscheins; dieser ist d
 
 ---
 
-## III. Bestattungsvorschriften
+### III. Bestattungsvorschriften
 
 ### § 5 Allgemeines
 
@@ -174,7 +173,7 @@ Die Ruhezeit von Aschen beträgt 15 Jahre
 
 ---
 
-## IV. Grabstätten
+### IV. Grabstätten
 
 ### § 10 Allgemeines
 
@@ -314,7 +313,7 @@ Innerhalb der einzelnen Gruppen Nr. 2 bis 4 und 6 bis 8 wird jeweils der Ältest
 
 ---
 
-## V. Grabmale und sonstige Grabausstattungen
+### V. Grabmale und sonstige Grabausstattungen
 
 ### § 14 Auswahlmöglichkeiten
 
@@ -403,7 +402,7 @@ Grabmale und Grabeinfassungen dürfen nur von fachkundigen Personen (i.d.R. Bild
 
 ---
 
-## VI. Herrichten und Pflege der Grabstätte
+### VI. Herrichten und Pflege der Grabstätte
 
 ### § 21 Allgemeines
 
@@ -431,7 +430,7 @@ Grabmale und Grabeinfassungen dürfen nur von fachkundigen Personen (i.d.R. Bild
 
 ---
 
-## VII. Benutzung der Leichenhalle
+### VII. Benutzung der Leichenhalle
 
 ### § 23 Benutzung der Leichenhalle
 
@@ -441,7 +440,7 @@ Grabmale und Grabeinfassungen dürfen nur von fachkundigen Personen (i.d.R. Bild
 
 ---
 
-## VIII. Haftung, Ordnungswidrigkeiten
+### VIII. Haftung, Ordnungswidrigkeiten
 
 ### § 24 Obhuts- und Überwachungspflicht, Haftung
 
@@ -471,7 +470,7 @@ Ordnungswidrig im Sinne von § 49 Absatz 3 Nr. 2 des Bestattungsgesetzes handelt
 
 ---
 
-## IX. Bestattungsgebühren
+### IX. Bestattungsgebühren
 
 ### § 26 Erhebungsgrundsatz
 
@@ -512,7 +511,7 @@ Soweit die Leistungen, die den in dieser Satzung festgelegten Abgaben, Kosteners
 
 ---
 
-## X. Übergangs- und Schlussvorschriften
+### X. Übergangs- und Schlussvorschriften
 
 ### § 30 Alte Rechte
 
@@ -526,7 +525,7 @@ Die vor dem In-Kraft-Treten dieser Friedhofssatzung entstandenen Nutzungsrechte 
 
 ---
 
-## Satzung zur Änderung der Friedhofsatzung der Gemeinde Bad Boll (Friedhofsordnung und Bestattungsgebührensatzung)
+### Satzung zur Änderung der Friedhofsatzung der Gemeinde Bad Boll (Friedhofsordnung und Bestattungsgebührensatzung)
 
 Auf Grund der §§ 12 Abs. 2, 13 Abs. 1, 15 Abs. 1, 39 Abs. 2 und 49 Abs. 3 Nr. 2 des Bestattungsgesetzes in Verbindung mit den §§ 4 und 11 der Gemeindeordnung für Baden-Württemberg sowie den §§ 2, 11 und 13 des Kommunalabgabengesetzes für Baden-Württemberg hat der Gemeinderat der Gemeinde Bad Boll am 26. September 2024 folgende Änderungssatzung beschlossen:
 
@@ -534,7 +533,7 @@ Auf Grund der §§ 12 Abs. 2, 13 Abs. 1, 15 Abs. 1, 39 Abs. 2 und 49 Abs. 3 Nr. 
 
 ---
 
-## Anlage zur Friedhofs- und Bestattungsgebührensatzung - Gebührenverzeichnis Friedhof Bad Boll
+### Anlage zur Friedhofs- und Bestattungsgebührensatzung - Gebührenverzeichnis Friedhof Bad Boll
 
 ### Benutzungsgebühren
 
@@ -588,47 +587,5 @@ Auf Grund der §§ 12 Abs. 2, 13 Abs. 1, 15 Abs. 1, 39 Abs. 2 und 49 Abs. 3 Nr. 
 
 ---
 
-## Anlage zur Friedhofs- und Bestattungsgebührensatzung - Gebührenverzeichnis Friedhof Eckwälden
+### Anlage zur Friedhofs- und Bestattungsgebührensatzung - Gebührenverzeichnis Friedhof Eckwälden
 
-### Benutzungsgebühren
-
-**Es werden erhoben:**
-
-| Nr. | Leistung | Gebühr |
-|-----|----------|--------|
-| **1.** | **Bestattungsordner** | |
-| 1.1 | Bestattungsordner | 70,00 € |
-| 1.2 | dto. bei Trauerfeier in der Kirche bzw. Badfriedhof | 140,00 € |
-| **2.** | **für das Herstellen und Eindecken einer Grabstätte** | |
-| 2.1 | für Personen über 10 Jahre | 890,00 € |
-| 2.2 | für Kinder unter 10 Jahre | 410,00 € |
-| 2.3 | für ein Urnengrab | 250,00 € |
-| 2.4 | für Tot- und Fehlgeburten | 210,00 € |
-| **3.** | **Beisetzung von Aschen** | 30,00 € |
-| **4.** | **für die Überlassung eines Reihengrabes** | |
-| 4.1 | für Personen im Alter von 10 und mehr Jahren | 3.900,00 € |
-| 4.2 | für Kinder zwischen 2 und 10 Jahren | 1.000,00 € |
-| 4.3 | für Kinder unter 2 Jahren | 500,00 € |
-| **5.** | **für die Überlassung eines Urnengrabes** | |
-| 5.1 | Für die Überlassung eines Urnenreihengrabes | 1.300,00 € |
-| 5.1 | Für die Überlassung einer Grabstelle im Urnengemeinschaftsgrabfeld | 600,00 € |
-| 5.2 | für die Überlassung einer Urnen-Grabstelle Baumbestattung | 600,00 € |
-| **6.** | **für die Überlassung von besonderen Grabnutzungsrechten** | |
-| 6.1 | Für ein Wahlgrab als Doppelgrab | 7.400,00 € |
-| 6.2 | Für ein Wahlgrab als Einzelgrab | 3.900,00 € |
-| 6.3 | Für ein Wahlgrab als Urnengrab | 1.300,00 € |
-| 6.4 | Für ein Wahlgrab als Rasenurnengrab mit Gedenktafel | 750,00 € |
-| 6.5 | **für den erneuten Erwerb eines Nutzungsrechts** | |
-| 6.51 | für die Dauer einer Nutzungsperiode | wie 6.1-6.4 |
-| 6.52 | für eine davon abweichende Nutzungsdauer | anteilig nach dem Verhältnis der Nutzungsperiode zur erneuten Nutzungsdauer |
-| **7.** | **für sonstige Leistungen** | |
-| 7.1 | Benutzung der Leichenzelle (pro Tag) | 60,00 € |
-| 7.2 | für die Reinigung und Desinfektion der Leichenzelle | 30,00 € |
-| 7.3 | für das Ausgraben, Umbetten oder Tieferlegen von Urne | 300,00 € |
-| 7.4 | ein Zuschlag zu 8.3 in besonderen erschwerten Fällen | 50 % |
-| 7.5 | für die Beisetzung der von auswärts überführten Gebeine | 30,00 € |
-| 7.6 | für Leichenträger je Träger | 75,00 € |
-| 7.7 | dto. bei Trauerfeier in der Kirche bzw. auf dem Badfriedhof | 124,00 € |
-| 7.8 | **für die Grabeinfassung** | |
-|  | Doppelgrab | 357,00 € |
-|  | Einzelgrab | 272,00 € |

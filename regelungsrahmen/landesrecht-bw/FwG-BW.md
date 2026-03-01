@@ -1,8 +1,8 @@
 ---
-titel: "Feuerwehrgesetz Baden-Württemberg (FwG BW)"
+titel: Feuerwehrgesetz Baden-Württemberg (FwG BW)
 ebene: land
 saule: regelungsrahmen
-land_ars: "08"
+land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz neugefasst am 02.03.2010 (GBl. 2010, 333), zuletzt geändert durch Artikel 1 des Gesetzes vom 25.02.2025 (GBl. 2025 Nr. 14)
 gueltig_ab: 2009-11-19
@@ -10,54 +10,50 @@ status: published
 projekte:
   - amtsschimmel
   - brandmeister
-keywords:
-  - FwG BW
-  - Feuerwehrgesetz
-  - Feuerwehr Baden-Württemberg
-  - Freiwillige Feuerwehr
-  - Berufsfeuerwehr
-  - Gemeindefeuerwehr
-  - Werkfeuerwehr
-  - Feuerwehrkommandant
-  - Jugendfeuerwehr
-  - Brandschutz
-  - Katastrophenschutz
-  - Feuerwehrangehörige
-  - Feuerwehrsatzung
-  - Löschwasserversorgung
-fragen:
-  - "Was sind die Aufgaben der Gemeindefeuerwehr in Baden-Württemberg?"
-  - "Muss jede Gemeinde eine Feuerwehr unterhalten?"
-  - "Wie wird der Feuerwehrkommandant in Baden-Württemberg bestellt?"
-  - "Ab welchem Alter kann man in die Jugendfeuerwehr eintreten?"
-  - "Wer trägt die Kosten für Feuerwehreinsätze in Baden-Württemberg?"
-  - "Kann die Gemeinde für Feuerwehreinsätze Kostenersatz verlangen?"
-  - "Was ist eine Werkfeuerwehr und wann ist sie Pflicht?"
-querverweise:
-  - Feuerwehrsatzung der Gemeinde Bad Boll
-  - Katastrophenschutzgesetz Baden-Württemberg (LKatSG BW)
-  - Gemeindeordnung für Baden-Württemberg (GemO BW)
 ---
 
-# Feuerwehrgesetz Baden-Württemberg (FwG)
+## Inhaltsverzeichnis
 
-
----
-
-## Amtliche Abkürzung und Gültigkeit
-
-**Amtliche Abkürzung:** FwG  
-**Neugefasst:** 02.03.2010  
-**Gültig ab:** 19.11.2009  
-**Dokumenttyp:** Gesetz  
-**Quelle:** Land Baden-Württemberg  
-**Fundstelle:** GBl. 2010, 333  
-**Gliederungs-Nr:** 2151-1
-
-**Gesamtausgabe in der Gültigkeit vom 04.03.2025 bis 31.12.2025**  
-**Stand:** letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 1 des Gesetzes vom 25. Februar 2025 (GBl. 2025 Nr. 14)
-
----
+- § 1 - Begriff der Feuerwehr
+- § 2 - Aufgaben der Feuerwehr
+- § 3 - Aufgaben der Gemeinden
+- § 4 - Aufgaben der Landkreise
+- § 5 - Aufgaben des Landes
+- § 6 - Organisation der Gemeindefeuerwehr
+- § 7 - Angehörige der Gemeindefeuerwehr
+- § 8 - Leitung der Gemeindefeuerwehr
+- § 9 - Aufgaben des Feuerwehrkommandanten
+- § 10 - Feuerwehrausschuss, Abteilungsausschüsse
+- § 11 - Aufnahme der ehrenamtlich Tätigen in die Gemeindefeuerwehr
+- § 12 - Heranziehung zum Dienst in der Gemeindefeuerwehr
+- § 13 - Beendigung des ehrenamtlichen Feuerwehrdienstes
+- § 14 - Dienstpflichten
+- § 15 - Freistellung, Entgeltfortzahlung
+- § 16 - Entschädigung
+- § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
+- § 18 - Sondervermögen für die Kameradschaftspflege
+- § 19 - Werkfeuerwehren
+- § 20
+- § 21
+- § 22 - Aufsichtsbehörden
+- § 23 - Feuerwehrtechnische Beamte
+- § 24 - Aufgaben der feuerwehrtechnischen Beamten
+- § 25 - Landesfeuerwehrbeirat
+- § 26 - Überlandhilfe der Feuerwehren
+- § 27 - Leitung des Einsatzes
+- § 28 - Einsatz der Werkfeuerwehren
+- § 29 - Gefahrmeldung
+- § 30 - Heranziehung zur Hilfeleistung
+- § 31 - Duldungspflichten der Grundstückseigentümer und -besitzer
+- § 32 - Rechtsweg
+- § 33 - Feuerschutzsteuer
+- § 34 - Kostenersatz
+- § 35 - Verarbeitung personenbezogener Daten
+- § 36 - Einschränkung von Grundrechten
+- § 37 - Zuständigkeit anderer Behörden
+- § 38 - Ordnungswidrigkeiten
+- § 39 - Übergangsbestimmung
+- § 40 - Inkrafttreten
 
 ## ERSTER TEIL - Allgemeines
 
@@ -141,9 +137,9 @@ Dem Land obliegt
 
 ## DRITTER TEIL - Die Feuerwehren
 
-### 1. ABSCHNITT - Gemeindefeuerwehr
+## 1. ABSCHNITT - Gemeindefeuerwehr
 
-#### § 6 - Organisation der Gemeindefeuerwehr
+### § 6 - Organisation der Gemeindefeuerwehr
 
 (1) Die Gemeindefeuerwehr besteht aus mindestens einer Einsatzabteilung der Freiwilligen Feuerwehr. Sie kann daneben auch eine Einsatzabteilung mit Angehörigen der Berufsfeuerwehr oder hauptamtlichen Kräften sowie eine Jugendfeuerwehr, Altersabteilungen und Musikabteilungen aufstellen. Gliederung und Verwaltung der Gemeindefeuerwehr sind durch Satzung zu regeln. Die Gemeindefeuerwehr führt die Bezeichnung „Freiwillige Feuerwehr". Ist eine Einsatzabteilung der Berufsfeuerwehr oder eine Einsatzabteilung mit hauptamtlichen Kräften eingerichtet, führt sie die Bezeichnung „Feuerwehr".
 
@@ -151,7 +147,7 @@ Dem Land obliegt
 
 (3) Angehörige der Musikabteilung sind beim aktiven Wahlrecht nach § 10 und bei staatlichen Ehrungen Angehörigen einer Einsatzabteilung der Freiwilligen Feuerwehr gleichgestellt, wenn sie an einer feuerwehrspezifischen Grundausbildung erfolgreich teilgenommen haben, nach Maßgabe der Satzung regelmäßigen Übungsdienst leisten und für Einsätze zur Verfügung stehen.
 
-#### § 7 - Angehörige der Gemeindefeuerwehr
+### § 7 - Angehörige der Gemeindefeuerwehr
 
 (1) Die Rechte und Pflichten der Angehörigen der Gemeindefeuerwehr sind durch Satzung zu regeln, soweit sie sich nicht aus dem Gesetz ergeben. Die Angehörigen der Gemeindefeuerwehr werden bei der Ausübung ihres Dienstes stets im Auftrag der Gemeinde tätig, deren Feuerwehr sie angehören.
 
@@ -159,7 +155,7 @@ Dem Land obliegt
 
 (3) Angehörige einer Gemeindefeuerwehr können einer weiteren Gemeindefeuerwehr oder einer Werkfeuerwehr angehören, soweit dies im Interesse der Feuerwehren liegt. Dies gilt auch für die Mitgliedschaft in mehreren Einsatzabteilungen der Gemeindefeuerwehr.
 
-#### § 8 - Leitung der Gemeindefeuerwehr
+### § 8 - Leitung der Gemeindefeuerwehr
 
 (1) Die Gemeindefeuerwehr wird von einem Feuerwehrkommandanten geleitet. Bei Gemeindefeuerwehren mit mehreren Einsatzabteilungen werden die einzelnen Einsatzabteilungen der Freiwilligen Feuerwehr von Abteilungskommandanten geleitet. Besteht eine Einsatzabteilung der Berufsfeuerwehr, ist deren Leiter der Feuerwehrkommandant.
 
@@ -173,7 +169,7 @@ Dem Land obliegt
 
 (6) Gegen eine Wahl nach Absatz 2 kann binnen einer Woche nach der Wahl von jedem Wahlberechtigten Einspruch bei der Gemeinde erhoben werden. Nach Ablauf der Einspruchsfrist können weitere Einspruchsgründe nicht mehr geltend gemacht werden. Gegen die Entscheidung über den Einspruch können der Wahlberechtigte, der Einspruch erhoben hat, und der durch die Entscheidung betroffene Bewerber unmittelbar Anfechtungs- oder Verpflichtungsklage erheben.
 
-#### § 9 - Aufgaben des Feuerwehrkommandanten
+### § 9 - Aufgaben des Feuerwehrkommandanten
 
 (1) Der Feuerwehrkommandant ist für die Leistungsfähigkeit der Gemeindefeuerwehr verantwortlich. Er hat insbesondere
 
@@ -186,7 +182,7 @@ Die Gemeinde hat ihn bei der Durchführung seiner Aufgaben angemessen zu unterst
 
 (2) Der Feuerwehrkommandant hat den Bürgermeister und den Gemeinderat in allen feuerwehrtechnischen Angelegenheiten zu beraten. Er soll zu den Beratungen der Gemeindeorgane über Angelegenheiten der Feuerwehr mit beratender Stimme zugezogen werden.
 
-#### § 10 - Feuerwehrausschuss, Abteilungsausschüsse
+### § 10 - Feuerwehrausschuss, Abteilungsausschüsse
 
 (1) Die Angehörigen der Einsatzabteilungen der Freiwilligen Feuerwehr wählen aus ihrer Mitte einen Feuerwehrausschuss für die Dauer von fünf Jahren. Vorsitzender des Feuerwehrausschusses ist der Feuerwehrkommandant.
 
@@ -196,7 +192,7 @@ Die Gemeinde hat ihn bei der Durchführung seiner Aufgaben angemessen zu unterst
 
 (4) Der Feuerwehrausschuss hat den Feuerwehrkommandanten, die Abteilungsausschüsse haben die Abteilungskommandanten zu beraten und zu unterstützen. Vor allgemeinen örtlichen Regelungen, die die Gemeindefeuerwehr berühren, ist der Feuerwehrausschuss zu hören.
 
-#### § 11 - Aufnahme der ehrenamtlich Tätigen in die Gemeindefeuerwehr
+### § 11 - Aufnahme der ehrenamtlich Tätigen in die Gemeindefeuerwehr
 
 (1) In die Einsatzabteilungen der Gemeindefeuerwehr können auf Grund freiwilliger Meldung Personen als ehrenamtlich Tätige aufgenommen werden, die
 
@@ -214,7 +210,7 @@ Die Gemeinde hat ihn bei der Durchführung seiner Aufgaben angemessen zu unterst
 
 (4) In die Gemeindefeuerwehr können Personen mit besonderen Fähigkeiten und Kenntnissen als Fachberater aufgenommen werden. Dienstpflichten, Aufnahme und Beendigung des Feuerwehrdienstes können im Einzelfall abweichend von den Absätzen 1 und 2, § 13 Abs. 1 Nr. 5 und § 14 geregelt werden.
 
-#### § 12 - Heranziehung zum Dienst in der Gemeindefeuerwehr
+### § 12 - Heranziehung zum Dienst in der Gemeindefeuerwehr
 
 (1) Die Gemeinden können durch Satzung Gemeindeeinwohner zwischen dem vollendeten 18. und dem vollendeten 50. Lebensjahr zum Dienst in der Gemeindefeuerwehr verpflichten. Wer in mehreren Gemeinden wohnt, darf nur in der Gemeinde zum Feuerwehrdienst verpflichtet werden, in der die Hauptwohnung liegt. Das Nähere, insbesondere Ausnahmen von der Feuerwehrdienstpflicht, Umfang und Dauer der Dienstverpflichtung sowie Rechte und Pflichten der Dienstverpflichteten, regelt die Satzung.
 
@@ -223,7 +219,7 @@ Die Gemeinde hat ihn bei der Durchführung seiner Aufgaben angemessen zu unterst
 1. bei denen die Voraussetzungen für eine Aufnahme in die Einsatzabteilung nach § 11 Abs. 1 Nr. 1 bis 3 und 5 bis 7 nicht vorliegen oder
 2. die nach § 16 Abs. 1 der Gemeindeordnung aus wichtigen Gründen eine ehrenamtliche Tätigkeit ablehnen können.
 
-#### § 13 - Beendigung des ehrenamtlichen Feuerwehrdienstes
+### § 13 - Beendigung des ehrenamtlichen Feuerwehrdienstes
 
 (1) Der Feuerwehrdienst in einer Einsatzabteilung endet, wenn der ehrenamtlich tätige Angehörige der Gemeindefeuerwehr
 
@@ -254,7 +250,7 @@ In den Fällen der Nummern 3 und 4 kann der Feuerwehrangehörige nach Anhörung 
 
 Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des ehrenamtlichen Feuerwehrdienstes durch schriftlichen Bescheid festzustellen.
 
-#### § 14 - Dienstpflichten
+### § 14 - Dienstpflichten
 
 (1) Die ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr sind verpflichtet,
 
@@ -274,13 +270,13 @@ Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des 
 
 (5) Verletzt ein ehrenamtlich tätiger Angehöriger der Gemeindefeuerwehr schuldhaft die ihm obliegenden Dienstpflichten, kann ihm der Feuerwehrkommandant einen Verweis erteilen. Grobe Verstöße kann der Bürgermeister auf Antrag des Feuerwehrkommandanten mit einer Geldbuße bis zu 1000 Euro ahnden. Der Bürgermeister kann zur Vorbereitung eines Beschlusses des Gemeinderats auf Beendigung des Feuerwehrdienstes nach § 13 Abs. 3 den ehrenamtlich tätigen Feuerwehrangehörigen auch vorläufig des Dienstes entheben, wenn andernfalls der Dienstbetrieb oder die Ermittlungen beeinträchtigt würden. Der Betroffene ist vor einer Entscheidung nach den Sätzen 1 bis 3 anzuhören.
 
-#### § 15 - Freistellung, Entgeltfortzahlung
+### § 15 - Freistellung, Entgeltfortzahlung
 
 (1) Nehmen ehrenamtlich tätige Angehörige der Gemeindefeuerwehr während der Arbeits- oder Dienstzeit an Einsätzen oder an der Aus- und Fortbildung teil, sind sie für die Dauer der Teilnahme von der Arbeits- oder Dienstleistung freigestellt. Dies gilt auch für eine angemessene Ruhezeit nach Einsätzen. Die Teilnahme an Aus- und Fortbildungslehrgängen ist dem Arbeitgeber oder Dienstherrn rechtzeitig mitzuteilen. Eine Kündigung oder Entlassung aus einem Dienst- oder Arbeitsverhältnis, eine Versetzung an einen anderen Beschäftigungsort und jede sonstige berufliche Benachteiligung aus diesem Grund sind unzulässig.
 
 (2) Die Gemeinde hat dem privaten Arbeitgeber auf Antrag seine auf Grund gesetzlicher oder vertraglicher Verpflichtung erbrachten Entgeltfortzahlungsleistungen zu erstatten, wenn die Arbeitsunfähigkeit des Arbeitnehmers durch den Feuerwehrdienst verursacht wurde. Ein bestehender Erstattungsanspruch des privaten Arbeitgebers geht auf die Gemeinde über.
 
-#### § 16 - Entschädigung
+### § 16 - Entschädigung
 
 (1) Die ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr erhalten auf Antrag die durch die Ausübung des Dienstes einschließlich der Teilnahme an der Aus- und Fortbildung entstehenden notwendigen Auslagen und den nachgewiesenen Verdienstausfall ersetzt. Anstelle der Entschädigung nach Satz 1 kann die Entschädigung durch Satzung geregelt werden; dabei können einheitliche und getrennte und nach Art des Feuerwehrdienstes unterschiedlich hohe Durchschnittssätze sowie Höchstbeträge festgesetzt werden. Bei Personen, die keinen Verdienst haben und den Haushalt führen, gilt als Verdienstausfall das entstandene Zeitversäumnis; durch Satzung ist hierfür ein bestimmter Stundensatz festzusetzen. Dauert ein Einsatz über vier Stunden, hat die Gemeinde des Einsatzortes einen Erfrischungszuschuss zu leisten.
 
@@ -296,7 +292,7 @@ Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des 
 
 (7) Die Gemeinden haben die Möglichkeit, den Angehörigen der Gemeindefeuerwehr finanzielle Unterstützung insbesondere zur Erholung, Aufrechterhaltung und Wiederherstellung ihrer persönlichen Leistungsfähigkeit zu gewähren.
 
-#### § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
+### § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
 
 (1) Erleiden ehrenamtlich tätige Angehörige der Gemeindefeuerwehr in Ausübung oder infolge des Dienstes einschließlich der Aus- und Fortbildung einen Sachschaden, so hat ihnen die Gemeinde diesen auf Antrag zu ersetzen, wenn sie den Schaden weder vorsätzlich noch grob fahrlässig verursacht haben. Satz 1 gilt entsprechend für die vermögenswerten Versicherungsnachteile, die ehrenamtlich tätige Angehörige der Gemeindefeuerwehr als Eigentümer oder Halter eines eingesetzten Kraftfahrzeuges erleiden. Die Höhe der zu ersetzenden vermögenswerten Versicherungsnachteile bemisst sich nach den Verhältnissen zum Zeitpunkt der Entscheidung über den Antrag.
 
@@ -304,7 +300,7 @@ Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des 
 
 (3) Leistet die Gemeinde den Geschädigten Ersatz und haben diese einen Ersatzanspruch gegen einen Dritten, so geht der Ersatzanspruch auf die Gemeinde in Höhe des von ihr geleisteten Ersatzes über. Der Übergang kann nicht zum Nachteil der Geschädigten geltend gemacht werden.
 
-#### § 18 - Sondervermögen für die Kameradschaftspflege
+### § 18 - Sondervermögen für die Kameradschaftspflege
 
 (1) Die Gemeinden können durch Satzung für die Gemeindefeuerwehr, für deren Einsatzabteilungen und für die Jugendfeuerwehr Sondervermögen für die Kameradschaftspflege und die Durchführung von Veranstaltungen bilden. Die Vorschriften über die Gemeindewirtschaft sind auf die Sondervermögen nicht anzuwenden.
 
@@ -324,9 +320,9 @@ Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des 
 
 wird durch Satzung geregelt.
 
-### 2. ABSCHNITT - Werkfeuerwehren
+## 2. ABSCHNITT - Werkfeuerwehren
 
-#### § 19 - Werkfeuerwehren
+### § 19 - Werkfeuerwehren
 
 (1) Werkfeuerwehren sind Feuerwehren zum Schutz von Betrieben, Einrichtungen und Verwaltungen. Die Verpflichtung der Gemeindefeuerwehr zur Hilfeleistung bleibt durch die Einrichtung einer Werkfeuerwehr unberührt. Die Kosten einer Werkfeuerwehr hat der Betrieb, die Einrichtung oder die Verwaltung zu tragen.
 
@@ -344,15 +340,15 @@ wird durch Satzung geregelt.
 
 (8) Die Aufsichtsbehörde kann einer Werkfeuerwehr die Aufgaben der Gemeindefeuerwehr für eine Gemeinde oder einen Gemeindeteil, zu denen der Betrieb, die Einrichtung oder die Verwaltung gehört, mit Zustimmung der Gemeinde und nach Anhörung der Leitung des Betriebs, der Einrichtung oder der Verwaltung übertragen, wenn ein ausreichender öffentlicher Brandschutz durch die Feuerwehr der Gemeinde nicht gewährleistet ist. Bei der Übertragung sind der Einsatzbereich, die Alarmierung und die Kostentragung zu regeln.
 
-### 3. ABSCHNITT - Landesfeuerwehrschule
+## 3. ABSCHNITT - Landesfeuerwehrschule
 
-#### § 20
+### § 20
 
 Die Landesfeuerwehrschule ist eine Einrichtung des Landes zur Aus- und Fortbildung der Angehörigen der Feuerwehren. Sie untersteht dem Innenministerium.
 
-### 4. ABSCHNITT - Feuerwehrverbände
+## 4. ABSCHNITT - Feuerwehrverbände
 
-#### § 21
+### § 21
 
 (1) Die Feuerwehren können sich insbesondere zur Vertretung der Interessen der Feuerwehrangehörigen, zur Stärkung des Ehrenamtes bei der Feuerwehr und zur Förderung des Feuerwehrgedankens zu gemeinnützigen Feuerwehrverbänden des Privatrechts zusammenschließen.
 

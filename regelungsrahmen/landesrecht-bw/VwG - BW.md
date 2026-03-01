@@ -1,42 +1,46 @@
 ---
-titel: "Landesverwaltungsgesetz Baden-Württemberg (LVwG BW)"
+titel: Landesverwaltungsgesetz Baden-Württemberg (LVwG BW)
 ebene: land
 saule: regelungsrahmen
-land_ars: "08"
+land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz vom 14.10.2008 (GBl. 2008, S. 313), zuletzt geändert durch Artikel 3 des Gesetzes vom 17.12.2024 (GBl. 2024 Nr. 114)
 gueltig_ab: 2008-10-14
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - LVwG BW
-  - Landesverwaltungsgesetz
-  - Verwaltungsbehörde
-  - Dienstaufsicht
-  - Fachaufsicht
-  - Regierungspräsidium
-  - untere Verwaltungsbehörde
-  - obere Verwaltungsbehörde
-  - Aufgabenübertragung
-  - Verwaltungsgliederung
-  - Landkreis
-  - Staatsaufsicht
-  - Behördenorganisation
-fragen:
-  - "Wie ist die staatliche Verwaltung in Baden-Württemberg gegliedert?"
-  - "Was ist der Unterschied zwischen Dienstaufsicht und Fachaufsicht?"
-  - "Welche Verwaltungsbehörden gibt es in Baden-Württemberg?"
-  - "Welche Aufgaben hat das Regierungspräsidium als mittlere Verwaltungsbehörde?"
-  - "Wie können staatliche Aufgaben auf Gemeinden übertragen werden?"
-  - "Was sind Pflichtaufgaben nach Weisung für Gemeinden?"
-querverweise:
-  - Gemeindeordnung für Baden-Württemberg (GemO BW)
-  - Landesverwaltungsverfahrensgesetz Baden-Württemberg (LVwVfG BW)
-  - Landkreisordnung für Baden-Württemberg (LKrO BW)
 ---
 
-# Landesverwaltungsgesetz
+## Inhaltsverzeichnis
+
+- § 1 Geltungsbereich und Gliederung der Verwaltungsbehörden
+- § 2 Dienst- und Fachaufsicht
+- § 3 Inhalt der Dienst- und der Fachaufsicht
+- § 4 Aufgabenübertragung
+- § 5 Zusammenarbeit der Verwaltungsbehörden
+- § 6 Verwaltungsdaten
+- § 7 Einteilung
+- § 8 Aufgaben
+- § 9 Änderung der Geschäftsbereiche der Ministerien
+- § 10 Allgemeine Verwaltungsbehörden
+- § 11 Regierungsbezirke und Regierungspräsidien
+- § 12 Gebiet der Regierungsbezirke
+- § 13 Aufgaben
+- § 14 Aufsicht
+- § 15 Aufgabenzuweisung, Gebühren und Auslagen
+- § 16 Gemeinsame Durchführung von Aufgaben
+- § 17 Verwaltungsgemeinschaften
+- § 18 Aufgaben
+- § 19 Zuständigkeit der Großen Kreisstädte und der Verwaltungsgemeinschaften
+- § 20 Aufsicht über die Landratsämter
+- § 21 Aufsicht über die Stadtkreise, Großen Kreisstädte und Verwaltungsgemeinschaften
+- § 22 Vorgaben zum Einsatz der elektronischen Datenverarbeitung
+- § 23 Einteilung
+- § 24 Aufgaben
+- § 25 Errichtung, Aufhebung, Sitz und Bezirk
+- § 26 Aufsicht über die besonderen Verwaltungsbehörden
+- § 27 Verhältnis zum Polizeigesetz
+- § 28 Verwaltungsvorschriften
 
 Vom 14. Oktober 2008
 
@@ -44,29 +48,27 @@ Zum 22.01.2026 aktuellste verfügbare Fassung der Gesamtausgabe
 
 Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 3 des Gesetzes vom 17. Dezember 2024 (GBl. 2024 Nr. 114)
 
----
 
 **Fußnoten**
 
 *) Verkündet als Artikel 4 des Verwaltungsstrukturreform-Weiterentwicklungsgesetzes vom 14. Oktober 2008 (GBl. S. 313, 314)
 
----
 
-# Erster Teil - Geltungsbereich des Gesetzes und Gliederung der Verwaltungsbehörden
+## Erster Teil - Geltungsbereich des Gesetzes und Gliederung der Verwaltungsbehörden
 
-## § 1 Geltungsbereich und Gliederung der Verwaltungsbehörden
+### § 1 Geltungsbereich und Gliederung der Verwaltungsbehörden
 
 (1) Das Landesverwaltungsgesetz gilt für alle staatlichen Behörden, die staatliche Verwaltungsaufgaben zu erfüllen haben und für alle kommunalen Behörden, soweit ihnen staatliche Verwaltungsaufgaben übertragen wurden (Verwaltungsbehörden). Für die Gemeinden und die Verwaltungsgemeinschaften gelten die Bestimmungen über die unteren Verwaltungsbehörden nur, soweit sie deren Aufgaben nach diesem Gesetz zu erfüllen haben. Das Landesverwaltungsgesetz gilt nicht für die Organe der Rechtspflege.
 
 (2) Die Verwaltungsbehörden gliedern sich in die obersten Landesbehörden (§§ 7 bis 9), die allgemeinen Verwaltungsbehörden (§§ 10 bis 22) und die besonderen Verwaltungsbehörden (§§ 23 bis 26).
 
-# Zweiter Teil - Allgemeine Bestimmungen zur Aufsicht, Aufgabenübertragung und zur Zusammenarbeit der Verwaltungsbehörden
+## Zweiter Teil - Allgemeine Bestimmungen zur Aufsicht, Aufgabenübertragung und zur Zusammenarbeit der Verwaltungsbehörden
 
-## § 2 Dienst- und Fachaufsicht
+### § 2 Dienst- und Fachaufsicht
 
 Die staatlichen Verwaltungsbehörden unterliegen der Dienstaufsicht und der Fachaufsicht.
 
-## § 3 Inhalt der Dienst- und der Fachaufsicht
+### § 3 Inhalt der Dienst- und der Fachaufsicht
 
 (1) Die Dienstaufsicht erstreckt sich auf den Aufbau, die innere Ordnung, den Einsatz und die Verteilung von Personal- und Sachmitteln, die allgemeine Geschäftsführung und die Personalangelegenheiten einer Behörde.
 
@@ -78,7 +80,7 @@ Die staatlichen Verwaltungsbehörden unterliegen der Dienstaufsicht und der Fach
 
 (5) Die Gemeindeordnung, die Landkreisordnung, spezialgesetzliche Regelungen in diesem Gesetz und andere Rechtsvorschriften, durch die die Rechte der Dienstaufsichts- und Fachaufsichtsbehörden erweitert oder beschränkt werden, bleiben unberührt.
 
-## § 4 Aufgabenübertragung
+### § 4 Aufgabenübertragung
 
 (1) Soweit nicht besondere gesetzliche Bestimmungen entgegenstehen, können die Ministerien bestimmte Aufgaben, für die sie selbst zuständig sind, auf eine oder mehrere nachgeordnete Behörden durch Rechtsverordnung übertragen oder zur Vereinfachung des Verwaltungsverfahrens oder zur Verbesserung der Verwaltungsleistung bestimmte Aufgaben, für die nachgeordnete Verwaltungsbehörden zuständig sind, durch Rechtsverordnung auf andere nachgeordnete Behörden übertragen.
 
@@ -88,7 +90,7 @@ Die staatlichen Verwaltungsbehörden unterliegen der Dienstaufsicht und der Fach
 
 (4) Aufgabenübertragungen auf besondere Verwaltungsbehörden können abweichend von Absatz 1 und 2 auch durch eine Anordnung erfolgen.
 
-## § 5 Zusammenarbeit der Verwaltungsbehörden
+### § 5 Zusammenarbeit der Verwaltungsbehörden
 
 (1) Hat eine Verwaltungsbehörde vor einer Entscheidung einer anderen Verwaltungsbehörde Gelegenheit zur Stellungnahme zu geben, so soll sie ihr hierfür eine angemessene Frist setzen, die in der Regel über die Dauer eines Monats nicht hinausgehen soll. Macht die beteiligte Verwaltungsbehörde innerhalb der ihr gesetzten Frist geltend, dass eine rechtzeitige Stellungnahme nicht erfolgen kann, hat sie dies gegenüber der für die Entscheidung zuständigen Verwaltungsbehörde im Einzelnen zu begründen und einen Termin zu benennen, zu dem ihr eine Stellungnahme möglich ist. Geht innerhalb der Frist nach Satz 1 oder innerhalb der von der beteiligten Verwaltungsbehörde genannten Frist keine Stellungnahme ein, so kann die für die Entscheidung zuständige Verwaltungsbehörde davon ausgehen, dass keine Einwendungen erhoben werden, sofern Bundesrecht nicht entgegensteht. Anderweitige Regelungen bleiben unberührt.
 
@@ -96,7 +98,7 @@ Die staatlichen Verwaltungsbehörden unterliegen der Dienstaufsicht und der Fach
 
 (3) Absatz 1 Satz 1 und 3 und Absatz 2 sind entsprechend anzuwenden, wenn Behörden der anderen Länder oder des Bundes Gelegenheit zur Stellungnahme zu geben ist.
 
-## § 6 Verwaltungsdaten
+### § 6 Verwaltungsdaten
 
 Die an die Verwaltungsnetze angeschlossenen Verwaltungsbehörden und Stellen können folgende personenbezogenen Daten ihrer Bediensteten verarbeiten und untereinander zur allgemeinen verwaltungsinternen Einsicht in elektronischen Verzeichnissen bereitstellen:
 
@@ -106,7 +108,7 @@ Die an die Verwaltungsnetze angeschlossenen Verwaltungsbehörden und Stellen kö
 4. Informationen zur zeitlichen Verfügbarkeit während der regelmäßigen Arbeitszeiten sowie
 5. Angaben zum Aufgaben- und Tätigkeitsbereich und zu Mitgliedschaften in Gremien.
 
-# Dritter Teil - Verwaltungsbehörden
+## Dritter Teil - Verwaltungsbehörden
 
 ## Erster Abschnitt - Oberste Landesbehörden
 
@@ -150,15 +152,15 @@ Den Ministerien obliegt außerdem im Rahmen ihres Geschäftsbereichs die Aufsich
 
 ## Zweiter Abschnitt - Allgemeine Verwaltungsbehörden
 
-### Erster Unterabschnitt - Einteilung
+## Erster Unterabschnitt - Einteilung
 
-#### § 10 Allgemeine Verwaltungsbehörden
+### § 10 Allgemeine Verwaltungsbehörden
 
 Allgemeine Verwaltungsbehörden sind die Regierungspräsidien und die unteren Verwaltungsbehörden.
 
-### Zweiter Unterabschnitt - Regierungspräsidien
+## Zweiter Unterabschnitt - Regierungspräsidien
 
-#### § 11 Regierungsbezirke und Regierungspräsidien
+### § 11 Regierungsbezirke und Regierungspräsidien
 
 (1) Das Landesgebiet ist in die Regierungsbezirke
 
@@ -172,7 +174,7 @@ eingeteilt.
 
 (2) Für jeden Regierungsbezirk besteht ein Regierungspräsidium. Die Regierungspräsidien können mit Zustimmung des Innenministeriums für die Wahrnehmung bestimmter Aufgaben auswärtige Standorte errichten, wenn hierfür ein dienstliches Bedürfnis besteht.
 
-#### § 12 Gebiet der Regierungsbezirke
+### § 12 Gebiet der Regierungsbezirke
 
 (1) Der Regierungsbezirk Stuttgart umfasst die Stadtkreise Stuttgart und Heilbronn sowie die Landkreise Böblingen, Esslingen, Göppingen, Heidenheim, Heilbronn, Hohenlohekreis, Ludwigsburg, Main-Tauber-Kreis, Ostalbkreis, Rems-Murr-Kreis und Schwäbisch Hall.
 
@@ -184,19 +186,19 @@ eingeteilt.
 
 (5) Bei der Zuteilung von Kreisen zu einem Regierungsbezirk ist ihr jeweiliger Gebietsbestand maßgebend.
 
-#### § 13 Aufgaben
+### § 13 Aufgaben
 
 Die Regierungspräsidien sind zuständig für die ihnen, den höheren Verwaltungsbehörden oder entsprechenden Behörden durch Gesetz oder Rechtsverordnung zugewiesenen Aufgaben. Dies gilt nicht für Aufgaben, die zur Zuständigkeit einer höheren Sonderbehörde gehören oder auf Grund gesetzlicher Ermächtigung den unteren Verwaltungsbehörden oder besonderen Verwaltungsbehörden übertragen sind.
 
-#### § 14 Aufsicht
+### § 14 Aufsicht
 
 (1) Das Innenministerium führt die Dienstaufsicht über die Regierungspräsidien. Ihm obliegen für die Bediensteten der Regierungspräsidien mit Ausnahme der Bediensteten des schulpädagogischen Dienstes der Regierungspräsidien sowie der Bediensteten der Abteilung Forstdirektion des Regierungspräsidiums Freiburg die den Ministerien zugewiesenen Aufgaben auf dem Gebiet der Personalangelegenheiten. Die Einstellung von Fachbediensteten durch das Innenministerium erfolgt im Einvernehmen mit dem jeweiligen Fachministerium.
 
 (2) Die Ministerien führen die Fachaufsicht über die Regierungspräsidien im Rahmen ihres Geschäftsbereichs.
 
-### Dritter Unterabschnitt - Untere Verwaltungsbehörden
+## Dritter Unterabschnitt - Untere Verwaltungsbehörden
 
-#### § 15 Aufgabenzuweisung, Gebühren und Auslagen
+### § 15 Aufgabenzuweisung, Gebühren und Auslagen
 
 (1) Untere Verwaltungsbehörden sind
 
@@ -207,7 +209,7 @@ Die Regierungspräsidien sind zuständig für die ihnen, den höheren Verwaltung
 
 (3) Für die Erhebung von Gebühren und Auslagen gilt das Kommunalabgabengesetz, wenn die Aufgaben der unteren Verwaltungsbehörde von einer Gemeinde oder Verwaltungsgemeinschaft wahrgenommen werden. Abweichend hiervon gelten für die Erhebung von Gebühren und Auslagen für bautechnische Prüfungen nach baurechtlichen Vorschriften die für die staatlichen Behörden maßgebenden Vorschriften und für die Erhebung von straßenrechtlichen Sondernutzungsgebühren, die dem Bund oder dem Land zustehen, die straßenrechtlichen Vorschriften.
 
-#### § 16 Gemeinsame Durchführung von Aufgaben
+### § 16 Gemeinsame Durchführung von Aufgaben
 
 (1) Landkreise, Stadtkreise, Große Kreisstädte und Verwaltungsgemeinschaften nach § 17 sowie untere Sonderbehörden des Landes können durch Verwaltungsvereinbarung die gemeinsame Durchführung bestimmter Aufgaben der unteren Verwaltungsbehörden und der unteren Sonderbehörden vereinbaren, soweit Bundesrecht nicht entgegensteht. Dafür können sie gemeinsame Dienststellen bilden. Eine gemeinsame Dienststelle kann auch als Teil einer der beteiligten Behörden eingerichtet werden. Die Zuständigkeit der Behörden bleibt durch die Bildung gemeinsamer Dienststellen unberührt.
 
@@ -219,19 +221,19 @@ Die Regierungspräsidien sind zuständig für die ihnen, den höheren Verwaltung
 
 (5) Absatz 1 Satz 4 und die Absätze 2 bis 4 gelten, falls keine gemeinsame Dienststelle eingerichtet wurde, entsprechend für die gemeinsame Durchführung von Maßnahmen, die sich über das Gebiet einer Behörde hinaus erstrecken.
 
-#### § 17 Verwaltungsgemeinschaften
+### § 17 Verwaltungsgemeinschaften
 
 (1) Verwaltungsgemeinschaften mit mehr als 20000 Einwohnern können auf ihren Antrag von der Landesregierung zu unteren Verwaltungsbehörden erklärt werden; die Antragstellung eines Gemeindeverwaltungsverbands bedarf des Beschlusses einer Mehrheit von zwei Dritteln der satzungsmäßigen Stimmenzahl der Verbandsversammlung; die Antragstellung der erfüllenden Gemeinde einer vereinbarten Verwaltungsgemeinschaft bedarf des Beschlusses einer Mehrheit von zwei Dritteln aller Stimmen des gemeinsamen Ausschusses. Die Erklärung von Verwaltungsgemeinschaften zu unteren Verwaltungsbehörden ist im Gesetzblatt bekannt zu machen. Bei späterem Beitritt und beim Ausscheiden von Gemeinden gilt Satz 2 entsprechend.
 
 (2) Die Landesregierung kann die Erklärung widerrufen, wenn die in Absatz 1 Satz 1 Halbsatz 1 genannten Voraussetzungen nicht mehr erfüllt sind. Der Widerruf ist im Gesetzblatt bekannt zu machen.
 
-#### § 18 Aufgaben
+### § 18 Aufgaben
 
 (1) Die unteren Verwaltungsbehörden sind zuständig für alle ihnen durch Gesetz oder Rechtsverordnung zugewiesenen staatlichen Verwaltungsaufgaben. Die Verwaltungsgemeinschaften sind auch für alle Aufgaben der ihnen angehörenden Gemeinden zuständig, die den Großen Kreisstädten als unteren Verwaltungsbehörden zugewiesen sind.
 
 (2) Dies gilt nicht für Aufgaben, die auf Grund gesetzlicher Ermächtigung unteren Sonderbehörden übertragen sind.
 
-#### § 19 Zuständigkeit der Großen Kreisstädte und der Verwaltungsgemeinschaften
+### § 19 Zuständigkeit der Großen Kreisstädte und der Verwaltungsgemeinschaften
 
 (1) Von der Zuständigkeit der Großen Kreisstädte und der Verwaltungsgemeinschaften als unteren Verwaltungsbehörden sind folgende Angelegenheiten ausgeschlossen:
 
@@ -281,13 +283,13 @@ Die Regierungspräsidien sind zuständig für die ihnen, den höheren Verwaltung
 
 (2) Abweichend von Absatz 1 Nr. 5 Buchst. d sind nach Maßgabe der Immissionsschutz-Zuständigkeitsverordnung Aufgaben nach der Verordnung über kleine und mittlere Feuerungsanlagen (1. BImSchV), nach der Verordnung zur Auswurfbegrenzung von Holzstaub (7. BImSchV), nach der Sportanlagenlärmschutzverordnung (18. BImSchV), nach der Verordnung über Anlagen zur Feuerbestattung (27. BImSchV) und nach der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) von der Zuständigkeit der Großen Kreisstädte und der Verwaltungsgemeinschaften nach § 17 als unteren Verwaltungsbehörden nicht ausgeschlossen. Das Gleiche gilt für Aufgaben des Sprengstoffrechts nach Absatz 1 Nr. 5 Buchst. l nach Maßgabe der Sprengstoff-Zuständigkeitsverordnung.
 
-#### § 20 Aufsicht über die Landratsämter
+### § 20 Aufsicht über die Landratsämter
 
 (1) Die Regierungspräsidien führen die Dienstaufsicht über die Landratsämter. Den jeweiligen Fachministerien obliegen die Aufgaben der obersten Dienstbehörde nach § 8 Absatz 4 Satz 1 Nummer 2 für Fachbeamte des höheren Dienstes und vergleichbare Beschäftigte des Landes bei den Landratsämtern; die Einstellung der Fachbediensteten erfolgt im Einvernehmen mit dem Innenministerium. Im Übrigen ist das Innenministerium oberste Dienstaufsichtsbehörde.
 
 (2) Die Regierungspräsidien führen die Fachaufsicht über die Landratsämter. Oberste Fachaufsichtsbehörden sind die Ministerien im Rahmen ihres Geschäftsbereichs.
 
-#### § 21 Aufsicht über die Stadtkreise, Großen Kreisstädte und Verwaltungsgemeinschaften
+### § 21 Aufsicht über die Stadtkreise, Großen Kreisstädte und Verwaltungsgemeinschaften
 
 (1) Als untere Verwaltungsbehörden unterliegen die Stadtkreise, Großen Kreisstädte und Verwaltungsgemeinschaften der Fachaufsicht.
 
@@ -295,7 +297,7 @@ Die Regierungspräsidien sind zuständig für die ihnen, den höheren Verwaltung
 
 (3) Die Fachaufsichtsbehörden haben ein unbeschränktes Weisungsrecht.
 
-#### § 22 Vorgaben zum Einsatz der elektronischen Datenverarbeitung
+### § 22 Vorgaben zum Einsatz der elektronischen Datenverarbeitung
 
 (1) Die Ministerien können im Einvernehmen mit dem Innenministerium und dem Finanzministerium durch Rechtsverordnung bestimmen, dass die unteren Verwaltungsbehörden Daten, die zur Erfüllung einer Aufgabe erforderlich sind, in elektronischer Form erfassen, verarbeiten, empfangen und in einem vorgegebenen Format auf einem vorgeschriebenen Weg an eine bestimmte Stelle übermitteln, wenn das Land hierzu durch Rechtsvorschrift der Europäischen Gemeinschaft oder des Bundes verpflichtet ist oder Aufgaben im Auftrag des Bundes ausgeführt werden (Artikel 85 des Grundgesetzes).
 
@@ -347,13 +349,13 @@ Die besonderen Verwaltungsbehörden sind zuständig für alle Aufgaben, die ihne
 
 (2) Die unteren Sonderbehörden, die nicht dem Regierungspräsidium, sondern unmittelbar einem Ministerium, einer Landesoberbehörde oder höheren Sonderbehörde nachgeordnet sind, werden von der Landesregierung bestimmt, soweit nicht für einzelne Arten von Behörden besondere gesetzliche Bestimmungen bestehen.
 
-# Vierter Teil - Übergangs- und Schlussbestimmungen
+## Vierter Teil - Übergangs- und Schlussbestimmungen
 
-## § 27 Verhältnis zum Polizeigesetz
+### § 27 Verhältnis zum Polizeigesetz
 
 Die Bestimmungen des Polizeigesetzes werden durch dieses Gesetz nicht berührt.
 
-## § 28 Verwaltungsvorschriften
+### § 28 Verwaltungsvorschriften
 
 Die zur Durchführung dieses Gesetzes notwendigen Verwaltungsvorschriften werden erlassen
 

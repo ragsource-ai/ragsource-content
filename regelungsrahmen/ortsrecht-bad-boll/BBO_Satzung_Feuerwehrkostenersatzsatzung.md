@@ -1,11 +1,11 @@
 ---
-titel: Satzung zur Regelung des Kostenersatzes für Leistungen der Freiwilligen Feuerwehr der Gemeinde Bad Boll (Feuerwehr-Kostenersatz-Satzung – FwKS)
+titel: Satzung zur Regelung des Kostenersatzes für Leistungen der Freiwilligen Feuerwehr der Gemeinde Bad Boll (Feuerwehr-Kostenersatz-Satzung
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,40 +15,24 @@ gueltig_ab: 2024-05-16
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Feuerwehrkostenersatz
-  - Feuerwehrkosten
-  - Kostenersatz Feuerwehr
-  - Brandmeldeanlagenalarm
-  - Fehlalarm Feuerwehr
-  - Fahrzeughalter Feuerwehr
-  - Feuerwehrstundensatz
-  - grobe Fahrlässigkeit Feuerwehr
-  - Überlandhilfe
-  - Personalkosten Feuerwehr
-  - FwKS
-fragen:
-  - "Wann muss ich die Feuerwehr bezahlen?"
-  - "Was kostet ein Feuerwehreinsatz in Bad Boll?"
-  - "Wer muss bei einem Fehlalarm der Brandmeldeanlage die Feuerwehrkosten tragen?"
-  - "Muss der Verursacher eines Feuers die Feuerwehr bezahlen?"
-  - "Wie hoch ist der Stundensatz für Feuerwehrleute in Bad Boll?"
-  - "Was kostet ein Feuerwehrfahrzeug pro Stunde?"
-  - "Wann sind Feuerwehreinsätze kostenlos?"
-querverweise:
-  - Feuerwehrsatzung der Gemeinde Bad Boll
-  - Feuerwehrentschädigungssatzung der Gemeinde Bad Boll
-  - Feuerwehrgesetz Baden-Württemberg
-  - Verordnung des Innenministeriums über den Kostenersatz für Einsätze der Feuerwehr (VOKeFw)
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
+
+- § 1 Geltungsbereich
+- § 2 Aufgaben der Feuerwehr
+- § 3 Kostenersatzpflicht
+- § 4 Überlandhilfe
+- § 5 Höhe des Kostenersatzes
+- § 5a Umsatzsteuer
+- § 6 Entstehen, Festsetzung und Fälligkeit der Kostenschuld
+- § 7 Inkrafttreten
 
 **Satzung zur Regelung des Kostenersatzes für Leistungen der Freiwilligen Feuerwehr der Gemeinde Bad Boll (Feuerwehrkostenersatzsatzung)**
 Seite F2 - 1
 Stand: Mai 2024
 
-## Satzung zur Regelung des Kostenersatzes für Leistungen der Freiwilligen Feuerwehr der Gemeinde Bad Boll (Feuerwehr-Kostenersatz-Satzung – FwKS)
+### Satzung zur Regelung des Kostenersatzes für Leistungen der Freiwilligen Feuerwehr der Gemeinde Bad Boll (Feuerwehr-Kostenersatz-Satzung – FwKS)
 
 Aufgrund von § 4 Gemeindeordnung für Baden-Württemberg (GemO) in der Fassung vom 17.12.2015 in Verbindung mit § 34 Absatz 4, § 26 Abs. 2 des Feuerwehrgesetzes (FwG) in der Fassung der Bekanntmachung vom 17.12.2015 hat der Gemeinderat der Gemeinde Bad Boll am 17. Mai 2018 folgende Satzung über den Kostenersatz für die Leistungen der Freiwilligen Feuerwehr beschlossen, die mit Satzungen vom 22. September 2022 vom 16. Mai 2024 geändert wurde:
 
@@ -142,7 +126,7 @@ Eine etwaige Verletzung von Verfahrens- oder Formvorschriften der Gemeindeordnun
 
 ---
 
-## Anlage zu § 5 Absatz 1 der Feuerwehr-Kostenersatzsatzung
+### Anlage zu § 5 Absatz 1 der Feuerwehr-Kostenersatzsatzung
 
 ### Kostenersatzverzeichnis
 

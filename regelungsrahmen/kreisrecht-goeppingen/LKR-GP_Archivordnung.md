@@ -2,8 +2,8 @@
 titel: Archivordnung des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 30.06.1989
@@ -11,35 +11,28 @@ gueltig_ab: 1989-07-20
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Archivordnung
-  - Kreisarchiv Göppingen
-  - Archivgut
-  - Benutzung Archiv
-  - Sperrfristen
-  - Archivbibliothek
-  - Reproduktionen
-  - Archivgebühren
-  - Kreisgeschichte
-  - Heimatgeschichte
-  - Archivzugang
-fragen:
-  - "Kann ich das Kreisarchiv Göppingen nutzen und wie beantrage ich das?"
-  - "Welche Unterlagen verwahrt das Archiv des Landkreises Göppingen?"
-  - "Was sind die Öffnungszeiten und Regeln bei der Archivbenutzung?"
-  - "Darf ich Fotos oder Reproduktionen von Archivgut anfertigen?"
-  - "Wann darf das Archiv die Benutzung verweigern?"
-querverweise:
-  - Satzung über die Erhebung von Verwaltungsgebühren des Landkreises Göppingen
-  - Hauptsatzung des Landkreises Göppingen
 ---
-# Archivordnung des Landkreises Göppingen
+
+## Inhaltsverzeichnis
+
+- § 1 Aufgaben und Stellung des Archivs
+- § 2 Benutzung des Archivs
+- § 3 Benutzungserlaubnis
+- § 4 Ort und Zeit der Benutzung, Verhalten im Benutzerraum
+- § 5 Vorlage von Archivgut
+- § 6 Haftung
+- § 7 Auswertung des Archivguts
+- § 8 Belegexemplare
+- § 9 Reproduktionen und Editionen
+- § 10 Gebühren
+- § 11 Geltungsbereich
+- § 12 Inkrafttreten
 
 **Landkreis Göppingen 3.10**  
 **vom 30. Juni 1989**  
 **Januar 2008**
 
-## § 1 Aufgaben und Stellung des Archivs
+### § 1 Aufgaben und Stellung des Archivs
 
 (1) Der Landkreis unterhält ein Archiv.
 
@@ -47,7 +40,7 @@ querverweise:
 
 (3) Das Archiv fördert die Erforschung und die Kenntnis der Kreis- und Heimatgeschichte.
 
-## § 2 Benutzung des Archivs
+### § 2 Benutzung des Archivs
 
 (1) Jeder, der ein berechtigtes Interesse glaubhaft macht, kann nach Maßgabe dieser Archivordnung das Archiv benutzen, soweit sich aus Rechtsvorschriften oder Vereinbarungen mit derzeitigen oder früheren Eigentümern des Archivguts nichts anderes ergibt.
 
@@ -57,7 +50,7 @@ a) Auskunft und Beratung durch das Archivpersonal,
 b) Einsichtnahme in die Findbücher und sonstigen Hilfsmittel,
 c) Einsichtnahme in Archivgut.
 
-## § 3 Benutzungserlaubnis
+### § 3 Benutzungserlaubnis
 
 (1) Die Benutzung des Archivs wird auf Antrag zugelassen, soweit Sperrfristen nicht entgegenstehen.
 
@@ -86,13 +79,13 @@ b) nachträglich Gründe bekannt werden, die zur Versagung der Benutzung geführ
 c) der Benutzer gegen die Archivordnung verstößt oder ihm erteilte Auflagen nicht einhält,
 d) der Benutzer Urheber- und Persönlichkeitsschutzrechte sowie schutzwürdige Belange Dritter nicht beachtet.
 
-## § 4 Ort und Zeit der Benutzung, Verhalten im Benutzerraum
+### § 4 Ort und Zeit der Benutzung, Verhalten im Benutzerraum
 
 (1) Das Archivgut kann nur im Benutzerraum während der festgesetzten Öffnungszeiten eingesehen werden. Das Betreten der Magazine durch Benutzer ist untersagt.
 
 (2) Die Benutzer haben sich im Benutzerraum so zu verhalten, daß kein anderer behindert oder belästigt wird. Zum Schutz des Archivguts ist es insbesondere untersagt, im Benutzerraum zu rauchen, zu essen, zu trinken. Kameras, Taschen, Mappen, Mäntel und dergleichen dürfen in den Benutzerraum nicht mitgenommen werden.
 
-## § 5 Vorlage von Archivgut
+### § 5 Vorlage von Archivgut
 
 (1) Das Archiv kann den Umfang des gleichzeitig vorzulegenden Archivguts beschränken; es kann die Bereithaltung zur Benutzung zeitlich begrenzen.
 
@@ -108,23 +101,23 @@ c) darauf zu radieren, es als Schreibunterlage zu verwenden oder Blätter heraus
 
 (5) Die vorstehenden Regelungen gelten entsprechend für die Archivbibliothek.
 
-## § 6 Haftung
+### § 6 Haftung
 
 (1) Der Benutzer haftet für die von ihm verursachten Verluste oder Beschädigungen des überlassenen Archivguts sowie für die sonst bei der Benutzung des Archivs verursachten Schäden. Dies gilt nicht, wenn er nachweist, daß ihn kein Verschulden trifft.
 
 (2) Der Landkreis haftet nur für Schäden, die auf Vorsatz oder grobe Fahrlässigkeit bei der Vorlage von Archivgut und Reproduktionen zurückzuführen sind.
 
-## § 7 Auswertung des Archivguts
+### § 7 Auswertung des Archivguts
 
 Der Benutzer hat bei der Auswertung des Archivguts die Rechte und schutzwürdigen Interessen des Landkreises, die Urheber- und Persönlichkeitsrechte Dritter und deren schutzwürdige Interessen zu wahren. Er hat den Landkreis von Ansprüchen Dritter freizustellen. Belegstellen sind anzugeben.
 
-## § 8 Belegexemplare
+### § 8 Belegexemplare
 
 (1) Werden Arbeiten unter wesentlicher Verwendung von Archivgut des Archivs verfaßt, sind die Benutzer verpflichtet, dem Archiv kostenlos und unaufgefordert ein Belegexemplar zu überlassen. Dies gilt auch für Manuskripte.
 
 (2) Beruht die Arbeit nur zum Teil auf Archivgut des Archivs, so hat der Benutzer die Drucklegung mit den genauen bibliographischen Angaben anzuzeigen und kostenlos Kopien der entsprechenden Seiten zur Verfügung zu stellen.
 
-## § 9 Reproduktionen und Editionen
+### § 9 Reproduktionen und Editionen
 
 (1) Die Fertigung von Reproduktionen und deren Publikation sowie die Edition von Archivgut bedürfen der Zustimmung des Landkreises. Die Reproduktionen dürfen nur für den freigegebenen Zweck und unter Angabe der Belegstellen verwendet werden.
 
@@ -132,17 +125,17 @@ Der Benutzer hat bei der Auswertung des Archivguts die Rechte und schutzwürdige
 
 (3) Die Herstellung von Reproduktionen fremder Archivalien bedarf der schriftlichen Zustimmung des Eigentümers.
 
-## § 10 Gebühren
+### § 10 Gebühren
 
 (1) Die Erhebung von Gebühren und Auslagen richtet sich nach der Verwaltungsgebührensatzung des Landkreises Göppingen.
 
 (2) Bei der Benutzung des Archivs für wissenschaftliche und ortsgeschichtliche Zwecke kann auf die Erhebung von Gebühren verzichtet werden.
 
-## § 11 Geltungsbereich
+### § 11 Geltungsbereich
 
 Diese Archivordnung gilt auch für Archivgut anderer Stellen, soweit mit den abgebenden Stellen keine andere Vereinbarung getroffen wurde.
 
-## § 12 Inkrafttreten
+### § 12 Inkrafttreten
 
 Diese Archivordnung tritt am Tage nach der öffentlichen Bekanntmachung in Kraft. *)
 

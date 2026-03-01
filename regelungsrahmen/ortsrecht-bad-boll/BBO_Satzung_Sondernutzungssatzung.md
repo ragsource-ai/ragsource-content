@@ -2,10 +2,10 @@
 titel: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen der Gemeinde Bad Boll (Sondernutzungssatzung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,45 +15,35 @@ gueltig_ab: 2001-06-21
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Sondernutzung
-  - Sondernutzungssatzung
-  - Sondernutzungsgebühr
-  - Gehweg
-  - Straße
-  - Straßengesetz BW
-  - Container aufstellen
-  - Außengastronomie
-  - Wahlplakate
-  - Sondernutzungserlaubnis
-  - StrG BW
-fragen:
-  - "Brauche ich eine Genehmigung, wenn ich einen Container auf dem Gehweg aufstellen will?"
-  - "Was kostet eine Sondernutzungserlaubnis in Bad Boll?"
-  - "Welche Sondernutzungen sind in Bad Boll genehmigungsfrei?"
-  - "Wie beantrage ich eine Sondernutzungserlaubnis in Bad Boll?"
-  - "Darf ich Wahlplakate ohne Erlaubnis aufstellen?"
-querverweise:
-  - Satzung zur Regelung des Marktwesens in der Gemeinde Bad Boll (Marktordnung)
-  - Satzung über die Erhebung von Verwaltungsgebühren der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
 
-## Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen vom 21.06.2001 (Sondernutzungssatzung)
+- § 1 Allgemeines, Geltungsbereich
+- § 2 Erlaubnisfreie Sondernutzungen
+- § 3 Erlaubnisantrag
+- § 4 Bemessungsgrundsätze
+- § 5 Gebührenschuldner
+- § 6 Entstehung einer Gebührenschuld
+- § 7 Fälligkeit der Gebührenschuld
+- § 8 Erstattung
+- § 9 Anwendung des Kommunalabgabengesetzes
+- § 10 Schlussbestimmungen, Inkrafttreten
+
+### Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen vom 21.06.2001 (Sondernutzungssatzung)
 
 **Stand:** Januar 2008  
 **Seite:** S1 - 1
 
 Aufgrund von § 16 Abs. 7 des Straßengesetzes für Baden-Württemberg (StrG), § 2 des Kommunalabgabengesetzes und § 4 der Gemeindeordnung für Baden-Württemberg hat der Gemeinderat der Gemeinde Boll am 21.06.2001 in öffentlicher Sitzung folgende Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen beschlossen, die mit Satzung vom 09.10.2003 geändert wurde:
 
-## § 1 Allgemeines, Geltungsbereich
+### § 1 Allgemeines, Geltungsbereich
 
 (1) Für die Benutzung der öffentlichen Straßen, die in der Baulast der Gemeinde stehen, über den Gemeingebrauch hinaus (Sondernutzung) werden Gebühren nach Maßgabe dieser Satzung und des Gebührenverzeichnisses erhoben. Gebühren werden auch erhoben, wenn eine Erlaubnis nach dem Straßengesetz nicht erforderlich ist. Dies gilt nicht, wenn sich die Einräumung von Rechten zu einer Benutzung von Straßen gem. § 21 Abs. 1 StrG nach bürgerlichem Recht richtet.
 
 (2) Bezieht sich eine Sondernutzung sowohl auf Straßenteile in der Straßenbaulast der Gemeinde als auch auf Straßenteile in der Straßenbaulast des Bundes, des Landes oder des Landkreises, sind die Gesamtgebühren ausschließlich aufgrund der Gebührenregelung des Bundes, des Landes oder des Landkreises festzusetzen.
 
-## § 2 Erlaubnisfreie Sondernutzungen
+### § 2 Erlaubnisfreie Sondernutzungen
 
 (1) Keiner Erlaubnis bedarf:
 
@@ -65,11 +55,11 @@ Aufgrund von § 16 Abs. 7 des Straßengesetzes für Baden-Württemberg (StrG), �
 
 (2) Die nach Abs. 1 von der Erlaubnis freigestellten Sondernutzungen können gebührenfrei in Anspruch genommen werden.
 
-## § 3 Erlaubnisantrag
+### § 3 Erlaubnisantrag
 
 Erlaubnisanträge sind mit Angabe von Art und Dauer der Sondernutzung bei der Gemeinde zu stellen. Die Gemeinde kann dazu nähere Erläuterungen durch Zeichnungen, textliche Beschreibung oder in sonst geeigneter Weise verlangen.
 
-## § 4 Bemessungsgrundsätze
+### § 4 Bemessungsgrundsätze
 
 (1) Die Höhe der Gebühren bestimmt sich nach dem jeweils gültigen Verzeichnis der Sondernutzungsgebühren (Anlage). Soweit dieses Verzeichnis Rahmensätze vorschreibt sind
 
@@ -81,7 +71,7 @@ Erlaubnisanträge sind mit Angabe von Art und Dauer der Sondernutzung bei der Ge
 
 (3) Die Entscheidung über eine in einem Jahresbetrag festzusetzende Gebühr kann geändert werden, wenn sich die im Einzelfall maßgebenden Verhältnisse wesentlich geändert haben.
 
-## § 5 Gebührenschuldner
+### § 5 Gebührenschuldner
 
 (1) Gebührenschuldner sind
 
@@ -91,23 +81,23 @@ Erlaubnisanträge sind mit Angabe von Art und Dauer der Sondernutzung bei der Ge
 
 (2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
-## § 6 Entstehung einer Gebührenschuld
+### § 6 Entstehung einer Gebührenschuld
 
 Der Anspruch auf die Sondernutzungsgebühr entsteht mit der Erteilung der Erlaubnis, Genehmigung oder mit der sonstigen Amtshandlung, die zur Sondernutzung berechtigt. Bei unerlaubter Sondernutzung entsteht der Anspruch auf die Gebühr mit dem Beginn der Nutzung. Sind für die Sondernutzung wiederkehrende Jahresgebühren zu entrichten, so entsteht der Anspruch auf die Sondernutzungsgebühr für das erste Jahr bei der Erteilung der Erlaubnis; der Anspruch auf die nachfolgenden Gebühren entsteht mit Beginn der folgenden Rechnungsjahre.
 
-## § 7 Fälligkeit der Gebührenschuld
+### § 7 Fälligkeit der Gebührenschuld
 
 Die Sondernutzungsgebühr wird mit der Bekanntgabe der Gebührenfestsetzung an den Schuldner fällig. Bei Gebühren, die in Jahresbeträgen festgesetzt sind, werden die auf das laufende Rechnungsjahr entfallenden Beträge entsprechend der Bestimmungen in Satz 1, die folgenden Jahresbeträge zum 02. Januar jeden Jahres, Monatsbeträge werden zum dritten Tag eines jeden Monats fällig. Gebühren, die in Wochen- oder Tagesbeträgen festgesetzt sind, werden in einem Betrag sofort zur Zahlung fällig.
 
-## § 8 Erstattung
+### § 8 Erstattung
 
 Wird die Sondernutzung aufgegeben oder die Erlaubnis oder Genehmigung widerrufen, so werden auf Antrag die im voraus entrichteten Gebühren anteilig erstattet. Der Antrag kann nur innerhalb von drei Monaten nach Beendigung der Sondernutzung gestellt werden. Beträge unter 5,00 € werden nicht erstattet.
 
-## § 9 Anwendung des Kommunalabgabengesetzes
+### § 9 Anwendung des Kommunalabgabengesetzes
 
 Soweit besondere gesetzliche Vorschriften nichts anderes bestimmen, gelten für Sondernutzungsgebühren die Vorschriften des Kommunalabgabengesetzes für die Benutzungsgebühren in der jeweils geltenden Fassung entsprechend.
 
-## § 10 Schlussbestimmungen, Inkrafttreten
+### § 10 Schlussbestimmungen, Inkrafttreten
 
 (1) Auf Sondernutzungen, für die eine Erlaubnis oder Genehmigung vor Inkrafttreten dieser Satzung erteilt worden ist, findet das Gebührenverzeichnis mit Inkrafttreten dieser Satzung Anwendung.
 
@@ -121,7 +111,7 @@ Eine Verletzung von Verfahrens- oder Formvorschriften der Gemeindeordnung (GemO)
 
 ---
 
-## ANLAGE zu der Satzung über die Erlaubnisse und Gebühren für Sondernutzung an öffentlichen Straßen
+### ANLAGE zu der Satzung über die Erlaubnisse und Gebühren für Sondernutzung an öffentlichen Straßen
 
 ### Verzeichnis der Sondernutzungsgebühren
 

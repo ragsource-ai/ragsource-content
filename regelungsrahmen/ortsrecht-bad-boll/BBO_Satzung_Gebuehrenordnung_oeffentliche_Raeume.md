@@ -2,10 +2,10 @@
 titel: Gebührenordnung für öffentliche Räume der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,34 +15,11 @@ gueltig_ab: 2016-01-21
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Raummiete
-  - Saalmiete
-  - Bürgersaal
-  - Dorfhaus Eckwälden
-  - Aula Schulzentrum
-  - Sporthalle
-  - öffentliche Räume
-  - Hallengebühr
-  - Veranstaltungsraum
-  - Auswärtigenzuschlag
-  - Gemeinderäume mieten
-fragen:
-  - "Was kostet die Anmietung des Bürgersaals in Bad Boll?"
-  - "Was kostet die Nutzung der Sporthalle in Bad Boll für Vereine?"
-  - "Was kostet das Dorfhaus Eckwälden für eine Veranstaltung?"
-  - "Gibt es für Auswärtige einen Aufschlag bei Gemeindräumen in Bad Boll?"
-  - "Was kostet die Aula im Schulzentrum Bad Boll für eine Veranstaltung?"
-querverweise:
-  - Benutzungsordnung für die Sporthallen der Gemeinde Bad Boll
-  - Satzung über die Erhebung von Verwaltungsgebühren der Gemeinde Bad Boll
 ---
-
-# GEMEINDE BAD BOLL - Gebührenordnung für öffentliche Räume
 
 **Stand:** Januar 2016
 
-## Gebührenordnung für öffentliche Räume
+### Gebührenordnung für öffentliche Räume
 
 Der Gemeinderat hat in seiner Sitzung am 21. Januar 2016 folgende Gebührensätze beschlossen:
 

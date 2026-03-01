@@ -2,10 +2,10 @@
 titel: Satzung über den Anschluss an die öffentliche Wasserversorgungsanlage und die Versorgung der Grundstücke mit Wasser (Wasserversorgungssatzung) der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,40 +15,73 @@ gueltig_ab: 2022-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Wasserversorgung
-  - Wasserversorgungssatzung
-  - WVS
-  - Trinkwasser
-  - Anschlusspflicht
-  - Benutzungspflicht
-  - Wasseranschluss
-  - Wassergebühr
-  - Wasseruhr
-  - Hausanschluss Wasser
-  - Grundstücksanschluss Wasser
-fragen:
-  - "Muss ich mein Grundstück an die Wasserversorgung in Bad Boll anschließen?"
-  - "Was kostet der Wasseranschluss in Bad Boll?"
-  - "Darf ich eine eigene Brunnenwasserversorgung in Bad Boll nutzen?"
-  - "Wer ist für die Wasseruhr auf meinem Grundstück zuständig?"
-  - "Wie beantrage ich eine Befreiung vom Anschlusszwang für Wasser?"
-  - "Wann wird die Wasserversorgung in Bad Boll unterbrochen?"
-querverweise:
-  - Betriebssatzung für die Wasserversorgung der Gemeinde Bad Boll (Eigenbetrieb)
-  - Satzung über die öffentliche Abwasserbeseitigung (Abwassersatzung) der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
 
-## Satzung über den Anschluss an die öffentliche Wasserversorgungsanlage und die Versorgung der Grundstücke mit Wasser (Wasserversorgungssatzung – WVS) der Gemeinde Bad Boll
+- § 1 Wasserversorgung als öffentliche Einrichtung
+- § 2 Anschlussnehmer, Wasserabnehmer
+- § 3 Anschluss- und Benutzungsrecht
+- § 4 Anschlusszwang
+- § 5 Benutzungszwang
+- § 6 Art der Versorgung
+- § 7 Umfang der Versorgung, Unterrichtung bei Versorgungsunterbrechungen
+- § 8 Verwendung des Wassers, sorgsamer Umgang
+- § 9 Unterbrechung des Wasserbezugs
+- § 10 Einstellung der Versorgung
+- § 11 Grundstücksbenutzung
+- § 12 Zutrittsrecht
+- § 13 Anschlussantrag
+- § 14 Haus- und Grundstücksanschlüsse
+- § 15 Kostenerstattung
+- § 16 Private Anschlussleitungen
+- § 17 Anlage des Anschlussnehmers
+- § 18 Inbetriebsetzung der Anlage des Anschlussnehmers
+- § 19 Überprüfung der Anlage des Anschlussnehmers
+- § 20 Technische Anschlussbedingungen
+- § 21 Messung
+- § 22 Nachprüfung von Messeinrichtungen
+- § 23 Ablesung
+- § 24 Messeinrichtungen an der Grundstücksgrenze
+- § 25 Erhebungsgrundsatz
+- § 26 Gegenstand der Beitragspflicht
+- § 27 Beitragsschuldner
+- § 28 Beitragsmaßstab
+- § 29 Grundstücksfläche
+- § 30 Nutzungsfaktor
+- § 31 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan die Geschosszahl festsetzt
+- § 32 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan eine Baumassenzahl festsetzt
+- § 33 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan die Höhe baulicher Anlagen festsetzt
+- § 34 Ermittlung des Nutzungsmaßes bei Grundstücken, für die keine Planfestsetzungen im Sinne der §§ 31 bis 33 bestehen
+- § 35 Nachveranlagung, weitere Beitragspflicht
+- § 36 Beitragssatz
+- § 37 Entstehung der Beitragsschuld
+- § 38 Fälligkeit
+- § 39 Ablösung
+- § 40 Erhebungsgrundsatz
+- § 41 Gebührenschuldner
+- § 42 Grundgebühr
+- § 43 Verbrauchsgebühren
+- § 44 Gemessene Wassermenge
+- § 45 Verbrauchsgebühr bei Bauten
+- § 46 Entstehung der Gebührenschuld
+- § 47 Vorauszahlungen
+- § 48 Fälligkeit
+- § 49 Anzeigepflichten
+- § 50 Ordnungswidrigkeiten
+- § 51 Haftung bei Versorgungsstörungen
+- § 52 Haftung von Wasserabnehmern und Anschlussnehmern
+- § 53 Umsatzsteuer
+- § 54 Inkrafttreten
+
+### Satzung über den Anschluss an die öffentliche Wasserversorgungsanlage und die Versorgung der Grundstücke mit Wasser (Wasserversorgungssatzung – WVS) der Gemeinde Bad Boll
 
 **Stand:** Januar 2025  
 **Seite:** W2 - 1
 
 Aufgrund der §§ 4 und 11 der Gemeindeordnung für Baden-Württemberg sowie der §§ 2, 8 Abs. 2, 11, 13, 20 und 42 des Kommunalabgabengesetzes für Baden-Württemberg hat der Gemeinderat der Gemeinde Bad Boll am 9. Juli 2015 folgende Satzung beschlossen, die mit Satzungen vom 22. September 2016, 21. Oktober 2021, 18. November 2021, 20. April 2023 sowie 26. September 2024 geändert wurde:
 
-## I. Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 ### § 1 Wasserversorgung als öffentliche Einrichtung
 
@@ -158,7 +191,7 @@ Aufgrund der §§ 4 und 11 der Gemeindeordnung für Baden-Württemberg sowie der
 
 Der Wasserabnehmer hat dem mit einem Ausweis versehenen Beauftragten der Gemeinde, im Rahmen des § 44 Abs. 6 Wassergesetz für Baden-Württemberg und des § 99 der Abgabenordnung, den Zutritt zu seinen Räumen und zu den in § 24 genannten Einrichtungen zu gestatten, soweit dies für die Prüfung der technischen Einrichtung, zur Wahrnehmung sonstiger Rechte und Pflichten nach dieser Satzung insbesondere zur Ablesung, zum Austausch der Messeinrichtungen (Wasserzähler) oder zur Ermittlung der Grundlagen für die Gebührenbemessung erforderlich ist.
 
-## II. Hausanschlüsse, Anlage des Anschlussnehmers, Messeinrichtungen
+### II. Hausanschlüsse, Anlage des Anschlussnehmers, Messeinrichtungen
 
 ### § 13 Anschlussantrag
 
@@ -265,7 +298,7 @@ Die Gemeinde ist berechtigt, weitere technische Anforderungen an den Hausanschlu
 
 (3) Der Anschlussnehmer kann die Verlegung der Einrichtungen auf seine Kosten verlangen, wenn sie an der bisherigen Stelle für ihn nicht mehr zumutbar sind und die Verlegung ohne Beeinträchtigung einer einwandfreien Messung möglich ist.
 
-## III. Wasserversorgungsbeitrag
+### III. Wasserversorgungsbeitrag
 
 ### § 25 Erhebungsgrundsatz
 
@@ -400,7 +433,7 @@ Der Wasserversorgungsbeitrag wird einen Monat nach Bekanntgabe des Beitragsbesch
 
 (3) Ein Rechtsanspruch auf Ablösung besteht nicht.
 
-## IV. Benutzungsgebühren
+### IV. Benutzungsgebühren
 
 ### § 40 Erhebungsgrundsatz
 
@@ -492,7 +525,7 @@ Die Gebührenschuld gemäß § 42 und § 43 ruht auf dem Grundstück bzw. dem Er
 
 (3) In den Fällen des § 43 Abs. 3 wird die Gebührenschuld mit der Wasserentnahme fällig.
 
-## V. Anzeigepflichten, Ordnungswidrigkeiten, Haftung
+### V. Anzeigepflichten, Ordnungswidrigkeiten, Haftung
 
 ### § 49 Anzeigepflichten
 
@@ -544,7 +577,7 @@ Die Gebührenschuld gemäß § 42 und § 43 ruht auf dem Grundstück bzw. dem Er
 
 (2) Der Haftende hat die Gemeinde von Ersatzansprüchen Dritter freizustellen, die wegen solcher Schäden geltend gemacht werden. Sind Ansprüche auf Mängel an mehreren Verbrauchsanlagen zurückzuführen, so haften die Wasserabnehmer als Gesamtschuldner.
 
-## VI. Steuern, Übergangs- und Schlussbestimmungen
+### VI. Steuern, Übergangs- und Schlussbestimmungen
 
 ### § 53 Umsatzsteuer
 

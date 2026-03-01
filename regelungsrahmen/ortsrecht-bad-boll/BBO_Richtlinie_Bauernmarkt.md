@@ -2,10 +2,10 @@
 titel: Richtlinien für den Bad Boller Bauernmarkt
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,30 +15,9 @@ gueltig_ab: 2016-03-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Bauernmarkt
-  - Wochenmarkt
-  - Marktstand
-  - Rathausplatz
-  - Direktvermarktung
-  - Landwirt
-  - Marktgebühr
-  - Marktcafé
-  - Regionalmarkt
-  - Wochenmarkt Bad Boll
-fragen:
-  - "Wann findet der Bauernmarkt in Bad Boll statt?"
-  - "Wer darf am Bad Boller Bauernmarkt teilnehmen?"
-  - "Was darf auf dem Bauernmarkt verkauft werden?"
-  - "Was kostet ein Marktstand beim Bauernmarkt Bad Boll?"
-  - "Wie beantrage ich einen Stand beim Bauernmarkt?"
-querverweise:
-  - Marktordnung der Gemeinde Bad Boll
 ---
 
-# GEMEINDE BAD BOLL
-
-## Richtlinien für den Bad Boller Bauernmarkt
+### Richtlinien für den Bad Boller Bauernmarkt
 
 **Stand:** Januar 2016  
 **Seite:** R1 - 1

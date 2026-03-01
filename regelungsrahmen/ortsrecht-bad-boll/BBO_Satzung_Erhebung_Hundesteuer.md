@@ -2,10 +2,10 @@
 titel: Satzung über die Erhebung der Hundesteuer (Hundesteuersatzung) der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,36 +15,27 @@ gueltig_ab: 2025-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Hundesteuer
-  - Hundesteuersatzung
-  - Hundesteuermarke
-  - Kampfhund
-  - Hundehaltung
-  - Zwingersteuer
-  - Steuerbefreiung Hund
-  - Assistenzhund
-  - Rettungshund
-  - Steuersatz Hund
-  - Hundeanmeldung
-fragen:
-  - "Wie viel kostet die Hundesteuer in Bad Boll?"
-  - "Muss ich meinen Hund bei der Gemeinde Bad Boll anmelden?"
-  - "Bin ich von der Hundesteuer befreit, wenn mein Hund ein Assistenzhund ist?"
-  - "Was kostet ein Kampfhund steuerlich in Bad Boll?"
-  - "Wie hoch ist die Hundesteuer für einen zweiten Hund?"
-  - "Was ist eine Zwingersteuer und wann wird sie erhoben?"
-  - "Wo bekomme ich die Hundesteuermarke in Bad Boll?"
-querverweise:
-  - Verwaltungsgebührensatzung der Gemeinde Bad Boll
-  - Kommunalabgabengesetz Baden-Württemberg
 ---
 
-# GEMEINDE BAD BOLL - Hundesteuersatzung
+## Inhaltsverzeichnis
+
+- § 1 Steuergegenstand
+- § 2 Steuerschuldner und Haftung, Steuerpflichtiger
+- § 3 Beginn und Ende der Steuerpflicht
+- § 4 Erhebungszeitraum; Entstehung der Steuer
+- § 5 Steuersatz
+- § 6 Steuerbefreiungen
+- § 7 Zwingersteuer
+- § 8 Allgemeine Bestimmungen über Steuervergünstigungen
+- § 9 Festsetzung und Fälligkeit
+- § 10 Anzeigepflicht
+- § 11 Hundesteuermarken
+- § 12 Ordnungswidrigkeiten
+- § 13 Inkrafttreten
 
 **Stand:** Januar 2025
 
-## Satzung über die Erhebung der Hundesteuer
+### Satzung über die Erhebung der Hundesteuer
 
 Auf Grund von § 4 der Gemeindeordnung für Baden-Württemberg (GemO) sowie §§ 2, 8 Abs. 2 und 9 Abs. 3 des Kommunalabgabengesetzes für Baden-Württemberg (KAG) hat der Gemeinderat der Gemeinde Bad Boll am 7.12.2023 folgende Satzung beschlossen, die mit Satzung vom 14.11.2024 geändert wurde:
 

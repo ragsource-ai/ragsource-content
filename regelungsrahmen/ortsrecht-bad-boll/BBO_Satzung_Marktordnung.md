@@ -2,10 +2,10 @@
 titel: Satzung zur Regelung des Marktwesens in der Gemeinde Bad Boll (Marktordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,38 +15,30 @@ gueltig_ab: 1985-05-09
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Marktordnung
-  - Jahrmarkt
-  - Marktstand
-  - Bahnhofsallee
-  - Standplatz
-  - Markterlaubnis
-  - Marktgebühr
-  - Verkaufsstand
-  - Volksfest
-  - Jahrmarkt Bad Boll
-fragen:
-  - "Wann finden die Jahrmärkte in Bad Boll statt?"
-  - "Wo findet der Jahrmarkt in Bad Boll statt?"
-  - "Wie beantrage ich einen Standplatz beim Jahrmarkt Bad Boll?"
-  - "Was darf auf dem Jahrmarkt in Bad Boll verkauft werden?"
-  - "Was kostet ein Standplatz auf dem Jahrmarkt Bad Boll?"
-querverweise:
-  - Richtlinien für den Bad Boller Bauernmarkt
-  - Satzung über die Sondernutzung an öffentlichen Straßen der Gemeinde Bad Boll (Sondernutzungssatzung)
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
 
-## Satzung zur Regelung des Marktwesens in der Gemeinde Boll (Marktordnung)
+- § 1 Markttage, Platz und Öffnungszeiten
+- § 2 Öffentliche Einrichtung
+- § 3 Zutritt
+- § 4 Standplätze
+- § 5 Auf- und Abbau
+- § 6 Verkaufseinrichtungen
+- § 7 Verhalten auf den Märkten
+- § 8 Sauberhaltung des Marktgeländes
+- § 9 Haftung
+- § 10 Ordnungswidrigkeiten
+- § 11 Inkrafttreten
+
+### Satzung zur Regelung des Marktwesens in der Gemeinde Boll (Marktordnung)
 
 **Stand:** Januar 2008  
 **Seite:** M1 - 1
 
 Aufgrund der §§ 4 und 142 der Gemeindeordnung für Baden-Württemberg in der Fassung vom 03.10.1983 (BGBl. S. 578) zuletzt geändert am 23.07.1984 (BGBl. S. 474) hat der Gemeinderat der Gemeinde Boll am 09.05.1985 folgende Satzung zur Regelung des Marktwesens (Marktordnung), die mit Satzung vom 03.07.1986 geändert wurde, beschlossen:
 
-## § 1 Markttage, Platz und Öffnungszeiten
+### § 1 Markttage, Platz und Öffnungszeiten
 
 (1) In der Gemeinde Boll finden zwei Jahrmärkte statt, am 15. Juli und am 20. November jeden Jahres. Fallen diese Tage auf einen Sonn- oder Feiertag, wird der Markt am übernächsten darauffolgenden Werktag abgehalten.
 
@@ -56,11 +48,11 @@ Aufgrund der §§ 4 und 142 der Gemeindeordnung für Baden-Württemberg in der F
 
 (4) Soweit in dringenden Fällen vorübergehend der Zeitpunkt der Markttage, die Öffnungszeiten und der Platz abweichend festgesetzt werden, wird dies im Mitteilungsblatt für den "Raum Bad Boll" öffentlich bekannt gemacht.
 
-## § 2 Öffentliche Einrichtung
+### § 2 Öffentliche Einrichtung
 
 Die Gemeinde Boll betreibt ihre Jahrmärkte als öffentliche Einrichtung.
 
-## § 3 Zutritt
+### § 3 Zutritt
 
 (1) Der Zutritt zu den Märkten ist grundsätzlich jedermann gestattet.
 
@@ -68,7 +60,7 @@ Die Gemeinde Boll betreibt ihre Jahrmärkte als öffentliche Einrichtung.
 
 (3) Ein sachlich gerechtfertigter Grund liegt insbesondere vor, wenn gegen diese Satzung oder eine aufgrund dieser Satzung ergangene Anordnung gröblich oder wiederholt verstoßen wird, ferner wenn die öffentliche Sicherheit und Ordnung sowie der Marktbetrieb gestört oder beeinträchtigt werden.
 
-## § 4 Standplätze
+### § 4 Standplätze
 
 (1) Auf dem Markt dürfen Waren nur von einem zugewiesenen Standplatz aus angeboten und verkauft werden.
 
@@ -91,7 +83,7 @@ Die Gemeinde Boll betreibt ihre Jahrmärkte als öffentliche Einrichtung.
 
 Wird die Erlaubnis widerrufen, kann die Gemeindeverwaltung die sofortige Räumung des Standplatzes verlangen.
 
-## § 5 Auf- und Abbau
+### § 5 Auf- und Abbau
 
 (1) Waren, Verkaufseinrichtungen und sonstige Betriebsgegenstände dürfen frühestens eine Stunde vor Beginn der Marktzeit angefahren, ausgepackt oder aufgestellt werden. Die Anfuhr muss bei Marktbeginn beendet sein. Ausnahmen können zugelassen werden, wenn der Marktbetrieb nicht gestört wird.
 
@@ -99,7 +91,7 @@ Wird die Erlaubnis widerrufen, kann die Gemeindeverwaltung die sofortige Räumun
 
 (3) Waren, Verkaufseinrichtungen und sonstige Betriebsgegenstände müssen spätestens eine Stunde nach Beendigung der Marktzeit vom Marktgelände entfernt sein und können andernfalls auf Kosten des Standinhabers zwangsweise entfernt werden.
 
-## § 6 Verkaufseinrichtungen
+### § 6 Verkaufseinrichtungen
 
 (1) Als Verkaufseinrichtungen auf dem Marktgelände sind nur Verkaufswagen, -anhänger, und -stände zugelassen. Sonstige Fahrzeuge dürfen während der Marktzeit auf dem Marktgelände nicht abgestellt werden. Ausnahmen können im Einzelfall zugelassen werden.
 
@@ -115,7 +107,7 @@ Wird die Erlaubnis widerrufen, kann die Gemeindeverwaltung die sofortige Räumun
 
 (7) In den Gängen und Durchfahrten dürfen keine Gegenstände abgestellt werden.
 
-## § 7 Verhalten auf den Märkten
+### § 7 Verhalten auf den Märkten
 
 (1) Alle Teilnehmer am Marktverkehr haben mit dem Betreten des Marktes die Bestimmungen dieser Marktordnung sowie die Anordnungen der Gemeindeverwaltung und ihrer Beauftragten zu beachten.
 
@@ -131,7 +123,7 @@ Wird die Erlaubnis widerrufen, kann die Gemeindeverwaltung die sofortige Räumun
 
 (5) Den Beauftragten der zuständigen amtlichen Stellen ist jederzeit Zutritt zu den Standplätzen und Verkaufseinrichtungen zu gestatten. Alle im Marktverkehr tätigen Personen haben sich ihm gegenüber auf Verlangen auszuweisen.
 
-## § 8 Sauberhaltung des Marktgeländes
+### § 8 Sauberhaltung des Marktgeländes
 
 (1) Das Marktgelände darf nicht verunreinigt werden, insbesondere dürfen dort keine Abfälle abgelagert werden. Alle Standinhaber müssen in jeweils ausreichendem Maße Abfallbehälter aufstellen und diese rechtzeitig entleeren.
 
@@ -143,13 +135,13 @@ Wird die Erlaubnis widerrufen, kann die Gemeindeverwaltung die sofortige Räumun
 
 (3) Die Gemeinde kann sich zur Beseitigung der Abfälle Dritter bedienen.
 
-## § 9 Haftung
+### § 9 Haftung
 
 (1) Die Gemeinde haftet für eventuelle Schäden auf den Märkten nur bei Vorsatz oder grober Fahrlässigkeit ihrer Bediensteten bzw. Beauftragten.
 
 (2) Für die der Gemeinde entstehenden Schäden haftet der Standinhaber. Er hat auch für die Schäden einzustehen, die durch Personen eintreten, die von ihm beschäftigt oder beauftragt sind.
 
-## § 10 Ordnungswidrigkeiten
+### § 10 Ordnungswidrigkeiten
 
 Ordnungswidrig i.S. von § 142 Gemeindeordnung Baden-Württemberg handelt, wer vorsätzlich oder fahrlässig gegen eine Vorschrift dieser Marktordnung über
 
@@ -171,6 +163,6 @@ Ordnungswidrig i.S. von § 142 Gemeindeordnung Baden-Württemberg handelt, wer v
 
 verstößt.
 
-## § 11 Inkrafttreten
+### § 11 Inkrafttreten
 
 Diese Marktordnung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft. Gleichzeitig tritt die Marktordnung vom 27.01.1955 außer Kraft.

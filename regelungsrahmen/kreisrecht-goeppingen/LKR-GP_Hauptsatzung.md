@@ -2,8 +2,8 @@
 titel: Hauptsatzung des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 24.11.2000, zuletzt geändert am 15.12.2020
@@ -11,53 +11,39 @@ gueltig_ab: 2021-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Hauptsatzung
-  - Landkreis Göppingen
-  - Kreistag
-  - Landrat
-  - Kreisrat
-  - Verwaltungsausschuss
-  - Jugendhilfeausschuss
-  - Landkreisordnung
-  - LKrO BW
-  - Kreisorgane
-  - beschließende Ausschüsse
-  - Zuständigkeiten Landrat
-  - Kreisrecht Göppingen
-fragen:
-  - "Welche Organe hat der Landkreis Göppingen?"
-  - "Was darf der Landrat eigenständig entscheiden, was muss der Kreistag beschließen?"
-  - "Welche beschließenden Ausschüsse gibt es im Landkreis Göppingen?"
-  - "Bis zu welchem Betrag kann der Landrat Bauvorhaben selbst genehmigen?"
-  - "Können Kreistagssitzungen ohne persönliche Anwesenheit stattfinden?"
-querverweise:
-  - Landkreisordnung für Baden-Württemberg (LKrO)
-  - Gemeindeordnung Baden-Württemberg (GemO BW)
-  - Geschäftsordnung des Kreistags Göppingen
-  - Satzung über das Jugendamt des Landkreises Göppingen
-  - Betriebssatzung des Abfallwirtschaftsbetriebs Landkreis Göppingen
 ---
-# Hauptsatzung des Landkreises Göppingen
+
+## Inhaltsverzeichnis
+
+- § 1 - Organe des Landkreises
+- § 2 - Zusammensetzung des Kreistags
+- § 3 - Zuständigkeiten des Kreistags
+- § 4 - Bildung und Zusammensetzung der beschließenden Ausschüsse
+- § 5 - Geschäftskreise der beschließenden Ausschüsse
+- § 6 - Verhältnis zwischen Kreistag und beschließenden Ausschüssen
+- § 7 - Allgemeine Zuständigkeiten des Landrats
+- § 8 - Einzelne Zuständigkeiten der beschließenden Ausschüsse und des Landrats
+- § 9 - Durchführen von Sitzungen ohne persönliche Anwesenheit der Mitglieder im Sitzungsraum
+- § 10 - Inkrafttreten
 
 **Landkreis Göppingen 3.1**  
 **Dezember 2020**
 
-## Hauptsatzung vom 24. November 2000
+### Hauptsatzung vom 24. November 2000
 
 mit Änderung vom 29. Juni 2001, 28. Juli 2006, 19. Oktober 2007, 13. März 2016 15. Dezember 2020
 
 Aufgrund der §§ 3, 32a, 34 und 42 Abs. 2 der Landkreisordnung für Baden-Württemberg (LKrO) in der Fassung vom 19. Juni 1987 (GBl. S. 288), zuletzt geändert durch Art. 2 des Gesetzes zur Änderung der Gemeindeordnung, der Landkreisordnung und anderer Gesetze vom 7. Mai 2020 (GBl. Nr. 13 vom 12. Mai 2020, S. 259 ff.) hat der Kreistag des Landkreises Göppingen am 24. November 2000 folgende Neufassung der Hauptsatzung beschlossen, die am 29. Juni 2001, 28. Juli 2006, 19. Oktober 2007, 13. März 2016 und 15. Dezember 2020 geändert wurde.
 
-## § 1 - Organe des Landkreises
+### § 1 - Organe des Landkreises
 
 Organe des Landkreises Göppingen sind der Kreistag und der Landrat.
 
-## § 2 - Zusammensetzung des Kreistags
+### § 2 - Zusammensetzung des Kreistags
 
 Der Kreistag besteht aus dem Landrat als Vorsitzendem und den Kreisräten.
 
-## § 3 - Zuständigkeiten des Kreistags
+### § 3 - Zuständigkeiten des Kreistags
 
 ### (1)
 
@@ -105,158 +91,21 @@ Dem Kreistag obliegt insbesondere
 
 Der Kreistag ist ferner zur Entscheidung in allen Angelegenheiten zuständig, soweit die in § 8 Abs. 1 für die beschließenden Ausschüsse genannten Obergrenzen überschritten werden.
 
-## § 4 - Bildung und Zusammensetzung der beschließenden Ausschüsse
+### § 4 - Bildung und Zusammensetzung der beschließenden Ausschüsse
 
-### (1)
+### § 5 - Geschäftskreise der beschließenden Ausschüsse
 
-Aufgrund von § 34 Abs. 1 LKrO werden folgende beschließende Ausschüsse gebildet:
+### § 6 - Verhältnis zwischen Kreistag und beschließenden Ausschüssen
 
-- der Verwaltungsausschuss (VA)
-- der Ausschuss für Umwelt und Verkehr (UVA)
-- der Sozialausschuss (SozA).
+### § 7 - Allgemeine Zuständigkeiten des Landrats
 
-Ferner besteht aufgrund von § 2 Abs. 1 des Landesjugendhilfegesetzes der Jugendhilfeausschuss (JHA) als beschließender Ausschuss. Das Nähere ist in der Satzung über das Jugendamt bestimmt.
+### § 8 - Einzelne Zuständigkeiten der beschließenden Ausschüsse und des Landrats
 
-### (2)
-
-Den beschließenden Ausschüssen gehören außer dem Landrat als Vorsitzendem weitere Mitglieder des Kreistags in folgender Zahl an:
-
-- dem Verwaltungsausschuss: 14 Kreisräte
-- dem Ausschuss für Umwelt und Verkehr: 14 Kreisräte
-- dem Sozialausschuss: 9 Kreisräte.
-
-Für die weiteren Mitglieder der Ausschüsse werden Stellvertreter bestellt, welche diese Mitglieder im Verhinderungsfall vertreten.
-
-### (3)
-
-Die Mitglieder der Ausschüsse wählen aus ihrer Mitte einen oder mehrere stellvertretende Vorsitzende, die den Vorsitzenden im Verhinderungsfalle vertreten; die Reihenfolge bestimmt der Ausschuss. Unberührt davon bleibt die Beauftragung des Ersten Landesbeamten mit dem Vorsitz (§ 35 Abs. 3 LKrO).
-
-## § 5 - Geschäftskreise der beschließenden Ausschüsse
-
-### (1)
-
-Der Verwaltungsausschuss ist zuständig für
-
-Kreispolitische Grundsatzthemen, zentrale Verwaltungsangelegenheiten, Personalangelegenheiten (ausgenommen Eigenbetrieb "Abfallwirtschaftsbetrieb"), Finanzen (einschl. der Annahme von Spenden und sonstigen Zuwendungen), Beteiligungen, Liegenschaften (ausgenommen Eigenbetrieb "Abfallwirtschaftsbetrieb"), Europaangelegenheiten, Bildung, Kulturpflege, Sport, Tourismus, Wirtschaftsförderung, Feuerwehr, Erlass von Polizeiverordnungen, Örtliche Prüfung.
-
-### (2)
-
-Der Ausschuss für Umwelt und Verkehr ist zuständig für
-
-Kreisstraßen (einschl. Grunderwerb, Planung, Sanierung und Entwicklung), Mobilität, Verkehrsinfrastruktur, Klimaschutz, Grünordnung, Ortsverschönerung, Obstbauberatung.
-
-Der Ausschuss für Umwelt und Verkehr ist gleichzeitig Betriebsausschuss des Eigenbetriebs "Abfallwirtschaftsbetrieb des Landkreises Göppingen".
-
-### (3)
-
-Der Sozialausschuss ist zuständig für
-
-Sozialhilfe, Eingliederungshilfe, Altenhilfe, Förderung der freien Wohlfahrtspflege, Ausländerbetreuung, Kriegsopferfürsorge, Hilfe für psychisch Kranke und Behinderte, Schuldnerberatung.
-
-## § 6 - Verhältnis zwischen Kreistag und beschließenden Ausschüssen
-
-### (1)
-
-Die beschließenden Ausschüsse entscheiden im Rahmen ihres Geschäftskreises selbständig anstelle des Kreistags, in den Fällen des § 8 Abs. 1 jedoch nur innerhalb der dort genannten Wertgrenzen.
-
-### (2)
-
-Der Kreistag kann den beschließenden Ausschüssen allgemein oder im Einzelfall Weisungen erteilen, jede Angelegenheit an sich ziehen oder Beschlüsse der beschließenden Ausschüsse, so lange sie noch nicht vollzogen sind, ändern oder aufheben.
-
-### (3)
-
-Bestehen Zweifel, ob für die Behandlung einer Angelegenheit der Kreistag oder ein Ausschuss zuständig ist, so ist die Zuständigkeit des Kreistags gegeben. Ist zweifelhaft, welcher Ausschuss zuständig ist, so ist die Zuständigkeit des Verwaltungsausschusses anzunehmen. Widersprechen sich die Beschlüsse von Ausschüssen, so führt der Landrat die Entscheidung des Kreistags herbei.
-
-## § 7 - Allgemeine Zuständigkeiten des Landrats
-
-### (1)
-
-Der Landrat leitet das Landratsamt. Er ist für die sachgemäße Erledigung der Aufgaben und den ordnungsgemäßen Gang der Verwaltung verantwortlich und regelt die innere Organisation des Landratsamts.
-
-### (2)
-
-Der Landrat erledigt in eigener Zuständigkeit die Geschäfte der laufenden Verwaltung, die ihm durch Gesetz oder vom Kreistag übertragenen Aufgaben sowie die Weisungsaufgaben, soweit gesetzlich nichts anderes bestimmt ist.
-
-## § 8 - Einzelne Zuständigkeiten der beschließenden Ausschüsse und des Landrats
-
-### (1)
-
-Zur dauernden Erledigung werden den beschließenden Ausschüssen im Rahmen ihres Geschäftskreises und dem Landrat nachfolgend aufgeführte Angelegenheiten übertragen (zur besseren Abgrenzung der Zuständigkeitsbereiche sind dabei teilweise auch Angelegenheiten der laufenden Verwaltung aufgeführt, für die der Landrat bereits kraft Gesetzes zuständig ist). Abweichend hiervon gelten für den Eigenbetrieb "Abfallwirtschaftsbetrieb" die Bestimmungen der entsprechenden Betriebssatzung.
-
-|Nr.|Angelegenheit|Zuständigkeit|
-|---|---|---|
-|1.|Entscheidung über Ernennung, Einstellung, Höhergruppierung und Entlassung von||
-||Leitenden Beamten und Beschäftigten ab Amtsleitung|Kreistag|
-||Abteilungsleitungen ab Besoldungsgruppe A 12 bzw. Entgeltgruppe EG 11 / S 17|Ausschuss|
-||im Übrigen|Landrat|
-|2.|Zulassung von Dienstleistungsbetrieben|Ausschuss|
-|3.|Entscheidung über die Ausführung eines Bauvorhabens, Genehmigung des Vorentwurfs und des Entwurfs sowie die Anerkennung der Schlussabrechnung bei Gesamtkosten||
-||a) bis 150.000 €|Landrat|
-||b) von mehr als 150.000 bis 1.000.000 €|Ausschuss|
-||c) Entscheidung über den Abschluss von Nachtragsvereinbarungen, die zu einer Erhöhung des Hauptauftrags um nicht mehr als 20 %, höchstens jedoch 150.000 € führen, wenn die Gesamtplanung des Vorhabens nicht oder nur unwesentlich verändert wird und die Mehrkosten im Rahmen der Gesamtfinanzierung des Bauvorhabens abgedeckt sind|Landrat|
-||im Übrigen|Ausschuss|
-|4.|Vollzug des Haushaltsplans einschließlich der Vergabe von Lieferungen und Leistungen im Einzelfall||
-||a) bis 150.000 € sowie ohne betragsmäßige Begrenzung für den sächlichen Verwaltungs- und Betriebsaufwand, Unterhaltungs- und Bewirtschaftungskosten|Landrat|
-||b) im Übrigen|Ausschuss|
-|5.|Bewilligung von Zuschüssen und Darlehen an Dritte sowie von Freiwilligkeitsleistungen, soweit deren Höhe nicht durch allgemeine Beschlüsse festgelegt ist||
-||a) bis 5.000 €|Landrat|
-||b) von mehr als 5.000 €|Ausschuss|
-|6.|Bewilligung von über- und außerplanmäßigen Aufwendungen bzw. Auszahlungen nach § 84 Abs. 1 und 2 GemO||
-||a) bis 25.000 €, bei Freiwilligkeitsleistungen bis 5.000 €|Landrat|
-||b) von mehr als 25.000 € bis 100.000 €, bei Freiwilligkeitsleistungen von mehr als 5.000 €|Ausschuss|
-||c) Bewilligung einer Vermehrung oder Hebung von Stellen nach § 82 Abs. 3 Nr. 4 GemO i.V.m. § 48 LKrO|Ausschuss|
-|7.|Verzicht auf Ansprüche des Landkreises im Einzelfall||
-||a) bis 10.000 €|Landrat|
-||b) von mehr als 10.000 bis 100.000 €|Ausschuss|
-|8.|Niederschlagung von Ansprüchen des Landkreises im Einzelfall||
-||a) bis 15.000 €|Landrat|
-||b) von mehr als 15.000 bis 500.000 €|Ausschuss|
-|9.|Stundung von Forderungen des Landkreises|Landrat|
-|10.|a) Aufnahme von Kassenkrediten im Rahmen des Höchstbetrags der Haushaltssatzung|Landrat|
-||b) Aufnahme von Krediten im Rahmen der Kreditermächtigung und Umschuldungen|Landrat|
-||c) Bestellung von Sicherheiten, Übernahme von Bürgschaften und von Verpflichtungen aus Gewährverträgen sowie Abschluss der ihnen wirtschaftlich gleichkommenden Rechtsgeschäfte||
-||bis 150.000 € im Einzelfall|Landrat|
-||von mehr als 150.000 bis 500.000 €|Ausschuss|
-||d) die Anlegung des Geldvermögens (Kassenbestände, Rücklagen u.ä.)|Landrat|
-|11.|Erwerb, Tausch, Veräußerung und dingliche Belastung von Grundeigentum oder grundstücksgleichen Rechten und von Beteiligungen einschließlich der Ausübung des Vorkaufsrechts im Einzelfall||
-||a) bis 150.000 €|Landrat|
-||b) von mehr als 150.000 bis 500.000 €|Ausschuss|
-|12.|Verkauf von Erzeugnissen und beweglichem Vermögen im Einzelfall||
-||a) bis 100.000 €|Landrat|
-||b) von mehr als 100.000 bis 250.000 €|Ausschuss|
-|13.|Abschluss und Aufhebung von Miet-, Pacht- und Leasingverträgen mit einer Jahresmiete von||
-||a) bis 50.000 €|Landrat|
-||b) von mehr als 50.000 € bis 250.000 €|Ausschuss|
-|14.|Führung von Rechtsstreiten (ohne untere Verwaltungsbehörde) einschließlich des Abschlusses von Vergleichen bei einem Streitwert oder Zugeständnis für Forderungen und Zahlungsverpflichtungen||
-||a) bis 200.000 €|Landrat|
-||b) von mehr als 200.000 € bis 1.000.000 €|Ausschuss|
-|15.|Beitritt zu und Austritt aus Vereinen, Verbänden, Organisationen mit einem jährlichen Mitgliedsbeitrag im Einzelfall||
-||a) bis 2.000 €|Landrat|
-||b) von mehr als 2.000 €|Ausschuss|
-|16.|Annahme von Spenden und sonstigen Zuwendungen im Sinne von § 78 Abs. 4 der Gemeindeordnung|Ausschuss|
-|17.|a) Zuziehung von sachkundigen Kreiseinwohnern und Sachverständigen zu den Beratungen des Kreistags und der Ausschüsse|Landrat|
-||b) Bestellung von Kreiseinwohnern zu ehrenamtlicher Mitwirkung bei Zählungen, statistischen Erhebungen, Wahlen u.ä., sowie Entscheidungen darüber, ob ein wichtiger Grund für die Ablehnung einer solchen ehrenamtlichen Mitwirkung vorliegt|Landrat|
-|18.|Bewilligung von Ausnahmen von Bestimmungen der Satzungen und Polizeiverordnungen, soweit sie zur Vermeidung von Härten oder Unbilligkeiten im Einzelfall erforderlich und in diesen Satzungen und Polizeiverordnungen festgelegt sind|Landrat|
-|19.|a) Aufgaben der Straßenbaubehörde nach dem Straßengesetz|Landrat|
-||b) Stellungnahme zur Umstufung von und zu Kreisstraßen als Folge von Baumaßnahmen||
-|||Landrat|
-||im Übrigen|Ausschuss|
-||c) Abschluss von Vereinbarungen über den Ausbau von Ortsdurchfahrten im Zuge von Kreisstraßen|Landrat|
-||d) Aufstellung von Richtlinien für die Beteiligung an Aufwendungen der Gemeinden und anderen Straßenbaulastträgern (z.B. Randstein- und Kanalisationsbeiträge)|Ausschuss|
-|20.|a) Erlass von Richtlinien im Rahmen der sachlichen Zuständigkeit des örtlichen Trägers der Sozialhilfe und der Kriegsopfer- und Schwerbeschädigtenfürsorge und des örtlichen Trägers der Eingliederungshilfe|Ausschuss|
-||b) Beitritt zu bzw. der Abschluss und die Kündigung von Abkommen, Verträgen und Vereinbarungen im Rahmen der sachlichen Zuständigkeit des örtlichen Trägers der Sozialhilfe und der Kriegsopfer- und Schwerbeschädigtenfürsorge und des örtlichen Trägers der Eingliederungshilfe|Ausschuss|
-|21.|Bestellung der Naturschutzbeauftragten für den Landkreis Göppingen nach § 59 Abs. 4 des Naturschutzgesetzes für Baden-Württemberg (NatSchG)|Ausschuss|
-|22.|Angelegenheiten, die wegen ihrer allgemeinen und grundsätzlichen Bedeutung vom Landrat dem Ausschuss vorgelegt werden|Ausschuss|
-
-### (2)
-
-Der Landrat kann die ihm vom Kreistag übertragenen Befugnisse auf Beamte und Beschäftigte weiterübertragen.
-
-## § 9 - Durchführen von Sitzungen ohne persönliche Anwesenheit der Mitglieder im Sitzungsraum
+### § 9 - Durchführen von Sitzungen ohne persönliche Anwesenheit der Mitglieder im Sitzungsraum
 
 Nach Entscheidung des/der jeweiligen Vorsitzenden können im Rahmen der Voraussetzungen nach § 32a LKrO Sitzungen des Kreistags, der Ausschüsse und sonstiger Gremien ohne persönliche Anwesenheit der Mitglieder im Sitzungsraum durchgeführt werden.
 
-## § 10 - Inkrafttreten
+### § 10 - Inkrafttreten
 
 Diese Hauptsatzung tritt am 01. Januar 2001 in Kraft. *)
 

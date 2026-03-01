@@ -2,8 +2,8 @@
 titel: Satzung über die Erstattung der notwendigen Schülerbeförderungskosten des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 10.10.2025
@@ -11,38 +11,37 @@ gueltig_ab: 2026-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Schülerbeförderung
-  - Schulbus
-  - Beförderungskosten
-  - Eigenanteil Schulbus
-  - D-Ticket JugendBW
-  - Schülerfahrtkosten
-  - Mindestentfernung Schule
-  - Sonderpädagogisches Bildungs- und Beratungszentrum
-  - SBBZ Beförderung
-  - VVS Ausbildungsticket
-  - Fahrtkostenerstattung Schüler
-  - Landratsamt Schülerbeförderung
-fragen:
-  - "Wer zahlt den Schulbus für mein Kind im Landkreis Göppingen?"
-  - "Ab welcher Entfernung werden Schülerfahrtkosten im Landkreis Göppingen erstattet?"
-  - "Was kostet der Eigenanteil für die Schülerbeförderung im Landkreis Göppingen?"
-  - "Bekommt mein Kind mit Behinderung eine Beförderung zur Schule?"
-  - "Wie beantrage ich die Erstattung von Schülerbeförderungskosten?"
-querverweise:
-  - Landkreisordnung für Baden-Württemberg (LKrO)
-  - Gesetz über den kommunalen Finanzausgleich Baden-Württemberg (FAG)
-  - Schulgesetz Baden-Württemberg (SchG)
-  - Landesreisekostengesetz Baden-Württemberg (LRKG)
 ---
-# Satzung über die Erstattung der notwendigen Schülerbeförderungskosten des Landkreises Göppingen
+
+## Inhaltsverzeichnis
+
+- § 1 Kostenerstattung
+- § 2 Stundenplanmäßiger Unterricht
+- § 3 Mindestentfernung
+- § 4 Auswärtige Unterbringung, Wochenendheimfahrten
+- § 5 Begleitpersonen
+- § 6 Eigenanteilspflicht
+- § 7 Erlass
+- § 8 Rangfolge der Verkehrsmittel
+- § 9 Zumutbare Wegstrecke zur Haltestelle
+- § 10 Zumutbare Wartezeit
+- § 11 Einsatz von Schülerfahrzeugen
+- § 12 Benutzung privater Kraftfahrzeuge
+- § 13 Höchstbeträge
+- § 14 Vorschriften für Schulkindergärten, Grundschulförderklassen und Wohngemeinden
+- § 15 Genehmigungsverfahren bei Beförderungsverträgen
+- § 16 Genehmigungsverfahren bei Benutzung privater Kraftfahrzeuge
+- § 17 Abrechnung zwischen Schulträgern und Landkreis
+- § 18 Kostenerstattung aufgrund von Einzelanträgen
+- § 19 Ergänzende Richtlinien
+- § 20 Prüfungsrecht des Landratsamts
+- § 21 Inkrafttreten
 
 Aufgrund von § 3 der Landkreisordnung für Baden-Württemberg (LKrO) in der Fassung vom 22. Juli 2025 (GBl. 2025 Nr. 71) und § 18 Abs. 2 des Gesetzes über den kommunalen Finanzausgleich (FAG) in der Fassung vom 29. Juli 2025 (GBl. 2025, Nr. 81) hat der Kreistag am 10. Oktober 2025 folgende Satzung über die Erstattung der notwendigen Schülerbeförderungskosten beschlossen:
 
 Aus Gründen der leichteren Lesbarkeit wird die männliche Sprachform verwendet. Dies impliziert jedoch keine Benachteiligung des weiblichen und diversen Geschlechts, sondern ist im Sinne der sprachlichen Vereinfachung als geschlechtsneutral zu verstehen.
 
-## A. Erstattungsvoraussetzungen
+### A. Erstattungsvoraussetzungen
 
 ### § 1 Kostenerstattung
 
@@ -121,7 +120,7 @@ ab einer Mindestentfernung von 3 km.
 
 (3) Ist neben dem Fahrpersonal eine weitere Person zur Begleitung der Kinder erforderlich und werden in einem Schülerfahrzeug mindestens 10 blinde, geistig behinderte, körperbehinderte, sehbehinderte oder seelisch behinderte Schüler oder Kinder in Schulkindergärten befördert, so wird der Einsatz einer Begleitperson angemessen vergütet. Dies gilt auch für sprachbehinderte Kinder in Sonderschulkindergärten, im Übrigen in besonders begründeten Fällen auch dann, wenn weniger als 10 Schüler befördert werden und das Landratsamt zugestimmt hat.
 
-## B. Eigenanteil
+### B. Eigenanteil
 
 ### § 6 Eigenanteilspflicht
 
@@ -137,7 +136,7 @@ Die errechneten Eigenanteilsbeträge werden jeweils kaufmännisch auf 5 Cent ger
 
 (entfällt ab 01.01.2026)
 
-## C. Umfang der Kostenerstattung
+### C. Umfang der Kostenerstattung
 
 ### § 8 Rangfolge der Verkehrsmittel
 
@@ -182,7 +181,7 @@ Die errechneten Eigenanteilsbeträge werden jeweils kaufmännisch auf 5 Cent ger
 
 (3) Für Schüler der SBBZ gelten keine Höchstbeträge. Übersteigen bei Schülern von SBBZ die Beförderungskosten 2.600 € im Schuljahr, kann der Landkreis den übersteigenden Betrag zu 75 v. H. von dem Stadt- oder Landkreis geltend machen, in dem der Schüler wohnt. Die Beförderungskosten, einschließlich der Kosten für Begleitpersonen, werden für jeden Schüler, der am Stichtag der amtlichen Schulstatistik zu befördern ist, entsprechend dem tatsächlichen Anteil dieses Schülers an der genehmigten Fahrtstrecke berechnet. Die Berechnung erfolgt durch den Landkreis des Schulorts bis spätestens 31. Dezember des auf das Schuljahresende folgenden Jahres. Diese Ausschlussfrist kann in Ausnahmefällen auf vorherigen Antrag hin verlängert werden.
 
-## D. Verfahrensvorschriften
+### D. Verfahrensvorschriften
 
 ### § 14 Vorschriften für Schulkindergärten, Grundschulförderklassen und Wohngemeinden
 

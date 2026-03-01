@@ -2,10 +2,10 @@
 titel: Satzung über die öffentliche Abwasserbeseitigung (Abwassersatzung) der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,41 +15,68 @@ gueltig_ab: 2022-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Abwasserbeseitigung
-  - Abwassersatzung
-  - AbwS
-  - Kanalisation
-  - Grundstücksanschluss
-  - Anschlusspflicht
-  - Benutzungspflicht
-  - Niederschlagswasser
-  - Schmutzwasser
-  - Hausanschluss
-  - Grundstücksentwässerung
-  - Kläranlage
-  - Entwässerungsgebühr
-  - Abwassergebühr
-  - Kanal
-fragen:
-  - "Muss ich mein Grundstück an die Kanalisation anschließen?"
-  - "Welche Stoffe darf ich nicht in die Kanalisation einleiten?"
-  - "Was kostet der Anschluss an die öffentliche Abwasseranlage in Bad Boll?"
-  - "Wie beantrage ich eine Befreiung von der Anschlusspflicht?"
-  - "Wer ist verantwortlich für die Grundstücksentwässerungsanlage?"
-  - "Welche Genehmigungen brauche ich für den Bau einer privaten Entwässerungsanlage?"
-querverweise:
-  - Satzung über die Erhebung von Verwaltungsgebühren der Gemeinde Bad Boll
-  - Satzung über den Anschluss an die öffentliche Wasserversorgungsanlage und die Versorgung der Grundstücke mit Wasser (Wasserversorgungssatzung) der Gemeinde Bad Boll
 ---
 
-# Satzung über die öffentliche Abwasserbeseitigung (Abwassersatzung – AbwS) der Gemeinde Bad Boll
+## Inhaltsverzeichnis
+
+- § 1 Öffentliche Einrichtung
+- § 2 Begriffsbestimmungen
+- § 3 Berechtigung und Verpflichtung zum Anschluss und zur Benutzung
+- § 4 Anschlussstelle, vorläufiger Anschluss
+- § 5 Befreiungen
+- § 6 Allgemeine Ausschlüsse
+- § 7 Ausschlüsse im Einzelfall, Mehrkostenvereinbarung
+- § 8 Einleitungsbeschränkungen
+- § 9 Eigenkontrolle
+- § 10 Abwasseruntersuchungen
+- § 11 Grundstücksbenutzung
+- § 12 Grundstücksanschlüsse
+- § 13 Sonstige Anschlüsse
+- § 14 Private Grundstücksanschlüsse
+- § 15 Genehmigungen
+- § 16 Regeln der Technik
+- § 17 Herstellung, Änderung und Unterhaltung der Grundstücksentwässerungsanlagen
+- § 18 Abscheider, Hebeanlagen, Pumpen, Zerkleinerungsgeräte
+- § 19 Außerbetriebsetzung von Kleinkläranlagen
+- § 20 Sicherung gegen Rückstau
+- § 21 Abnahme und Prüfung der Grundstücksentwässerungsanlagen, Zutrittsrecht, Indirekteinleiterkataster
+- § 22 Erhebungsgrundsatz
+- § 23 Gegenstand der Beitragspflicht
+- § 24 Beitragsschuldner
+- § 25 Beitragsmaßstab
+- § 26 Grundstücksfläche
+- § 27 Nutzungsfaktor
+- § 28 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan die Geschosszahl festsetzt
+- § 29 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan eine Baumassenzahl festsetzt
+- § 30 Ermittlung des Nutzungsmaßes bei Grundstücken, für die ein Bebauungsplan die Höhe baulicher Anlagen festsetzt
+- § 31 Ermittlung des Nutzungsmaßes bei Grundstücken, für die keine Planfestsetzung im Sinne der §§ 28 bis 30 bestehen
+- § 32 Nachveranlagung, weitere Beitragspflicht
+- § 33 Beitragssatz
+- § 34 Entstehung der Beitragsschuld
+- § 35 Vorauszahlungen, Fälligkeit
+- § 36 Ablösung
+- § 37 Erhebungsgrundsatz
+- § 38 Gebührenmaßstab
+- § 39 Gebührenschuldner
+- § 40 Bemessung der Schmutzwassergebühr
+- § 40a Bemessung der Niederschlagswassergebühr
+- § 41 Absetzungen
+- § 42 Höhe der Abwassergebühren
+- § 42a Zählergebühr
+- § 43 Entstehung der Gebührenschuld
+- § 44 Vorauszahlungen
+- § 45 Fälligkeit
+- § 46 Anzeigepflicht
+- § 47 Haftung der Gemeinde
+- § 48 Haftung der Grundstückseigentümer
+- § 49 Ordnungswidrigkeiten
+- § 50 Inkrafttreten
 
 **Stand: Januar 2022**
 
 Aufgrund von § 46 Abs. 4 und 5 des Wassergesetzes für Baden-Württemberg (WG), §§ 4 und 11 der Gemeindeordnung für Baden-Württemberg (GemO) und §§ 2, 8 Abs. 2, 11, 13, 20 und 42 des Kommunalabgabengesetzes für Baden-Württemberg (KAG) hat der Gemeinderat der Gemeinde Bad Boll am 9. Juli 2015 folgende Satzung beschlossen, die mit Satzungen vom 22. September 2016, 19. September 2019, 21. Oktober 2021 sowie 18. November 2021 geändert wurde:
 
-## I. Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 ### § 1 Öffentliche Einrichtung
 
@@ -69,7 +96,7 @@ Aufgrund von § 46 Abs. 4 und 5 des Wassergesetzes für Baden-Württemberg (WG),
 
 (4) Notüberläufe sind Entlastungsbauwerke für außerplanmäßige Ableitungen in den öffentlichen Kanal. Drosseleinrichtungen dienen der vergleichmäßigten und reduzierten (gedrosselten) Ableitung von Abwasser in den öffentlichen Kanal; sie sind so auszulegen, dass eine Einleitung nur in Ausnahmesituationen (zum Beispiel Starkregen) erfolgt.
 
-## II. Anschluss und Benutzung
+### II. Anschluss und Benutzung
 
 ### § 3 Berechtigung und Verpflichtung zum Anschluss und zur Benutzung
 
@@ -152,7 +179,7 @@ b) das nach den allgemein anerkannten Regeln der Abwassertechnik nicht mit häus
 
 Die Grundstückseigentümer können bei Vorliegen der Voraussetzungen des § 93 Wasserhaushaltsgesetz (WHG) durch die Gemeinde verpflichtet werden, für Zwecke der öffentlichen Abwasserbeseitigung das Verlegen von Kanälen einschließlich Zubehör zur Ab- und Fortleitung von Abwasser über ihre Grundstücke zu dulden. Die Grundstückseigentümer haben insbesondere den Anschluss anderer Grundstücke an die Anschlussleitung zu ihren Grundstücken zu dulden.
 
-## III. Grundstücksanschlüsse, Grundstücksentwässerungsanlagen
+### III. Grundstücksanschlüsse, Grundstücksentwässerungsanlagen
 
 ### § 12 Grundstücksanschlüsse
 
@@ -240,7 +267,7 @@ Abwasseraufnahmeeinrichtungen der Grundstücksentwässerungsanlagen, insbesonder
 
 (4) Die Gemeinde ist nach § 49 Abs. 1 WG in Verbindung mit der Eigenkontrollverordnung des Landes verpflichtet, Betriebe, von deren Abwasseranfall nach Beschaffenheit und Menge ein erheblicher Einfluss auf die öffentliche Abwasserbehandlungsanlage, deren Wirksamkeit, Betrieb oder -Unterhaltung oder auf das Gewässer zu erwarten ist, in einem so genannten Indirekteinleiterkataster zu erfassen. Dieses wird bei der Gemeinde geführt und auf Verlangen der Wasserbehörde übermittelt. Die Verantwortlichen dieser Betriebe sind verpflichtet, der Gemeinde, auf deren Anforderung hin die für die Erstellung des Indirekteinleiterkatasters erforderlichen Angaben zu machen. Dabei handelt es sich um folgende Angaben: Namen des Betriebs und der Verantwortlichen, Art und Umfang der Produktion, eingeleitete Abwassermenge, Art der Abwasservorbehandlungsanlage sowie der wesentlichen Abwasserinhaltsstoffe. Hierzu gehören insbesondere auch solche Stoffe, die in Anlage 5 und 7 der Oberflächengewässerverordnung genannt sind. Die Gemeinde wird dabei die Geheimhaltungspflicht von Geschäfts- und Betriebsgeheimnissen sowie die Belange des Datenschutzes beachten.
 
-## IV. Abwasserbeitrag
+### IV. Abwasserbeitrag
 
 ### § 22 Erhebungsgrundsatz
 
@@ -402,7 +429,7 @@ Der Abwasserbeitrag setzt sich zusammen aus:
 
 (3) Ein Rechtsanspruch auf Ablösung besteht nicht.
 
-## V. Abwassergebühren
+### V. Abwassergebühren
 
 ### § 37 Erhebungsgrundsatz
 
@@ -534,7 +561,7 @@ Diese pauschal ermittelte nicht eingeleitete Wassermenge wird um die gemäß Abs
 
 (2) Die Vorauszahlungen gemäß § 44 werden jeweils zum 30.03., 30.06., 30.09., und 30.12. zur Zahlung fällig.
 
-## VI. Anzeigepflicht, Haftung, Ordnungswidrigkeiten
+### VI. Anzeigepflicht, Haftung, Ordnungswidrigkeiten
 
 ### § 46 Anzeigepflicht
 
@@ -607,7 +634,7 @@ Die Grundstückseigentümer und die Benutzer haften für schuldhaft verursachte 
 
 (2) Ordnungswidrig im Sinne von § 8 Abs. 2 Satz 1 Nr. 2 KAG handelt, wer vorsätzlich oder leichtfertig den Anzeigepflichten nach § 46 Absätze 1 bis 7 nicht, nicht richtig oder nicht rechtzeitig nachkommt.
 
-## VII. Übergangs- und Schlussbestimmungen
+### VII. Übergangs- und Schlussbestimmungen
 
 ### § 50 Inkrafttreten
 
@@ -617,7 +644,7 @@ Die Grundstückseigentümer und die Benutzer haften für schuldhaft verursachte 
 
 ---
 
-## Hinweis nach § 4 Abs. 4 GemO
+### Hinweis nach § 4 Abs. 4 GemO
 
 Eine etwaige Verletzung von Verfahrens- oder Formvorschriften der Gemeindeordnung für Baden-Württemberg (GemO) oder aufgrund der GemO beim Zustandekommen dieser Satzung wird nach § 4 Abs. 4 GemO unbeachtlich, wenn sie nicht schriftlich innerhalb eines Jahres seit der Bekanntmachung dieser Satzung gegenüber der Gemeinde geltend gemacht worden ist. Der Sachverhalt, der die Verletzung begründen soll, ist zu bezeichnen. Dies gilt nicht, wenn die Vorschriften über die Öffentlichkeit der Sitzung, die Genehmigung oder die Bekanntmachung der Satzung verletzt worden sind.
 

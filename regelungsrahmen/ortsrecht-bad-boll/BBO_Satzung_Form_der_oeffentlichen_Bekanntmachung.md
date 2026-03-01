@@ -2,10 +2,10 @@
 titel: Satzung über die Form der öffentlichen Bekanntmachung der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,28 +15,16 @@ gueltig_ab: 1983-04-14
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - öffentliche Bekanntmachung
-  - Bekanntmachungssatzung
-  - Amtsblatt
-  - Mitteilungsblatt
-  - GVV Raum Bad Boll
-  - Bekanntmachungsform
-  - Erscheinungstag
-  - Amtliche Veröffentlichung
-fragen:
-  - "Wie werden Satzungen und Beschlüsse in Bad Boll öffentlich bekannt gemacht?"
-  - "Wann gilt eine Bekanntmachung in Bad Boll als erfolgt?"
-  - "Wo werden amtliche Bekanntmachungen der Gemeinde Bad Boll veröffentlicht?"
-querverweise:
-  - Veröffentlichungsrichtlinie für das amtliche Mitteilungsblatt des Gemeindeverwaltungsverbandes Raum Bad Boll
 ---
 
-# GEMEINDE BAD BOLL - Satzung über die Form der öffentlichen Bekanntmachung
+## Inhaltsverzeichnis
+
+- § 1
+- § 2
 
 **Stand:** Januar 2008
 
-## Satzung über die Form der öffentlichen Bekanntmachung
+### Satzung über die Form der öffentlichen Bekanntmachung
 
 Aufgrund des § 4 der Gemeindeordnung für Baden-Württemberg i.V.m. § 1 der Verordnung zur Durchführung der Gemeindeordnung für Baden-Württemberg hat der Gemeinderat am 14.04.1983 folgende Satzung beschlossen:
 

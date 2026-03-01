@@ -2,10 +2,10 @@
 titel: Hauptsatzung der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,58 +15,36 @@ gueltig_ab: 2017-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Hauptsatzung
-  - Gemeinderatsverfassung
-  - Verwaltungsausschuss
-  - Ausschuss für Technik und Umwelt
-  - Umlegungsausschuss
-  - Bürgermeister
-  - Zuständigkeiten
-  - Wertgrenzen
-  - beschließende Ausschüsse
-  - Gemeindeorgane
-  - Kommunalverfassung
-  - GemO
-  - Aufgaben des Bürgermeisters
-  - Aufgaben des Gemeinderats
-  - Aufgaben der Ausschüsse
-  - Geschäftskreis
-  - Personalangelegenheiten
-  - Bauleitplanung
-fragen:
-  - "Welche Ausschüsse gibt es im Gemeinderat Bad Boll?"
-  - "Bis zu welchem Betrag kann der Bürgermeister selbst entscheiden?"
-  - "Was ist der Unterschied zwischen dem Verwaltungsausschuss und dem Ausschuss für Technik und Umwelt?"
-  - "Wer entscheidet über Personalangelegenheiten in der Gemeinde Bad Boll?"
-  - "Welche Wertgrenzen gelten für Beschlüsse des Gemeinderats?"
-  - "Was sind die Aufgaben des Bürgermeisters in Bad Boll?"
-  - "Welche Zuständigkeiten hat der Bürgermeister laut Hauptsatzung?"
-  - "Was sind die Aufgaben des Gemeinderats in Bad Boll?"
-  - "Wofür ist der Gemeinderat zuständig?"
-  - "Was macht der Verwaltungsausschuss in Bad Boll?"
-  - "Wofür ist der Ausschuss für Technik und Umwelt zuständig?"
-  - "Welche Aufgaben haben die beschließenden Ausschüsse?"
-querverweise:
-  - Geschäftsordnung für den Gemeinderat der Gemeinde Bad Boll
-  - Gemeindeordnung für Baden-Württemberg
 ---
 
-# GEMEINDE BAD BOLL - Hauptsatzung
+## Inhaltsverzeichnis
+
+- § 1 Gemeinderatsverfassung
+- § 2 Rechtsstellung, Aufgaben und Zuständigkeiten
+- § 3 Zusammensetzung
+- § 4 Beschließende Ausschüsse
+- § 5 Allgemeine Zuständigkeiten der beschließenden Ausschüsse
+- § 6 Beziehungen zwischen Gemeinderat und beschließenden Ausschüssen
+- § 7 Verwaltungsausschuss
+- § 8 Ausschuss für Technik und Umwelt
+- § 9 Umlegungsausschuss
+- § 10 Rechtsstellung
+- § 11 Zuständigkeiten
+- § 12 Inkrafttreten
 
 Stand: Januar 2017
 
-## Hauptsatzung der Gemeinde Bad Boll
+### Hauptsatzung der Gemeinde Bad Boll
 
 Aufgrund von § 4 der Gemeindeordnung für Baden-Württemberg - GemO - hat der Gemeinderat am 8. Dezember 2016 folgende Hauptsatzung beschlossen:
 
-## I. Form der Gemeindeverfassung
+### I. Form der Gemeindeverfassung
 
 ### § 1 Gemeinderatsverfassung
 
 Verwaltungsorgane der Gemeinde sind der Gemeinderat und der Bürgermeister.
 
-## II. Gemeinderat
+### II. Gemeinderat
 
 ### § 2 Rechtsstellung, Aufgaben und Zuständigkeiten
 
@@ -78,7 +56,7 @@ Der Gemeinderat ist die Vertretung der Bürger und das Hauptorgan der Gemeinde. 
 
 (2) Für die Zahl der Gemeinderäte ist jeweils die nächstniedrigere Gemeindegrößengruppe gem. § 25 Abs. 2, S. 1, 2. Halbsatz GemO maßgebend.
 
-## III. Ausschüsse des Gemeinderats
+### III. Ausschüsse des Gemeinderats
 
 ### § 4 Beschließende Ausschüsse
 
@@ -210,7 +188,7 @@ Der Gemeinderat ist die Vertretung der Bürger und das Hauptorgan der Gemeinde. 
 
 (2) Auf den Umlegungsausschuss finden § 5 Abs. 2 Satz 2, Absätze 3 und 4 sowie § 6 Abs. 1 und 2 keine Anwendung.
 
-## IV. Bürgermeister
+### IV. Bürgermeister
 
 ### § 10 Rechtsstellung
 
@@ -252,7 +230,7 @@ Der Bürgermeister ist hauptamtlicher Beamter auf Zeit.
 
 2.13 die Beauftragung der Feuerwehr zur Hilfeleistung in Notlagen und mit Maßnahmen der Brandverhütung im Sinne des § 2 Abs. 2 Feuerwehrgesetz.
 
-## V. Schlussbestimmungen
+### V. Schlussbestimmungen
 
 ### § 12 Inkrafttreten
 

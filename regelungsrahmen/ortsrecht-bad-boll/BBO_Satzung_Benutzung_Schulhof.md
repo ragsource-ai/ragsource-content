@@ -2,10 +2,10 @@
 titel: Benutzungsordnung für den Schulhof der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,50 +15,41 @@ gueltig_ab: 2012-04-19
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Schulhof
-  - Schulzentrum
-  - Schulhofordnung
-  - Benutzungsordnung Schulhof
-  - Heinrich-Schickhardt-Schule
-  - Blumhardt-Förderschule
-  - Ratzefummel
-  - Schulgelände
-  - Aufenthaltsrecht
-  - Jugendhaus
-fragen:
-  - "Darf ich den Schulhof in Bad Boll außerhalb der Schulzeiten nutzen?"
-  - "Wann ist der Schulhof in Bad Boll zugänglich?"
-  - "Was ist auf dem Schulhof Bad Boll verboten?"
-  - "Dürfen Hunde auf den Schulhof Bad Boll mitgebracht werden?"
-  - "Wer hat auf dem Schulhof Vorrang?"
-querverweise:
-  - Benutzungsordnung für das Kleinspielfeld der Gemeinde Bad Boll
-  - Satzung über die Erhebung von Gebühren für die Schülerbetreuung Ratzefummel der Gemeinde Bad Boll
 ---
 
-# Benutzungsordnung Schulhof
+## Inhaltsverzeichnis
+
+- § 1 Zweck der Benutzungsordnung
+- § 2 Geltungsbereich
+- § 3 Zweckbestimmung und Nutzung
+- § 4 Personenkreis / Einschränkung des Aufenthaltsrechts
+- § 5 Benutzung
+- § 6 Benutzungszeiten
+- § 7 Ausnahmen
+- § 8 Aufsicht
+- § 9 Ordnungswidrigkeiten
+- § 10 Inkrafttreten
 
 **GEMEINDE BAD BOLL**  
 **Stand: März 2012**
 
 Aufgrund von § 4 der Gemeindeordnung für Baden-Württemberg (GemO) in Verbindung mit den §§ 10 und 142 GemO hat der Gemeinderat der Gemeinde Bad Boll am 19.04.2012 folgende Benutzungsordnung für den Schulhof beschlossen:
 
-## § 1 Zweck der Benutzungsordnung
+### § 1 Zweck der Benutzungsordnung
 
 Die Benutzungsordnung soll den Aufenthalt auf dem Schulhof im Schulzentrum Bad Boll regeln und die schutzwürdigen Belange der Schulen, der Anwohner und der Gemeinde gewährleisten.
 
-## § 2 Geltungsbereich
+### § 2 Geltungsbereich
 
 (1) Der Schulhof des Schulzentrums liegt im Bereich zwischen Heinrich-Schickhardt-Schule, Blumhardt-Förderschule, Kleinkindgruppe Zwergenstübchen, Turnhalle/Jugendhaus sowie dem Außenbereich der Schülerbetreuung Ratzefummel und ist entsprechend beiliegendem Plan abgegrenzt.
 
 (2) Der Schulweg, der Blumhardtweg sowie der Verbindungsweg zwischen Erlengarten und Blumhardtweg gehören nicht zum Schulhof.
 
-## § 3 Zweckbestimmung und Nutzung
+### § 3 Zweckbestimmung und Nutzung
 
 Der Schulhof dient dem Schulbetrieb, d.h. der Abhaltung des regelmäßigen Unterrichts und außerunterrichtlicher Veranstaltungen. Außerhalb des Schulbetriebes kann der Schulhof von der Öffentlichkeit nach Maßgabe dieser Benutzungsordnung betreten und genutzt werden.
 
-## § 4 Personenkreis / Einschränkung des Aufenthaltsrechts
+### § 4 Personenkreis / Einschränkung des Aufenthaltsrechts
 
 (1) Die Benutzung des Schulhofes ist vorrangig folgenden Personen gestattet:
 
@@ -68,7 +59,7 @@ b) Personen, die zum ordnungsgemäßen Ablauf des jeweiligen Schulbetriebes beit
 
 (2) Einzelnen Personen kann der Aufenthalt auf dem Schulhof für eine bestimmte Frist oder auf Dauer untersagt werden, wenn sie gegen die Benutzungsregeln verstoßen haben.
 
-## § 5 Benutzung
+### § 5 Benutzung
 
 (1) Der Schulhof einschließlich seiner Ausstattung ist pfleglich zu behandeln und ordentlich sowie aufgeräumt zu hinterlassen.
 
@@ -92,19 +83,19 @@ h) mittels Rundfunk- und Fernsehgeräten, Lautsprechern, Tonwiedergabegeräten, 
 
 i) unberechtigt Waren oder Leistungen aller Art feilzuhalten bzw. anzubieten und für die Lieferung von Waren sowie für Leistungen aller Art insbesondere gewerblicher Art zu werben.
 
-## § 6 Benutzungszeiten
+### § 6 Benutzungszeiten
 
 (1) Soweit nicht schulische Belange der Nutzung entgegenstehen, ist der Schulhof ganzjährig zur Benutzung freigegeben.
 
 (2) Der Schulhof ist außerhalb des Schulbetriebs täglich von 8.00 Uhr bis 22.00 Uhr, während des Schulbetriebs von Montag bis Freitag von 7.00 Uhr bis 22.00 Uhr zur Benutzung freigegeben. Außerhalb dieser Zeiten darf der Schulhof nicht benutzt werden.
 
-## § 7 Ausnahmen
+### § 7 Ausnahmen
 
 (1) Ausnahmen von dieser Benutzungsordnung können bei schulischen Belangen die Schulleitung und bei gemeindlichen Belangen die Gemeinde erteilen.
 
 (2) Bei schulischen Veranstaltungen und den von der Gemeinde genehmigten Veranstaltungen ist es den Teilnehmern gestattet, den Schulhof während des Benutzungsverbotes nach § 6 zu benutzen. Diese Ausnahme gilt während der Veranstaltung sowie während eines Zeitraumes von einer Stunde vor Beginn und 30 Minuten nach Ende der Veranstaltung.
 
-## § 8 Aufsicht
+### § 8 Aufsicht
 
 (1) Die Aufsichtspflicht über Kinder und Jugendliche, die den Schulhof außerhalb des Schulbetriebs benutzen, obliegt den Erziehungsberechtigten.
 
@@ -112,7 +103,7 @@ i) unberechtigt Waren oder Leistungen aller Art feilzuhalten bzw. anzubieten und
 
 (3) Während der Schulzeiten ist die Benutzung und Aufsicht durch die Schul- bzw. Hausordnung der Schule geregelt.
 
-## § 9 Ordnungswidrigkeiten
+### § 9 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne von § 142 GemO handelt, wer vorsätzlich oder fahrlässig gegen § 5, § 6, § 7 Abs. 2 und § 8 Abs. 2 dieser Benutzungsordnung verstößt.
 
@@ -120,7 +111,7 @@ i) unberechtigt Waren oder Leistungen aller Art feilzuhalten bzw. anzubieten und
 
 (3) Absatz 1 gilt nicht, soweit eine Ausnahme nach § 7 vorliegt.
 
-## § 10 Inkrafttreten
+### § 10 Inkrafttreten
 
 Diese Benutzungsordnung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
 

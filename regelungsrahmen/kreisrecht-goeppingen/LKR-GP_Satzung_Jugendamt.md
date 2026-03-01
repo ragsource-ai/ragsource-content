@@ -2,8 +2,8 @@
 titel: Satzung über das Jugendamt des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 12.03.1993, geändert am 20.05.2003
@@ -11,46 +11,32 @@ gueltig_ab: 1993-04-03
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Jugendamt
-  - Kreisjugendamt Göppingen
-  - Jugendhilfeausschuss
-  - Jugendhilfe
-  - Jugendhilfeplanung
-  - Landratsamt Göppingen
-  - SGB VIII
-  - freie Träger Jugendhilfe
-  - Jugendverbände
-  - Wohlfahrtspflege
-  - Jugendschöffen
-fragen:
-  - "Welche Aufgaben hat das Kreisjugendamt Göppingen?"
-  - "Wie ist der Jugendhilfeausschuss im Landkreis Göppingen zusammengesetzt?"
-  - "Was entscheidet der Jugendhilfeausschuss?"
-  - "Wie werden freie Träger der Jugendhilfe im Landkreis gefördert?"
-  - "Wer sitzt beratend im Jugendhilfeausschuss?"
-querverweise:
-  - Hauptsatzung des Landkreises Göppingen
-  - Landkreisordnung für Baden-Württemberg (LKrO)
-  - Sozialgesetzbuch VIII (SGB VIII) – Kinder- und Jugendhilfe
-  - Landesjugendhilfegesetz Baden-Württemberg (LJHG)
 ---
-# Satzung über das Jugendamt des Landkreises Göppingen
+
+## Inhaltsverzeichnis
+
+- § 1 Gliederung und Bezeichnung
+- § 2 Aufgaben
+- § 3 Jugendhilfeausschuss
+- § 4 Beschlußrecht des Jugendhilfeausschusses
+- § 5 Anhörung des Jugendhilfeausschusses
+- § 6 Beteiligung der freien Träger an der Jugendhilfeplanung
+- § 7 Inkrafttreten
 
 **Landkreis Göppingen 3.5**  
 **vom 12. März 1993**  
 **mit Änderung vom 20.05.2003**  
 **Januar 2008**
 
-## § 1 Gliederung und Bezeichnung
+### § 1 Gliederung und Bezeichnung
 
 Das Jugendamt ist eine Dienststelle innerhalb des Landratsamts. Es führt die Bezeichnung "Landratsamt – Kreisjugendamt".
 
-## § 2 Aufgaben
+### § 2 Aufgaben
 
 Das Jugendamt nimmt die Aufgaben nach §§ 8 und 27 des Sozialgesetzbuches, Buch I - Allgemeiner Teil (SGB I), § 2 in Verbindung mit § 89 des Achten Buches des Sozialgesetzbuches (SGB VIII) sowie die ihm aufgrund anderer Rechtsvorschriften übertragenen Aufgaben wahr.
 
-## § 3 Jugendhilfeausschuss
+### § 3 Jugendhilfeausschuss
 
 (1) Der Jugendhilfeausschuss ist ein beschließender Ausschuß im Sinne der Landkreisordnung (§ 2 Abs. 1 LJHG, §§ 34, 35 LKrO).
 
@@ -72,7 +58,7 @@ f) 1 Vertreter der Arbeitsverwaltung
 g) 1 Vertreter der Polizei
 h) der Leiter der Verwaltung des Kreisjugendamtes.
 
-## § 4 Beschlußrecht des Jugendhilfeausschusses
+### § 4 Beschlußrecht des Jugendhilfeausschusses
 
 (1) Der Jugendhilfeausschuss ist im Rahmen des § 71 Abs. 3 SGB VIII zuständig für
 
@@ -89,15 +75,15 @@ h) der Leiter der Verwaltung des Kreisjugendamtes.
 1. den Vorschlag der Jugendschöffen nach § 35 Jugendgerichts-Gesetz (JGG);
 2. den Vorschlag der Beisitzer der Ausschüsse für Kriegsdienstverweigerung nach § 9 Kriegsdienstverweigerungsgesetz (KDVG) in Verbindung mit § 1 der Kriegsdienstverweigerungsverordnung (KDVV) und die Kammern für Kriegsdienstverweigerung nach § 18 KDVG i.V. m.§ 10 KDVV.
 
-## § 5 Anhörung des Jugendhilfeausschusses
+### § 5 Anhörung des Jugendhilfeausschusses
 
 Die Anhörung des Jugendhilfeausschusses im Sinne von § 1 Abs. 2 Nr. 4 LJHG hat rechtzeitig vor der Beschlußfassung des Kreistages in Fragen der Jugendhilfe zu erfolgen.
 
-## § 6 Beteiligung der freien Träger an der Jugendhilfeplanung
+### § 6 Beteiligung der freien Träger an der Jugendhilfeplanung
 
 Die Beteiligung der freien Träger an Arbeitsgruppen zur Jugendhilfeplanung im Sinne des § 1 Abs. 2 Nr. 5 LJHG erfolgt im Rahmen des § 9 LJHG und wird im Einzelfall durch das Jugendamt sichergestellt.
 
-## § 7 Inkrafttreten
+### § 7 Inkrafttreten
 
 Die Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft. *)
 

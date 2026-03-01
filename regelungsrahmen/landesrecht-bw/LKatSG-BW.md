@@ -1,8 +1,8 @@
 ---
-titel: "Landeskatastrophenschutzgesetz Baden-Württemberg (LKatSG BW)"
+titel: Landeskatastrophenschutzgesetz Baden-Württemberg (LKatSG BW)
 ebene: land
 saule: regelungsrahmen
-land_ars: "08"
+land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz neugefasst am 22.11.1999 (GBl. 1999, 625), zuletzt geändert durch Artikel 1 des Gesetzes vom 17.12.2020 (GBl. S. 1268)
 gueltig_ab: 1999-07-28
@@ -10,33 +10,59 @@ status: published
 projekte:
   - amtsschimmel
   - brandmeister
-keywords:
-  - LKatSG BW
-  - Katastrophenschutzgesetz
-  - Katastrophenschutz Baden-Württemberg
-  - Katastrophenschutzbehörde
-  - Katastrophe
-  - Katastrophenalarm
-  - Katastrophenabwehr
-  - Bevölkerungsschutz
-  - Feuerwehr Katastrophenschutz
-  - THW
-  - Einsatzkräfte
-  - Katastrophenhilfe
-fragen:
-  - "Was ist eine Katastrophe im Sinne des Landeskatastrophenschutzgesetzes?"
-  - "Wer ist Katastrophenschutzbehörde in Baden-Württemberg?"
-  - "Welche Aufgaben hat der Landkreis beim Katastrophenschutz?"
-  - "Wann wird der Katastrophenschutz ausgelöst?"
-  - "Wie müssen Gemeinden beim Katastrophenschutz mitwirken?"
-querverweise:
-  - Feuerwehrgesetz Baden-Württemberg (FwG BW)
-  - Gemeindeordnung für Baden-Württemberg (GemO BW)
 ---
 
-# Landeskatastrophenschutzgesetz Baden-Württemberg (LKatSG)
+## Inhaltsverzeichnis
 
-## Amtliche Angaben
+- § 1 - Katastrophenschutz
+- § 2 - Vorbereitende Maßnahmen
+- § 3 - Maßnahmen bei Katastrophen
+- § 4 - Katastrophenschutzbehörden
+- § 5 - Im Katastrophenschutz mitwirkende Behörden, Einrichtungen, Stellen und Berufsvertretungen
+- § 5a - Erhebung und Übermittlung von Daten
+- § 6 - Sachliche Zuständigkeit
+- § 7 - Örtliche Zuständigkeit
+- § 8 - Landesbeirat für den Katastrophenschutz
+- § 8a - Externe Notfallpläne für schwere Unfälle mit gefährlichen Stoffen
+- § 8b - Externe Notfallpläne für Abfallentsorgungseinrichtungen
+- § 9 - Katastrophenhilfe
+- § 10 - Katastrophenschutzdienst
+- § 11
+- § 12 - Rechtsverhältnisse der Helfer
+- § 13 - Fortgewährung von Leistungen; Erstattungen
+- § 14 - Aufwendungsersatz
+- § 15 - Ersatz von Sachschäden
+- § 16 - Haftung
+- § 17 - Im Katastrophenschutz beruflich tätige Personen; Angehörige der Feuerwehren
+- § 18 - Katastrophenalarm
+- § 19 - Leitung des Einsatzes; Zusammenarbeit der Behörden
+- § 20 - Technische Leitung des Einsatzes
+- § 21 - Einsatz
+- § 22 - Katastrophenvoralarm
+- § 23 - Aufhebung von Katastrophenalarm und Katastrophenvoralarm
+- § 24
+- § 25 - Hilfspflichten der Bevölkerung
+- § 26 - Besondere Pflichten von Angehörigen der Berufe des Gesundheitswesens
+- § 27 - Pflichten der Inhaber von Fahrzeugen und Geräten; Instandsetzungen
+- § 28 - Pflichten der Inhaber von Grundstücken, Bauwerken und Schiffen
+- § 29 - Pflichten der im Katastrophengebiet oder am Einsatzort Anwesenden
+- § 30 - Pflichten der Betreiber von Anlagen mit besonderem Gefahrenpotenzial
+- § 31 - Pflichten beim Katastrophenvoralarm
+- § 32
+- § 33 - Kostentragung
+- § 34 - Zuschüsse, Erstattungen
+- § 35 - Außergewöhnliche Einsatzlage
+- § 36 - Außergewöhnlicher Einsatzalarm
+- § 37 - Rechtsverhältnisse der Helferinnen und Helfer
+- § 38 - Leitung des Einsatzes
+- § 39 - Kostentragung
+- § 40 - Ordnungswidrigkeiten
+- § 41 - Einschränkung von Grundrechten
+- § 42 - Aufhebung von Rechtsvorschriften
+- § 43 - Verwaltungsvorschriften
+- § 44 - Inkrafttreten
+
+### Amtliche Angaben
 
 **Amtliche Abkürzung**: LKatSG  
 **Neugefasst**: 22.11.1999  
@@ -50,17 +76,17 @@ querverweise:
 
 Zum 13.12.2025 aktuellste verfügbare Fassung der Gesamtausgabe.
 
-### 1. TEIL - Aufgaben und Organisation der Katastrophenschutzbehörden
+## 1. TEIL - Aufgaben und Organisation der Katastrophenschutzbehörden
 
-#### 1. Abschnitt - Aufgaben der Katastrophenschutzbehörden
+## 1. Abschnitt - Aufgaben der Katastrophenschutzbehörden
 
-##### § 1 - Katastrophenschutz
+### § 1 - Katastrophenschutz
 
 (1) Die Katastrophenschutzbehörden haben die Aufgabe, die Bekämpfung von Katastrophen vorzubereiten, Katastrophen zu bekämpfen und bei der vorläufigen Beseitigung von Katastrophenschäden mitzuwirken (Katastrophenschutz). Sie haben dazu die Maßnahmen zu treffen, die nach pflichtmäßigem Ermessen erforderlich erscheinen.
 
 (2) Katastrophe im Sinne dieses Gesetzes ist ein Geschehen, das Leben oder Gesundheit zahlreicher Menschen oder Tiere, die Umwelt, erhebliche Sachwerte oder die lebensnotwendige Versorgung der Bevölkerung in so ungewöhnlichem Maße gefährdet oder schädigt, dass es geboten erscheint, ein zu seiner Abwehr und Bekämpfung erforderliches Zusammenwirken von Behörden, Stellen und Organisationen unter die einheitliche Leitung der Katastrophenschutzbehörde zu stellen.
 
-##### § 2 - Vorbereitende Maßnahmen
+### § 2 - Vorbereitende Maßnahmen
 
 (1) Als vorbereitende Maßnahmen haben die Katastrophenschutzbehörden insbesondere
 
@@ -74,7 +100,7 @@ Zum 13.12.2025 aktuellste verfügbare Fassung der Gesamtausgabe.
 
 (2) Die Katastrophenschutzbehörden bilden zur Erfüllung von Katastrophenschutzaufgaben besondere Führungseinrichtungen zur Erledigung der administrativ-organisatorischen Aufgaben (Verwaltungsstab) und zur Erledigung der operativ-taktischen Aufgaben (Führungsstab/Technische Einsatzleitung), in denen Vertreter der benötigten Fachdienste sowie der durch ein Störereignis direkt betroffenen Betreiber von Anlagen mit besonderem Gefahrenpotential im Sinne von § 30 angemessen zu beteiligen sind.
 
-##### § 3 - Maßnahmen bei Katastrophen
+### § 3 - Maßnahmen bei Katastrophen
 
 (1) Bei Katastrophen haben die Katastrophenschutzbehörden insbesondere
 
@@ -88,9 +114,9 @@ Zum 13.12.2025 aktuellste verfügbare Fassung der Gesamtausgabe.
 
 (3) Absatz 2 gilt entsprechend für Außergewöhnliche Einsatzlagen gemäß § 35.
 
-#### 2. Abschnitt - Organisation der Katastrophenschutzbehörden
+## 2. Abschnitt - Organisation der Katastrophenschutzbehörden
 
-##### § 4 - Katastrophenschutzbehörden
+### § 4 - Katastrophenschutzbehörden
 
 (1) Untere Katastrophenschutzbehörden sind die Landratsämter und die Bürgermeisterämter der Stadtkreise als untere Verwaltungsbehörden.
 
@@ -98,7 +124,7 @@ Zum 13.12.2025 aktuellste verfügbare Fassung der Gesamtausgabe.
 
 (3) Oberste Katastrophenschutzbehörde ist das Innenministerium.
 
-##### § 5 - Im Katastrophenschutz mitwirkende Behörden, Einrichtungen, Stellen und Berufsvertretungen
+### § 5 - Im Katastrophenschutz mitwirkende Behörden, Einrichtungen, Stellen und Berufsvertretungen
 
 (1) Alle der Katastrophenschutzbehörde gleich- oder nachgeordneten Behörden, Einrichtungen und Stellen des Landes sowie der juristischen Personen des öffentlichen Rechts, die der Aufsicht des Landes unterstehen und im Bezirk der Katastrophenschutzbehörde eigene Zuständigkeiten besitzen, die öffentlich geförderten Akutkrankenhäuser und ihre Träger, die Träger und Einrichtungen des Rettungsdienstes sowie die Kammern nach dem Gesetz über das Berufsrecht und die Kammern der Ärzte, Zahnärzte, Tierärzte, Apotheker, Psychologischen Psychotherapeuten sowie der Kinder- und Jugendlichenpsychotherapeuten des Landes wirken im Rahmen ihres Aufgabenbereichs im Katastrophenschutz mit. Die Integrierten Leitstellen sind Stellen im Sinne dieser Vorschrift. Die Katastrophenschutzbehörde koordiniert die Arbeit der im Katastrophenschutz Mitwirkenden mit Ausnahme der obersten Landesbehörden.
 
@@ -110,7 +136,7 @@ Zum 13.12.2025 aktuellste verfügbare Fassung der Gesamtausgabe.
 
 (3) Die Alarm- und Einsatzpläne der Krankenhäuser berücksichtigen die Unterstützungsmöglichkeiten durch benachbarte Krankenhäuser, durch niedergelassene Ärzte und Zahnärzte, öffentliche Apotheken, pharmazeutische Großhandlungen, Betriebe der Arzneimittel- und Verbandstoffindustrie sowie durch Personal nichtakademischer Helferberufe des Gesundheitswesens. Sie berücksichtigen auch Maßnahmen zur Ausweitung der Bettenkapazität.
 
-##### § 5a - Erhebung und Übermittlung von Daten
+### § 5a - Erhebung und Übermittlung von Daten
 
 (1) Die Katastrophenschutzbehörden dürfen bei den Baurechtsbehörden, den Wasserbehörden und ihren technischen Fachbehörden sowie den für die Ausführung des Atomgesetzes, des Bundesimmissionsschutzgesetzes und des Feuerwehrgesetzes zuständigen Behörden die zur Erfüllung ihrer Aufgaben nach § 1 Abs. 1, § 2 Abs. 1 Nr. 1, 3, 6 und 7, Abs. 2, § 3 Abs. 1 Nr. 1, 2 und 3 sowie § 30 erforderlichen Daten erheben, insbesondere
 
@@ -131,7 +157,7 @@ Zum 13.12.2025 aktuellste verfügbare Fassung der Gesamtausgabe.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Beschaffung und Weitergabe von Daten innerhalb einer öffentlichen Stelle.
 
-##### § 6 - Sachliche Zuständigkeit
+### § 6 - Sachliche Zuständigkeit
 
 (1) Die unteren Katastrophenschutzbehörden sind für den Katastrophenschutz sachlich zuständig, soweit nichts anderes bestimmt ist. Sie können auch in den Fällen, in denen die höhere oder die oberste Katastrophenschutzbehörde sachlich zuständig ist, mit der Durchführung der erforderlichen Maßnahmen auf Grund dieses Gesetzes in ihrem Bezirk betraut werden. Sie sind ferner zuständig, die erforderlichen Maßnahmen auf Grund dieses Gesetzes in ihrem Bezirk zu treffen, um einer benachbarten Katastrophenschutzbehörde Nachbarschaftshilfe im Sinne von § 21 Abs. 1 zu leisten.
 
@@ -146,19 +172,19 @@ Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (4) Bei einer Katastrophe können die höheren Katastrophenschutzbehörden oder die oberste Katastrophenschutzbehörde die Leitung der Katastrophenbekämpfung übernehmen oder einer anderen Katastrophenschutzbehörde übertragen.
 
-##### § 7 - Örtliche Zuständigkeit
+### § 7 - Örtliche Zuständigkeit
 
 Örtlich zuständig ist die Katastrophenschutzbehörde, in deren Bezirk eine Maßnahme durchzuführen ist. § 6 Abs. 4 gilt entsprechend.
 
-##### § 8 - Landesbeirat für den Katastrophenschutz
+### § 8 - Landesbeirat für den Katastrophenschutz
 
 (1) Das Innenministerium bestellt einen Beirat für den Katastrophenschutz, der in grundsätzlichen Fragen des Katastrophenschutzes zu hören ist. Die Kosten trägt das Land. Dem Beirat gehören insbesondere Vertreter der kommunalen Landesverbände, der Landesorganisationen der im Katastrophenschutz mitwirkenden Träger der Katastrophenhilfe und des Landesfeuerwehrverbandes Baden-Württemberg an.
 
 (2) Das Innenministerium beruft den Beirat zu seinen Sitzungen ein und leitet die Verhandlungen. Der Beirat tritt nach Bedarf oder wenn ein Viertel seiner Mitglieder es beantragt, zusammen. Zu den Beratungen können Vertreter von Behörden oder Organisationen sowie sonstige Personen, die mit dem Katastrophenschutz befasst sind, hinzugezogen werden.
 
-#### 3. Abschnitt - Externe Notfallpläne
+## 3. Abschnitt - Externe Notfallpläne
 
-##### § 8a - Externe Notfallpläne für schwere Unfälle mit gefährlichen Stoffen
+### § 8a - Externe Notfallpläne für schwere Unfälle mit gefährlichen Stoffen
 
 (1) Die untere Katastrophenschutzbehörde sowie in Landkreisen zusätzlich auch die Ortspolizeibehörde haben Alarm- und Einsatzpläne (§ 2 Abs. 1 Nr. 3, § 5 Abs. 2 Nr. 2) als externe Notfallpläne unter Beteiligung des Betreibers und unter Berücksichtigung des internen Notfallplans für alle Betriebe zu erstellen, für die gemäß Artikel 10 der Richtlinie 2012/18/EU des Europäischen Parlaments und des Rates vom 4. Juli 2012 zur Beherrschung der Gefahren schwerer Unfälle mit gefährlichen Stoffen, zur Änderung und anschließenden Aufhebung der Richtlinie 96/82/EG des Rates (ABl. L 197 vom 24.7.2012, S. 1) vom Betreiber ein Sicherheitsbericht zu erstellen ist. Den externen Notfallplan haben die Behörden innerhalb von zwei Jahren nach Erhalt der Informationen vom Betreiber zu erstellen. Die untere Katastrophenschutzbehörde kann auf Grund der Informationen in dem Sicherheitsbericht entscheiden, dass sich die Erstellung externer Notfallpläne erübrigt; die Entscheidung ist zu begründen.
 
@@ -187,15 +213,15 @@ Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (7) Könnte ein anderer Mitgliedstaat der Europäischen Union von den grenzüberschreitenden Wirkungen eines Betriebs im Sinne von Absatz 1 Satz 1 betroffen werden, informieren die unteren Verwaltungsbehörden und die Ortspolizeibehörden die von dem Mitgliedstaat benannten Behörden über die externen Notfallpläne, um eine verstärkte Zusammenarbeit bei Katastrophenschutzmaßnahmen in schweren Notfällen zu fördern. Bei einem nahe am Hoheitsgebiet eines anderen Mitgliedstaates der Europäischen Union gelegenen Betrieb unterrichten die unteren Katastrophenschutzbehörden die von dem Mitgliedstaat benannten Behörden über Entscheidungen gemäß Absatz 1 Satz 2. Wenn der andere Mitgliedstaat die zu beteiligenden Behörden nicht benannt hat, ist jeweils die oberste für Katastrophenschutz zuständige Behörde des anderen Mitgliedstaats zu unterrichten.
 
-##### § 8b - Externe Notfallpläne für Abfallentsorgungseinrichtungen
+### § 8b - Externe Notfallpläne für Abfallentsorgungseinrichtungen
 
 Für die unter Artikel 6 der Richtlinie 2006/21/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über die Bewirtschaftung von Abfällen aus der mineralgewinnenden Industrie und zur Änderung der Richtlinie 2004/35/EG (ABl. L 102 vom 11. April 2006, S. 15) fallenden Abfallentsorgungseinrichtungen der Kategorie A gilt § 8a mit Ausnahme von Absatz 1 Satz 2 und Absatz 6 Satz 2 entsprechend.
 
-### 2. TEIL - Katastrophenhilfe und Katastrophenschutzdienst
+## 2. TEIL - Katastrophenhilfe und Katastrophenschutzdienst
 
-#### 1. Abschnitt - Begriffe
+## 1. Abschnitt - Begriffe
 
-##### § 9 - Katastrophenhilfe
+### § 9 - Katastrophenhilfe
 
 (1) Juristische Personen des öffentlichen Rechts und vom Innenministerium anerkannte private Organisationen wirken mit ihren Kräften, die zur Katastrophenbekämpfung allgemein geeignet sind, im Katastrophenschutz nach Maßgabe ihrer Bereitschaftserklärung mit (Träger der Katastrophenhilfe).
 
@@ -203,7 +229,7 @@ Für die unter Artikel 6 der Richtlinie 2006/21/EG des Europäischen Parlaments 
 
 (3) Die Träger der Katastrophenhilfe stellen die Einsatzfähigkeit ihrer Kräfte im Sinne von Absatz 1 auch im Hinblick auf ein koordiniertes Zusammenwirken mit fremden Fachdiensten bei fachdienstübergreifenden Einsätzen sicher und beteiligen sich auf Anforderung mit verfügbaren Kräften an Übungen unter einheitlicher Führung der Katastrophenschutzbehörde.
 
-##### § 10 - Katastrophenschutzdienst
+### § 10 - Katastrophenschutzdienst
 
 (1) Um die dauernde Verfügbarkeit eines Teils der nach § 5 Absatz 1 und § 9 Abs. 1 benannten Kräfte für Katastropheneinsätze zu gewährleisten, werden nach Fachdiensten gegliederte Einheiten und Einrichtungen gebildet (Katastrophenschutzdienst).
 
@@ -211,9 +237,9 @@ Für die unter Artikel 6 der Richtlinie 2006/21/EG des Europäischen Parlaments 
 
 (3) Die Träger der Katastrophenhilfe unterrichten die Katastrophenschutzbehörde über alle wesentlichen, die Einheiten und Einrichtungen des Katastrophenschutzdienstes betreffenden Fragen, insbesondere über solche im Sinne von § 2 Abs. 1 Nr. 6. Sie können Einheiten und Einrichtungen des Katastrophenschutzdienstes oder deren Ausstattung außerhalb des Katastrophenschutzes einsetzen, soweit die Einsatzbereitschaft des Katastrophenschutzdienstes für die Bekämpfung von Katastrophen dadurch nicht wesentlich gemindert wird. Einsätze, die länger als zwei Tage dauern, sind der Katastrophenschutzbehörde rechtzeitig anzuzeigen.
 
-#### 2. Abschnitt - Helfer des Katastrophenschutzes
+## 2. Abschnitt - Helfer des Katastrophenschutzes
 
-##### § 11
+### § 11
 
 (1) Helfer des Katastrophenschutzes sind Männer und Frauen, die im Katastrophenschutz ehrenamtlich tätig sind. Sie verpflichten sich gegenüber dem Träger der Katastrophenhilfe zur Mitwirkung im Katastrophenschutz, soweit ihre Mitwirkungspflicht nicht bereits auf Grund der Zugehörigkeit zum Träger besteht.
 
@@ -221,15 +247,15 @@ Für die unter Artikel 6 der Richtlinie 2006/21/EG des Europäischen Parlaments 
 
 (3) Vom Wehrdienst oder Zivildienst freigestellte Helfer des Katastrophenschutzes sind verpflichtet, an den dienstlichen Veranstaltungen und den Einsätzen der Kräfte des Katastrophenschutzes teilzunehmen.
 
-#### 3. Abschnitt - Helfer des Katastrophenschutzdienstes
+## 3. Abschnitt - Helfer des Katastrophenschutzdienstes
 
-##### § 12 - Rechtsverhältnisse der Helfer
+### § 12 - Rechtsverhältnisse der Helfer
 
 (1) Helfer des Katastrophenschutzdienstes sind die Angehörigen der Einheiten und Einrichtungen des Katastrophenschutzdienstes. Die Helfer sind verpflichtet, an den dienstlichen Veranstaltungen und den Einsätzen der Einheiten und Einrichtungen des Katastrophenschutzdienstes teilzunehmen.
 
 (2) Eine Vergütung für die Tätigkeit als Helfer des Katastrophenschutzdienstes wird nicht gewährt.
 
-##### § 13 - Fortgewährung von Leistungen; Erstattungen
+### § 13 - Fortgewährung von Leistungen; Erstattungen
 
 (1) Den Helfern dürfen aus dem Dienst im Katastrophenschutzdienst keine Nachteile im Arbeits- oder Dienstverhältnis erwachsen. Während der Dauer der Teilnahme an Einsätzen und dienstlichen Veranstaltungen entfällt für die Helfer die Pflicht zur Arbeits- oder Dienstleistung. Die Arbeitgeber oder Dienstherren sind verpflichtet, für diesen Zeitraum Arbeitsentgelte oder Dienstbezüge einschließlich aller Nebenleistungen und Zulagen fortzuzahlen, die ohne die Ausfallzeiten üblicherweise erzielt worden wären; den privaten Arbeitgebern werden die Beträge auf Antrag ersetzt. Dienstliche Veranstaltungen sind in der Regel außerhalb der üblichen Arbeitszeit durchzuführen; Ausnahmen bedürfen der Zustimmung der Katastrophenschutzbehörde.
 
@@ -237,11 +263,11 @@ Für die unter Artikel 6 der Richtlinie 2006/21/EG des Europäischen Parlaments 
 
 (3) Privaten Arbeitgebern ist auf Antrag das Arbeitsentgelt zu erstatten, das sie Arbeitnehmern auf Grund der gesetzlichen oder tarifvertraglichen Regelungen während einer Arbeitsunfähigkeit infolge Krankheit weiterleisten, wenn die Arbeitsunfähigkeit auf den Dienst im Katastrophenschutzdienst zurückzuführen ist.
 
-##### § 14 - Aufwendungsersatz
+### § 14 - Aufwendungsersatz
 
 Notwendige Aufwendungen, die dem Helfer durch die Dienstleistungen im Katastrophenschutzdienst entstehen, werden ihm auf Antrag ersetzt.
 
-##### § 15 - Ersatz von Sachschäden
+### § 15 - Ersatz von Sachschäden
 
 (1) Erleidet ein Helfer aus Anlass seiner Dienstleistung im Katastrophenschutzdienst einen Sachschaden, ist ihm dieser auf Antrag zu ersetzen.
 
@@ -249,27 +275,27 @@ Notwendige Aufwendungen, die dem Helfer durch die Dienstleistungen im Katastroph
 
 (3) Hat der Helfer den Schaden grob fahrlässig herbeigeführt, wird der Ersatz des Schadens nach dem Maß des Verschuldens des Helfers beschränkt. Schäden, die der Helfer vorsätzlich herbeigeführt hat, werden nicht ersetzt.
 
-##### § 16 - Haftung
+### § 16 - Haftung
 
 (1) Die Haftung für Schäden, die Helfer des Katastrophenschutzdienstes in Ausübung ihres Dienstes einem Dritten zugefügt haben, und die Zulässigkeit des Rückgriffs gegen den Helfer bestimmen sich nach § 839 des Bürgerlichen Gesetzbuches und Artikel 34 des Grundgesetzes. Haftende Körperschaft im Sinne des Artikels 34 des Grundgesetzes ist bei Helfern in Einheiten oder Einrichtungen des Katastrophenschutzdienstes, deren Träger eine juristische Person des öffentlichen Rechts ist, diese juristische Person, bei anderen Helfern das Land, soweit nicht nach anderen Vorschriften der Bund oder eine andere Körperschaft haftet.
 
 (2) Schäden, die ein Helfer an Einrichtungen oder Ausstattungsgegenständen des Katastrophenschutzdienstes, die im Eigentum einer juristischen Person des öffentlichen Rechts stehen, verursacht, hat er insoweit zu ersetzen, als er den Schaden vorsätzlich oder grob fahrlässig herbeigeführt hat.
 
-##### § 17 - Im Katastrophenschutz beruflich tätige Personen; Angehörige der Feuerwehren
+### § 17 - Im Katastrophenschutz beruflich tätige Personen; Angehörige der Feuerwehren
 
 (1) Für Personen, die beruflich im Katastrophenschutz tätig werden, gelten die §§ 11 bis 16 nur, soweit für ihre berufliche Tätigkeit nichts anderes bestimmt ist.
 
 (2) Für Angehörige der Feuerwehren gelten an Stelle der §§ 11 bis 16 ausschließlich die für sie bestehenden besonderen landesrechtlichen Vorschriften.
 
-### 3. TEIL - Katastrophenbekämpfung
+## 3. TEIL - Katastrophenbekämpfung
 
-#### 1. Abschnitt - Leitung der Katastrophenbekämpfung
+## 1. Abschnitt - Leitung der Katastrophenbekämpfung
 
-##### § 18 - Katastrophenalarm
+### § 18 - Katastrophenalarm
 
 Die Katastrophenschutzbehörde stellt den Zeitpunkt fest, von dem an eine Katastrophe im Sinne dieses Gesetzes vorliegt, bestimmt das Katastrophengebiet und löst Katastrophenalarm aus.
 
-##### § 19 - Leitung des Einsatzes; Zusammenarbeit der Behörden
+### § 19 - Leitung des Einsatzes; Zusammenarbeit der Behörden
 
 (1) Die Katastrophenschutzbehörde leitet die Einsatzmaßnahmen. Die Ortspolizeibehörden der betroffenen Gemeinden werden an der Wahrnehmung der Einsatzaufgaben der unteren Katastrophenschutzbehörde beteiligt.
 
@@ -277,7 +303,7 @@ Die Katastrophenschutzbehörde stellt den Zeitpunkt fest, von dem an eine Katast
 
 (3) Die Katastrophenschutzbehörde bestellt einen technischen Leiter des Einsatzes. In besonderen Lagen können mehrere technische Leiter bestellt werden.
 
-##### § 20 - Technische Leitung des Einsatzes
+### § 20 - Technische Leitung des Einsatzes
 
 (1) Der technische Leiter des Einsatzes leitet nach den Weisungen der Katastrophenschutzbehörde die Katastrophenbekämpfung am Einsatzort. Ihm sind alle dort eingesetzten Einsatzkräfte mit ihrem Führungspersonal für die Dauer des Einsatzes unterstellt.
 
@@ -287,7 +313,7 @@ Die Katastrophenschutzbehörde stellt den Zeitpunkt fest, von dem an eine Katast
 
 (4) Bis zur Übernahme der technischen Leitung des Einsatzes durch den von der Katastrophenschutzbehörde bestellten technischen Leiter nimmt der zuerst am Einsatzort eingetroffene Führer einer Einheit oder Einrichtung des Katastrophenschutzdienstes dessen Aufgaben wahr. Hat bis zu diesem Zeitpunkt ein technischer Leiter im Sinne der §§ 27 und 28 des Feuerwehrgesetzes den Einsatz geleitet, behält er diese Funktion bis zur Ablösung durch den von der Katastrophenschutzbehörde bestellten technischen Leiter.
 
-##### § 21 - Einsatz
+### § 21 - Einsatz
 
 (1) Die untere Katastrophenschutzbehörde kann den Einsatz von Einheiten und Einrichtungen des Katastrophenschutzdienstes und der sonstigen für den Katastrophenschutz verfügbaren Kräfte anordnen, soweit diese in ihrem Bezirk ihren Standort haben oder sie für diese nach einer in Ausführung dieses Gesetzes ergangenen Verwaltungsvorschrift zuständig ist. Über einen solchen Einsatz unterrichtet sie unverzüglich die zuständige höhere Katastrophenschutzbehörde. Reichen die eigenen Kräfte nicht aus, fordert die untere Katastrophenschutzbehörde bei der zuständigen höheren Katastrophenschutzbehörde die erforderlichen weiteren Kräfte an. In Eilfällen kann die untere Katastrophenschutzbehörde Kräfte der benachbarten unteren Katastrophenschutzbehörden direkt anfordern und informiert hierüber unverzüglich die zuständige höhere Katastrophenschutzbehörde. Die nach Satz 4 eingesetzten Kräfte unterstehen der Weisungsgewalt der anfordernden unteren Katastrophenschutzbehörde.
 
@@ -297,7 +323,7 @@ Die Katastrophenschutzbehörde stellt den Zeitpunkt fest, von dem an eine Katast
 
 (4) Einsätze von Einheiten und Einrichtungen des Katastrophenschutzdienstes und der sonstigen für den Katastrophenschutz verfügbaren Kräfte außerhalb des Landes oder außerhalb der Bundesrepublik Deutschland ordnet die oberste Katastrophenschutzbehörde an. Für diese Fälle gilt dieses Gesetz auch dann, wenn kein Katastrophenalarm oder Katastrophenvoralarm besteht.
 
-##### § 22 - Katastrophenvoralarm
+### § 22 - Katastrophenvoralarm
 
 (1) Bei Bekanntwerden eines Ereignisses, bei dem tatsächliche Anhaltspunkte für die Annahme bestehen, dass eine Katastrophe im Sinne des § 1 Abs. 2 eintreten kann, und bei dem ein Tätigwerden der Katastrophenschutzbehörde zweckmäßig erscheint, kann diese Katastrophenvoralarm auslösen.
 
@@ -305,7 +331,7 @@ Die Katastrophenschutzbehörde stellt den Zeitpunkt fest, von dem an eine Katast
 
 (3) Nach der Auslösung des Katastrophenvoralarms ordnet die Katastrophenschutzbehörde die Maßnahmen, die zur Abwendung der Katastrophe oder zur Vorbereitung auf deren Eintritt erforderlich sind, an. §§ 19, 20 sowie § 21 Abs. 1 und 2 gelten entsprechend.
 
-##### § 23 - Aufhebung von Katastrophenalarm und Katastrophenvoralarm
+### § 23 - Aufhebung von Katastrophenalarm und Katastrophenvoralarm
 
 (1) Liegen die Voraussetzungen einer Katastrophe im Sinne dieses Gesetzes nicht mehr vor, so hat die Katastrophenschutzbehörde dies festzustellen und den Katastrophenalarm aufzuheben.
 
@@ -313,15 +339,15 @@ Die Katastrophenschutzbehörde stellt den Zeitpunkt fest, von dem an eine Katast
 
 (3) Im Falle des Katastrophenvoralarms ist entsprechend zu verfahren.
 
-#### 2. Abschnitt - Aufgaben des Polizeivollzugsdienstes
+## 2. Abschnitt - Aufgaben des Polizeivollzugsdienstes
 
-##### § 24
+### § 24
 
 Der Polizeivollzugsdienst nimmt die Aufgaben der Katastrophenschutzbehörde wahr, wenn und solange bei Gefahr im Verzuge ein rechtzeitiges Tätigwerden der zuständigen Katastrophenschutzbehörde nicht erreichbar ist, und trifft die notwendigen vorläufigen Maßnahmen. Im Übrigen bleiben die dem Polizeivollzugsdienst obliegenden Aufgaben unberührt.
 
-### 4. TEIL - Hilfs- und Leistungspflichten
+## 4. TEIL - Hilfs- und Leistungspflichten
 
-##### § 25 - Hilfspflichten der Bevölkerung
+### § 25 - Hilfspflichten der Bevölkerung
 
 (1) Jede über 16 Jahre alte Person ist verpflichtet, bei der Bekämpfung von Katastrophen und der unmittelbar anschließenden, vorläufigen Beseitigung erheblicher Katastrophenschäden nach ihren Fähigkeiten und Kenntnissen Hilfe zu leisten, wenn sie dazu von der Katastrophenschutzbehörde, dem technischen Leiter des Einsatzes oder seinem Beauftragten aufgefordert wird.
 
@@ -331,7 +357,7 @@ Der Polizeivollzugsdienst nimmt die Aufgaben der Katastrophenschutzbehörde wahr
 
 (4) Für Personen, die auf Anforderung der Katastrophenschutzbehörde an Übungen des Katastrophenschutzes teilnehmen, ohne Helfer des Katastrophenschutzdienstes zu sein, gilt Absatz 3 entsprechend.
 
-##### § 26 - Besondere Pflichten von Angehörigen der Berufe des Gesundheitswesens
+### § 26 - Besondere Pflichten von Angehörigen der Berufe des Gesundheitswesens
 
 (1) Die in ihrem Beruf tätigen niedergelassenen Ärzte bilden sich auf der Grundlage ihrer beruflichen Fortbildungspflicht nach dem Gesetz über das Berufsrecht und die Kammern der Ärzte, Zahnärzte, Tierärzte, Apotheker, Psychologischen Psychotherapeuten sowie der Kinder- und Jugendlichenpsychotherapeuten auch für die besonderen Anforderungen einer Hilfeleistung bei der Bekämpfung von Katastrophen und der unmittelbar anschließenden vorläufigen Beseitigung erheblicher Katastrophenschäden fort. Sie können verpflichtet werden, an von der Katastrophenschutzbehörde angeordneten Übungen teilzunehmen. Die Auswahl der geeigneten Ärzte erfolgt im Benehmen mit der Landesärztekammer.
 
@@ -349,13 +375,13 @@ Die Kammermitglieder werden hiervon durch die Kammern unter Hinweis auf das Date
 
 (3) Für Personen, die als Krankenpflege-, Röntgen- oder medizinisch-technisches Laborpersonal ausgebildet sind, gilt Absatz 1 Satz 2 bis zur Vollendung des 65. Lebensjahres entsprechend. Absatz 2 Satz 4 und 5 gilt entsprechend.
 
-##### § 27 - Pflichten der Inhaber von Fahrzeugen und Geräten; Instandsetzungen
+### § 27 - Pflichten der Inhaber von Fahrzeugen und Geräten; Instandsetzungen
 
 (1) Die Eigentümer, Besitzer und Halter von Fahrzeugen aller Art, Zugtieren, Maschinen, Werkzeugen, Anlagen, Einrichtungen, Geräten und sonstigen geeigneten Hilfsmitteln haben zu dulden, dass diese sowie deren Zubehör auf Anordnung der Katastrophenschutzbehörde, des technischen Leiters des Einsatzes oder seines Beauftragten für die Katastrophenbekämpfung und für die unmittelbar anschließende vorläufige Beseitigung erheblicher Katastrophenschäden in Anspruch genommen werden.
 
 (2) Wer in seinem Geschäftsbetrieb üblicherweise Instandsetzungen vornimmt, kann während eines Katastropheneinsatzes insbesondere zur sofortigen Instandsetzung von Fahrzeugen, Maschinen oder Geräten herangezogen werden. Er hat dabei im Rahmen seines Geschäftsbetriebs auch erforderliche Ersatz- und Zubehörteile sowie Betriebsmittel zu liefern.
 
-##### § 28 - Pflichten der Inhaber von Grundstücken, Bauwerken und Schiffen
+### § 28 - Pflichten der Inhaber von Grundstücken, Bauwerken und Schiffen
 
 (1) Die Eigentümer und Besitzer von Grundstücken, Bauwerken oder Schiffen haben zu dulden, dass eingesetzte Kräfte und andere beim Einsatz dienstlich anwesende Personen ihre Grundstücke, Bauwerke oder Schiffe betreten und benutzen, soweit dies zur Bekämpfung der Katastrophe und für die unmittelbar anschließende Beseitigung erheblicher Katastrophenschäden erforderlich ist.
 
@@ -363,11 +389,11 @@ Die Kammermitglieder werden hiervon durch die Kammern unter Hinweis auf das Date
 
 (3) Die Eigentümer und Besitzer von Grundstücken haben die Anbringung von Warneinrichtungen juristischer Personen des öffentlichen Rechts ohne Entschädigung zu dulden.
 
-##### § 29 - Pflichten der im Katastrophengebiet oder am Einsatzort Anwesenden
+### § 29 - Pflichten der im Katastrophengebiet oder am Einsatzort Anwesenden
 
 Alle im Katastrophengebiet oder an einem Einsatzort anwesenden Personen haben Anordnungen der Katastrophenschutzbehörde, des technischen Leiters des Einsatzes oder seines Beauftragten über Räumung, Absperrung oder Sicherung des Katastrophengebietes oder des Einsatzorts unverzüglich zu befolgen.
 
-##### § 30 - Pflichten der Betreiber von Anlagen mit besonderem Gefahrenpotenzial
+### § 30 - Pflichten der Betreiber von Anlagen mit besonderem Gefahrenpotenzial
 
 (1) Betreiber von Anlagen, bei denen die Katastrophenschutzbehörde nicht ausschließen kann, dass ein Freiwerden des in ihnen vorhandenen Gefahrenpotenzials zu schwerwiegenden Gesundheitsbeeinträchtigungen oder zum Tod einer großen Zahl nicht zum Bedienungspersonal gehörender Menschen führt, sind verpflichtet, der Katastrophenschutzbehörde auf Verlangen geeignete Angaben zur Beurteilung der Auswirkungen einer Gefahrenpotenzialfreisetzung einschließlich der Abgrenzung des Gefährdungsbereichs zu machen. Die Katastrophenschutzbehörde kann die erhaltenen Angaben im Benehmen mit dem Betreiber auf dessen Kosten unter Wahrung der Betriebs- und Geschäftsgeheimnisse begutachten lassen.
 
@@ -380,23 +406,23 @@ Alle im Katastrophengebiet oder an einem Einsatzort anwesenden Personen haben An
 
 (3) Die Katastrophenschutzbehörde kann die Anlagenbetreiber bei Vorliegen der Voraussetzungen nach Absatz 2 Satz 1 verpflichten, Sirenen zur Warnung und Unterrichtung der Bevölkerung innerhalb und außerhalb des Betriebsgeländes aufzubauen, zu unterhalten und bei Bedarf zu betreiben. Dies gilt nicht, wenn nach der Art des Gefahrenpotenzials eine rechtzeitige Warnung und Unterrichtung der Bevölkerung durch die für die Gefahrenabwehr zuständigen Behörden und Stellen gewährleistet ist.
 
-##### § 31 - Pflichten beim Katastrophenvoralarm
+### § 31 - Pflichten beim Katastrophenvoralarm
 
 Die Vorschriften der §§ 25 bis 30 über Hilfs- und Leistungspflichten gelten bei Maßnahmen nach § 22 Abs. 3 entsprechend.
 
-### 5. TEIL - Entschädigungen und Kosten
+## 5. TEIL - Entschädigungen und Kosten
 
-#### 1. Abschnitt - Entschädigungen
+## 1. Abschnitt - Entschädigungen
 
-##### § 32
+### § 32
 
 (1) Soweit Maßnahmen auf Grund dieses Gesetzes enteignende Wirkung haben, ist von der Katastrophenschutzbehörde, in deren Bezirk die Maßnahme getroffen wurde, auf Antrag eine angemessene Entschädigung in Geld zu leisten.
 
 (2) In Höhe der Entschädigungsleistungen gehen Ansprüche des Entschädigungsberechtigten gegen Dritte, die auf den Ausgleich des erlittenen Vermögensnachteils oder der erbrachten Leistungen gerichtet sind, auf den Kostenträger (§ 33 Abs. 2) über. Der Übergang kann nicht zum Nachteil des Entschädigungsberechtigten geltend gemacht werden.
 
-#### 2. Abschnitt - Kosten
+## 2. Abschnitt - Kosten
 
-##### § 33 - Kostentragung
+### § 33 - Kostentragung
 
 (1) Das Land beschafft im Rahmen eines jährlich fortzuschreibenden Ausstattungsprogramms Fahrzeuge, Geräte und Spezialausrüstung und stellt sie den Trägern der Katastrophenhilfe für Zwecke des Katastrophenschutzes zur Verfügung. Das Land trägt die Kosten für besondere Ausbildungsmaßnahmen im Katastrophenschutz, insbesondere auch im Rahmen von Übungen, die in einem jährlich fortzuschreibenden Übungsprogramm enthalten sind.
 
@@ -425,7 +451,7 @@ Die in Satz 2 genannten Mittel und Kosten werden durch Verwaltungsakt festgesetz
 
 (6) Absätze 2 bis 5 gelten bei Maßnahmen nach § 22 Abs. 3 entsprechend.
 
-##### § 34 - Zuschüsse, Erstattungen
+### § 34 - Zuschüsse, Erstattungen
 
 (1) Den Stadt- und Landkreisen gewährt das Land Zuschüsse
 
@@ -438,13 +464,13 @@ Die in Satz 2 genannten Mittel und Kosten werden durch Verwaltungsakt festgesetz
 
 (4) Das Land trägt alle Auslagen der eingesetzten Behörden oder Organisationen aller Fachdienste für Einsätze außerhalb der Landesgrenzen, wenn diese auf Anordnung der obersten Katastrophenschutzbehörde durchgeführt wurden und nicht bereits anderweitig Kostenersatz erfolgt ist. Verwaltungskosten werden nicht erstattet. Durch den Einsatz entstandene Ansprüche der eingesetzten Behörden oder Organisationen gegen Dritte gehen auf das Land über. Entstehen im Zusammenhang mit der Kostenabwicklung eines solchen Einsatzes unbillige Härten zu Lasten der eingesetzten Behörden oder Organisationen, so können auf Anordnung der obersten Katastrophenschutzbehörde weitere Kosten durch das Land übernommen werden.
 
-### 6. TEIL - Bewältigung von Außergewöhnlichen Einsatzlagen
+## 6. TEIL - Bewältigung von Außergewöhnlichen Einsatzlagen
 
-##### § 35 - Außergewöhnliche Einsatzlage
+### § 35 - Außergewöhnliche Einsatzlage
 
 Außergewöhnliche Einsatzlage ist ein Geschehen, das Leben oder Gesundheit einer großen Anzahl von Menschen oder Tieren, in erheblichem Maße die Umwelt oder erhebliche Sachwerte gefährdet oder schädigt. Eine Außergewöhnliche Einsatzlage kann auch vorliegen, wenn Menschen nicht in großer Anzahl gefährdet oder geschädigt sind, aber die erforderlichen Maßnahmen einen erheblichen koordinierungsbedürftigen Aufwand verursachen.
 
-##### § 36 - Außergewöhnlicher Einsatzalarm
+### § 36 - Außergewöhnlicher Einsatzalarm
 
 (1) Die untere Katastrophenschutzbehörde stellt den Zeitpunkt fest, von dem an eine Außergewöhnliche Einsatzlage im Sinne von § 35 vorliegt, wenn und soweit sie dies für geboten hält, und gibt diese Entscheidung den betroffenen Stellen bekannt (Außergewöhnlicher Einsatzalarm). Sie hebt den Außergewöhnlichen Einsatzalarm wieder auf, wenn dessen Voraussetzungen nicht mehr vorliegen.
 
@@ -456,7 +482,7 @@ Außergewöhnliche Einsatzlage ist ein Geschehen, das Leben oder Gesundheit eine
 
 (5) Einheiten des Katastrophenschutzdienstes sind verpflichtet, an Einsätzen bei Außergewöhnlichen Einsatzlagen so mitzuwirken, wie dies bei Katastrophen der Fall ist.
 
-##### § 37 - Rechtsverhältnisse der Helferinnen und Helfer
+### § 37 - Rechtsverhältnisse der Helferinnen und Helfer
 
 (1) Die §§ 12 bis 17 gelten für ehrenamtliche Helferinnen und Helfer des Katastrophenschutzdienstes, die zur Bewältigung einer Außergewöhnlichen Einsatzlage auf Anforderung der Katastrophenschutzbehörde eingesetzt werden, entsprechend. Die Pflicht gemäß § 12 Absatz 1 Satz 2 gilt nicht entsprechend, wenn gewichtige Gründe entgegenstehen. Der Verdienstausfallersatz ist in der Regel auf die angemessene Höhe begrenzt.
 
@@ -464,7 +490,7 @@ Außergewöhnliche Einsatzlage ist ein Geschehen, das Leben oder Gesundheit eine
 
 (3) Diese Bestimmungen gelten nur, wenn und soweit keine besonderen Vorschriften, insbesondere des Feuerwehrgesetzes, des Rettungsdienstgesetzes oder des Polizeigesetzes, bestehen.
 
-##### § 38 - Leitung des Einsatzes
+### § 38 - Leitung des Einsatzes
 
 (1) Ab dem Zeitpunkt, ab dem die untere Katastrophenschutzbehörde den Außergewöhnlichen Einsatzalarm ausgelöst hat, kann sie die Einsatzleitung übernehmen. Die Entscheidung über die Übernahme oder Nichtübernahme der Einsatzleitung ist unverzüglich nach Auslösung des Außergewöhnlichen Einsatzalarms zu treffen.
 
@@ -476,7 +502,7 @@ Außergewöhnliche Einsatzlage ist ein Geschehen, das Leben oder Gesundheit eine
 
 (5) Aufgaben und Befugnisse anderer Behörden bleiben unberührt. Insbesondere bestehen gegenüber anderen Behörden keine Weisungsbefugnisse.
 
-##### § 39 - Kostentragung
+### § 39 - Kostentragung
 
 (1) Die Kosten für Verdienstausfall, Sachschadenersatz und Aufwendungsersatz für ehrenamtliche Einsatzkräfte, die nach Maßgabe des § 37 Absatz 1 Satz 1 entstehen, werden vom Land im Rahmen der verfügbaren Mittel getragen.
 
@@ -484,9 +510,9 @@ Außergewöhnliche Einsatzlage ist ein Geschehen, das Leben oder Gesundheit eine
 
 (3) Für bei der Bewältigung einer Außergewöhnlichen Einsatzlage tätige Behörden sowie für die Kräfte der Feuerwehr und des Rettungsdienstes gelten die für sie bestehenden besonderen Vorschriften unbeschadet dieses Gesetzes.
 
-### 7. TEIL - Ordnungswidrigkeiten; Schluss- und Übergangsbestimmungen
+## 7. TEIL - Ordnungswidrigkeiten; Schluss- und Übergangsbestimmungen
 
-##### § 40 - Ordnungswidrigkeiten
+### § 40 - Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer
 
@@ -500,19 +526,19 @@ Außergewöhnliche Einsatzlage ist ein Geschehen, das Leben oder Gesundheit eine
 
 (3) Verwaltungsbehörde im Sinne von § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach diesem Gesetz ist die Katastrophenschutzbehörde.
 
-##### § 41 - Einschränkung von Grundrechten
+### § 41 - Einschränkung von Grundrechten
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 des Grundgesetzes), der Freiheit des Berufes (Artikel 12 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) können auf Grund dieses Gesetzes eingeschränkt werden.
 
-##### § 42 - Aufhebung von Rechtsvorschriften
+### § 42 - Aufhebung von Rechtsvorschriften
 
 (nicht abgedruckt)
 
-##### § 43 - Verwaltungsvorschriften
+### § 43 - Verwaltungsvorschriften
 
 Das Innenministerium erlässt im Einvernehmen mit den beteiligten Ministerien nach Anhörung der kommunalen Landesverbände die zur Ausführung dieses Gesetzes erforderlichen Verwaltungsvorschriften. Soweit Belange der Träger der Katastrophenhilfe und der gewerblichen Unternehmen berührt sind, sind deren Landesorganisationen und der Landesfeuerwehrverband Baden-Württemberg anzuhören.
 
-##### § 44 - Inkrafttreten
+### § 44 - Inkrafttreten
 
 Das Gesetz tritt am 1. Juli 1979 in Kraft.
 

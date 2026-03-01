@@ -2,8 +2,8 @@
 titel: Betriebssatzung für den Abfallwirtschaftsbetrieb des Landkreises Göppingen
 ebene: kreis
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
+land_ars: 08
+kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 quelle: Kreistagsbeschluss vom 24.11.2000
@@ -11,52 +11,46 @@ gueltig_ab: 2001-01-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Betriebssatzung
-  - Abfallwirtschaftsbetrieb
-  - Eigenbetrieb Landkreis Göppingen
-  - Betriebsleitung
-  - Betriebsausschuss
-  - Wirtschaftsplan
-  - Kreistag Abfallwirtschaft
-  - Eigenbetriebsgesetz
-  - Abfallentsorgung
-  - AWB Göppingen
-fragen:
-  - "Wie ist der Abfallwirtschaftsbetrieb des Landkreises Göppingen organisiert?"
-  - "Wer leitet den Abfallwirtschaftsbetrieb Göppingen?"
-  - "Welche Entscheidungen trifft der Betriebsausschuss beim Abfallwirtschaftsbetrieb?"
-  - "Was entscheidet der Kreistag beim Abfallwirtschaftsbetrieb?"
-querverweise:
-  - Hauptsatzung des Landkreises Göppingen
-  - Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen des Landkreises Göppingen (Abfallwirtschaftssatzung) – Teil 1 von 2
-  - Landkreisordnung für Baden-Württemberg (LKrO)
-  - Eigenbetriebsgesetz Baden-Württemberg (EigBG)
 ---
-# Betriebssatzung für den Abfallwirtschaftsbetrieb des Landkreises Göppingen
+
+## Inhaltsverzeichnis
+
+- § 1 Name und Sitz des Eigenbetriebes
+- § 2 Gegenstand und Aufgaben
+- § 3 Stammkapital
+- § 4 Organe des Eigenbetriebes
+- § 5 Kreistag
+- § 6 Betriebsausschuss
+- § 7 Landrat
+- § 8 Betriebsleitung
+- § 9 Geschäftsordnung
+- § 10 Personalvertretung
+- § 11 Wirtschaftsführung
+- § 12 Übergangsbestimmung
+- § 13 Inkrafttreten
 
 **Landkreis Göppingen 3.2**  
 **Januar 2008**
 
 Aufgrund von § 3 der Landkreisordnung für Baden-Württemberg (LKrO) und § 3 Abs. 2 des Eigenbetriebsgesetzes (EigBG) hat der Kreistag des Landkreises Göppingen am 24.11.2000 folgende Betriebssatzung beschlossen:
 
-## § 1 Name und Sitz des Eigenbetriebes
+### § 1 Name und Sitz des Eigenbetriebes
 
 (1) Die Abfallwirtschaft des Landkreises Göppingen wird ab dem 1.1.1996 als Eigenbetrieb unter der Bezeichnung "Abfallwirtschaftsbetrieb des Landkreises Göppingen" geführt.
 
 (2) Sitz ist Göppingen.
 
-## § 2 Gegenstand und Aufgaben
+### § 2 Gegenstand und Aufgaben
 
 (1) Gegenstand und Aufgabe des Eigenbetriebes sind die Abfallvermeidung, die Abfallverwertung und die Abfallentsorgung. Der Eigenbetrieb nimmt die dem Landkreis als entsorgungspflichtige Körperschaft durch Gesetz oder Rechtsverordnung zugewiesenen bzw. vertraglich übernommenen Aufgaben wahr.
 
 (2) Der Eigenbetrieb kann sich zur Erfüllung seiner Aufgaben Dritter bedienen.
 
-## § 3 Stammkapital
+### § 3 Stammkapital
 
 Ein Stammkapital wird nicht festgesetzt.
 
-## § 4 Organe des Eigenbetriebes
+### § 4 Organe des Eigenbetriebes
 
 Organe des Eigenbetriebes sind
 
@@ -65,7 +59,7 @@ Organe des Eigenbetriebes sind
 - der Landrat,
 - die Betriebsleitung.
 
-## § 5 Kreistag
+### § 5 Kreistag
 
 Der Kreistag entscheidet über alle Angelegenheiten des Eigenbetriebes, die ihm durch die Landkreisordnung, die Gemeindeordnung, das Eigenbetriebsgesetz und diese Satzung vorbehalten sind, und zwar insbesondere über
 
@@ -84,7 +78,7 @@ Der Kreistag entscheidet über alle Angelegenheiten des Eigenbetriebes, die ihm 
 13. die Entlastung der Betriebsleitung sowie die Verwendung des Jahresgewinns oder die Behandlung des Jahresverlustes,
 14. Bestimmung eines Abschlussprüfers für den Jahresabschluss und Erteilung des Einvernehmens zum Prüfungsauftrag nach § 115 Abs. 1 Satz 2 und Abs. 2 Satz 4 der Gemeindeordnung.
 
-## § 6 Betriebsausschuss
+### § 6 Betriebsausschuss
 
 (1) Der nach der Hauptsatzung des Landkreises gebildete Ausschuss für Umwelt und Verkehr ist zugleich beschließender Ausschuss (Betriebsausschuss) für die Angelegenheiten des Eigenbetriebes.
 
@@ -111,7 +105,7 @@ Der Kreistag entscheidet über alle Angelegenheiten des Eigenbetriebes, die ihm 
 
 (5) Im übrigen berät er alle Angelegenheiten des Eigenbetriebes vor, die der Entscheidung des Kreistags vorbehalten sind.
 
-## § 7 Landrat
+### § 7 Landrat
 
 (1) Der Landrat entscheidet und wirkt mit bei allen Angelegenheiten, die ihm durch die Landkreisordnung, Gemeindeordnung und das Eigenbetriebsgesetz vorbehalten sind, sofern in dieser Satzung nichts anderes bestimmt wird.
 
@@ -119,7 +113,7 @@ Der Kreistag entscheidet über alle Angelegenheiten des Eigenbetriebes, die ihm 
 
 (3) Der Landrat kann der Betriebsleitung Weisungen erteilen, um die Einheitlichkeit der Verwaltung zu wahren, die Erfüllung der Aufgaben des Eigenbetriebes zu sichern und Missstände zu beseitigen. Er kann insbesondere anordnen, dass Maßnahmen der Betriebsleitung unterbleiben oder rückgängig gemacht werden, wenn er der Auffassung ist, dass diese Maßnahmen für den Landkreis nachteilig sind.
 
-## § 8 Betriebsleitung
+### § 8 Betriebsleitung
 
 (1) Zur Leitung des Eigenbetriebes wird eine Betriebsleitung bestellt. Sie besteht aus dem Ersten Betriebsleiter und dem Betriebsleiter. Erster Betriebsleiter ist der jeweils für die Abfallwirtschaft zuständige Dezernent. Einzelheiten bleiben einer Geschäftsordnung vorbehalten.
 
@@ -140,15 +134,15 @@ Der Kreistag entscheidet über alle Angelegenheiten des Eigenbetriebes, die ihm 
 
 (6) Die Betriebsleitung nimmt an den Beratungen des Kreistages über Angelegenheiten des Eigenbetriebes und an den Sitzungen des Betriebsausschusses mit beratender Stimme teil.
 
-## § 9 Geschäftsordnung
+### § 9 Geschäftsordnung
 
 Die Geschäftsverteilung innerhalb der Betriebsleitung regelt der Landrat mit Zustimmung des Betriebsausschusses durch eine Geschäftsordnung.
 
-## § 10 Personalvertretung
+### § 10 Personalvertretung
 
 Die durch Gesetz, Tarifvertrag oder Betriebsvereinbarung vorgesehenen Rechte und Pflichten der Personalvertretung bleiben unberührt.
 
-## § 11 Wirtschaftsführung
+### § 11 Wirtschaftsführung
 
 (1) Wirtschaftsjahr ist das Kalenderjahr.
 
@@ -161,10 +155,10 @@ Die durch Gesetz, Tarifvertrag oder Betriebsvereinbarung vorgesehenen Rechte und
 - im Vermögensplan weitere Verpflichtungsermächtigungen vorgesehen werden sollen, oder
 - eine erhebliche Vermehrung oder Hebung der in der Stellenübersicht vorgesehenen Stellen erforderlich wird; dies gilt nicht für eine vorübergehende Einstellung von Aushilfskräften.
 
-## § 12 Übergangsbestimmung
+### § 12 Übergangsbestimmung
 
 (gegenstandslos)
 
-## § 13 Inkrafttreten
+### § 13 Inkrafttreten
 
 Die Betriebssatzung tritt am 1.1.2001 in Kraft.

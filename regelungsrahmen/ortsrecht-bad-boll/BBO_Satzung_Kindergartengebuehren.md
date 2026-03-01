@@ -2,10 +2,10 @@
 titel: Satzung über die Erhebung von Benutzungsgebühren für die Kindertageseinrichtungen
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,46 +15,21 @@ gueltig_ab: 2022-09-01
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Kindergarten
-  - Kindergartengebühren
-  - Kindertageseinrichtung
-  - KiTa
-  - Kita-Gebühr
-  - Betreuungsgebühr
-  - Benutzungsgebühr
-  - Kinderbetreuung
-  - Krippe
-  - Ganztagesbetreuung
-  - VÖ
-  - VÖPlus
-  - verlängerte Öffnungszeiten
-  - Geschwisterrabatt
-  - Abmeldung
-  - Anmeldung
-  - Gebührenpflicht
-  - Kindergartenjahr
-  - Riedbächle
-  - Theophil-Blumhardt-Haus
-fragen:
-  - "Was kostet der Kindergarten in Bad Boll?"
-  - "Zahle ich weniger Kindergartengebühren wenn ich mehrere Kinder habe?"
-  - "Muss ich die Kindergartengebühr auch in den Ferien zahlen?"
-  - "Wie melde ich mein Kind vom Kindergarten ab?"
-  - "Ab wann muss ich Kindergartengebühren zahlen?"
-  - "Was ist der Unterschied zwischen VÖ und VÖPlus im Kindergarten?"
-  - "Was passiert wenn ich die Kindergartengebühren nicht zahle?"
-  - "Wann wird die Kindergartengebühr fällig?"
-querverweise:
-  - Hauptsatzung der Gemeinde Bad Boll
-  - Kindertagesbetreuungsgesetz Baden-Württemberg
 ---
 
-# GEMEINDE BAD BOLL - Kindergartengebühren
+## Inhaltsverzeichnis
+
+- § 1 Erhebungsgrundsatz
+- § 2 Begriffsbestimmungen
+- § 3 Beginn und Beendigung des Nutzungsverhältnisses
+- § 4 Gebührenpflicht, Gebührenschuldner
+- § 5 Gebührenschuld und Fälligkeit
+- § 6 Gebührensätze
+- § 7 Inkrafttreten
 
 **Stand:** Oktober 2024
 
-## Satzung über die Erhebung von Benutzungsgebühren für die Kindertageseinrichtungen der Gemeinde Bad Boll
+### Satzung über die Erhebung von Benutzungsgebühren für die Kindertageseinrichtungen der Gemeinde Bad Boll
 
 Auf Grund von § 4 der Gemeindeordnung für Baden-Württemberg (GemO) in Verbindung mit § 6 des Kindertagesbetreuungsgesetzes und der §§ 2, 13 und 19 des Kommunalabgabengesetzes (KAG) hat der Gemeinderat der Gemeinde Bad Boll am 9. Dezember 2021 folgende Satzung beschlossen, die mit Satzungen vom 25. Mai 2023 sowie vom 26. September 2024 geändert wurde:
 
@@ -108,7 +83,7 @@ Erfolgt die Aufnahme des Kindes zwischen dem 1. und 14. eines Monats wird die vo
 
 **(2)** Höhe der Gebühren im Einzelnen
 
-#### Kindergarten mit verlängerten Öffnungszeiten (VÖ)
+### Kindergarten mit verlängerten Öffnungszeiten (VÖ)
 **(30 Std./Woche) gemäß § 2 Nr. 1 Benutzungsgebührensatzung**
 
 | Familiensituation | Gebühr |
@@ -117,7 +92,7 @@ Erfolgt die Aufnahme des Kindes zwischen dem 1. und 14. eines Monats wird die vo
 | für ein Kind aus einer Familie mit zwei Kindern unter 18 Jahren | 125,00 € |
 | für Kind aus einer Familie mit drei oder mehr Kindern unter 18 Jahren | 85,00 € |
 
-#### Kindergarten mit verlängerten Öffnungszeiten (VÖPlus)
+### Kindergarten mit verlängerten Öffnungszeiten (VÖPlus)
 **(35 Std./Woche) gemäß § 2 Nr. 2 Benutzungsgebührensatzung**
 
 | Familiensituation | Gebühr |
@@ -126,7 +101,7 @@ Erfolgt die Aufnahme des Kindes zwischen dem 1. und 14. eines Monats wird die vo
 | für ein Kind aus einer Familie mit zwei Kindern unter 18 Jahren | 150,00 € |
 | für Kind aus einer Familie mit drei oder mehr Kindern unter 18 Jahren | 100,00 € |
 
-#### Kindergarten mit verlängerten Öffnungszeiten (VÖPlus) + 3 Nachmittage pro Woche bis 16.00 Uhr
+### Kindergarten mit verlängerten Öffnungszeiten (VÖPlus) + 3 Nachmittage pro Woche bis 16.00 Uhr
 **gemäß § 2 Nr. 3 Benutzungsgebührensatzung (nur Kindergarten am Riedbächle)**
 
 | Familiensituation | Gebühr |
@@ -135,7 +110,7 @@ Erfolgt die Aufnahme des Kindes zwischen dem 1. und 14. eines Monats wird die vo
 | für ein Kind aus einer Familie mit zwei Kindern unter 18 Jahren | 175,00 € |
 | für Kind aus einer Familie mit drei oder mehr Kindern unter 18 Jahren | 120,00 € |
 
-#### Kindergarten mit verlängerten Öffnungszeiten (VÖPlus) + 4 Nachmittage pro Woche bis 16.00 Uhr
+### Kindergarten mit verlängerten Öffnungszeiten (VÖPlus) + 4 Nachmittage pro Woche bis 16.00 Uhr
 **gemäß § 2 Nr. 3 Benutzungsgebührensatzung (nur Th.-Blumhardt-Haus)**
 
 | Familiensituation | Gebühr |
@@ -152,7 +127,7 @@ Diese Satzung tritt am 1. September 2022 in Kraft, die Änderungssatzungen trete
 
 ---
 
-## Hinweis nach § 4 GemO
+### Hinweis nach § 4 GemO
 
 Eine etwaige Verletzung von Verfahrens- oder Formvorschriften der Gemeindeordnung Baden-Württemberg (GemO) oder von auf Grund der GemO erlassener Verfahrensvorschriften beim Zustandekommen der Satzung wird nach § 4 Abs. 4 GemO unbeachtlich, wenn sie nicht innerhalb eines Jahres seit der Bekanntmachung dieser Satzung gegenüber der Gemeinde schriftlich oder elektronisch geltend gemacht worden ist; der Sachverhalt, der die Verletzung begründen soll, ist zu bezeichnen. Dies gilt nicht, wenn die Vorschriften über die Öffentlichkeit der Sitzung, die Genehmigung oder die Bekanntmachung der Satzung verletzt worden sind.
 

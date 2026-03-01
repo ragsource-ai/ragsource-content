@@ -2,10 +2,10 @@
 titel: Polizeiverordnung der Gemeinde Bad Boll (Polizeiliche Umweltschutz-Verordnung)
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,55 +15,40 @@ gueltig_ab: 2021-04-30
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Polizeiverordnung
-  - Lärm
-  - Nachtruhe
-  - Mittagsruhe
-  - Ruhezeiten
-  - Lärmbelästigung
-  - Hund
-  - Leinenpflicht
-  - Hundekot
-  - Taubenfütterung
-  - Grünanlage
-  - Erholungsanlage
-  - Kinderspielplatz
-  - Hausnummer
-  - Plakatieren
-  - Wohnwagen
-  - Gaststättenlärm
-  - Gartenarbeiten
-  - Haus- und Gartenarbeiten
-  - Dung
-  - Jauche
-  - Altglas
-  - Wertstoffbehälter
-  - Betteln
-  - öffentliche Sicherheit
-  - Ordnungsrecht
-fragen:
-  - "Wann gilt die Nachtruhe in Bad Boll?"
-  - "Darf ich meinen Hund in der Grünanlage ohne Leine laufen lassen?"
-  - "Was mache ich wenn mein Nachbar nachts lärmt?"
-  - "Bis wann darf ich Gartenarbeiten mit Lärm machen?"
-  - "Muss ich als Hauseigentümer eine Hausnummer anbringen?"
-  - "Darf ich am Sonntag Glas in den Altglascontainer werfen?"
-  - "Wo darf ich in Bad Boll Plakate aufhängen?"
-  - "Darf ich meinen Hund auf den Kinderspielplatz mitnehmen?"
-querverweise:
-  - Hundesteuersatzung der Gemeinde Bad Boll
-  - Hauptsatzung der Gemeinde Bad Boll
-  - Polizeigesetz Baden-Württemberg
 ---
 
-# GEMEINDE BAD BOLL
+## Inhaltsverzeichnis
+
+- § 1 Begriffsbestimmungen
+- § 2 Benutzung von Rundfunkgeräten, Lautsprechern, Musikinstrumenten u. ä.
+- § 3 Lärm aus Gaststätten
+- § 4 Lärm von Sport- und Spielplätzen
+- § 5 Haus- und Gartenarbeiten
+- § 6 Lärm durch Tiere
+- § 7 Wertstoffsammelbehälter / Altglassammelbehälter
+- § 8 Lärm durch Fahrzeuge
+- § 9 Nacht- und Mittagsruhe
+- § 10 Abspritzen von Fahrzeugen
+- § 11 Benutzung öffentlicher Brunnen
+- § 12 Verkauf von Lebensmitteln im Freien
+- § 13 Gefahren durch Tiere
+- § 14 Verunreinigung durch Hunde
+- § 15 Taubenfütterungsverbot
+- § 16 Belästigung durch Ausdünstungen u. ä.
+- § 17 Unerlaubtes Plakatieren, Beschriften, Bemalen
+- § 18 Aufstellen von Wohnwagen und Zelten
+- § 19 Belästigung der Allgemeinheit
+- § 20 Ordnungsvorschriften
+- § 21 Hausnummern
+- § 22 Zulassung von Ausnahmen
+- § 23 Ordnungswidrigkeiten
+- § 24 Inkrafttreten
 
 **Polizeiverordnung**
 Seite P1 - 1
 Stand: Februar 2021
 
-## POLIZEIVERORDNUNG
+### POLIZEIVERORDNUNG
 
 gegen umweltschädliches Verhalten, Belästigung der Allgemeinheit, zum Schutz der Grün- und Erholungsanlagen und über das Anbringen von Hausnummern (Polizeiliche Umweltschutz-Verordnung)
 

@@ -2,10 +2,10 @@
 titel: Benutzungsordnung für das Kleinspielfeld der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-land_ars: "08"
-kreis_ars: "08117"
-verband_ars: "081175009"
-gemeinde_ars: "081175009012"
+land_ars: 08
+kreis_ars: 08117
+verband_ars: 081175009
+gemeinde_ars: 081175009012
 land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
@@ -15,42 +15,32 @@ gueltig_ab: 2001-07-19
 status: published
 projekte:
   - amtsschimmel
-keywords:
-  - Kleinspielfeld
-  - Sportanlage
-  - Schulweg
-  - TSV Boll
-  - Belegungsplan
-  - Sportplatz
-  - Hallenbelegung
-  - Platzordnung
-  - Hausrecht Sportanlage
-  - Vereinssport
-fragen:
-  - "Wer darf das Kleinspielfeld in Bad Boll benutzen?"
-  - "Wann ist das Kleinspielfeld in Bad Boll frei zugänglich?"
-  - "Was ist auf dem Kleinspielfeld verboten?"
-  - "Wie beantrage ich eine Reservierung des Kleinspielfelds?"
-  - "Wer übt das Hausrecht auf dem Kleinspielfeld aus?"
-querverweise:
-  - Benutzungsordnung für die Sporthallen der Gemeinde Bad Boll
-  - Benutzungsordnung für den Schulhof der Gemeinde Bad Boll
 ---
 
-# Benutzungsordnung für das Kleinspielfeld
+## Inhaltsverzeichnis
+
+- § 1 Benutzungsrecht
+- § 2 Sperrung
+- § 3 Haftungsausschlussklausel
+- § 4 Allgemeine Haus- und Platzordnung
+- § 5 Benutzungszeiten
+- § 6 Hausrecht
+- § 7 Wirtschaftliche Werbung, Verkauf von Waren und Ausschank von Getränken
+- § 8 Zuwiderhandlungen
+- § 9 Inkrafttreten
 
 **GEMEINDE BAD BOLL**  
 **Stand: Januar 2008**
 
 Gemäß § 4 i.V.m. § 142 der Gemeindeordnung für Baden-Württemberg (GemO) hat der Gemeinderat der Gemeinde Boll am 19.07.2001 folgende Benutzungsordnung als Satzung erlassen:
 
-## Allgemeines
+### Allgemeines
 
 Das Kleinspielfeld am Schulweg ist eine öffentliche Einrichtung der Gemeinde Boll, die in Zusammenarbeit mit dem TSV Boll unter großem finanziellen Aufwand hergestellt wurde. Es zu erhalten und vor jeder Beschädigung und Verunreinigung zu schützen sollte für alle – Aktive und Zuschauer – Pflicht und oberstes Gebot sein.
 
 Um diese Ziele und einen reibungslosen Benutzungsablauf zu erreichen, werden folgende Bestimmungen erlassen:
 
-## § 1 Benutzungsrecht
+### § 1 Benutzungsrecht
 
 (1) Das Kleinspielfeld steht den Schulen, dem TSV Boll und sonstigen ortsansässigen Vereinen zum Trainings- und Spielbetrieb zur Verfügung. Schul- und Vereinssport des TSV Boll haben vor der sonstigen Nutzung Vorrang. Sofern möglich kann die Benutzung außerhalb des Schul- oder Vereinsbetriebs auch anderen Personen oder Personengruppen überlassen werden.
 
@@ -58,17 +48,17 @@ Um diese Ziele und einen reibungslosen Benutzungsablauf zu erreichen, werden fol
 
 (3) Reservierungsanträge für das Kleinspielfeld sind mindestens 10 Tage vor der Veranstaltung an die Gemeinde zu richten. Für die regelmäßige Benutzung im Rahmen des Belegungsplans und für die allgemeine Benutzung ist ein Antrag nicht erforderlich.
 
-## § 2 Sperrung
+### § 2 Sperrung
 
 (1) Die Gemeinde behält sich vor, das Kleinspielfeld aus Gründen der Pflege und Unterhaltung oder aus sonstigen Gründen ganz oder für bestimmte Sportarten zu sperren. Aus einer Sperrung können Entschädigungsansprüche nicht hergeleitet werden.
 
 (2) Bereits erteilte Genehmigungen können zurückgezogen werden, wenn es aus sportlichen Gründen oder unvorhergesehenen sonstigen wichtigen Gründen erforderlich wird. Ein Anspruch auf Entschädigung oder Zuweisung auf eine andere Sportanlage besteht nicht.
 
-## § 3 Haftungsausschlussklausel
+### § 3 Haftungsausschlussklausel
 
 Die Gemeinde Boll überlässt den Benutzern das Kleinspielfeld in dem Zustand, in welchem es sich befindet. Die Benutzung der Anlage erfolgt auf eigene Gefahr. Die Gemeinde übernimmt keine Haftung für Schäden, die den Benützern der Anlage erwachsen.
 
-## § 4 Allgemeine Haus- und Platzordnung
+### § 4 Allgemeine Haus- und Platzordnung
 
 (1) Das Kleinspielfeld darf ausschließlich zur sportlichen Betätigung solcher Sportarten betreten werden, die aufgrund der Markierungen und der Möblierung zulässig sind.
 
@@ -89,19 +79,19 @@ Die Gemeinde Boll überlässt den Benutzern das Kleinspielfeld in dem Zustand, i
 - das Klettern an der Umzäunung und an der Flutlichtanlage,
 - das Spielen auf nicht gegen Umkippen gesicherte Tore.
 
-## § 5 Benutzungszeiten
+### § 5 Benutzungszeiten
 
 Das Kleinspielfeld wird den Schulen montags bis freitags von 7.30 Uhr bis 16.00 Uhr überlassen. Außerhalb des Schulbetriebs steht die Anlage dem TSV Boll im Rahmen des Benutzungszeitplans sowie für die Allgemeinheit zur freien Nutzung zur Verfügung. Die Benutzung endet um 22.00 Uhr. Die Gemeinde Boll kann in Einzelfällen aus besonderen Gründen abweichende Regelungen treffen.
 
-## § 6 Hausrecht
+### § 6 Hausrecht
 
 Auf der Sportanlage übt der Hausmeister des Schulzentrums Boll im Rahmen seiner Zuständigkeit das Hausrecht der Gemeinde Boll aus und sorgt für die Einhaltung der Platzordnung. Darüber hinaus ist das Spielfeld auf Anweisung autorisierter Personen der Schule bzw. des TSV Boll zu räumen. Den Anordnungen ist – gegebenenfalls unter dem Vorbehalt einer Beschwerde – Folge zu leisten.
 
-## § 7 Wirtschaftliche Werbung, Verkauf von Waren und Ausschank von Getränken
+### § 7 Wirtschaftliche Werbung, Verkauf von Waren und Ausschank von Getränken
 
 In der Sportanlage ist die Werbung für wirtschaftliche Zwecke nur mit vorheriger Genehmigung der Gemeinde erlaubt. Der Verkauf von Waren und der Ausschank von Getränken ist nur mit der Erlaubnis der Gemeinde gestattet.
 
-## § 8 Zuwiderhandlungen
+### § 8 Zuwiderhandlungen
 
 (1) Benutzer des Kleinspielfeldes, die den Bestimmungen dieser Benutzungsordnung zuwiderhandeln oder die Ordnung stören, können zeitweise oder dauernd von der Benutzung der Anlagen ausgeschlossen werden.
 
@@ -119,7 +109,7 @@ d) entgegen § 6 den Anweisungen des autorisierten Personals oder den Ordnungsvo
 
 (4) Ordnungswidrigkeiten können mit einer Geldbuße geahndet werden.
 
-## § 9 Inkrafttreten
+### § 9 Inkrafttreten
 
 Diese Satzung tritt am 01.08.2001 in Kraft.
 
