@@ -8,7 +8,7 @@ erlassen_am: "2025-07-22"
 quelle: "Gesetz vom 22.07.2025 (GBl. 2025, Nr. 70)"
 gueltig_ab: 2025-07-30
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-ArchivGBW2025rahmen"
-beschreibung: ""
+beschreibung: "Regelt staatliches Archivwesen in Baden-Württemberg. Bestimmt Zuständigkeit und Aufgaben des Landesarchivs, Anbietungspflichten öffentlicher Stellen, Schutzfristen sowie Nutzung und Bereitstellung von Archivgut."
 stand: "2025-07-22"
 status: published
 projekte:

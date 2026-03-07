@@ -6,6 +6,7 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz vom 14.10.2008 (GBl. 2008, S. 313), zuletzt geändert durch Artikel 3 des Gesetzes vom 17.12.2024 (GBl. 2024 Nr. 114)
 gueltig_ab: 2008-10-14
+beschreibung: "Gliederung und Organisation der allgemeinen Verwaltungsbehörden in Baden-Württemberg. Regelt Zuständigkeiten und Aufgaben von Ministerien, Regierungspräsidien, Landratsämtern sowie Dienst- und Fachaufsicht."
 status: published
 projekte:
   - amtsschimmel

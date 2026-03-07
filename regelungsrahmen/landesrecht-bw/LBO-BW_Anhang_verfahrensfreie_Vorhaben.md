@@ -6,6 +6,7 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz neugefasst am 05.03.2010, zuletzt geändert durch Artikel 1 des Gesetzes vom 18.03.2025 (GBl. 2025 Nr. 25)
 gueltig_ab: 2010-03-01
+beschreibung: "Anhang zur LBO BW: Abschließende Liste der verfahrensfreien Vorhaben gemäß Paragraph 50 LBO (Gebäude unter Schwellenwerten, Werbeanlagen, Stellplätze, Aufschüttungen, technische Anlagen u.a.)."
 status: published
 projekte:
   - amtsschimmel

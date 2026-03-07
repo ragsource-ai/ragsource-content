@@ -9,7 +9,7 @@ geaendert_am: "2025-07-29"
 quelle: "Gesetz neugefasst am 19.03.2009 (GBl. 2009, 161,  <br>K.u.U. 2009), zuletzt geändert durch Artikel 1 und 2 des Gesetzes vom 29. Juli 2025 (GBl. 2025, Nr. 81)[3)](https://www.landesrecht-bw.de/bsbw/document/jlr-KiTaGBW2009rahmen#/search)"
 gueltig_ab: 2009-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KiTaGBW2009rahmen"
-beschreibung: ""
+beschreibung: "Regelt Betreuung und Förderung von Kindern in Kindergärten, Tageseinrichtungen und Kindertagespflege in BW. Bestimmt Aufgaben der Gemeinden, Förderung freier Träger, Elternbeiräte und Personal."
 stand: "2025-07-29"
 status: published
 projekte:

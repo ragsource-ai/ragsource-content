@@ -9,7 +9,7 @@ geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 16.09.1994 (GBl. 1994, 567), zuletzt geändert durch Artikel 2 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 117)"
 gueltig_ab: 1994-10-22
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PolGDVBW1994rahmen"
-beschreibung: ""
+beschreibung: "Durchführungsverordnung zum Polizeigesetz BW. Regelt Vollzug von Gewahrsam, Datenerhebung, Gliederung der Polizeidienststellen (LKA, Polizeipraesidien) und Aufgaben gemeindlicher Vollzugsbediensteter."
 stand: "2025-11-18"
 status: published
 projekte:

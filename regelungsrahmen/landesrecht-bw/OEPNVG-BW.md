@@ -8,7 +8,7 @@ erlassen_am: "1995-06-08"
 geaendert_am: "2026-02-10"
 quelle: "Gesetz vom 08.06.1995 (GBl. 1995, 417), zuletzt geändert durch Gesetz vom 10. Februar 2026 (GBl. 2026 Nr. 24)"
 gueltig_ab: 1995-06-23
-beschreibung: ""
+beschreibung: "Regelt Planung, Organisation und Finanzierung des öffentlichen Personennahverkehrs in Baden-Württemberg. Bestimmt Aufgabentraeger, Nahverkehrsplan, Verkehrsverbuende und Finanzierungsregelungen."
 stand: "2026-02-10"
 status: published
 projekte:

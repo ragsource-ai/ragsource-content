@@ -9,7 +9,7 @@ geaendert_am: "2026-02-10"
 quelle: "Gesetz vom 17.12.2015 (GBl. 2015, 1201), zuletzt geändert durch Artikel 4 des Gesetzes vom 10. Februar 2026 (GBl. 2026 Nr. 19)"
 gueltig_ab: 2015-12-30
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-InfFrGBWrahmen"
-beschreibung: ""
+beschreibung: "Regelt Zugang zu amtlichen Informationen bei Behörden in Baden-Württemberg. Gewährt Informationsansprüche, bestimmt Ausnahmen (öffentliche Belange, Datenschutz, Betriebs-/Geschäftsgeheimnisse) und richtet ein Informationsregister ein."
 stand: "2026-02-10"
 status: published
 projekte:

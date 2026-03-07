@@ -9,7 +9,7 @@ geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 25.11.2014 (GBl. 2014, 550), zuletzt geändert durch Artikel 10 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
 gueltig_ab: 2015-04-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WildTManagGBWrahmen"
-beschreibung: ""
+beschreibung: "Jagd- und Wildtiermanagement in Baden-Württemberg. Regelt Jagdrecht, Jagdbezirke, Jagdpacht, Jagdschein, Jagdausübung, Schon- und Jagdzeiten sowie Wildschadensersatz und Wildtiermonitoring."
 stand: "2025-11-18"
 status: published
 projekte:

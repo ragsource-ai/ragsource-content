@@ -9,7 +9,7 @@ geaendert_am: "2024-12-06"
 quelle: "Gesetz vom 11.12.2009 (GBl. 2009, 791), zuletzt geändert durch Artikel 2 der Verordnung vom 6. Dezember 2024 (GBl. 2024 Nr. 111)"
 gueltig_ab: 2010-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GemKVBW2009rahmen"
-beschreibung: ""
+beschreibung: "Regelt die Kassenführung der Gemeinden in Baden-Württemberg. Bestimmt Aufgaben und Organisation der Gemeindekasse, Kassenanordnungen, Zahlungsverkehr und Verwaltung der Kassenmittel."
 stand: "2024-12-06"
 status: published
 projekte:

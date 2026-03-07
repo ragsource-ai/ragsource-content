@@ -9,7 +9,7 @@ geaendert_am: "2022-04-26"
 quelle: "Gesetz vom 11.11.1953 (GBl. 1953, 173), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. April 2022 (GBl. S. 237)"
 gueltig_ab: 1953-11-20
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-VerfBWrahmen"
-beschreibung: ""
+beschreibung: "Verfassung des Landes Baden-Württemberg. Regelt Grundrechte, staatliche Grundordnung, Landtag, Landesregierung, Rechtspflege, kommunale Selbstverwaltung und Finanzwesen des Landes."
 stand: "2022-04-26"
 status: published
 projekte:

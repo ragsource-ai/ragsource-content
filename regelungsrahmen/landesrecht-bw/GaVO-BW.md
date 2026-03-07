@@ -9,7 +9,7 @@ geaendert_am: "2025-06-12"
 quelle: "Gesetz vom 07.07.1997 (GBl. 1997, 332), zuletzt geändert durch Artikel 3 der Verordnung vom 12. Juni 2025 (GBl. 2025 Nr. 53)"
 gueltig_ab: 1997-09-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GaVBW1997rahmen"
-beschreibung: ""
+beschreibung: "Landesrechtliche Anforderungen an Garagen und Stellplätze in Baden-Württemberg. Regelt Bauvorschriften (Zu-/Abfahrten, Brandabschnitte, Lüftung, Rettungswege) und Betriebsvorschriften."
 stand: "2025-06-12"
 status: published
 projekte:

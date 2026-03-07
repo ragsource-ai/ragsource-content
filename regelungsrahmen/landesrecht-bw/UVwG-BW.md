@@ -9,7 +9,7 @@ geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 25.11.2014 (GBl. 2014, 592), zuletzt geändert durch Artikel 2 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
 gueltig_ab: 2015-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-UmwVwGBWrahmen"
-beschreibung: ""
+beschreibung: "Umweltverwaltungsrecht Baden-Württemberg. Regelt frühe Öffentlichkeitsbeteiligung, Umweltverträglichkeitsprüfung (UVP), Strategische Umweltprüfung (SUP), Zugang zu Umweltinformationen und Umweltrechtsschutz."
 stand: "2025-11-18"
 status: published
 projekte:

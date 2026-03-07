@@ -9,7 +9,7 @@ geaendert_am: "2026-02-09"
 quelle: "Gesetz vom 11.12.2009 (GBl. 2009, 770), zuletzt geändert durch Artikel 1 der Verordnung vom 9. Februar 2026 (GBl. 2026 Nr. 27)"
 gueltig_ab: 2010-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GemHVBW2009rahmen"
-beschreibung: ""
+beschreibung: "Haushaltsrecht der Gemeinden in Baden-Württemberg. Regelt Aufstellung und Bestandteile des Haushaltsplans, Planungs- und Deckungsgrundsätze, Buchführung, Inventar, Bewertung und Jahresabschluss."
 stand: "2026-02-09"
 status: published
 projekte:

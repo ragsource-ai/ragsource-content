@@ -9,7 +9,7 @@ geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 23.06.2015 (GBl. 2015, 585), zuletzt geändert durch Artikel 5 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
 gueltig_ab: 2015-07-14
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-NatSchGBW2015rahmen"
-beschreibung: ""
+beschreibung: "Naturschutz und Landschaftspflege in Baden-Württemberg. Regelt Landschaftsplanung, Eingriffe in Natur und Landschaft, Schutzgebiete (Naturschutzgebiete, Naturparke, Biotopverbund), Artenschutz und Eingriffsausgleich."
 stand: "2025-11-18"
 status: published
 projekte:
