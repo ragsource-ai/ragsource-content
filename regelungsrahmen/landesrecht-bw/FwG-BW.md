@@ -33,8 +33,8 @@ projekte:
 - § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
 - § 18 - Sondervermögen für die Kameradschaftspflege
 - § 19 - Werkfeuerwehren
-- § 20
-- § 21
+- § 20 - (Landesfeuerwehrschule)
+- § 21 - (Feuerwehrverbände)
 - § 22 - Aufsichtsbehörden
 - § 23 - Feuerwehrtechnische Beamte
 - § 24 - Aufgaben der feuerwehrtechnischen Beamten
