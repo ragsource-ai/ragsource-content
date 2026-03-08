@@ -66,7 +66,8 @@ und Rechtsakten der EG
 
 ### § 1 - Zweck des Gesetzes
 
-Zweck des Gesetzes ist es, 1. die Sicherheit und den Gesundheitsschutz der Arbeitnehmer in der Bundesrepublik Deutschland und in der ausschließlichen Wirtschaftszone bei der Arbeitszeitgestaltung zu gewährleisten und die Rahmenbedingungen für flexible Arbeitszeiten zu verbessern sowie
+Zweck des Gesetzes ist es,
+1. die Sicherheit und den Gesundheitsschutz der Arbeitnehmer in der Bundesrepublik Deutschland und in der ausschließlichen Wirtschaftszone bei der Arbeitszeitgestaltung zu gewährleisten und die Rahmenbedingungen für flexible Arbeitszeiten zu verbessern sowie
 2. den Sonntag und die staatlich anerkannten Feiertage als Tage der Arbeitsruhe und der seelischen Erhebung der Arbeitnehmer zu schützen.
 
 ### § 2 - Begriffsbestimmungen
@@ -79,7 +80,8 @@ Zweck des Gesetzes ist es, 1. die Sicherheit und den Gesundheitsschutz der Arbei
 
 (4) Nachtarbeit im Sinne dieses Gesetzes ist jede Arbeit, die mehr als zwei Stunden der Nachtzeit umfaßt.
 
-(5) Nachtarbeitnehmer im Sinne dieses Gesetzes sind Arbeitnehmer, die 1. auf Grund ihrer Arbeitszeitgestaltung normalerweise Nachtarbeit in Wechselschicht zu leisten haben oder
+(5) Nachtarbeitnehmer im Sinne dieses Gesetzes sind Arbeitnehmer, die
+1. auf Grund ihrer Arbeitszeitgestaltung normalerweise Nachtarbeit in Wechselschicht zu leisten haben oder
 2. Nachtarbeit an mindestens 48 Tagen im Kalenderjahr leisten.
 
 
@@ -112,7 +114,8 @@ Die Arbeit ist durch im voraus feststehende Ruhepausen von mindestens 30 Minuten
 
 (3) Nachtarbeitnehmer sind berechtigt, sich vor Beginn der Beschäftigung und danach in regelmäßigen Zeitabständen von nicht weniger als drei Jahren arbeitsmedizinisch untersuchen zu lassen. Nach Vollendung des 50. Lebensjahres steht Nachtarbeitnehmern dieses Recht in Zeitabständen von einem Jahr zu. Die Kosten der Untersuchungen hat der Arbeitgeber zu tragen, sofern er die Untersuchungen den Nachtarbeitnehmern nicht kostenlos durch einen Betriebsarzt oder einen überbetrieblichen Dienst von Betriebsärzten anbietet.
 
-(4) Der Arbeitgeber hat den Nachtarbeitnehmer auf dessen Verlangen auf einen für ihn geeigneten Tagesarbeitsplatz umzusetzen, wenn a) nach arbeitsmedizinischer Feststellung die weitere Verrichtung von Nachtarbeit den Arbeitnehmer in seiner Gesundheit gefährdet oder
+(4) Der Arbeitgeber hat den Nachtarbeitnehmer auf dessen Verlangen auf einen für ihn geeigneten Tagesarbeitsplatz umzusetzen, wenn
+a) nach arbeitsmedizinischer Feststellung die weitere Verrichtung von Nachtarbeit den Arbeitnehmer in seiner Gesundheit gefährdet oder
 b) im Haushalt des Arbeitnehmers ein Kind unter zwölf Jahren lebt, das nicht von einer anderen im Haushalt lebenden Person betreut werden kann, oder
 c) der Arbeitnehmer einen schwerpflegebedürftigen Angehörigen zu versorgen hat, der nicht von einem anderen im Haushalt lebenden Angehörigen versorgt werden kann, sofern dem nicht dringende betriebliche Erfordernisse entgegenstehen. Stehen der Umsetzung des Nachtarbeitnehmers auf einen für ihn geeigneten Tagesarbeitsplatz nach Auffassung des Arbeitgebers dringende betriebliche Erfordernisse entgegen, so ist der Betriebs- oder Personalrat zu hören. Der Betriebs- oder Personalrat kann dem Arbeitgeber Vorschläge für eine Umsetzung unterbreiten.
 
@@ -122,16 +125,20 @@ c) der Arbeitnehmer einen schwerpflegebedürftigen Angehörigen zu versorgen hat
 
 ### § 7 - Abweichende Regelungen
 
-(1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden, 1. abweichend von § 3 a) die Arbeitszeit über zehn Stunden werktäglich zu verlängern, wenn in die Arbeitszeit regelmäßig und in erheblichem Umfang Arbeitsbereitschaft oder Bereitschaftsdienst fällt,
+(1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden,
+1. abweichend von § 3 
+a) die Arbeitszeit über zehn Stunden werktäglich zu verlängern, wenn in die Arbeitszeit regelmäßig und in erheblichem Umfang Arbeitsbereitschaft oder Bereitschaftsdienst fällt,
 b) einen anderen Ausgleichszeitraum festzulegen,
 c) (weggefallen)
 2. abweichend von § 4 Satz 2 die Gesamtdauer der Ruhepausen in Schichtbetrieben und Verkehrsbetrieben auf Kurzpausen von angemessener Dauer aufzuteilen,
 3. abweichend von § 5 Abs. 1 die Ruhezeit um bis zu zwei Stunden zu kürzen, wenn die Art der Arbeit dies erfordert und die Kürzung der Ruhezeit innerhalb eines festzulegenden Ausgleichszeitraums ausgeglichen wird,
-4. abweichend von § 6 Abs. 2 a) die Arbeitszeit über zehn Stunden werktäglich hinaus zu verlängern, wenn in die Arbeitszeit regelmäßig und in erheblichem Umfang Arbeitsbereitschaft oder Bereitschaftsdienst fällt,
+4. abweichend von § 6 Abs. 2 
+a) die Arbeitszeit über zehn Stunden werktäglich hinaus zu verlängern, wenn in die Arbeitszeit regelmäßig und in erheblichem Umfang Arbeitsbereitschaft oder Bereitschaftsdienst fällt,
 b) einen anderen Ausgleichszeitraum festzulegen,
 5. den Beginn des siebenstündigen Nachtzeitraums des § 2 Abs. 3 auf die Zeit zwischen 22 und 24 Uhr festzulegen.
 
-(2) Sofern der Gesundheitsschutz der Arbeitnehmer durch einen entsprechenden Zeitausgleich gewährleistet wird, kann in einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung ferner zugelassen werden, 1. abweichend von § 5 Abs. 1 die Ruhezeiten bei Rufbereitschaft den Besonderheiten dieses Dienstes anzupassen, insbesondere Kürzungen der Ruhezeit infolge von Inanspruchnahmen während dieses Dienstes zu anderen Zeiten auszugleichen,
+(2) Sofern der Gesundheitsschutz der Arbeitnehmer durch einen entsprechenden Zeitausgleich gewährleistet wird, kann in einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung ferner zugelassen werden,
+1. abweichend von § 5 Abs. 1 die Ruhezeiten bei Rufbereitschaft den Besonderheiten dieses Dienstes anzupassen, insbesondere Kürzungen der Ruhezeit infolge von Inanspruchnahmen während dieses Dienstes zu anderen Zeiten auszugleichen,
 2. die Regelungen der §§ 3, 5 Abs. 1 und § 6 Abs. 2 in der Landwirtschaft der Bestellungs- und Erntezeit sowie den Witterungseinflüssen anzupassen,
 3. die Regelungen der §§ 3, 4, 5 Abs. 1 und § 6 Abs. 2 bei der Behandlung, Pflege und Betreuung von Personen der Eigenart dieser Tätigkeit und dem Wohl dieser Personen entsprechend anzupassen,
 4. die Regelungen der §§ 3, 4, 5 Abs. 1 und § 6 Abs. 2 bei Verwaltungen und Betrieben des Bundes, der Länder, der Gemeinden und sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sowie bei anderen Arbeitgebern, die der Tarifbindung eines für den öffentlichen Dienst geltenden oder eines im wesentlichen inhaltsgleichen Tarifvertrags unterliegen, der Eigenart der Tätigkeit bei diesen Stellen anzupassen.
@@ -169,7 +176,8 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates f
 
 ### § 10 - Sonn- und Feiertagsbeschäftigung
 
-(1) Sofern die Arbeiten nicht an Werktagen vorgenommen werden können, dürfen Arbeitnehmer an Sonn- und Feiertagen abweichend von § 9 beschäftigt werden 1. in Not- und Rettungsdiensten sowie bei der Feuerwehr,
+(1) Sofern die Arbeiten nicht an Werktagen vorgenommen werden können, dürfen Arbeitnehmer an Sonn- und Feiertagen abweichend von § 9 beschäftigt werden
+1. in Not- und Rettungsdiensten sowie bei der Feuerwehr,
 2. zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung sowie der Funktionsfähigkeit von Gerichten und Behörden und für Zwecke der Verteidigung,
 3. in Krankenhäusern und anderen Einrichtungen zur Behandlung, Pflege und Betreuung von Personen,
 4. in Gaststätten und anderen Einrichtungen zur Bewirtung und Beherbergung sowie im Haushalt,
@@ -213,17 +221,22 @@ In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder
 
 ### § 13 - Ermächtigung, Anordnung, Bewilligung
 
-(1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vermeidung erheblicher Schäden unter Berücksichtigung des Schutzes der Arbeitnehmer und der Sonn- und Feiertagsruhe 1. die Bereiche mit Sonn- und Feiertagsbeschäftigung nach § 10 sowie die dort zugelassenen Arbeiten näher bestimmen,
-2. über die Ausnahmen nach § 10 hinaus weitere Ausnahmen abweichend von § 9 a) für Betriebe, in denen die Beschäftigung von Arbeitnehmern an Sonn- oder Feiertagen zur Befriedigung täglicher oder an diesen Tagen besonders hervortretender Bedürfnisse der Bevölkerung erforderlich ist,
-b) für Betriebe, in denen Arbeiten vorkommen, deren Unterbrechung oder Aufschub aa) nach dem Stand der Technik ihrer Art nach nicht oder nur mit erheblichen Schwierigkeiten möglich ist,
+(1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vermeidung erheblicher Schäden unter Berücksichtigung des Schutzes der Arbeitnehmer und der Sonn- und Feiertagsruhe
+1. die Bereiche mit Sonn- und Feiertagsbeschäftigung nach § 10 sowie die dort zugelassenen Arbeiten näher bestimmen,
+2. über die Ausnahmen nach § 10 hinaus weitere Ausnahmen abweichend von § 9 
+a) für Betriebe, in denen die Beschäftigung von Arbeitnehmern an Sonn- oder Feiertagen zur Befriedigung täglicher oder an diesen Tagen besonders hervortretender Bedürfnisse der Bevölkerung erforderlich ist,
+b) für Betriebe, in denen Arbeiten vorkommen, deren Unterbrechung oder Aufschub 
+aa) nach dem Stand der Technik ihrer Art nach nicht oder nur mit erheblichen Schwierigkeiten möglich ist,
 bb) besondere Gefahren für Leben oder Gesundheit der Arbeitnehmer zur Folge hätte,
 cc) zu erheblichen Belastungen der Umwelt oder der Energie- oder Wasserversorgung führen würde,
 c) aus Gründen des Gemeinwohls, insbesondere auch zur Sicherung der Beschäftigung, zulassen und die zum Schutz der Arbeitnehmer und der Sonn- und Feiertagsruhe notwendigen Bedingungen bestimmen.
 
 (2) Soweit die Bundesregierung von der Ermächtigung des Absatzes 1 Nr. 2 Buchstabe a keinen Gebrauch gemacht hat, können die Landesregierungen durch Rechtsverordnung entsprechende Bestimmungen erlassen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
-(3) Die Aufsichtsbehörde kann 1. feststellen, ob eine Beschäftigung nach § 10 zulässig ist,
-2. abweichend von § 9 bewilligen, Arbeitnehmer zu beschäftigen a) im Handelsgewerbe an bis zu zehn Sonn- und Feiertagen im Jahr, an denen besondere Verhältnisse einen erweiterten Geschäftsverkehr erforderlich machen,
+(3) Die Aufsichtsbehörde kann
+1. feststellen, ob eine Beschäftigung nach § 10 zulässig ist,
+2. abweichend von § 9 bewilligen, Arbeitnehmer zu beschäftigen 
+a) im Handelsgewerbe an bis zu zehn Sonn- und Feiertagen im Jahr, an denen besondere Verhältnisse einen erweiterten Geschäftsverkehr erforderlich machen,
 b) an bis zu fünf Sonn- und Feiertagen im Jahr, wenn besondere Verhältnisse zur Verhütung eines unverhältnismäßigen Schadens dies erfordern,
 c) an einem Sonntag im Jahr zur Durchführung einer gesetzlich vorgeschriebenen Inventur, und Anordnungen über die Beschäftigungszeit unter Berücksichtigung der für den öffentlichen Gottesdienst bestimmten Zeit treffen.
 
@@ -238,7 +251,8 @@ c) an einem Sonntag im Jahr zur Durchführung einer gesetzlich vorgeschriebenen 
 
 (1) Von den §§ 3 bis 5, 6 Abs. 2, §§ 7, 9 bis 11 darf abgewichen werden bei vorübergehenden Arbeiten in Notfällen und in außergewöhnlichen Fällen, die unabhängig vom Willen der Betroffenen eintreten und deren Folgen nicht auf andere Weise zu beseitigen sind, besonders wenn Rohstoffe oder Lebensmittel zu verderben oder Arbeitsergebnisse zu mißlingen drohen.
 
-(2) Von den §§ 3 bis 5, 6 Abs. 2, §§ 7, 11 Abs. 1 bis 3 und § 12 darf ferner abgewichen werden, 1. wenn eine verhältnismäßig geringe Zahl von Arbeitnehmern vorübergehend mit Arbeiten beschäftigt wird, deren Nichterledigung das Ergebnis der Arbeiten gefährden oder einen unverhältnismäßigen Schaden zur Folge haben würden,
+(2) Von den §§ 3 bis 5, 6 Abs. 2, §§ 7, 11 Abs. 1 bis 3 und § 12 darf ferner abgewichen werden,
+1. wenn eine verhältnismäßig geringe Zahl von Arbeitnehmern vorübergehend mit Arbeiten beschäftigt wird, deren Nichterledigung das Ergebnis der Arbeiten gefährden oder einen unverhältnismäßigen Schaden zur Folge haben würden,
 2. bei Forschung und Lehre, bei unaufschiebbaren Vor- und Abschlußarbeiten sowie bei unaufschiebbaren Arbeiten zur Behandlung, Pflege und Betreuung von Personen oder zur Behandlung und Pflege von Tieren an einzelnen Tagen, wenn dem Arbeitgeber andere Vorkehrungen nicht zugemutet werden können.
 
 (3) Wird von den Befugnissen nach Absatz 1 oder 2 Gebrauch gemacht, darf die Arbeitszeit 48 Stunden wöchentlich im Durchschnitt von sechs Kalendermonaten oder 24 Wochen nicht überschreiten.
@@ -247,7 +261,9 @@ c) an einem Sonntag im Jahr zur Durchführung einer gesetzlich vorgeschriebenen 
 
 ### § 15 - Bewilligung, Ermächtigung
 
-(1) Die Aufsichtsbehörde kann 1. eine von den §§ 3, 6 Abs. 2 und § 11 Abs. 2 abweichende längere tägliche Arbeitszeit bewilligen a) für kontinuierliche Schichtbetriebe zur Erreichung zusätzlicher Freischichten,
+(1) Die Aufsichtsbehörde kann
+1. eine von den §§ 3, 6 Abs. 2 und § 11 Abs. 2 abweichende längere tägliche Arbeitszeit bewilligen 
+a) für kontinuierliche Schichtbetriebe zur Erreichung zusätzlicher Freischichten,
 b) für Bau- und Montagestellen,
 2. eine von den §§ 3, 6 Abs. 2 und § 11 Abs. 2 abweichende längere tägliche Arbeitszeit für Saison- und Kampagnebetriebe für die Zeit der Saison oder Kampagne bewilligen, wenn die Verlängerung der Arbeitszeit über acht Stunden werktäglich durch eine entsprechende Verkürzung der Arbeitszeit zu anderen Zeiten ausgeglichen wird,
 3. eine von den §§ 5 und 11 Abs. 2 abweichende Dauer und Lage der Ruhezeit bei Arbeitsbereitschaft, Bereitschaftsdienst und Rufbereitschaft den Besonderheiten dieser Inanspruchnahmen im öffentlichen Dienst entsprechend bewilligen,
@@ -255,7 +271,8 @@ b) für Bau- und Montagestellen,
 
 (2) Die Aufsichtsbehörde kann über die in diesem Gesetz vorgesehenen Ausnahmen hinaus weitergehende Ausnahmen zulassen, soweit sie im öffentlichen Interesse dringend nötig werden.
 
-(2a) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates 1. Ausnahmen von den §§ 3, 4, 5 und 6 Absatz 2 sowie von den §§ 9 und 11 für Arbeitnehmer, die besondere Tätigkeiten zur Errichtung, zur Änderung oder zum Betrieb von Bauwerken, künstlichen Inseln oder sonstigen Anlagen auf See (Offshore-Tätigkeiten) durchführen, zulassen und
+(2a) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates
+1. Ausnahmen von den §§ 3, 4, 5 und 6 Absatz 2 sowie von den §§ 9 und 11 für Arbeitnehmer, die besondere Tätigkeiten zur Errichtung, zur Änderung oder zum Betrieb von Bauwerken, künstlichen Inseln oder sonstigen Anlagen auf See (Offshore-Tätigkeiten) durchführen, zulassen und
 2. die zum Schutz der in Nummer 1 genannten Arbeitnehmer sowie der Sonn- und Feiertagsruhe notwendigen Bedingungen bestimmen.
 
 (3) Das Bundesministerium der Verteidigung kann in seinem Geschäftsbereich durch Rechtsverordnung mit Zustimmung des Bundesministeriums für Arbeit und Soziales aus zwingenden Gründen der Verteidigung Arbeitnehmer verpflichten, über die in diesem Gesetz und in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und Tarifverträgen festgelegten Arbeitszeitgrenzen und -beschränkungen hinaus Arbeit zu leisten.
@@ -292,7 +309,8 @@ b) für Bau- und Montagestellen,
 
 ### § 18 - Nichtanwendung des Gesetzes
 
-(1) Dieses Gesetz ist nicht anzuwenden auf 1. leitende Angestellte im Sinne des § 5 Abs. 3 des Betriebsverfassungsgesetzes sowie Chefärzte,
+(1) Dieses Gesetz ist nicht anzuwenden auf
+1. leitende Angestellte im Sinne des § 5 Abs. 3 des Betriebsverfassungsgesetzes sowie Chefärzte,
 2. Leiter von öffentlichen Dienststellen und deren Vertreter sowie Arbeitnehmer im öffentlichen Dienst, die zu selbständigen Entscheidungen in Personalangelegenheiten befugt sind,
 3. Arbeitnehmer, die in häuslicher Gemeinschaft mit den ihnen anvertrauten Personen zusammenleben und sie eigenverantwortlich erziehen, pflegen oder betreuen,
 4. den liturgischen Bereich der Kirchen und der Religionsgemeinschaften.
@@ -323,7 +341,8 @@ Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder von Luftfahrz
 
 (2) Eine Woche im Sinne dieser Vorschriften ist der Zeitraum von Montag 0 Uhr bis Sonntag 24 Uhr.
 
-(3) Abweichend von § 2 Abs. 1 ist keine Arbeitszeit: 1. die Zeit, während derer sich ein Arbeitnehmer am Arbeitsplatz bereithalten muss, um seine Tätigkeit aufzunehmen,
+(3) Abweichend von § 2 Abs. 1 ist keine Arbeitszeit:
+1. die Zeit, während derer sich ein Arbeitnehmer am Arbeitsplatz bereithalten muss, um seine Tätigkeit aufzunehmen,
 2. die Zeit, während derer sich ein Arbeitnehmer bereithalten muss, um seine Tätigkeit auf Anweisung aufnehmen zu können, ohne sich an seinem Arbeitsplatz aufhalten zu müssen;
 3. für Arbeitnehmer, die sich beim Fahren abwechseln, die während der Fahrt neben dem Fahrer oder in einer Schlafkabine verbrachte Zeit. Für die Zeiten nach Satz 1 Nr. 1 und 2 gilt dies nur, wenn der Zeitraum und dessen voraussichtliche Dauer im Voraus, spätestens unmittelbar vor Beginn des betreffenden Zeitraums bekannt ist. Die in Satz 1 genannten Zeiten sind keine Ruhezeiten. Die in Satz 1 Nr. 1 und 2 genannten Zeiten sind keine Ruhepausen.
 
@@ -331,7 +350,8 @@ Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder von Luftfahrz
 
 (5) Die Ruhezeiten bestimmen sich nach den Vorschriften der Europäischen Gemeinschaften für Kraftfahrer und Beifahrer sowie nach dem AETR. Dies gilt auch für Auszubildende und Praktikanten.
 
-(6) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden, 1. nähere Einzelheiten zu den in Absatz 3 Satz 1 Nr. 1, 2 und Satz 2 genannten Voraussetzungen zu regeln,
+(6) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden,
+1. nähere Einzelheiten zu den in Absatz 3 Satz 1 Nr. 1, 2 und Satz 2 genannten Voraussetzungen zu regeln,
 2. abweichend von Absatz 4 sowie den §§ 3 und 6 Abs. 2 die Arbeitszeit festzulegen, wenn objektive, technische oder arbeitszeitorganisatorische Gründe vorliegen. Dabei darf die Arbeitszeit 48 Stunden wöchentlich im Durchschnitt von sechs Kalendermonaten nicht überschreiten. § 7 Abs. 1 Nr. 2 und Abs. 2a gilt nicht. § 7 Abs. 3 gilt entsprechend.
 
 (7) Der Arbeitgeber ist verpflichtet, die Arbeitszeit der Arbeitnehmer aufzuzeichnen. Die Aufzeichnungen sind mindestens zwei Jahre aufzubewahren. Der Arbeitgeber hat dem Arbeitnehmer auf Verlangen eine Kopie der Aufzeichnungen seiner Arbeitszeit auszuhändigen.
@@ -343,7 +363,8 @@ Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder von Luftfahrz
 
 ### § 22 - Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig 1. entgegen §§ 3, 6 Abs. 2 oder § 21a Abs. 4, jeweils auch in Verbindung mit § 11 Abs. 2, einen Arbeitnehmer über die Grenzen der Arbeitszeit hinaus beschäftigt,
+(1) Ordnungswidrig handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
+1. entgegen §§ 3, 6 Abs. 2 oder § 21a Abs. 4, jeweils auch in Verbindung mit § 11 Abs. 2, einen Arbeitnehmer über die Grenzen der Arbeitszeit hinaus beschäftigt,
 2. entgegen § 4 Ruhepausen nicht, nicht mit der vorgeschriebenen Mindestdauer oder nicht rechtzeitig gewährt,
 3. entgegen § 5 Abs. 1 die Mindestruhezeit nicht gewährt oder entgegen § 5 Abs. 2 die Verkürzung der Ruhezeit durch Verlängerung einer anderen Ruhezeit nicht oder nicht rechtzeitig ausgleicht,
 4. einer Rechtsverordnung nach § 8 Satz 1, § 13 Abs. 1 oder 2, § 15 Absatz 2a Nummer 2, § 21 Absatz 1 oder § 24 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
@@ -358,7 +379,8 @@ Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder von Luftfahrz
 
 ### § 23 - Strafvorschriften
 
-(1) Wer eine der in § 22 Abs. 1 Nr. 1 bis 3, 5 bis 7 bezeichneten Handlungen 1. vorsätzlich begeht und dadurch Gesundheit oder Arbeitskraft eines Arbeitnehmers gefährdet oder
+(1) Wer eine der in § 22 Abs. 1 Nr. 1 bis 3, 5 bis 7 bezeichneten Handlungen
+1. vorsätzlich begeht und dadurch Gesundheit oder Arbeitskraft eines Arbeitnehmers gefährdet oder
 2. beharrlich wiederholt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (2) Wer in den Fällen des Absatzes 1 Nr. 1 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 180 Tagessätzen bestraft.
