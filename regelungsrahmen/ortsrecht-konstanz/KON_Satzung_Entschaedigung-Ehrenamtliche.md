@@ -1,0 +1,169 @@
+---
+titel: Satzung über die Entschädigung ehrenamtlich tätiger EinwohnerInnen der Stadt Konstanz
+rechtsnatur: Satzung
+ebene: gemeinde
+saule: regelungsrahmen
+land_ars: "08"
+kreis_ars: "08335"
+gemeinde_ars: "083355004043"
+land: Baden-Württemberg
+kreis: Konstanz
+gemeinde: Konstanz
+erlassen_am: 2000-02-24
+geaendert_am: 2025-03-20
+gueltig_ab: 2025-03-31
+beschreibung: "Satzung der Stadt Konstanz über Aufwandsentschädigungen und Sitzungsgelder für Stadträte, Ortschaftsräte und andere ehrenamtlich tätige EinwohnerInnen sowie Reisekostenregelungen und Entschädigungen für ehrenamtliche Ortsvorsteher."
+stand: 2025-03-20
+status: published
+projekte:
+  - amtsschimmel
+---
+
+## Inhaltsverzeichnis
+
+- § 1 Grundsatz
+- § 2 Aufwandsentschädigung
+- § 3 Sitzungsgeld
+- § 4 Reisekosten
+- § 6 Inkrafttreten
+
+I Allgemeine Verwaltung
+
+I/3 Satzung über die Entschädigung ehrenamtlich tätiger
+EinwohnerInnen
+
+Aufgrund von § 4 in Verbindung mit § 19 der Gemeindeordnung für Baden-Württem-
+berg in der derzeit geltenden Fassung hat der Gemeinderat der Stadt Konstanz in
+seiner Sitzung vom 24.02.2000 die nachfolgende Neufassung der Satzung der Gro-
+ßen Kreisstadt Konstanz, geändert am 24.7.2003, am 23.04.2009, am 28.02.2013,
+am 24.07.2014, am 17.03.2016, am 21.04.2016, am 23.03.2017, am 19.12.2017, am
+02.03.2023 und zuletzt geändert am 20.03.2025 über die Entschädigung ehrenamt-
+lich tätiger Einwohner/innen beschlossen:
+
+### § 1 Grundsatz
+
+Ehrenamtlich tätige Einwohner/innen erhalten Ersatz ihrer Auslagen und ihres Ver-
+dienstausfalls nach Maßgabe der nachstehenden Vorschriften.
+
+### § 2 Aufwandsentschädigung
+
+(1) Die Stadträte/innen erhalten eine monatliche Aufwandsentschädigung von 700,00
+Euro. Für die Dauer der tatsächlichen Teilnahme an den Sitzungen des Gemeinderates
+und seiner Ausschüsse und Beiräte werden zusätzlich auf Antrag und gegen Nachweis
+tatsächlich entstandene Aufwendungen für die entgeltliche Betreuung von Kindern un-
+ter 14 Jahren oder pflegebedürftiger Angehöriger bis zu einer maximalen Höhe von
+13,00 €/Stunde erstattet. Wer Angehöriger ist, bestimmt sich in entsprechender An-
+wendung des § 20 Abs. 5 des Verwaltungsverfahrensgesetzes für Baden-Württemberg.
+Für die Bemessung der zeitlichen Inanspruchnahme ist die Dauer der Anwesenheit des
+jeweiligen Gemeinderatsmitglieds bei der Sitzung maßgebend. Der Zeit der Inanspruch-
+nahme wird maximal je eine halbe Stunde vor Beginn der Sitzung und nach ihrem Ende
+hinzugerechnet.
+
+(2) Fraktionsvorsitzende bzw. Fraktionssprecher/innen erhalten für die Dauer der Aus-
+übung dieser Tätigkeit zusätzlich eine monatliche Aufwandsentschädigung in Höhe von
+200,00 Euro.
+
+(3) An Fraktionen und Gruppen werden gegen Nachweis entstandene Personalkosten
+bis zu 162,50 Euro monatlich pro Fraktions- bzw. Gruppenmitglied gewährt. Liegt der
+sich nach Satz 1 ergebende Betrag einer Fraktion oder Gruppe unter 722,80 Euro und
+weist die Fraktion oder Gruppe einen höheren tatsächlichen Bedarf nach, so werden
+anstelle des sich aus der Mitgliederzahl ergebenden Betrages gegen Nachweis monat-
+lich bis maximal 722,80 Euro gewährt. Zusätzlich werden die tatsächlich entstandenen
+Kosten für die Abrechnung der Fraktionsassistenten/innen durch die Stadt Konstanz
+bei entsprechendem Nachweis übernommen.
+
+### § 3 Sitzungsgeld
+
+(1) Ortschaftsräte/innen erhalten ein Sitzungsgeld von 70,00 EURO.
+
+Für die Dauer der tatsächlichen Teilnahme an den Sitzungen des Ortschaftsrates wer-
+den zusätzlich auf Antrag und gegen Nachweis tatsächlich entstandene Aufwendungen
+für die entgeltliche Betreuung von Kindern unter 14 Jahren oder pflegebedürftiger
+
+Angehöriger bis zu einer maximalen Höhe von 13,00 €/Stunde erstattet. Wer Angehöri-
+ger ist, bestimmt sich in entsprechender Anwendung des § 20 Abs. 5 des Verwaltungs-
+verfahrensgesetzes für Baden-Württemberg. Für die Bemessung der zeitlichen Inan-
+spruchnahme ist die Dauer der Anwesenheit des jeweiligen Ortschaftsratsmitglieds bei
+der Sitzung maßgebend. Der Zeit der Inanspruchnahme wird maximal je eine halbe
+Stunde vor Beginn der Sitzung und nach ihrem Ende hinzugerechnet.
+
+(2) Sonstige ehrenamtlich tätige Einwohner/innen, die an Sitzungen städtischer Aus-
+schüsse teilnehmen, erhalten ein Sitzungsgeld von 57,00 EURO.
+
+Für die Dauer der tatsächlichen Teilnahme an den Sitzungen des Gemeinderats und
+seiner Ausschüsse und Beiräte werden zusätzlich auf Antrag und gegen Nachweis tat-
+sächlich entstandene Aufwendungen für die entgeltliche Betreuung von Kindern unter
+14 Jahren oder pflegebedürftiger Angehöriger bis zu einer maximalen Höhe von
+13,00 €/Stunde erstattet. Wer Angehöriger ist, bestimmt sich in entsprechender An-
+wendung des § 20 Abs. 5 des Verwaltungsverfahrens-gesetzes für Baden-Württem-
+berg. Für die Bemessung der zeitlichen Inanspruchnahme ist die Dauer der Anwesen-
+heit des jeweiligen ehrenamtlich Tätigen bei der Sitzung maßgebend. Der Zeit der Inan-
+spruchnahme wird maximal je eine halbe Stunde vor Beginn der Sitzung und nach ihrem
+Ende hinzugerechnet.
+
+(3) Die Entschädigung der Gutachter für die Ermittlung von Grundstückswerten richtet
+sich nach der Gutachterausschussverordnung des Landes Baden-Württemberg vom
+11.12.1989.
+
+### § 4 Reisekosten
+
+Bei Dienstverrichtungen außerhalb der Stadt Konstanz erhalten die Stadträte/innen und
+die anderen ehrenamtlich tätigen Einwohner/innen neben der Entschädigung nach den
+§§ 2 bis 4 dieser Satzung Reisekostenvergütungen gem. den Vorschriften des Landes-
+reisekostengesetzes. Bei Benutzung öffentlicher Verkehrsmittel erfolgt die Fahrtkos-
+tenerstattung bis zu den Sätzen der 1. Klasse.
+
+
+(1) Die ehrenamtlichen Ortsvorsteher der Stadtteile Dettingen-Wallhausen, Dingelsdorf
+und Litzelstetten erhalten eine monatliche Aufwandsentschädigung. Diese wird auf
+Grundlage des § 9 des Gesetzes über die Aufwandsentschädigung der ehrenamtlichen
+Bürgermeister und der ehrenamtlichen Ortsvorsteher in Verbindung mit der jeweils gül-
+tigen Verordnung des Innenministeriums über die Erhöhung der Aufwandsentschädi-
+gung der ehrenamtlichen Bürgermeister und der Ortsvorsteher wie folgt ermittelt:
+
+a) Die Aufwandsentschädigung für den Ortsvorsteher Dettingen-Wallhausen beträgt 60
+v.H. des vorgesehenen Höchstbetrages des Rahmensatzes der Aufwandsentschädi-
+2.000 Einwohner.
+
+b) Die Aufwandsentschädigung für den Ortsvorsteher Dingelsdorf beträgt 35 v.H. des
+vorgesehenen Höchstbetrages des Rahmensatzes der Aufwandsentschädigung eines
+ehrenamtlichen Bürgermeisters einer Gemeinde von mehr als 1.000 bis 2.000 Einwoh-
+ner.
+
+
+c) Die Aufwandsentschädigung für den Ortsvorsteher Litzelstetten beträgt 50 v.H. des
+vorgesehenen Höchstbetrages des Rahmensatzes der Aufwandsentschädigung eines
+ehrenamtlichen Bürgermeisters einer Gemeinde von mehr als 1.000 bis 2.000 Einwoh-
+ner.
+
+(2) Die Aufwandsentschädigung entfällt, wenn der Ortsvorsteher ununterbrochen län-
+ger als 3 Monate sein Amt tatsächlich nicht ausübt, für die über 3 Monate hinausge-
+
+(3) Neben der Aufwandsentschädigung erhalten die Ortsvorsteher für Dienstverrich-
+tungen außerhalb der Gemeindegrenze Reisekosten nach den für die Beamten der
+Stadt Konstanz geltenden Vorschriften. Es gilt das Landesreisekostengesetz.
+
+(4) Die jeweilige Stellvertretung der/des ehrenamtlichen OrtsvorsteherIn der Stadtteile
+Dettingen-Wallhausen, Dingelsdorf und Litzelstetten erhält im Falle des vorzeitigen
+schäfte, maximal bis zur Wahl der/des neuen OrtsvorsteherIn durch den Gemeinderat
+der Stadt Konstanz, eine erhöhte Aufwandsentschädigung nach den Bestimmungen
+
+### § 6 Inkrafttreten
+
+Die Satzung über die Festsetzung der Aufwandsentschädigung des Ortsvorstehers des
+Stadtteils Dettingen-Wallhausen vom 30.04.1984, die Satzung über die Festsetzung
+05.03.1981 und die Satzung über die Festsetzung der Aufwandsentschädigung des
+Ortsvorstehers des Stadtteils Litzelstetten vom 05.03.1981 werden rückwirkend zum
+01.02.2016 aufgehoben.
+
+Die Satzung über die Entschädigung ehrenamtlich tätiger EinwohnerInnen tritt am Tag
+nach ihrer öffentlichen Bekanntmachung in Kraft.
+
+
+
+
+
+
+
+
+Öffentliche Bekanntmachung auf der Homepage der Stadt Konstanz am 31.03.2025
