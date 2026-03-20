@@ -1,5 +1,6 @@
 ---
-titel: Geschäftsordnung des Beirates für Architektur und Stadtgestaltung der Stadt Konstanz (Gestaltungsbeirat)
+titel: "I 18 Geschäftsordnung des Beirates für Architektur und Stadtgestaltung der Stadt Konstanz (Gestaltungsbeirat - GBR)"
+rechtsnatur: Geschäftsordnung
 ebene: gemeinde
 saule: regelungsrahmen
 land_ars: "08"
@@ -9,11 +10,11 @@ land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2008-05-29
-geaendert_am: 2019-09-26
-quelle: Geschäftsordnung des Beirates für Architektur und Stadtgestaltung der Stadt Konstanz (Gestaltungsbeirat), beschlossen am 29.05.2008, zuletzt ergänzt durch Beschluss des Gemeinderats vom 26.09.2019
-gueltig_ab: 2019-09-26
-beschreibung: "Regelt Zusammensetzung, Zuständigkeit und Verfahren des Beirates für Architektur und Stadtgestaltung (Gestaltungsbeirat) der Stadt Konstanz als beratendes Sachverständigengremium gem. § 47 Abs. 2 LBO. Vier Sachverständige, je ein Fraktionsvertreter als Beisitzer, 2-jährige Beiratsperiode. Begutachtung von Bauvorhaben mit städtebaulicher Bedeutung."
+quelle: ""
+gueltig_ab: 2008-05-29
 stand: 2019-09-26
+url: "https://www.konstanz.de/site/Konstanz/get/documents_E797402948/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_18%20Gesch%C3%A4ftsordnung%20des%20Beirates%20f%C3%BCr%20Architektur%20und%20Stadtgestaltung%20der%20Stadt%20Konstanz%20%28Gestaltungsbeirat%20-%20GBR%29.pdf"
+beschreibung: "Geschäftsordnung des unabhängigen Sachverständigengremiums für Architektur und Stadtgestaltung (Gestaltungsbeirat), das die Stadt Konstanz bei Bauvorhaben von städtebaulicher Bedeutung berät."
 status: published
 projekte:
   - amtsschimmel
@@ -22,25 +23,25 @@ projekte:
 ## Inhaltsverzeichnis
 
 - Vorbemerkung
-- § 1 - Aufgabenstellung
-- § 2 - Zusammensetzung, Dauer, Bestellung
-- § 3 - Geschäftsstelle
-- § 4 - Zuständigkeit des Beirates
-- § 5 - Geschäftsgang
-- § 6 - Beschlussfähigkeit
-- § 7 - Beiratssitzung
-- § 8 - Wiedervorlage
-- § 9 - Geheimhaltung
+- § 1 Aufgabenstellung
+- § 2 Zusammensetzung, Dauer, Bestellung
+- § 3 Geschäftsstelle
+- § 4 Zuständigkeit des Beirates
+- § 5 Geschäftsgang
+- § 6 Beschlussfähigkeit
+- § 7 Beiratssitzung
+- § 8 Wiedervorlage
+- § 9 Geheimhaltung
 
 ### Vorbemerkung
 
-Der Beirat für Architektur und Stadtgestaltung (GBR) leistet einen Beitrag zur positiven baulichen Entwicklung der Stadt Konstanz einschließlich ihrer Stadtteile. Der GBR ist ein Gremium von Sachverständigen im Sinne von § 47 Abs. 2 LBO. Das Hauptziel ist, eine nachhaltige, d. h. auf breiter Basis angelegte Steigerung der Planungs- und Baukultur zu erreichen und städtebaulichen bzw. architektonischen Fehlentwicklungen vorzubeugen. Die Bezugsebene ist die Gesamtstadt mit ihren differenzierten Quartieren und Freiräumen. Unter Berücksichtigung des reichen historischen Baubestandes eines im Zweiten Weltkrieg unzerstörten Stadtgebildes ist der Beirat in besonderem Maße der städtebaulichen Denkmalpflege, d. h. der Bewahrung und behutsamen Weiterentwicklung der historisch gewachsenen Stadtstrukturen und des historischen Baubestandes verpflichtet. Unter Berücksichtigung der herausgehobenen naturräumlichen Lage der Stadt und ihrer Stadtteile ist der Schutz des Landschaftsbildes eine weitere grundlegende Aufgabe.
+Der Beirat für Architektur und Stadtgestaltung (GBR) leistet einen Beitrag zur positiven baulichen Entwicklung der Stadt Konstanz einschl. ihrer Stadtteile. Der GBR ist ein Gremium von Sachverständigen im Sinne von § 47 Abs. 2 LBO. Das Hauptziel ist, eine nachhaltige, d. h. auf breiter Basis angelegte Steigerung der Planungs- und Baukultur zu erreichen und städtebaulichen bzw. architektonischen Fehlentwicklungen vorzubeugen. Die Bezugsebene ist die Gesamtstadt mit ihren differenzierten Quartieren und Freiräumen. Unter Berücksichtigung des reichen historischen Baubestandes eines im Zweiten Weltkrieg unzerstörten Stadtgebildes ist der Beirat in besonderem Maße der städtebaulichen Denkmalpflege, d. h. der Bewahrung und behutsamen Weiterentwicklung der historisch gewachsenen Stadtstrukturen und des historischen Baubestandes verpflichtet. Unter Berücksichtigung der herausgehobenen naturräumlichen Lage der Stadt und ihrer Stadtteile ist der Schutz des Landschaftsbildes eine weitere grundlegende Aufgabe.
 
-Der Beirat für Architektur und Stadtgestaltung unterstützt als unabhängiges Sachverständigengremium die Stadt Konstanz, vertreten durch das Baudezernat und den Gemeinderat. Er begutachtet vornehmlich Vorhaben von städtebaulicher Bedeutung im Hinblick auf ihre Auswirkungen auf das Stadt- und Landschaftsbild.
+Der Beirat für Architektur und Stadtgestaltung unterstützt als unabhängiges Sachverständigengremium die Stadt Konstanz, vertreten durch das Baudezernat und den Gemeinderat. Er begutachtet vornehmlich Vorhaben von städtebaulicher Bedeutung im Hinblick auf ihre Auswirkungen auf das Stadt- und Landschaftsbild. Der Gemeinderat beschließt für die Tätigkeit des Beirates für Stadtgestaltung der Stadt Konstanz folgende Geschäftsordnung:
 
 ### § 1 Aufgabenstellung
 
-Der Beirat für Architektur und Stadtgestaltung begutachtet vornehmlich ihm seitens der Verwaltung vorgelegte Bauvorhaben im Hinblick auf ihre städtebauliche, landschaftsplanerische und architektonische Qualität unter Berücksichtigung des Stadt- und Landschaftsbildes, der städtebaulichen Denkmalpflege und der Nachhaltigkeit. Gegebenenfalls benennt er Hinweise und Kriterien zur Erreichung dieser Ziele.
+Der Beirat für Architektur und Stadtgestaltung begutachtet vornehmlich ihm seitens der Verwaltung vorgelegte Bauvorhaben im Hinblick auf ihre städtebauliche, landschaftsplanerische und architektonische Qualität unter Berücksichtigung des Stadt- und Landschaftsbildes, der städtebaulichen Denkmalpflege und der Nachhaltigkeit. Gegebenfalls benennt er Hinweise und Kriterien zur Erreichung dieser Ziele.
 
 ### § 2 Zusammensetzung, Dauer, Bestellung
 
@@ -80,7 +81,7 @@ Die Geschäftsstelle liegt beim Baurechts- und Denkmalamt.
 
 ### § 6 Beschlussfähigkeit
 
-(1) Der GBR ist beschlussfähig, wenn sämtliche Sachverständigen und Beisitzer, bei Vorhaben in den Stadtteilen auch der betreffende Ortsvorsteher/die betreffende Ortsvorsteherin, ordnungsgemäß geladen sind sowie die Mehrheit jeweils der Sachverständigen und jeweils der Beisitzer, darunter der/die Vorsitzende oder der/die Stellvertreter/in, anwesend und stimmberechtigt ist.
+(1) Der GBR ist beschlussfähig, wenn sämtliche Sachverständigen und Beisitzer, darunter der/die Vorsitzende oder der/die Stellvertreter/in, anwesend und stimmberechtigt sind.
 
 (2) Die Befangenheitsvorschriften der Gemeindeordnung für Baden-Württemberg in der jeweils gültigen Fassung gelten entsprechend. Ist ein Mitglied von der Beratung und Beschlussfassung ausgeschlossen, so hat es dies vor Beginn der Beratung des entsprechenden Tagesordnungspunktes dem/der Vorsitzenden unter Angabe der Gründe mitzuteilen und anschließend den Sitzungsraum zu verlassen. In Zweifelsfällen entscheidet der GBR über die Befangenheit. Das betroffene Mitglied wirkt hieran nicht mit.
 
@@ -88,12 +89,12 @@ Die Geschäftsstelle liegt beim Baurechts- und Denkmalamt.
 
 (1) In den Sitzungen des GBR werden die Vorhaben öffentlich vorgestellt und diskutiert, sofern die Bauherren nicht widersprechen.
 
-(2) Zu den öffentlichen Teilen der Sitzungen des GBR werden bei Bedarf Gäste – wie Vertreter/innen der Hochschulen, der Architektenkammer, der Handwerkskammer, des Einzelhandelsverbandes u. a. – eingeladen. An den nicht-öffentlichen Teilen der Sitzungen können teilnehmen:
+(2) Zu den öffentlichen Teilen der Sitzungen des GBR werden bei Bedarf Gäste – wie Vertreter/innen der Hochschulen, der Architektenkammer, der Handwerkskammer, des Einzelhandelsverbandes u.a. – eingeladen.
 
-- der/die Oberbürgermeister/in
+An den nicht-öffentlichen Teilen der Sitzungen können teilnehmen:
+
 - der/die Baudezernent/in
 - je ein offizieller Vertreter/eine offizielle Vertreterin der Fraktionen des Gemeinderats als Beisitzer/in sowie weitere Gemeinderäte ohne Stimm- und Rederecht
-- die Ortsvorsteher/innen sowie weitere Vertreter/innen des Ortschaftsrates bei Vorhaben in den Ortsteilen
 - Mitarbeiter/innen des Baudezernats nach Entscheidung durch den Baudezernenten/die Baudezernentin
 - Sonderfachleute der Behörden (z. B. Denkmalpflege) auf Einladung der Geschäftsstelle
 

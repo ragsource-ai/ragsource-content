@@ -1,5 +1,6 @@
 ---
-titel: Richtlinien über Aufgaben und Rechtsstellung der/des Behindertenbeauftragten der Stadt Konstanz
+titel: "I 17 Richtlinien über Aufgaben und Rechtsstellung der des Behindertenbeauftragten der Stadt Konstanz"
+rechtsnatur: Richtlinien
 ebene: gemeinde
 saule: regelungsrahmen
 land_ars: "08"
@@ -9,11 +10,10 @@ land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2015-03-26
-geaendert_am: 2016-07-21
-quelle: Richtlinien über Aufgaben und Rechtsstellung der/des Behindertenbeauftragten der Stadt Konstanz, beschlossen am 26.03.2015, geändert durch Gemeinderatsbeschluss vom 21.07.2016, rückwirkend in Kraft getreten zum 01.02.2016
 gueltig_ab: 2016-02-01
-beschreibung: "Regelt Aufgaben, Beteiligungsrechte und Rechtsstellung des/der Behindertenbeauftragten der Stadt Konstanz auf Grundlage der UN-Behindertenrechtskonvention. Ehrenamtliche Tätigkeit mit monatlicher Aufwandsentschädigung von 700 €. Regelt zudem den beratenden Beirat für Menschen mit Behinderung (Zusammensetzung, Amtszeit, Rechtsstellung)."
 stand: 2016-07-21
+url: "https://www.konstanz.de/site/Konstanz/get/documents_E911193217/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_17%20Richtlinien%20%C3%BCber%20Aufgaben%20und%20Rechtsstellung%20der_des%20Behindertenbeauftragte_n%20der%20Stadt%20Konstanz.pdf"
+beschreibung: "Richtlinien der Stadt Konstanz über Organisation, Aufgaben, Beteiligungsrechte und Rechtsstellung der/des ehrenamtlichen Behindertenbeauftragten sowie des Beirates für Menschen mit Behinderung."
 status: published
 projekte:
   - amtsschimmel
@@ -21,51 +21,50 @@ projekte:
 
 ## Inhaltsverzeichnis
 
-- Abschnitt I - Allgemeines
-  - § 1 - Organisation und Zielsetzung
-- Abschnitt II - Aufgaben und Beteiligungsrechte
-  - § 2 - Aufgaben
-  - § 3 - Beteiligung
-  - § 4 - Planungen
-  - § 5 - Rederecht
-  - § 6 - Zusammenarbeit, Zuordnung
-- Abschnitt III - Rechtsstellung der Behindertenbeauftragten
-  - § 7 - Rechtsstellung
-  - § 8 - Bestellung
-  - § 9 - Bestellungsvoraussetzungen
-  - § 10 - Unabhängigkeit
-  - § 11 - Entschädigung
-  - § 12 - Verschwiegenheitspflicht
-  - § 13 - Aufgabenverteilung
-  - § 14 - Stellvertretung
-- Abschnitt IV - Beirat für Menschen mit Behinderung
-  - § 15 - Aufgabe
-  - § 16 - Zusammensetzung
-  - § 17 - Bestellungsvoraussetzung
-  - § 18 - Amtszeit
-  - § 19 - Rechtsstellung
-  - § 20 - Verschwiegenheitspflicht und Sorgfaltspflicht
-  - § 21 - Vorsitz
-  - § 22 - Sitzungsraum
-- Abschnitt V - Berichterstattung
-  - § 23 - Jahresbericht
-  - § 24 - Internetauftritt
-- Abschnitt VI - Schlussbestimmung
-  - § 25 - Inkrafttreten
+- (Rechtsgrundlage)
+- § 1 Organisation und Zielsetzung
+- § 2 Aufgaben
+- § 3 Beteiligung
+- § 4 Planungen
+- § 5 Rederecht
+- § 6 Zusammenarbeit, Zuordnung
+- § 7 Rechtsstellung
+- § 8 Bestellung
+- § 9 Bestellungsvoraussetzungen
+- § 10 Unabhängigkeit
+- § 11 Entschädigung
+- § 12 Verschwiegenheitspflicht
+- § 13 Aufgabenverteilung
+- § 14 Stellvertretung
+- § 15 Aufgabe
+- § 16 Zusammensetzung
+- § 17 Bestellungsvoraussetzung
+- § 18 Amtszeit
+- § 19 Rechtsstellung
+- § 20 Verschwiegenheitspflicht und Sorgfaltspflicht
+- § 21 Vorsitz
+- § 22 Sitzungsraum
+- § 23 Jahresbericht
+- § 24 Internetauftritt
+- § 25 Inkrafttreten
 
-## Abschnitt I Allgemeines
+### (Rechtsgrundlage)
+
+Der Gemeinderat hat in der Sitzung am 26.03.2015 eine Neufassung der Richtlinie über Aufgabe und Rechtsstellung des/der Behindertenbeauftragten der Stadt Konstanz auf Grundlage der UN-Behindertenrechtskonvention beschlossen.
+
+Der Gemeinderat hat in seiner Sitzung am 21.07.2016 die Richtlinien wie folgt geändert:
+
+Zur Vereinfachung der Lesbarkeit wird nachfolgend die männliche Form verwendet.
 
 ### § 1 Organisation und Zielsetzung
 
 (1) Zur verbesserten Wahrnehmung der Belange von Menschen mit Behinderung und dem Ziel, Benachteiligungen zu beseitigen und zu verhindern, bestellt die Stadt Konstanz einen Beauftragten für Menschen mit Behinderung (Behindertenbeauftragter).
 
-(2) Der Beauftragte richtet sich zur fachlichen Unterstützung einen Beirat (Beirat für Menschen mit Behinderung) ein, welcher aus Bürgern mit Fachkenntnissen/Erfahrungen im Bereich Behinderung/Inklusion/Soziales bestehen sollte.
+(2) Der Beauftragte richtet sich zur fachlichen Unterstützung einen Beirat (Beirat für Menschen mit Behinderung) ein, welcher aus Bürgern mit Fachkenntnissen / Erfahrungen im Bereich Behinderung / Inklusion / Soziales bestehen sollte.
 
-(3) Der Behindertenbeauftragte wirkt als Bindeglied zwischen Gemeinderat und der Verwaltung, um die Schaffung gleichwertiger Lebensbedingungen für Menschen mit Behinderung sowie die Förderung der gleichberechtigten Teilhabe von Menschen mit Behinderung am Leben in der Gesellschaft zu gewährleisten.
+(3) Der Behindertenbeauftragte wirkt als Bindeglied zwischen Gemeinderat und der Verwaltung um die Schaffung gleichwertiger Lebensbedingungen für Menschen mit Behinderung sowie die Förderung der gleichberechtigten Teilhabe von Menschen mit Behinderung am Leben in der Gesellschaft zu gewährleisten.
 
 (4) Ferner ist der Behindertenbeauftragte Ansprechpartner und Mittler zwischen den Interessen behinderter Menschen, den Behindertenverbänden und -organisationen, den Rehabilitationsträgern, der öffentlichen Verwaltung und der Politik.
-
-## Abschnitt II Aufgaben und Beteiligungsrechte
 
 ### § 2 Aufgaben
 
@@ -75,7 +74,9 @@ projekte:
 
 (3) Er berät den Gemeinderat und die Verwaltung bei der Umsetzung des Landesbehindertengleichstellungsgesetzes und entwickelt Lösungskonzepte unter Einbindung und Unterstützung der Verwaltung bei Problemen.
 
-(4) Er wirkt darauf hin, die besonderen Benachteiligungen, denen sich behinderte Frauen ausgesetzt sehen, zu beseitigen. Der Behindertenbeauftragte muss daher im Rahmen seiner Arbeit darauf achten, ob bei bestimmten Fragestellungen besondere Maßnahmen erforderlich sind, um die Gleichberechtigung behinderter Frauen sicherzustellen. Diese Aufgabe sollte er in enger Kooperation mit den Interessenvertretungen behinderter Frauen durchführen.
+(4) Er wirkt darauf hin, die besonderen Benachteiligungen, denen sich behinderte Frauen ausgesetzt sehen, zu beseitigen.
+
+Der Behindertenbeauftragte muss daher im Rahmen seiner Arbeit darauf achten, ob bei bestimmten Fragestellungen besondere Maßnahmen erforderlich sind, um die Gleichberechtigung behinderter Frauen sicherzustellen. Diese Aufgabe sollte er in enger Kooperation mit den Interessenvertretungen behinderter Frauen durchführen.
 
 ### § 3 Beteiligung
 
@@ -83,9 +84,9 @@ Bei allen wichtigen kommunalen Planungen und Vorhaben, die die Belange von Mensc
 
 ### § 4 Planungen
 
-(1) Zur Sicherung und Verbesserung der Barrierefreiheit im Sinne von § 3 des Landesbehindertengleichstellungsgesetzes ist den Behindertenbeauftragten von den Dienststellen der Stadtverwaltung frühzeitig – in der Regel bereits in der Vorplanungsphase – die Möglichkeit zu geben, bei baulichen Veränderungen in kommunalen öffentlichen Einrichtungen und Gebäuden, sowie bei Neubauvorhaben, im ÖPNV und bei der Planung wichtiger Veranstaltungen Stellung zu nehmen. Bei anderen öffentlich zugänglichen Gebäuden, welche die Belange von Menschen mit Behinderung berühren, wird der Behindertenbeauftragte beteiligt.
+(1) Zur Sicherung und Verbesserung der Barrierefreiheit im Sinne von § 3 des Landesbehindertengleichstellungsgesetzes ist den Behindertenbeauftragten von den Dienststellen der Stadtverwaltung frühzeitig - in der Regel bereits in der Vorplanungsphase - die Möglichkeit zu geben, bei baulichen Veränderungen in kommunalen öffentlichen Einrichtungen und Gebäuden, sowie bei Neubauvorhaben, im ÖPNV und bei der Planung wichtiger Veranstaltungen Stellung zu nehmen. Bei anderen öffentlich zugänglichen Gebäuden, welche die Belange von Menschen mit Behinderung berühren, wird der Behindertenbeauftragte beteiligt.
 
-(2) Absatz 1 Satz 2 gilt sinngemäß auch für private Vorhaben, auf die die Vorschriften über die Barrierefreiheit Anwendung finden.
+(2) Abs. 1 Satz 2 gilt sinngemäß auch für private Vorhaben, auf die die Vorschriften über die Barrierefreiheit Anwendung finden.
 
 ### § 5 Rederecht
 
@@ -93,11 +94,9 @@ Der Behindertenbeauftragte hat bei Angelegenheiten, welche die Belange von Mensc
 
 ### § 6 Zusammenarbeit, Zuordnung
 
-(1) Der Behindertenbeauftragte und die Stadtverwaltung arbeiten eng und vertrauensvoll zusammen. Verwaltung und städtische Einrichtungen unterstützen den Beauftragten bei der Wahrnehmung seiner Aufgaben.
+(1) Der Behindertenbeauftragte und die Stadtverwaltung arbeiten eng und vertrauensvoll zusammen. Verwaltung und städt. Einrichtungen unterstützen den Beauftragten bei der Wahrnehmung seiner Aufgaben.
 
 (2) Der Behindertenbeauftragte ist dem Dezernat III zugeordnet.
-
-## Abschnitt III Rechtsstellung der Behindertenbeauftragten
 
 ### § 7 Rechtsstellung
 
@@ -119,13 +118,17 @@ In der Wahrnehmung des kommunalen Ehrenamtes arbeitet der Behindertenbeauftragte
 
 ### § 11 Entschädigung
 
-(1) Für die Ausübung der ehrenamtlichen Tätigkeit erhält der Behindertenbeauftragte eine monatliche Aufwandsentschädigung von 700,00 €. Die Pauschale deckt alle üblicherweise entstehenden Kosten wie Büromaterial, Porti, Telefon, Kosten der An- und Abfahrt etc. ab. Die Infrastruktur der Stadtverwaltung Konstanz kann hierfür genutzt werden.
+(1) Für die Ausübung der ehrenamtlichen Tätigkeit erhält der Behindertenbeauftragte eine monatliche Aufwandsentschädigung von 700,00 €. Die Pauschale deckt alle üblicherweise entstehenden Kosten wie Büromaterial, Porto, Telefon, Kosten der An- und Abfahrt etc. ab. Die Infrastruktur der Stadtverwaltung Konstanz kann hierfür genutzt werden.
 
-(2) Darüber hinausgehende Aufwendungen wie z. B. die Teilnahme an Fachtagungen und Fortbildungen werden gegen Nachweis abgegolten und bedürfen der vorherigen Genehmigung der Stadt. Die jährliche Summe wird auf maximal 1.500,00 € begrenzt.
+(2) Darüber hinaus gehende Aufwendungen wie z.B. die Teilnahme an Fachtagungen, Fortbildungen werden gegen Nachweis abgegolten und bedürfen der vorherigen Genehmigung der Stadt. Die jährliche Summe wird auf max. 1.500,00 € begrenzt.
 
 ### § 12 Verschwiegenheitspflicht
 
-Der Behindertenbeauftragte hat während und nach Beendigung seiner Tätigkeit über die ihm bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Der Behindertenbeauftragte darf während und nach Beendigung seiner Tätigkeit über Angelegenheiten, die der Verschwiegenheit unterliegen, ohne Genehmigung des Oberbürgermeisters weder vor Gericht noch außergerichtlich aussagen oder Erklärungen abgeben. Der Behindertenbeauftragte hat die jeweils geltenden Datenschutzvorschriften zu beachten.
+Der Behindertenbeauftragte hat während und nach Beendigung seiner Tätigkeit über die ihm bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
+
+Der Behindertenbeauftragte darf während und nach Beendigung seiner Tätigkeit über Angelegenheiten die der Verschwiegenheit unterliegen ohne Genehmigung des Oberbürgermeisters weder vor Gericht noch außergerichtlich aussagen oder Erklärungen abgeben.
+
+Der Behindertenbeauftragte hat die jeweils geltenden Datenschutzvorschriften zu beachten.
 
 ### § 13 Aufgabenverteilung
 
@@ -143,15 +146,17 @@ Der Behindertenbeauftragte kann eine Aufgabenverteilung mit dem Beirat für Mens
 
 (5) Die Stellvertretung ist ehrenamtlich tätig. Eine Aufwandsentschädigung wird nicht gezahlt.
 
-## Abschnitt IV Beirat für Menschen mit Behinderung
-
 ### § 15 Aufgabe
 
 Der Behindertenbeauftragte wird von einem ehrenamtlichen Beirat beratend unterstützt.
 
 ### § 16 Zusammensetzung
 
-(1) Der Beirat setzt sich aus Bürgern mit Fachkenntnissen und Vertretern von Institutionen mit Erfahrungen im Bereich Behinderung/Inklusion und Soziales zusammen und wird nach Anforderung/Thematik zusammengestellt. Folgende Institutionen stellen je einen Vertreter: Altenhilfeverein, Arbeiterwohlfahrt, Caritasverband, Diakonisches Werk, DPWV, Eltern für Integration e. V. Konstanz, Lebenshilfe für geistig Behinderte, Selbsthilfevereinigung der Konstanzer Körperbehinderten e. V., Sozialverband VdK, Stadtseniorenrat.
+(1) Der Beirat setzt sich aus Bürgern mit Fachkenntnissen und Vertretern von Institutionen mit Erfahrungen im Bereich Behinderung / Inklusion und Soziales zusammen und wird nach Anforderung / Thematik zusammengestellt.
+
+Folgende Institutionen stellen je einen Vertreter:
+
+Altenhilfeverein, Arbeiterwohlfahrt, Caritasverband, Diakonisches Werk, DPWV, Eltern für Integration e.V. Konstanz, Lebenshilfe für geistig Behinderte, Selbsthilfevereinigung der Konstanzer Körperbehinderten e.V., Sozialverband VdK, Stadtseniorenrat.
 
 (2) Der Behindertenbeauftragte hat die Möglichkeit, Vertreter weiterer relevanter Institutionen bzw. sachkundige Personen in den Beirat zu rufen. Die Benennung erfolgt durch den Behindertenbeauftragten.
 
@@ -165,7 +170,9 @@ Der Behindertenbeauftragte wird von einem ehrenamtlichen Beirat beratend unterst
 
 ### § 18 Amtszeit
 
-Die Amtszeit des Beirats beträgt fünf Jahre; für Beiratsmitglieder, die zu einem späteren Zeitpunkt berufen werden, verkürzt sie sich entsprechend. Die Bestellung ist an den Turnus des Behindertenbeauftragten gekoppelt.
+Die Amtszeit des Beirats beträgt fünf Jahre; für Beiratsmitglieder, die zu einem späteren Zeitpunkt berufen werden, verkürzt sie sich entsprechend.
+
+Die Bestellung ist an den Turnus des Behindertenbeauftragten gekoppelt.
 
 ### § 19 Rechtsstellung
 
@@ -183,18 +190,18 @@ Den Vorsitz im Beirat regelt der Behindertenbeauftragte. Kommt es zu keiner einv
 
 Die Stadt Konstanz stellt bei rechtzeitiger Anmeldung einen Besprechungsraum für Beiratssitzungen zur Verfügung.
 
-## Abschnitt V Berichterstattung
-
 ### § 23 Jahresbericht
 
 Der Behindertenbeauftragte erstattet dem Gemeinderat einmal jährlich einen Tätigkeitsbericht. In diesem Bericht soll auch auf die Entwicklung der Teilhabemöglichkeiten von Menschen mit Behinderung eingegangen werden.
 
 ### § 24 Internetauftritt
 
-Es wird eine Plattform im Internet für Informationen zur Verfügung gestellt. Die Stadt Konstanz fördert darüber hinaus die Verbreitung von Informationen zur Barrierefreiheit. Die Stellvertretung des Beauftragten für Menschen mit Behinderung erhält einen Zugang zur elektronischen Kommunikation der Stadt Konstanz.
+Es wird eine Plattform im Internet für Informationen zur Verfügung gestellt. Die Stadt Konstanz fördert darüber hinaus die Verbreitung von Informationen zur Barrierefreiheit.
 
-## Abschnitt VI Schlussbestimmung
+Die Stellvertretung des Beauftragten für Menschen mit Behinderung erhält einen Zugang zur elektronischen Kommunikation der Stadt Konstanz.
 
 ### § 25 Inkrafttreten
 
-Diese Richtlinie tritt erstmalig am Tage nach ihrer Beschlussfassung (26.03.2015) in Kraft. Diese Richtlinie (mit der Änderung vom 21.07.2016 – Erhöhung der Aufwandsentschädigung) tritt rückwirkend zum 01.02.2016 in Kraft.
+Diese Richtlinie tritt erstmalig am Tage nach ihrer Beschlussfassung (26.03.2015) in Kraft.
+
+Diese Richtlinie (mit der Änderung vom 21.07.2016 - Erhöhung der Aufwandsentschädigung) tritt rückwirkend zum 01.02.2016 in Kraft.

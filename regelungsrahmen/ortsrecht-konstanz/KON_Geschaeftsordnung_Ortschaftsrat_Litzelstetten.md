@@ -1,5 +1,6 @@
 ---
-titel: Geschäftsordnung für den Ortschaftsrat Litzelstetten
+titel: "I 06 Geschäftsordnung für den Ortschaftsrat Litzelstetten"
+rechtsnatur: Geschäftsordnung
 ebene: gemeinde
 saule: regelungsrahmen
 land_ars: "08"
@@ -9,10 +10,10 @@ land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2023-02-07
-quelle: Geschäftsordnung für den Ortschaftsrat Litzelstetten, beschlossen am 07.02.2023
 gueltig_ab: 2023-02-07
-beschreibung: "Regelt den Geschäftsgang des Ortschaftsrates Litzelstetten und seiner Ausschüsse auf Grundlage von § 36 Abs. 2 i. V. m. § 72 GemO BW. Enthält Bestimmungen zu Zusammensetzung, Rechten und Pflichten der Ortschaftsrätinnen und Ortschaftsräte, Sitzungsvorbereitung und -durchführung, Beschlussfassung, Niederschrift und Bekanntgabe von Beschlüssen. 10 ehrenamtliche Mitglieder."
 stand: 2023-02-07
+url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1036337095/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_06%20Gesch%C3%A4ftsordnung%20f%C3%BCr%20den%20Ortschaftsrat%20Litzelstetten.pdf"
+beschreibung: "Geschäftsordnung des Ortschaftsrates Litzelstetten, die den Geschäftsgang des Ortschaftsrates und seiner Ausschüsse regelt."
 status: published
 projekte:
   - amtsschimmel
@@ -21,55 +22,52 @@ projekte:
 ## Inhaltsverzeichnis
 
 - Präambel
-- Abschnitt I - Allgemeine Bestimmungen
-  - § 1 - Zusammensetzung
-  - § 2 - Fraktionen
-  - § 3 - Sitzordnung
-- Abschnitt II - Rechte und Pflichten der Ortschaftsrätinnen und Ortschaftsräte
-  - § 4 - Unterrichtungsrecht/Akteneinsicht
-  - § 5 - Fragerecht
-  - § 6 - Pflicht zur Verschwiegenheit
-  - § 7 - Befangenheit
-- Abschnitt III - Vorbereitung und Durchführung der Sitzungen des Ortschaftsrates
-  - § 8 - Öffentlichkeit
-  - § 9 - Verhandlungsgegenstände
-  - § 10 - Einberufung
-  - § 11 - Tagesordnung
-  - § 12 - Verhandlungsleitung, Handhabung der Ordnung, Hausrecht
-  - § 13 - Verhandlungsablauf, Änderung der Tagesordnung
-  - § 14 - Vortrag, beratende Mitwirkung im Ortschaftsrat
-  - § 15 - Beratung
-  - § 16 - Sachanträge
-  - § 17 - Geschäftsordnungsanträge
-  - § 18 - Beschlussfassung, Beschlussfähigkeit
-  - § 19 - Abstimmung
-  - § 20 - Wahlen
-  - § 21 - Fragerecht für Einwohnerinnen und Einwohner
-- Abschnitt IV - Beschlussfassung durch Offenlegung bzw. das schriftliche Verfahren
-  - § 22 - Offenlegung/schriftliches Verfahren
-- Abschnitt V - Niederschrift
-  - § 23 - Inhalt der Niederschrift
-  - § 24 - Führung und Kenntnisgabe der Niederschrift
-  - § 25 - Einsichtnahme in die Niederschrift/Beschlussprotokolle
-- Abschnitt VI - Bekanntgabe von Ortschaftsratsbeschlüssen
-  - § 26 - Ortsübliche Bekanntgabe von Ortschaftsratsbeschlüssen
-- Abschnitt VII - Schlussbestimmungen
-  - § 27 - Abweichen von der Geschäftsordnung
-  - § 28 - Inkrafttreten
+- § 1 Zusammensetzung
+- § 2 Fraktionen
+- § 3 Sitzordnung
+- § 4 Unterrichtungsrecht/Akteneinsicht
+- § 5 Fragerecht
+- § 6 Pflicht zur Verschwiegenheit
+- § 7 Befangenheit
+- § 8 Öffentlichkeit
+- § 9 Verhandlungsgegenstände
+- § 10 Einberufung
+- § 11 Tagesordnung
+- § 12 Verhandlungsleitung, Handhabung der Ordnung, Hausrecht
+- § 13 Verhandlungsablauf, Änderung der Tagesordnung
+- § 14 Vortrag, beratende Mitwirkung im Ortschaftsrat
+- § 15 Beratung
+- § 16 Sachanträge
+- § 17 Geschäftsordnungsanträge
+- § 18 Beschlussfassung, Beschlussfähigkeit
+- § 19 Abstimmung
+- § 20 Wahlen
+- § 21 Fragerecht für Einwohnerinnen und Einwohner
+- § 22 Offenlegung/schriftliches Verfahren
+- § 23 Inhalt der Niederschrift
+- § 24 Führung und Kenntnisgabe der Niederschrift
+- § 25 Einsichtnahme in die Niederschrift/Beschlussprotokolle
+- § 26 Ortsübliche Bekanntgabe von Ortschaftsratsbeschlüssen
+- § 27 Abweichen von der Geschäftsordnung
+- § 28 Inkrafttreten
 
 ### Präambel
 
 Diese Geschäftsordnung des Ortschaftsrates Litzelstetten regelt den Geschäftsgang des Ortschaftsrates und seiner Ausschüsse. Zweck dieser Geschäftsordnung ist ein einheitlicher und reibungsloser Geschäftsgang. Die Vorschriften der Gemeindeordnung für Baden-Württemberg in der jeweils aktuellen Fassung gehen dieser Geschäftsordnung vor.
 
-## Abschnitt I Allgemeine Bestimmungen
+Aufgrund von § 36 Abs. 2 i. V. m. § 72 der Gemeindeordnung für Baden-Württemberg (GemO) in der derzeit gültigen Fassung, hat sich der Ortschaftsrat Litzelstetten am 07.02.2023 folgende Geschäftsordnung gegeben:
+
+## I. Allgemeine Bestimmungen
 
 ### § 1 Zusammensetzung
 
-(1) Dem Ortschaftsrat gehören 10 ehrenamtliche Mitglieder (Ortschaftsrätinnen bzw. Ortschaftsräte) an. Vorsitzende bzw. Vorsitzender des Ortschaftsrates ist die Ortsvorsteherin bzw. der Ortsvorsteher, welche bzw. welcher vom Gemeinderat auf Vorschlag des Ortschaftsrats aus dem Kreis der zum Ortschaftsrat wählbaren Bürgerinnen und Bürger gewählt wird.
+(1) Dem Ortschaftrat gehören 10 ehrenamtliche Mitglieder (Ortschaftsrätinnen bzw. Ortschaftsräte) an. Vorsitzende bzw. Vorsitzender des Ortschaftsrates ist die Ortsvorsteherin bzw. der Ortsvorsteher, welche bzw. welcher vom Gemeinderat auf Vorschlag des Ortschaftsrats aus dem Kreis der zum Ortschaftsrat wählbaren Bürgerinnen und Bürger gewählt wird.
 
 (2) Die Ortsvorsteherin bzw. der Ortsvorsteher vertritt den Oberbürgermeister bzw. die Oberbürgermeisterin und die Beigeordneten ständig beim Vollzug der Beschlüsse des Ortschaftsrates und bei der Leitung der örtlichen Verwaltung.
 
 (3) Die stellvertretende Ortsvorsteherin bzw. der stellvertretende Ortsvorsteher, welche bzw. welcher vom Gemeinderat auf Vorschlag des Ortschaftsrats aus der Mitte des Ortschaftsrats gewählt wird, vertritt den Ortsvorsteher bzw. die Ortsvorsteherin.
+
+Quelle: §§ 69 Abs. 1, 2 und 3 GemO, §§ 71 Abs. 1 und 3 GemO, § 15 Hauptsatzung der Stadt Konstanz, § 17 Hauptsatzung der Stadt Konstanz
 
 ### § 2 Fraktionen
 
@@ -85,11 +83,15 @@ Diese Geschäftsordnung des Ortschaftsrates Litzelstetten regelt den Geschäftsg
 
 (2) Die Zuteilung der Sitzplätze innerhalb der Fraktionen ist deren Sache.
 
-## Abschnitt II Rechte und Pflichten der Ortschaftsrätinnen und Ortschaftsräte
+## II. Rechte und Pflichten der „Ortschaftsrätinnen und Ortschaftsräte"
+
+Die Rechte und Pflichten der Mitglieder des Ortschaftsrats ergeben sich aus den §§ 15 – 19 GemO und § 72 i. V. m. den §§ 24, 32, 34 und 35 Abs. 2 GemO.
 
 ### § 4 Unterrichtungsrecht/Akteneinsicht
 
-Eine Fraktion oder ein Sechstel der Ortschaftsrätinnen und Ortschaftsräte kann in allen Angelegenheiten der Ortschaft und ihrer Verwaltung verlangen, dass der Ortsvorsteher bzw. die Ortsvorsteherin den Ortschaftsrat unterrichtet. Ein Viertel der Ortschaftsrätinnen und Ortschaftsräte kann in allen Angelegenheiten der Ortschaft verlangen, dass dem Ortschaftsrat oder einem von ihm bestellten Ausschuss Akteneinsicht gewährt wird. In diesem Ausschuss müssen die Antragstellerinnen und Antragsteller vertreten sein. Dies gilt nicht bei den nach § 44 Absatz 3 Satz 3 GemO geheim zu haltenden Angelegenheiten.
+Eine Fraktion oder ein Sechstel der Ortschaftsrätinnen und Ortschaftsräte kann in allen Angelegenheiten der Ortschaft und ihrer Verwaltung verlangen, dass der Ortsvorsteher bzw. die Ortsvorsteherin den Ortschaftsrat unterrichtet. Ein Viertel der Ortschaftsrätinnen und Ortschaftsräte kann in allen Angelegenheiten der Ortschaft verlangen, dass dem Ortschaftsrat oder einem von ihm bestellten Ausschuss Akteneinsicht gewährt wird. In diesem Ausschuss müssen die Antragstellerinnen und Antragsteller vertreten sein. Dies gilt nicht bei den nach § 44 Absatz 3 Satz 3 GemO geheim zuhaltenden Angelegenheiten.
+
+Quelle: § 24 Abs. 3 und 5 GemO i. V. m. § 72 GemO
 
 ### § 5 Fragerecht
 
@@ -97,13 +99,17 @@ Eine Fraktion oder ein Sechstel der Ortschaftsrätinnen und Ortschaftsräte kann
 
 (2) Für Anfragen und Antworten, die wegen des öffentlichen Wohls oder wegen berechtigter Interessen einzelner im Sinne des § 35 Abs. 1 S. 2 GemO nicht für die Öffentlichkeit bestimmt sind, ist eine die Verschwiegenheit gewährleistende Form zu wahren.
 
-(3) Abs. 1 gilt nicht bei den nach § 44 Absatz 3 Satz 3 GemO geheim zu haltenden Angelegenheiten.
+(3) Abs. 1 gilt nicht bei den nach § 44 Absatz 3 Satz 3 GemO geheimzuhaltenden Angelegenheiten.
+
+Quelle: § 24 Abs. 3 und 5 GemO i. V. m. § 72 GemO
 
 ### § 6 Pflicht zur Verschwiegenheit
 
-(1) Die Mitglieder des Ortschaftsrates sind zur Verschwiegenheit über alle Angelegenheiten verpflichtet, deren Geheimhaltung gesetzlich vorgeschrieben, besonders angeordnet oder ihrer Natur nach erforderlich ist. Auf diese Pflicht sind sie, insbesondere in Zweifelsfällen, hinzuweisen. Die Geheimhaltung darf nur angeordnet werden, wenn dies im Interesse des öffentlichen Wohles oder zum Schutz berechtigter Interessen Einzelner erforderlich ist. Über alle in nichtöffentlicher Sitzung behandelten Angelegenheiten sind die Ortschaftsrätinnen und Ortschaftsräte so lange zur Verschwiegenheit verpflichtet, bis sie der Ortsvorsteher bzw. die Ortsvorsteherin von der Schweigepflicht entbindet; dies gilt nicht für Beschlüsse, soweit diese nach § 26 GeschO bekannt gegeben worden sind. Die Entbindung von der Schweigepflicht darf nur so lange verwehrt werden, als es das öffentliche Wohl oder das berechtigte Interesse Einzelner erfordern. Die Entbindung von der Schweigepflicht ist den Ortschaftsrätinnen und Ortschaftsräten bekannt zu geben und in der Niederschrift der nächstfolgenden Sitzung zu vermerken.
+(1) Die Mitglieder des Ortschaftsrates sind zur Verschwiegenheit über alle Angelegenheiten verpflichtet, deren Geheimhaltung gesetzlich vorgeschrieben, besonders angeordnet oder ihrer Natur nach erforderlich ist. Auf diese Pflicht sind sie, insbesondere in Zweifelsfällen, hinzuweisen. Die Geheimhaltung darf nur angeordnet werden, wenn dies im Interesse des öffentlichen Wohles oder zum Schutz berechtigter Interessen Einzelner erforderlich ist. Über alle in nichtöffentlicher Sitzung behandelten Angelegenheiten sind die Ortschaftsrätinnen und Ortschaftsräte so lange zur Verschwiegenheit verpflichtet, bis sie der Ortsvorsteher bzw. die Ortsvorsteherin von der Schweigepflicht entbindet; dies gilt nicht für Beschlüsse, soweit diese nach § 26 GeschO bekannt gegeben worden sind. Die Entbindung von der Schweigepflicht darf nur so lange verwehrt werden, als es das öffentliche Wohl oder das berechtigte Interesse Einzelner erfordern. Die Entbindung von der Schweigepflicht ist den Ortschaftsrätinnen und Ortschaftsräten bekannt zu geben und in der Niederschrift der nächstfolgenden Sitzung zu vermerken (§ 23 Abs. 2, Ziffer 14 GeschO).
 
 (2) Ortschaftsräte dürfen die Kenntnis von geheimzuhaltenden Angelegenheiten nicht unbefugt verwerten. Gegen dieses Verbot verstößt insbesondere, wer aus der Kenntnis geheimzuhaltender Angelegenheiten für sich oder Dritte Vorteile zieht oder ziehen will.
+
+Quelle: § 17 Abs. 2 und § 35 Abs. 2 i. V. m. 72 GemO.
 
 ### § 7 Befangenheit
 
@@ -113,7 +119,9 @@ Eine Fraktion oder ein Sechstel der Ortschaftsrätinnen und Ortschaftsräte kann
 
 (3) Wer wegen Befangenheit an der Beratung und Entscheidung nicht mitwirken darf, muss die Sitzung verlassen; ist die Sitzung öffentlich, so kann das befangene Mitglied des Ortschaftsrates in dem für die Öffentlichkeit bestimmten Teil des Sitzungsraumes bleiben.
 
-## Abschnitt III Vorbereitung und Durchführung der Sitzungen des Ortschaftsrates
+Quelle: § 18 GemO
+
+## III. Vorbereitung und Durchführung der Sitzungen des Ortschaftsrates
 
 ### § 8 Öffentlichkeit
 
@@ -125,9 +133,13 @@ Eine Fraktion oder ein Sechstel der Ortschaftsrätinnen und Ortschaftsräte kann
 
 (4) Soweit ein Anspruch für Presse oder Rundfunk gegeben ist, sind Fernseh-, Rundfunk- und Tonbandaufzeichnungen sowie Fotografieren zugelassen. In allen anderen Fällen entscheidet der Vorsitzende bzw. die Vorsitzende im Einvernehmen mit dem Ortschaftsrat.
 
+Quelle: § 35 i. V. m. § 72 GemO
+
 ### § 9 Verhandlungsgegenstände
 
 Der Ortschaftsrat verhandelt über Vorlagen der Verwaltung oder aufgrund von Anträgen aus der Mitte des Ortschaftsrates. Die Vorlagen der Verwaltung sind in der Regel schriftlich vorzulegen und zu begründen. Soweit Vorlagen finanzielle Auswirkungen beinhalten, ist in der Begründung darauf einzugehen.
+
+Quelle: § 34 i. V. m. § 72 GemO
 
 ### § 10 Einberufung
 
@@ -141,11 +153,15 @@ Der Ortschaftsrat verhandelt über Vorlagen der Verwaltung oder aufgrund von Ant
 
 (5) In Notfällen kann der Ortschaftsrat ohne Frist, formlos und nur unter Angabe der Verhandlungsgegenstände einberufen werden. Abs. 3 findet keine Anwendung.
 
+Quelle: § 34 i. V. m. § 72 GemO
+
 ### § 11 Tagesordnung
 
 (1) Der Ortsvorsteher bzw. die Ortsvorsteherin stellt die Tagesordnung für die Sitzungen auf.
 
 (2) Auf Antrag einer Fraktion oder eines Sechstels der Ortschaftsrätinnen bzw. Ortschaftsräte ist ein Verhandlungsgegenstand auf die Tagesordnung spätestens der übernächsten Sitzung des Ortschaftsrates zu setzen. Der Verhandlungsgegenstand muss zum Aufgabengebiet des Ortschaftsrates gehören. Satz 1 gilt nicht, wenn der Ortschaftsrat den gleichen Verhandlungsgegenstand innerhalb der letzten sechs Monate bereits behandelt hat.
+
+Quelle: § 34 i. V. m. § 72 GemO
 
 ### § 12 Verhandlungsleitung, Handhabung der Ordnung, Hausrecht
 
@@ -155,11 +171,13 @@ Der Ortschaftsrat verhandelt über Vorlagen der Verwaltung oder aufgrund von Ant
 
 (3) Stören Zuhörerinnen oder Zuhörer die Verhandlung, kann sie der Vorsitzende bzw. die Vorsitzende verwarnen und ihnen die Entfernung aus dem Sitzungsraum androhen. Bei wiederholten oder groben Ordnungsstörungen kann er bzw. sie sie auffordern, den Sitzungsraum zu verlassen und sie im Falle der Weigerung entfernen lassen. Bei allgemeiner Unruhe kann der Vorsitzende bzw. die Vorsitzende das Publikum ohne Rücksicht auf ihre Beteiligung aus dem Sitzungsraum entfernen lassen. Schlichte Beifalls- oder Missfallensbekundungen, durch die der Gang der Verhandlungen nicht wesentlich gestört wird, verletzen nicht in jedem Fall die Ordnung.
 
-(4) Verstößt ein ehrenamtliches Mitglied des Ortschaftsrates gegen die Ordnung, so kann es der Vorsitzende bzw. die Vorsitzende zur Ordnung rufen. Schweift es vom Gegenstand der Verhandlung ab, so kann es vom Vorsitzenden bzw. der Vorsitzenden zur Sache verwiesen werden. Wird ein ehrenamtliches Mitglied des Ortschaftsrates beim gleichen Verhandlungsgegenstand zweimal zur Ordnung oder zur Sache gerufen, so kann diesem vom Vorsitzenden bzw. der Vorsitzenden im Falle eines erneuten Verstoßes das Wort entzogen werden.
+(4) Verstößt ein ehrenamtliches Mitglied des Ortschaftsrates gegen die Ordnung, so kann es der Vorsitzende bzw. die Vorsitzende zur Ordnung rufen. Schweift es vom Gegenstand der Verhandlung ab, so kann es vom Vorsitzenden bzw. der Vorsitzenden zur Sache verwiesen werden. Wird ein ehrenamtliches Mitglied des Ortschaftsrates beim gleichen Verhandlungsgegenstand zweimal zur Ordnung oder zur Sache gerufen, so kann diesem vom Vorsitzenden bzw. der Vorsitzenden im Falle eines erneuten Verstoßes das Wort entzogen werden. Zur Erledigung des zur Beratung stehenden Gegenstandes wird diesem ehrenamtlichen Mitglied des Ortschaftsrates das Wort nicht mehr erteilt.
 
 (5) Verstößt ein ehrenamtliches Mitglied des Ortschaftsrates grob ungebührlich oder wiederholt gegen die Ordnung, so kann es der Vorsitzende bzw. die Vorsitzende aus dem Beratungsraum verweisen. Mit dieser Anordnung ist der Verlust des Anspruchs auf die Entschädigung verbunden, die auf den Sitzungstag entfällt. Bei wiederholten Ordnungswidrigkeiten nach Satz 1 kann der Ortschaftsrat ein Mitglied für mehrere, höchstens jedoch für sechs Sitzungen ausschließen.
 
 (6) Die Absätze 4 und 5 gelten für die nach § 33 Abs. 3 GemO zugezogenen Personen entsprechend.
+
+Quelle: § 36 Abs. 1 und Abs. 3 i. V. m. § 72 GemO
 
 ### § 13 Verhandlungsablauf, Änderung der Tagesordnung
 
@@ -175,17 +193,19 @@ Der Ortschaftsrat verhandelt über Vorlagen der Verwaltung oder aufgrund von Ant
 
 (3) Der Vorsitzende bzw. die Vorsitzende kann, auf Verlangen des Ortschaftsrates muss er bzw. sie, ein Mitglied der Verwaltung zu sachverständigen Auskünften zuziehen.
 
+Quelle: § 33 i. V. m. § 72 GemO
+
 ### § 15 Beratung
 
 (1) Der Vorsitzende bzw. die Vorsitzende eröffnet die Beratung nach dem Vortrag (§ 14 Abs. 1). Er bzw. sie fordert zu Wortmeldungen auf und erteilt das Wort in der Reihenfolge der Meldungen. Bei gleichzeitiger Wortmeldung bestimmt er bzw. sie die Reihenfolge. Er bzw. sie kann außer der Reihe aufrufen, wenn ein wichtiger Grund vorliegt. Über den gleichen Gegenstand soll ein Mitglied nicht öfter als zweimal sprechen; der Vorsitzende bzw. die Vorsitzende kann Ausnahmen zulassen. Ohne Worterteilung darf niemand das Wort ergreifen.
 
-(2) Außer der Reihe wird das Wort erteilt zur Geschäftsordnung, zu Schluss- und Vertagungsanträgen, zur Berichtigung eigener Ausführungen, zur Aufklärung von Missverständnissen sowie zur Abwehr von persönlichen Angriffen.
+(2) Außer der Reihe wird das Wort erteilt zur Geschäftsordnung, zu Schluss und Vertagungsanträgen, zur Berichtigung eigener Ausführungen, zur Aufklärung von Missverständnissen sowie zur Abwehr von persönlichen Angriffen.
 
 (3) Der Vorsitzende bzw. die Vorsitzende kann nach jeder Rednerin bzw. jedem Redner das Wort ergreifen; er bzw. sie kann in gleicher Weise ein Mitglied der Verwaltung oder den zugezogenen sachkundigen Einwohnern bzw. Einwohnerinnen und Sachverständigen das Wort erteilen oder sie zur Stellungnahme auffordern.
 
 (4) Eine Rednerin bzw. ein Redner darf nur von dem Vorsitzenden oder der Vorsitzenden und nur zur Wahrung seiner Befugnisse unterbrochen werden.
 
-(5) Der erste Redebeitrag einer Fraktion oder solcher nicht angehörenden Einzelmitgliedern zu einem Tagesordnungspunkt soll auf 3 Minuten, die Redezeit bei weiteren Wortmeldungen auf 2 Minuten pro Redebeitrag begrenzt sein. Der Ortschaftsrat kann die Redezeitbeschränkung für ganze Sitzungen oder jederzeit für einen bestimmten Tagesordnungspunkt aufheben.
+(5) Der erste Redebeitrag einer Fraktion oder solcher nicht angehörigen Einzelmitgliedern zu einem Tagesordnungspunkt soll auf 3 Minuten, die Redezeit bei weiteren Wortmeldungen auf 2 Minuten pro Redebeitrag begrenzt sein. Der Ortschaftsrat kann die Redezeitbeschränkung für ganze Sitzungen oder jederzeit für einen bestimmten Tagesordnungspunkt aufheben.
 
 (6) Ist ein Antrag auf Schluss der Beratung (§ 17 Abs. 2 Ziffer a) angenommen oder ist die Rednerliste erschöpft und meldet sich niemand zu Wort, so erklärt der Vorsitzende bzw. die Vorsitzende die Beratung für geschlossen.
 
@@ -194,6 +214,8 @@ Der Ortschaftsrat verhandelt über Vorlagen der Verwaltung oder aufgrund von Ant
 (8) Die Dauer der Sitzung soll in der Regel 3 Stunden nicht überschreiten. Nach Ablauf von 4 Stunden soll kein weiterer Tagesordnungspunkt aufgerufen werden. Über Ausnahmen entscheidet der Ortschaftsrat.
 
 (9) Die Beratung ist abzubrechen, wenn der Ortschaftsrat nicht mehr beschlussfähig ist.
+
+Quelle: § 33 i. V. m. § 72 GemO
 
 ### § 16 Sachanträge
 
@@ -205,13 +227,10 @@ Anträge zu einem Verhandlungsgegenstand der Tagesordnung (Sachanträge) sind vo
 
 (2) Geschäftsordnungsanträge sind insbesondere Anträge,
 
-a) die Aussprache vorzeitig zu beenden (Schluss der Beratung),
-
-b) die Rednerliste zu schließen (Schluss der Rednerliste),
-
-c) den Gegenstand zu einem späteren Zeitpunkt in derselben Sitzung erneut zu beraten (Verweisungsantrag innerhalb der gleichen Sitzung),
-
-d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag).
+a) die Aussprache vorzeitig zu beenden (Schluss der Beratung)
+b) die Rednerliste zu schließen (Schluss der Rednerliste)
+c) den Gegenstand zu einem späteren Zeitpunkt in derselben Sitzung erneut zu beraten (Verweisungsantrag innerhalb der gleichen Sitzung)
+d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag)
 
 (3) Geschäftsordnungsanträge unterbrechen die Sachdebatte; der Vorsitzende bzw. die Vorsitzende nennt die zum Wort vorgemerkten Rednerinnen bzw. Redner und stellt den Geschäftsordnungsantrag zur Aussprache. Bei der Erörterung eines Geschäftsordnungsantrages darf nur je eine Rednerin bzw. ein Redner jeder Fraktion sprechen. Wird der Antrag auf Schluss der Beratung angenommen, so dürfen die zur Sache vorgemerkten Rednerinnen und Redner nicht mehr sprechen. Wird der Schlussantrag abgelehnt, so geht die Aussprache weiter. Wird der Antrag auf „Schluss der Rednerliste" angenommen, dürfen nur noch diejenigen Mitglieder des Ortschaftsrates sprechen, die zum Zeitpunkt der Antragstellung auf der Rednerliste vorgemerkt sind. Wird ein Vertagungsantrag angenommen, so wird die Beratung in einer späteren Sitzung fortgesetzt. Liegt gleichzeitig ein Schluss- und Vertagungsantrag vor, so wird zuerst über den Schlussantrag und sodann über den Vertagungsantrag abgestimmt.
 
@@ -227,9 +246,11 @@ d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag).
 
 (4) Der Vorsitzende bzw. die Vorsitzende hat sich vor der Beschlussfassung über jeden Verhandlungsgegenstand zu überzeugen, ob der Ortschaftsrat beschlussfähig ist.
 
+Quelle: § 37 GemO i. V. m. § 72 GemO
+
 ### § 19 Abstimmung
 
-(1) Der Vorsitzende bzw. die Vorsitzende formuliert den zur Abstimmung stehenden Antrag positiv und so, dass er als Ganzes angenommen oder abgelehnt werden kann. Anträge in Frageform sind so zu stellen, dass sie mit ja oder mit nein beantwortet werden können. Vor der Abstimmung gibt der Vorsitzende bzw. die Vorsitzende den Wortlaut der Anträge, über die Beschluss gefasst werden soll, und die Reihenfolge der Abstimmung bekannt.
+(1) Der Vorsitzende bzw. die Vorsitzende formuliert den zur Abstimmung stehenden Antrag positiv und so, dass er als Ganzes angenommen oder abgelehnt werden kann. Anträge in Frageform sind so zu stellen, dass sie mit ja oder mit nein beantwortet werden können. Vor der Abstimmung gibt der Vorsitzende bzw. die Vorsitzende den Wortlaut der Anträge, über die Beschluss gefasst werden soll, und die Reihenfolge der Abstimmung bekannt. Über die Reihenfolge, Teilung und Formulierung der Anträge kann das Wort verlangt und eine Entscheidung des Ortschaftsrates herbeigeführt werden.
 
 (2) Über Änderungs- und Ergänzungsanträge wird vor dem Hauptantrag abgestimmt. Liegen mehrere Änderungs- oder Ergänzungsanträge zu der gleichen Sache vor, so wird jeweils über den Antrag zuerst abgestimmt, der am weitesten vom Hauptantrag abweicht. Von mehreren Anträgen mit finanzieller Wirkung kommt zunächst derjenige zur Abstimmung, der die größeren Ausgaben oder die geringeren Einnahmen verursacht. Als Hauptantrag gilt der Antrag der Verwaltung, im Übrigen der zuerst gestellte.
 
@@ -245,17 +266,21 @@ d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag).
 
 (8) Auf Antrag von mindestens drei Mitgliedern des Ortschaftsrates kann der Ortschaftsrat in geheimer Abstimmung beschließen, dass im Einzelfall geheim mit Stimmzetteln abgestimmt wird. Auf den Stimmzetteln sollen die Merkmale der Abstimmung vorgedruckt oder mit Maschine vorgeschrieben sein. Die Stimmzettel werden verdeckt oder gefaltet abgegeben und in einem Behältnis gesammelt. Zwei von dem Vorsitzenden bzw. der Vorsitzenden bestimmte Mitglieder des Ortschaftsrates, die verschiedenen Fraktionen angehören, öffnen unter Mithilfe der Protokollführung das Behältnis und stellen das Ergebnis fest. Die Stimmzettel sind unter Verschluss zu nehmen und nach Anerkennung der Niederschrift (§ 23) zu vernichten.
 
-(9) Bei offener Abstimmung kann die Stimmabgabe berichtigt werden, solange die Abstimmungshandlung noch nicht beendet ist; nach Feststellung des Ergebnisses ist die Berichtigung nicht mehr möglich. Bei geheimer Abstimmung ist eine Berichtigung der Stimmabgabe ausgeschlossen.
+(9) Bei offener Abstimmung kann die Stimmabgabe berichtigt werden, solange die Abstimmungshandlung noch nicht beendet ist, z. B. bei einem Missverständnis über die gestellte Frage; nach Feststellung des Ergebnisses ist die Berichtigung nicht mehr möglich. Bei geheimer Abstimmung ist eine Berichtigung der Stimmabgabe ausgeschlossen.
 
 (10) Das Stimmenverhältnis der Abstimmung ist sofort bekannt zu geben und in der Niederschrift festzuhalten. Wird namentlich abgestimmt, so ist die Abstimmung eines jeden Mitglieds zu protokollieren und entsprechend in der Niederschrift (§ 23) festzuhalten.
 
 (11) Jedes Mitglied des Ortschaftsrates ist berechtigt, seine Abstimmung zu begründen und die Aufnahme dieser Erklärung in die Niederschrift (§ 23) zu verlangen.
 
+Quelle: §§ 37, 38 Abs. 1 GemO i. V. m. § 72 GemO
+
 ### § 20 Wahlen
 
-(1) Wahlen werden geheim mit Stimmzetteln vorgenommen; das Verfahren richtet sich nach § 19 Abs. 8 S. 2 ff. Es kann offen gewählt werden, wenn kein Mitglied widerspricht. Gewählt ist, wer mehr als die Hälfte der Stimmen der anwesenden Stimmberechtigten erhalten hat. Wird eine solche Mehrheit bei der Wahl nicht erreicht, findet zwischen den beiden Bewerberinnen bzw. Bewerbern mit den meisten Stimmen eine Stichwahl statt, bei der die einfache Stimmenmehrheit entscheidet. Bei Stimmengleichheit entscheidet das Los. Der Ortschaftsrat bestimmt, wer aus seiner Mitte das Los zu ziehen hat. Steht nur eine Bewerberin bzw. ein Bewerber zur Wahl und erreicht diese/dieser nicht mehr als die Hälfte der Stimmen der anwesenden Stimmberechtigten, findet ein zweiter Wahlgang statt; auch im zweiten Wahlgang ist mehr als die Hälfte der Stimmen der anwesenden Stimmberechtigten erforderlich. Der zweite Wahlgang soll frühestens 1 Woche nach dem ersten Wahlgang durchgeführt werden.
+(1) Wahlen werden geheim mit Stimmzetteln vorgenommen; das Verfahren richtet sich nach § 19 Abs. 8 S. 2 ff. Es kann offen gewählt werden, wenn kein Mitglied widerspricht. Gewählt ist, wer mehr als die Hälfte der Stimmen der anwesenden Stimmberechtigten erhalten hat. Wird eine solche Mehrheit bei der Wahl nicht erreicht, findet zwischen den beiden Bewerberinnen bzw. Bewerbern mit den meisten Stimmen eine Stichwahl statt, bei der die einfache Stimmenmehrheit entscheidet. Bei Stimmengleichheit entscheidet das Los. Der Ortschaftsrat bestimmt, wer aus seiner Mitte das Los zu ziehen hat. Die Lose werden von der Protokollführung unter der Aufsicht des Vorsitzenden bzw. der Vorsitzenden in Abwesenheit des zur Losziehung bestimmten ehrenamtlichen Mitgliedes des Ortschaftsrates hergestellt. Steht nur eine Bewerberin bzw. ein Bewerber zur Wahl und erreicht diese/dieser nicht mehr als die Hälfte der Stimmen der anwesenden Stimmberechtigten, findet ein zweiter Wahlgang statt; auch im zweiten Wahlgang ist mehr als die Hälfte der Stimmen der anwesenden Stimmberechtigten erforderlich. Der zweite Wahlgang soll frühestens 1 Woche nach dem ersten Wahlgang durchgeführt werden.
 
 (2) Die Zahl der auf die einzelnen Bewerberinnen bzw. Bewerber entfallenen Stimmen oder das Ergebnis der Losziehung sind sofort bekannt zu geben. Der Verlauf und das Ergebnis der Wahl oder der Losziehung sind in der Niederschrift zu vermerken. Die Stimmzettel und die Lose sind unter Verschluss zu nehmen und nach Anerkennung der Niederschrift (§ 23) zu vernichten.
+
+Quelle: § 37 Abs. 7, § 38 Abs. 1 GemO i. V. m. § 72 GemO
 
 ### § 21 Fragerecht für Einwohnerinnen und Einwohner
 
@@ -267,7 +292,9 @@ d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag).
 
 (4) Die Einwohnerfragestunde ist auf insgesamt 15 Minuten begrenzt.
 
-## Abschnitt IV Beschlussfassung durch Offenlegung bzw. das schriftliche Verfahren
+Quelle: § 33 Abs. 4 i. V. m. § 72 GemO
+
+## IV. Beschlussfassung durch Offenlegung bzw. das schriftliche Verfahren
 
 ### § 22 Offenlegung/schriftliches Verfahren
 
@@ -281,7 +308,9 @@ d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag).
 
 (5) Beschlüsse im Offenlegungs- oder des schriftlichen Verfahrens sind in der Niederschrift (§ 23) aufzunehmen.
 
-## Abschnitt V Niederschrift
+Quelle: § 37 Abs. 1 Satz 2 i. V. m. § 72 GemO
+
+## V. Niederschrift
 
 ### § 23 Inhalt der Niederschrift
 
@@ -302,11 +331,13 @@ d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag).
 11. bei Wahlen die Zahl der auf die einzelnen Bewerberinnen und Bewerber entfallenen Stimmen oder das Ergebnis der Losziehung;
 12. den Nachweis der Verkündung der Abstimmungs- und Wahlergebnisse;
 13. die Mitteilung von Eilentscheidungen nach § 43 Abs. 4 GemO;
-14. die Entbindung von der Schweigepflicht.
+14. die Entbindung von der Schweigepflicht (Ziffer 2 der Verwaltungsvorschrift des Innenministeriums zur Gemeindeordnung (VwVGemO) zu § 35 GemO).
 
 (3) Die Niederschrift muss den zum Verständnis der Verhandlungsgegenstände, Anträge und Beschlüsse wesentlichen Inhalt der Verhandlung wiedergeben. Die jeweiligen Sitzungsvorlagen sind Bestandteile der Niederschrift, sie sind zusammen mit der Originalniederschrift aufzubewahren.
 
 (4) Jedes Mitglied des Ortschaftsrates kann verlangen, dass seine Erklärung oder Abstimmung sowie die zu den Abstimmungen etwa gegebene Erklärung zum Abstimmungsverhalten in der Niederschrift vermerkt werden. Die Aufnahme der jeweiligen Erklärung und des Abstimmungsverhaltens kann nur unmittelbar in der betreffenden Sitzung verlangt werden. Bei geheimer Abstimmung oder Wahl ist ein Antrag auf Vermerk der Stimmabgabe ausgeschlossen.
+
+Quelle: § 38 Abs. 1 i. V. m. § 72 GemO
 
 ### § 24 Führung und Kenntnisgabe der Niederschrift
 
@@ -314,7 +345,9 @@ d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag).
 
 (2) Die Protokollführung kann für die ausschließlichen Zwecke der Niederschrift Tonaufzeichnungen verwenden. Verhandlungsbeteiligte können jedoch verlangen, dass ihre Ausführungen ganz oder teilweise nicht aufgezeichnet bzw. gelöscht werden. Die Tonaufzeichnungen sind vier Wochen nach Kenntnisgabe der Niederschrift vollständig zu löschen, wenn bis zu diesem Zeitpunkt keine Einwendungen vorliegen. Liegen Einwendungen vor, werden die Tonaufzeichnungen nach der Entscheidung des Ortschaftsrats über die Einwendungen gelöscht. Einwendungen sind dem Vorsitzenden bzw. der Vorsitzenden innerhalb von vier Wochen schriftlich mitzuteilen.
 
-(3) Die Niederschrift ist von dem Vorsitzenden bzw. der Vorsitzenden, zwei vom Vorsitzenden bzw. der Vorsitzenden bestimmten, verschiedenen Fraktionen angehörenden und regelmäßig wechselnden ehrenamtlichen Mitgliedern des Ortschaftsrates, die an der Beratung und Beschlussfassung über alle Verhandlungsgegenstände teilgenommen haben, und von dem Schriftführer bzw. der Schriftführerin zu unterzeichnen und innerhalb eines Monats, vom Sitzungstage an gerechnet, zur Kenntnis des Ortschaftsrates zu bringen. Die Kenntnisgabe erfolgt bei öffentlichen Niederschriften durch Bereitstellung im Ratsinformationssystem an alle Mitglieder. Bei nichtöffentlichen Niederschriften erfolgt die Kenntnisgabe durch Auflage in einer Sitzung. Über die Einwendungen entscheidet der Ortschaftsrat. Die Einwendungen und die Entscheidungen sind zu protokollieren. Berichtigungen der Niederschrift erfolgen durch Randvermerk oder Nachtrag.
+(3) Die Niederschrift ist von dem Vorsitzenden bzw. der Vorsitzenden, zwei vom Vorsitzenden bzw. der Vorsitzenden bestimmten, verschiedenen Fraktionen angehörenden und regelmäßig wechselnden ehrenamtlichen Mitgliedern des Ortschaftsrates, die an der Beratung und Beschlussfassung über alle Verhandlungsgegenstände teilgenommen haben und von dem Schriftführer bzw. der Schriftführerin zu unterzeichnen und innerhalb eines Monats, vom Sitzungstage an gerechnet, zur Kenntnis des Ortschaftsrates zu bringen. Die Kenntnisgabe erfolgt bei öffentlichen Niederschriften durch Bereitstellung im Ratsinformationssystem an alle Mitglieder. Bei nichtöffentlichen Niederschriften erfolgt die Kenntnisgabe durch Auflage in einer Sitzung. Der Vorsitzende bzw. die Vorsitzende gibt zu Beginn der Sitzung die Namen der beiden Mitglieder des Ortschaftsrats, die die Niederschrift unterzeichnen, bekannt. Über die Einwendungen entscheidet der Ortschaftsrat. Die Einwendungen und die Entscheidungen sind zu protokollieren. Berichtigungen der Niederschrift erfolgen durch Randvermerk oder Nachtrag.
+
+Quelle: § 38 Abs. 2 i. V. m. § 72 GemO
 
 ### § 25 Einsichtnahme in die Niederschrift/Beschlussprotokolle
 
@@ -324,13 +357,17 @@ d) den Gegenstand bzw. die Beschlussfassung zu vertagen (Vertagungsantrag).
 
 (3) Die Einsichtnahme in die Niederschriften der öffentlichen Sitzungen ist den Bürgerinnen und Bürgern gestattet.
 
-## Abschnitt VI Bekanntgabe von Ortschaftsratsbeschlüssen
+Quelle: § 38 Abs. 2 i. V. m. § 72 GemO
+
+## VI. Bekanntgabe von Ortschaftsratsbeschlüssen
 
 ### § 26 Ortsübliche Bekanntgabe von Ortschaftsratsbeschlüssen
 
 (1) In nichtöffentlicher Sitzung gefasste Beschlüsse sind nach Wiederherstellung der Öffentlichkeit oder, wenn dies ungeeignet ist, in der nächsten öffentlichen Sitzung im Wortlaut bekannt zu geben, soweit nicht das öffentliche Wohl oder berechtigte Interessen Einzelner entgegenstehen.
 
-## Abschnitt VII Schlussbestimmungen
+Quelle: § 35 Abs. 1 Satz 4 i. V. m. § 72 GemO
+
+## VII. Schlussbestimmungen
 
 ### § 27 Abweichen von der Geschäftsordnung
 
