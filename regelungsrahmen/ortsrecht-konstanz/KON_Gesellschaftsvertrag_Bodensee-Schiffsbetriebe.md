@@ -22,6 +22,7 @@ projekte:
 
 ## Inhaltsverzeichnis
 
+- [red. Präambel]
 - § 1 Firma und Sitz
 - § 2 Gegenstand des Unternehmens
 - § 3 Stammkapital
@@ -41,7 +42,9 @@ projekte:
 - § 17 Schlussbestimmungen
 - Bescheinigung nach § 54 Absatz 1 Satz 2 GmbHG
 
-### Bescheinigung nach § 54 Absatz 1 Satz 2 GmbHG
+### [red. Präambel]
+
+**Bescheinigung nach § 54 Absatz 1 Satz 2 GmbHG**
 
 Die in dem nachstehenden Gesellschaftsvertrag geänderten Bestimmungen stimmen mit dem in der Urkunde UVZ A 278/2022 der Notarin Dr. Andrea Stutz in Konstanz vom 24.10.2022 gefassten Beschluss über die Änderung des Gesellschaftsvertrages und die unveränderten Bestimmungen mit dem zuletzt zum Handelsregister eingereichten vollständigen Wortlaut des Gesellschaftsvertrags überein.
 

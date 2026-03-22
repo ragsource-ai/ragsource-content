@@ -16,23 +16,14 @@ projekte:
 
 ## Inhaltsverzeichnis
 
-- Eingangsformel
-
-Erster Abschnitt - Allgemeine Vorschriften
 - § 1 - Geltungsbereich
 - § 1a - Formvorgaben
 - § 2 - Kind, Jugendlicher
 - § 3 - Arbeitgeber
 - § 4 - Arbeitszeit
-
-Zweiter Abschnitt - Beschäftigung von Kindern
 - § 5 - Verbot der Beschäftigung von Kindern
 - § 6 - Behördliche Ausnahmen für Veranstaltungen
 - § 7 - Beschäftigung von nicht vollzeitschulpflichtigen Kindern
-
-Dritter Abschnitt - Beschäftigung Jugendlicher
-
-Erster Titel - Arbeitszeit und Freizeit
 - § 8 - Dauer der Arbeitszeit
 - § 9 - Berufsschule
 - § 10 - Prüfungen und außerbetriebliche Ausbildungsmaßnahmen
@@ -49,25 +40,17 @@ Erster Titel - Arbeitszeit und Freizeit
 - § 21 - Ausnahmen in besonderen Fällen
 - § 21a - Abweichende Regelungen
 - § 21b
-
-Zweiter Titel - Beschäftigungsverbote und
--beschränkungen
 - § 22 - Gefährliche Arbeiten
 - § 23 - Akkordarbeit, tempoabhängige Arbeiten
 - § 24 - Arbeiten unter Tage
 - § 25 - Verbot der Beschäftigung durch bestimmte Personen
 - § 26 - Ermächtigungen
 - § 27 - Behördliche Anordnungen und Ausnahmen
-
-Dritter Titel - Sonstige Pflichten des
-Arbeitgebers
 - § 28 - Menschengerechte Gestaltung der Arbeit
 - § 28a - Beurteilung der Arbeitsbedingungen
 - § 29 - Unterweisung über Gefahren
 - § 30 - Häusliche Gemeinschaft
 - § 31 - Züchtigungsverbot, Verbot der Abgabe von Alkohol und Tabak
-
-Vierter Titel - Gesundheitliche Betreuung
 - § 32 - Erstuntersuchung
 - § 33 - Erste Nachuntersuchung
 - § 34 - Weitere Nachuntersuchungen
@@ -83,42 +66,32 @@ Vierter Titel - Gesundheitliche Betreuung
 - § 44 - Kosten der Untersuchungen
 - § 45 - Gegenseitige Unterrichtung der Ärzte
 - § 46 - Ermächtigungen
-
-Vierter Abschnitt - Durchführung des Gesetzes
-
-Erster Titel - Aushänge und Verzeichnisse
 - § 47 - Bekanntgabe des Gesetzes und der Aufsichtsbehörde
 - § 48 - Information über Arbeitszeit und Pausen
 - § 49 - Verzeichnisse der Jugendlichen
 - § 50 - Auskunft, Vorlage der Verzeichnisse
-
-Zweiter Titel - Aufsicht
 - § 51 - Aufsichtsbehörde, Besichtigungsrechte und Berichtspflicht
 - § 52 - (weggefallen)
 - § 53 - Mitteilung über Verstöße
 - § 54 - Ausnahmebewilligungen
-
-Dritter Titel - Ausschüsse für Jugendarbeitsschutz
 - § 55 - Bildung des Landesausschusses für Jugendarbeitsschutz
 - § 56 - Bildung des Ausschusses für Jugendarbeitsschutz bei der Aufsichtsbehörde
 - § 57 - Aufgaben der Ausschüsse
-
-Fünfter Abschnitt - Straf- und Bußgeldvorschriften
 - § 58 - Bußgeld- und Strafvorschriften
 - § 59 - Bußgeldvorschriften
 - § 60 - Verwaltungsvorschriften für die Verfolgung und Ahndung
-von Ordnungswidrigkeiten
-
-Sechster Abschnitt - Schlußvorschriften
 - § 61 - Beschäftigung von Jugendlichen auf Kauffahrteischiffen
 - § 62 - Beschäftigung im Vollzug einer Freiheitsentziehung
-- § 71 - (weggefallen)
+- § 63 - [red. weggefallen]
+- § 64 - [red. weggefallen]
+- § 65 - [red. weggefallen]
+- § 66 - [red. weggefallen]
+- § 67 - [red. weggefallen]
+- § 68 - [red. weggefallen]
+- § 69 - [red. weggefallen]
+- § 70 - [red. weggefallen]
+- § 71 - [red. weggefallen]
 - § 72 - Inkrafttreten
-
-### Eingangsformel
-
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
-
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
@@ -401,7 +374,7 @@ Jugendliche dürfen nur an fünf Tagen in der Woche beschäftigt werden. Die bei
 
 (3) Die Kirchen und die öffentlich-rechtlichen Religionsgesellschaften können die in Absatz 1 genannten Abweichungen in ihren Regelungen vorsehen.
 
-### § 21b
+### § 21b [red. Verordnungsermächtigung für Ausnahmen von Arbeits- und Ruhezeitvorschriften]
 
 Das Bundesministerium für Arbeit und Soziales kann im Interesse der Berufsausbildung oder der Zusammenarbeit von Jugendlichen und Erwachsenen durch Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen von den Vorschriften
 1. des § 8, der §§ 11 und 12, der §§ 15 und 16, des § 17 Abs. 2 und 3 sowie des § 18 Abs. 3 im Rahmen des § 21a Abs. 1,
@@ -409,8 +382,7 @@ Das Bundesministerium für Arbeit und Soziales kann im Interesse der Berufsausbi
 3. des § 17 Abs. 1 und § 18 Abs. 1 an höchstens 26 Sonn- und Feiertagen im Jahr zulassen, soweit eine Beeinträchtigung der Gesundheit oder der körperlichen oder seelisch-geistigen Entwicklung der Jugendlichen nicht zu befürchten ist.
 
 
-## Zweiter Titel - Beschäftigungsverbote und
--beschränkungen
+## Zweiter Titel - Beschäftigungsverbote und -beschränkungen
 
 ### § 22 - Gefährliche Arbeiten
 
@@ -820,7 +792,23 @@ Für die Beschäftigung von Jugendlichen als Besatzungsmitglieder auf Kauffahrte
 
 (4) § 18 Abs. 1 und 2 gilt nicht für die Beschäftigung jugendlicher Anstaltsinsassen in landwirtschaftlichen Betrieben der Vollzugsanstalten mit Arbeiten, die auch an Sonn- und Feiertagen naturnotwendig vorgenommen werden müssen.
 
-### § 71 - (weggefallen)
+### § 63 - [red. weggefallen]
+
+### § 64 - [red. weggefallen]
+
+### § 65 - [red. weggefallen]
+
+### § 66 - [red. weggefallen]
+
+### § 67 - [red. weggefallen]
+
+### § 68 - [red. weggefallen]
+
+### § 69 - [red. weggefallen]
+
+### § 70 - [red. weggefallen]
+
+### § 71 - [red. weggefallen]
 
 ### § 72 - Inkrafttreten
 

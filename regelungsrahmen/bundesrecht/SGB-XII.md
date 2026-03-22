@@ -550,6 +550,7 @@ Für ein Kind vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres.
 
 Regelbedarfsstufe 6:
 Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
+
 ### § 28a Fortschreibung der Regelbedarfsstufen
 
 (1) Für Jahre bis zur nächsten Neuermittlung nach § 28 werden die Regelbedarfsstufen jeweils zum 1. Januar nach den Absätzen 2 bis 5 fortgeschrieben.
@@ -1890,7 +1891,7 @@ Hat ein vorrangig verpflichteter Leistungsträger in Unkenntnis der Leistung des
 
 ### § 107 Kostenerstattung bei Unterbringung in einer anderen Familie
 
-### § 98 Abs. 2 und § 106 gelten entsprechend, wenn ein Kind oder ein Jugendlicher in einer anderen Familie oder bei anderen Personen als bei seinen Eltern oder bei einem Elternteil untergebracht ist.
+§ 98 Abs. 2 und § 106 gelten entsprechend, wenn ein Kind oder ein Jugendlicher in einer anderen Familie oder bei anderen Personen als bei seinen Eltern oder bei einem Elternteil untergebracht ist.
 
 ### § 108 Kostenerstattung bei Einreise aus dem Ausland
 
@@ -1950,7 +1951,7 @@ Die Pflicht eines Trägers der Sozialhilfe zur Kostenerstattung, die nach der vo
 
 ### § 116a Rücknahme von Verwaltungsakten
 
-### § 44 des Zehnten Buches gilt mit der Maßgabe, dass
+§ 44 des Zehnten Buches gilt mit der Maßgabe, dass
 1. rechtswidrige nicht begünstigende Verwaltungsakte nach den Absätzen 1 und 2 nicht später als vier Jahre nach Ablauf des Jahres, in dem der Verwaltungsakt bekanntgegeben wurde, zurückzunehmen sind; ausreichend ist, wenn die Rücknahme innerhalb dieses Zeitraumes beantragt wird,
 2. anstelle des Zeitraums von vier Jahren nach Absatz 4 Satz 1 ein Zeitraum von einem Jahr tritt.
 
@@ -2258,7 +2259,7 @@ Für Personen, die am 31. Dezember 2004 einen Anspruch auf einen zusätzlichen B
 
 ### § 133b Übergangsregelung zu Bedarfen für Unterkunft und Heizung
 
-### § 42a Absatz 3 und 4 findet keine Anwendung auf Leistungsberechtigte, bei denen vor dem 1. Juli 2017 Bedarfe für Unterkunft und Heizung nach § 35 anerkannt worden sind, die
+§ 42a Absatz 3 und 4 findet keine Anwendung auf Leistungsberechtigte, bei denen vor dem 1. Juli 2017 Bedarfe für Unterkunft und Heizung nach § 35 anerkannt worden sind, die
 1. dem Kopfteil an den Aufwendungen für Unterkunft und Heizung entsprechen, die für einen entsprechenden Mehrpersonenhaushalt als angemessen gelten, oder
 2. nach ihrer Höhe die durchschnittliche Warmmiete eines Einpersonenhaushaltes im örtlichen Zuständigkeitsbereich des für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Trägers nicht übersteigen.
 Satz 1 findet Anwendung, solange die leistungsberechtigte Person mit mehreren Personen in derselben Wohnung lebt.

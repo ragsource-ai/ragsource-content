@@ -32,8 +32,8 @@ projekte:
 - § 11 a - Nutzungsentgelt im Krankenhaus
 - § 12 - Erhebung des Entgelts
 - § 13 - Nebentätigkeit der Richter
-- § 14
-- § 15
+- § 14 - [red. weggefallen]
+- § 15 - [red. weggefallen]
 - § 16 - Inkrafttreten
 
 
@@ -246,11 +246,11 @@ Maßgebend für die Berechnung ist die in Rechnung gestellte Vergütung.
 Soweit das Deutsche Richtergesetz und das Landesrichter- und -staatsanwaltsgesetz nichts anderes bestimmen, gelten die Vorschriften dieser Verordnung für Richter entsprechend.
 
 
-### § 14
+### § 14 - [red. weggefallen]
 _(aufgehoben)_
 
 
-### § 15
+### § 15 - [red. weggefallen]
 _(aufgehoben)_
 
 

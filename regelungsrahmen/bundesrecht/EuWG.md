@@ -52,10 +52,10 @@ Mitgliedschaft im Europäischen Parlament
 Dritter Abschnitt - Schlußbestimmungen
 - § 25 - Wahlkosten, Wahlordnung
 - § 26 - Wahlprüfung und Anfechtung
-- § 27
+- § 27 - [red. weggefallen]
 - § 28 - Staatliche Mittel für sonstige politische Vereinigungen
 - § 29 - Übergangsregelung
-- § 30
+- § 30 - [red. weggefallen]
 
 
 ## Erster Abschnitt - Wahl der Abgeordneten des
@@ -396,7 +396,7 @@ Mitgliedschaft im Europäischen Parlament
 
 (4) Im übrigen können Entscheidungen und Maßnahmen, die sich unmittelbar auf das Wahlverfahren beziehen, nur mit den in diesem Gesetz sowie in der Wahlordnung vorgesehenen Rechtsbehelfen angefochten werden.
 
-### § 27
+### § 27 - [red. weggefallen]
 
 (Änderung des Strafgesetzbuches)
 
@@ -414,6 +414,6 @@ Mitgliedschaft im Europäischen Parlament
 
 Ausschlüsse vom Wahlrecht und Ausschlüsse von der Wählbarkeit, die nicht auf einem Richterspruch im Sinne von § 6a Absatz 1 in der ab dem 1. Juli 2019 geltenden Fassung oder § 6a Absatz 2 Nummer 1 in der ab dem 1. Juli 2019 geltenden Fassung oder auf § 6a Absatz 2 Nummer 2 oder § 6b Absatz 3 Nummer 2 oder § 6b Absatz 4 Nummer 3 oder Nummer 4 beruhen, sind nicht nach § 3 Absatz 2 Nummer 1a des Bundesmeldegesetzes im Melderegister zu speichern.
 
-### § 30
+### § 30 - [red. weggefallen]
 
 (Inkrafttreten)

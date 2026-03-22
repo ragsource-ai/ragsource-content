@@ -65,7 +65,7 @@ projekte:
 - VIERTER TEIL - Betreten des Waldes
 - § 37 - Betreten des Waldes
 - § 38 - Sperren von Wald
-- § 39
+- § 39 - [Red. weggefallen]
 - § 40 - Aneignung von Waldfrüchten und Waldpflanzen
 - § 41 - Waldgefährdung durch Feuer
 - FÜNFTER TEIL - Beratung und Förderung der Forstwirtschaft
@@ -796,7 +796,7 @@ Die Karten müssen erkennen lassen, welche Grundstücke zu dem unter Schutz gest
 (3) Das Ministerium wird ermächtigt, durch Rechtsverordnung die Art und Kennzeichnung der Sperrung zu bestimmen.
 
 
-### § 39
+### § 39 - [Red. weggefallen]
 _(aufgehoben)_
 
 

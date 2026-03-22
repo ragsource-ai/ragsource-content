@@ -85,8 +85,8 @@ projekte:
 	4. Unterabschnitt - Ermittlung, Feststellung und Bekanntmachung des Wahlergebnisses bei der Wahl der Kreisräte
 - § 46 - (Ermittlung, Feststellung und Bekanntmachung des Wahlergebnisses bei der Wahl der Kreisräte)
 4. ABSCHNITT - Prüfung und Anfechtung von Wahlen
-- § 47 - (Prüfung und Anfechtung von Wahlen)
-5. ABSCHNITT - Nachholung und Wiederholung von Wahlen
+- § 47 - [red. Prüfung und Anfechtung von Wahlen]
+1. ABSCHNITT - Nachholung und Wiederholung von Wahlen
 - § 48 - Nachholung von Wahlen
 - § 49 - Wiederholungs- und Neuwahlen bei teilweiser Ungültigkeit
 6. ABSCHNITT - Gleichzeitige Durchführung mehrerer Wahlen
@@ -107,7 +107,7 @@ projekte:
 - § 52 - Anhörung der Bürger bei Grenzänderungen
 - § 53 - Antrag auf Einwohnerversammlung, Einwohnerantrag, Bürgerbegehren, Bürgerentscheid
 8. ABSCHNITT - Schlußbestimmungen
-- § 54 (aufgehoben)
+- § 54 (aufgehoben) - [red. weggefallen]
 - § 55 - Öffentliche Bekanntmachungen
 - § 56 - Sicherung der Wählerverzeichnisse, der Wahlscheinverzeichnisse und der Unterstützungsunterschriften
 - § 57 - Aufbewahrung und Vernichtung von Wahlunterlagen
@@ -1121,7 +1121,7 @@ abgegeben wurden, nicht namentlich aufgeführt werden; die auf sie insgesamt ent
 
 ## 4. ABSCHNITT - Prüfung und Anfechtung von Wahlen
 
-### § 47
+### § 47 - [red. Prüfung und Anfechtung von Wahlen]
 
 (1) Zur Prüfung der Wahl legen bei Gemeindewahlen der Bürgermeister, bei der Wahl der Kreisräte der Landrat der Rechtsaufsichtsbehörde unverzüglich vor
 
@@ -1291,7 +1291,7 @@ Bei der Ermittlung des Wahlergebnisses für die gleichzeitig stattfindenden Wahl
 
 ## 8. ABSCHNITT - Schlußbestimmungen
 
-### § 54
+### § 54 - [red. weggefallen]
 _(aufgehoben)_
 
 

@@ -48,9 +48,6 @@ projekte:
 - § 24 Änderungen des Vertrages, Nebenabreden, Bekanntmachungen
 - § 25 Gültigkeit, Lücken, Auslegung
 - § 26 Kosten
-- § 17 GmbHG bleibt unberührt
-
-### § 17 GmbHG bleibt unberührt
 
 ## I. Allgemeine Vorschriften
 

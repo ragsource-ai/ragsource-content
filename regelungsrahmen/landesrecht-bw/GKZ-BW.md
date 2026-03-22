@@ -48,7 +48,7 @@ projekte:
 - § 26 Ausdehnung der Satzungsbefugnis
 - § 27 Gemeinsame Dienststellen
 - § 27a Pflichtvereinbarung
-- § 28
+- § 28 - [red. Aufsicht]
 - § 29 Beteiligung von Zweckverbänden und Rechtsträgern gemeindefreier Grundstücke
 - § 30 Anwendung auf sonstige Verbände
 - § 31 Badischer Gemeindeversicherungsverband
@@ -405,7 +405,7 @@ Der Zweckverband gilt nach seiner Auflösung als fortbestehend, soweit der Zweck
 
 ## FÜNFTER TEIL - Aufsicht
 
-### § 28
+### § 28 - [red. Aufsicht]
 
 (1) Der Zweckverband und die gemeinsame selbstständige Kommunalanstalt stehen unter staatlicher Aufsicht. Die §§ 118, 120 bis 127 und 129 der Gemeindeordnung gelten entsprechend.
 

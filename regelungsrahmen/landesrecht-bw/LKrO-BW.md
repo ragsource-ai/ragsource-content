@@ -35,7 +35,7 @@ status: published
 - § 15 - Entschädigung für ehrenamtliche Tätigkeit
 - § 16 - Einrichtungen
 - § 17 - Unterrichtung der Einwohner
-- § 18
+- § 18 - [red. Organe]
 - § 19 - Rechtsstellung und Aufgaben
 - § 20 - Zusammensetzung
 - § 21 - Amtszeit
@@ -72,7 +72,7 @@ status: published
 - § 48 - Anzuwendende Vorschriften
 - § 49 - Erhebung von Abgaben, Kreisumlage
 - § 50 - Fachbediensteter für das Finanzwesen
-- § 51
+- § 51 - [red. Aufsicht]
 - § 52 - Personelle Ausstattung, Sachaufwand
 - § 53 - Rechtsstellung des Landrats als Leiter der unteren Verwaltungsbehörde
 - § 54 - Mitwirkung des Kreistags
@@ -298,7 +298,7 @@ Ferner kann ein Kreisrat sein Ausscheiden aus dem Kreistag verlangen, wenn er au
 
 ## 1. ABSCHNITT - Organe
 
-### § 18
+### § 18 - [red. Organe]
 
 Verwaltungsorgane des Landkreises sind der Kreistag und der Landrat.
 
@@ -705,7 +705,7 @@ Auf die Wirtschaftsführung des Landkreises finden die für die Stadtkreise und 
 
 ## VIERTER TEIL - Aufsicht
 
-### § 51
+### § 51 - [red. Aufsicht]
 
 (1) Rechtsaufsichtsbehörde und obere Rechtsaufsichtsbehörde für den Landkreis ist das Regierungspräsidium, oberste Rechtsaufsichtsbehörde ist das Innenministerium.
 

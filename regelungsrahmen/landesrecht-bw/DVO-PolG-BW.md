@@ -46,13 +46,13 @@ projekte:
 - VIERTER ABSCHNITT - Präsidium Technik, Logistik, Service der Polizei
 - § 19 - Allgemeines
 - § 20 - Aufgaben
-- § 21
-- § 22
+- § 21 - [red. weggefallen]
+- § 22 - [red. weggefallen]
 - FÜNFTER ABSCHNITT - Regionale Polizeipräsidien
 - § 23 - Aufgaben
-- § 24
-- § 25
-- § 26
+- § 24 - [red. weggefallen]
+- § 25 - [red. weggefallen]
+- § 26 - [red. weggefallen]
 - DRITTER TEIL - Übertragung von Zuständigkeiten auf Polizeidienststellen anderer Länder und des Bundes
 - § 27 - Übertragung von Zuständigkeiten auf Polizeidienststellen des Freistaates Bayern
 - § 28 - Übertragung von Zuständigkeiten auf Polizeidienststellen des Landes Hessen
@@ -172,53 +172,29 @@ Für die Verwertung gilt § 39 Absätze 2 und 4 PolG entsprechend. Bleibt die Ve
 
 (3) In Fällen von geringer Bedeutung verkürzen sich die Überprüfungsfristen auf drei Jahre. Fälle von geringer Bedeutung sind
 
--
+- Hausfriedensbruch gemäß § 123 des Strafgesetzbuchs (StGB),
 
-Hausfriedensbruch gemäß § 123 des Strafgesetzbuchs (StGB),
+- Beleidigung, üble Nachrede, Verleumdung gemäß §§ 185, 186, 187 StGB,
 
--
+- vorsätzliche Körperverletzung gemäß § 223 StGB in leichten und mittelschweren Fällen; ein leichter oder mittelschwerer Fall liegt in der Regel nicht vor, wenn gemäß Nummer 86 der Richtlinien für das Strafverfahren und das Bußgeldverfahren ein öffentliches Interesse an der Verfolgung von Amts wegen besteht,
 
-Beleidigung, üble Nachrede, Verleumdung gemäß §§ 185, 186, 187 StGB,
+- fahrlässige Körperverletzung gemäß § 229 StGB,
 
--
+- Nötigung gemäß § 240 StGB,
 
-vorsätzliche Körperverletzung gemäß § 223 StGB in leichten und mittelschweren Fällen; ein leichter oder mittelschwerer Fall liegt in der Regel nicht vor, wenn gemäß Nummer 86 der Richtlinien für das Strafverfahren und das Bußgeldverfahren ein öffentliches Interesse an der Verfolgung von Amts wegen besteht,
+- Bedrohung gemäß § 241 StGB in leichten und mittelschweren Fällen; ein leichter oder mittelschwerer Fall liegt in der Regel nicht vor, wenn die Bedrohung mittels einer Waffe oder eines gefährlichen Werkzeuges erfolgt,
 
--
+- Diebstahl gemäß § 242 StGB und Unterschlagung gemäß § 246 StGB bis zu einer Schadenshöhe von 500 Euro,
 
-fahrlässige Körperverletzung gemäß § 229 StGB,
+- Entziehung elektrischer Energie gemäß § 248c StGB bis zu einer Schadenshöhe von 500 Euro,
 
--
+- Betrug gemäß § 263 StGB bis zu einer Schadenshöhe von 500 Euro,
 
-Nötigung gemäß § 240 StGB,
+- Erschleichen von Leistungen gemäß § 265a StGB,
 
--
+- Fischwilderei gemäß § 293 StGB bis zu einer Schadenshöhe von 500 Euro,
 
-Bedrohung gemäß § 241 StGB in leichten und mittelschweren Fällen; ein leichter oder mittelschwerer Fall liegt in der Regel nicht vor, wenn die Bedrohung mittels einer Waffe oder eines gefährlichen Werkzeuges erfolgt,
-
--
-
-Diebstahl gemäß § 242 StGB und Unterschlagung gemäß § 246 StGB bis zu einer Schadenshöhe von 500 Euro,
-
--
-
-Entziehung elektrischer Energie gemäß § 248c StGB bis zu einer Schadenshöhe von 500 Euro,
-
--
-
-Betrug gemäß § 263 StGB bis zu einer Schadenshöhe von 500 Euro,
-
--
-
-Erschleichen von Leistungen gemäß § 265a StGB,
-
--
-
-Fischwilderei gemäß § 293 StGB bis zu einer Schadenshöhe von 500 Euro,
-
--
-
-Sachbeschädigung gemäß § 303 StGB bis zu einer Schadenshöhe von 500 Euro.
+- Sachbeschädigung gemäß § 303 StGB bis zu einer Schadenshöhe von 500 Euro.
 
 Eine Verkürzung der Überprüfungsfristen ist auch in anderen Fällen vorzusehen, die den Fällen von geringer Bedeutung im Hinblick auf deren geringen Unrechtsgehalt und die geringen Folgen der Tat gleichstehen.
 
@@ -464,11 +440,11 @@ Das Präsidium Technik, Logistik, Service der Polizei hat insbesondere
 
 
 
-### § 21
+### § 21 - [red. weggefallen]
 _(aufgehoben)_
 
 
-### § 22
+### § 22 - [red. weggefallen]
 _(aufgehoben)_
 
 
@@ -501,15 +477,15 @@ c) tödlichen Unfällen nach § 18 Absatz 1 Nummer 2,
 (4) Die regionalen Polizeipräsidien entscheiden vorbehaltlich der Zuständigkeit des Landeskriminalamts nach § 11 Nummer 4 über Anträge auf Berichtigung, Löschung sowie Einschränkung der Verarbeitung der von ihnen in Dateien und Akten gespeicherten personenbezogenen Daten. Sie sind zuständig für den Abruf von Lichtbildern im automatisierten Verfahren nach § 22 a Absatz 2 des Passgesetzes vom 19. April 1986 (BGBl. I S. 537), zuletzt geändert durch Artikel 2 des Gesetzes vom 18. Juni 2009 (BGBl. I S. 1346, 1357), und nach § 25 Absatz 2 des Personalausweisgesetzes vom 18. Juni 2009 (BGBl. I S. 1346).
 
 
-### § 24
+### § 24 - [red. weggefallen]
 _(aufgehoben)_
 
 
-### § 25
+### § 25 - [red. weggefallen]
 _(aufgehoben)_
 
 
-### § 26
+### § 26 - [red. weggefallen]
 _(aufgehoben)_
 
 

@@ -34,8 +34,8 @@ projekte:
 - § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
 - § 18 - Sondervermögen für die Kameradschaftspflege
 - § 19 - Werkfeuerwehren
-- § 20 - (Landesfeuerwehrschule)
-- § 21 - (Feuerwehrverbände)
+- § 20 - [red. Landesfeuerwehrschule]
+- § 21 - [red. Feuerwehrverbände]
 - § 22 - Aufsichtsbehörden
 - § 23 - Feuerwehrtechnische Beamte
 - § 24 - Aufgaben der feuerwehrtechnischen Beamten
@@ -343,13 +343,13 @@ wird durch Satzung geregelt.
 
 ## 3. ABSCHNITT - Landesfeuerwehrschule
 
-### § 20
+### § 20 - [red. Landesfeuerwehrschule]
 
 Die Landesfeuerwehrschule ist eine Einrichtung des Landes zur Aus- und Fortbildung der Angehörigen der Feuerwehren. Sie untersteht dem Innenministerium.
 
 ## 4. ABSCHNITT - Feuerwehrverbände
 
-### § 21
+### § 21 - [red. Feuerwehrverbände]
 
 (1) Die Feuerwehren können sich insbesondere zur Vertretung der Interessen der Feuerwehrangehörigen, zur Stärkung des Ehrenamtes bei der Feuerwehr und zur Förderung des Feuerwehrgedankens zu gemeinnützigen Feuerwehrverbänden des Privatrechts zusammenschließen.
 

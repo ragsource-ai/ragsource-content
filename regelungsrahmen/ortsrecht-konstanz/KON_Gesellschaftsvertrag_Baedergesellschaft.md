@@ -22,6 +22,7 @@ projekte:
 
 ## Inhaltsverzeichnis
 
+- Präambel
 - § 1 Firma und Sitz der Gesellschaft
 - § 2 Gegenstand der Gesellschaft
 - § 3 Stammkapital, Stammeinlagen, Verfügung über Geschäftsteile

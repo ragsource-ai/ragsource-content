@@ -59,7 +59,7 @@ Achter Abschnitt - Schlußvorschriften
 - § 24 - Umsetzung von zwischenstaatlichen Vereinbarungen
 und Rechtsakten der EG
 - § 25 - Übergangsregelung für Tarifverträge
-- § 26
+- § 26 - [Red. weggefallen]
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -397,6 +397,6 @@ Die Bundesregierung kann mit Zustimmung des Bundesrates zur Erfüllung von Verpf
 
 Enthält ein am 1. Januar 2004 bestehender oder nachwirkender Tarifvertrag abweichende Regelungen nach § 7 Abs. 1 oder 2 oder § 12 Satz 1, die den in diesen Vorschriften festgelegten Höchstrahmen überschreiten, bleiben diese tarifvertraglichen Bestimmungen bis zum 31. Dezember 2006 unberührt. Tarifverträgen nach Satz 1 stehen durch Tarifvertrag zugelassene Betriebsvereinbarungen sowie Regelungen nach § 7 Abs. 4 gleich.
 
-### § 26
+### § 26 - [Red. weggefallen]
 
 (weggefallen)

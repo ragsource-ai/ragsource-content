@@ -66,16 +66,16 @@ projekte:
 - § 44 a - Umsetzung von Rechtsakten der Europäischen Gemeinschaft
 - § 45 - Mitführen von Fanggeräten und sonstiger Fangmittel
 - § 46 - Anzeige von Fischsterben
-- § 47
+- § 47 - [red. weggefallen]
 - Siebter Abschnitt - Fischereibehörden, Fischereibeiräte, Fischereiaufsicht
 - § 48 - Fischereibehörden
 - § 49 - Fischereibeiräte
 - § 50 - Fischereiaufsicht
 - Achter Abschnitt - Ordnungswidrigkeiten
-- § 51
+- § 51 - [red. Ordnungswidrigkeiten]
 - Neunter Abschnitt - Übergangs- und Schlußvorschriften
-- § 52
-- § 53
+- § 52 - [red. weggefallen]
+- § 53 - [red. weggefallen]
 - § 54 - Verwaltungsvorschriften
 - § 55 - Änderung bestehender Vorschriften
 - § 56 - Aufhebung bestehender Vorschriften
@@ -384,7 +384,7 @@ _(aufgehoben)_
 (4) Werden nach Erteilung des Fischereischeines Gründe bekannt, die bereits vorher vorhanden waren oder später entstanden sind und die eine Versagung des Fischereischeines gerechtfertigt hätten, so kann die Behörde, die den Fischereischein erteilt hat, diesen für ungültig erklären und einziehen.
 
 
-### § 34
+### § 34 - [red. weggefallen]
 _(aufgehoben)_
 
 
@@ -577,7 +577,7 @@ Niemand darf an oder auf Gewässern, in denen er nicht zum Fischfang berechtigt 
 Die Fischereiausübungsberechtigten sind verpflichtet, Fischsterben unverzüglich der Ortspolizeibehörde, wenn diese nicht erreichbar ist, bei einer Polizeidienststelle anzuzeigen. Bei Gefahr in Verzug kann die Anzeige in jedem Fall auch bei einer Polizeidienststelle erfolgen.
 
 
-### § 47
+### § 47 - [red. weggefallen]
 _(aufgehoben)_
 
 
@@ -630,7 +630,7 @@ die gefangenen Fische und die Fanggeräte abzunehmen. Er ist ferner berechtigt, 
 
 ## Achter Abschnitt - Ordnungswidrigkeiten
 
-### § 51
+### § 51 - [red. Ordnungswidrigkeiten]
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -703,11 +703,11 @@ die gefangenen Fische und die Fanggeräte abzunehmen. Er ist ferner berechtigt, 
 
 ## Neunter Abschnitt - Übergangs- und Schlußvorschriften
 
-### § 52
+### § 52 - [red. weggefallen]
 _(aufgehoben)_
 
 
-### § 53
+### § 53 - [red. weggefallen]
 _(aufgehoben)_
 
 

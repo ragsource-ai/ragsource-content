@@ -87,7 +87,7 @@ projekte:
 - ZEHNTER ABSCHNITT - Erweiterter Beteiligungsbericht
 - § 56 - Erweiterter Beteiligungsbericht
 - § 57 - Ergänzungen zum Erweiterten Beteiligungsbericht
-- § 58
+- § 58 - [red. weggefallen]
 - ELFTER ABSCHNITT - Übergangs- und Schlussvorschriften
 - § 59 - Bestimmungen für Sanierungs-, Entwicklungs- und Umlegungsmaßnahmen
 - § 60 - Sondervermögen, Treuhandvermögen
@@ -1312,7 +1312,7 @@ b) Angaben über die erwartete Entwicklung wesentlicher Rahmenbedingungen, insbe
 
 
 
-### § 58
+### § 58 - [red. weggefallen]
 _(aufgehoben)_
 
 

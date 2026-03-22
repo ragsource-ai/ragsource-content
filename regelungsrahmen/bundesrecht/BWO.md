@@ -37,7 +37,7 @@ Erster Unterabschnitt - Wahlbezirke
 
 Zweiter Unterabschnitt - Wählerverzeichnis
 - § 14 - Führung des Wählerverzeichnisses
-- § 15
+- § 15 - [red. weggefallen]
 - § 16 - Eintragung der Wahlberechtigten in das Wählerverzeichnis
 - § 17 - Zuständigkeiten für die Eintragung in das Wählerverzeichnis
 - § 18 - Verfahren für die Eintragung in das Wählerverzeichnis auf Antrag
@@ -102,7 +102,7 @@ Alten- oder Pflegeheimen
 - § 63 - Stimmabgabe in Klöstern
 - § 64 - Stimmabgabe in sozialtherapeutischen Anstalten
 und Justizvollzugsanstalten
-- § 65
+- § 65 - [red. weggefallen]
 - § 66 - Briefwahl
 
 Vierter Abschnitt - Ermittlung und Feststellung der
@@ -138,8 +138,8 @@ Sechster Abschnitt - Übergangs- und Schlussbestimmungen
 - § 89 - Sicherung der Wahlunterlagen
 - § 90 - Vernichtung von Wahlunterlagen
 - § 91 - Stadtstaatklausel
-- § 92
-- § 93
+- § 92 - [red. weggefallen]
+- § 93 - [red. weggefallen]
 
 Anlage 1
 
@@ -344,7 +344,7 @@ Geldbußen nach § 49a Abs. 1 Nr. 1 des Bundeswahlgesetzes fließen in die Kasse
 
 (4) Besteht ein Wahlbezirk aus mehreren Gemeinden oder Teilen mehrerer Gemeinden, so legt jede Gemeindebehörde das Wählerverzeichnis für ihren Teil des Wahlbezirks an.
 
-### § 15
+### § 15 - [red. weggefallen]
 
 (weggefallen)
 
@@ -889,7 +889,7 @@ und Justizvollzugsanstalten
 
 (3) § 62 Abs. 3 und § 61 Abs. 6 bis 8 gelten entsprechend. Im Übrigen gelten die allgemeinen Bestimmungen.
 
-### § 65
+### § 65 - [red. weggefallen]
 
 (weggefallen)
 
@@ -1267,11 +1267,11 @@ den Bundeswahlleiter
 
 In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche Stellen die Aufgaben wahrnehmen, die im Gesetz und in dieser Verordnung der Gemeindebehörde übertragen sind.
 
-### § 92
+### § 92 - [red. weggefallen]
 
 (Änderung der Bundeswahlgeräteverordnung)
 
-### § 93
+### § 93 - [red. weggefallen]
 
 (Inkrafttreten, Außerkrafttreten)
 

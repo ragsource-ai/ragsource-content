@@ -42,14 +42,14 @@ projekte:
 - § 17 - Vorläufiger Schutz
 - § 18 - Besonderer Schutz bei Katastrophen
 - 5. ABSCHNITT - Gesamtanlagen
-- § 19
+- § 19 - [red. Gesamtanlagen]
 - 6. ABSCHNITT - Fund von Kulturdenkmalen
 - § 20 - Zufällige Funde
 - § 21 - Nachforschungen
 - § 22 - Grabungsschutzgebiete
 - § 23 - Schatzregal
 - 7. ABSCHNITT - Entschädigung
-- § 24
+- § 24 - [red. Entschädigung]
 - 8. ABSCHNITT - Förmliche Enteignung
 - § 25 - Voraussetzungen der Enteignung
 - § 26 - Enteignung beweglicher Sachen
@@ -306,7 +306,7 @@ Soweit in der Rechtsverordnung eine Ablieferungspflicht vorgesehen wird, ist anz
 
 ## 5. ABSCHNITT - Gesamtanlagen
 
-### § 19
+### § 19 - [red. Gesamtanlagen]
 
 (1) Die Gemeinden können Gesamtanlagen, insbesondere Straßen-, Platz- und Ortsbilder, an deren Erhaltung aus wissenschaftlichen, künstlerischen oder heimatgeschichtlichen Gründen ein besonderes öffentliches Interesse besteht, im Benehmen mit dem Landesamt für Denkmalpflege durch Satzung unter Denkmalschutz stellen.
 
@@ -343,7 +343,7 @@ Bewegliche Kulturdenkmale, die herrenlos sind oder die so lange verborgen gewese
 
 ## 7. ABSCHNITT - Entschädigung
 
-### § 24
+### § 24 - [red. Entschädigung]
 
 (1) Soweit Maßnahmen auf Grund dieses Gesetzes enteignende Wirkung haben, ist eine angemessene Entschädigung zu leisten. §§ 7 bis 13 des Landesenteignungsgesetzes gelten entsprechend.
 

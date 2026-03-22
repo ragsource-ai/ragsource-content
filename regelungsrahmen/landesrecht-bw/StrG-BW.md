@@ -94,7 +94,7 @@ projekte:
 - § 53c - Zuständigkeiten nach dem Telekommunikationsgesetz
 - VIERTER TEIL - Ordnungswidrigkeiten, Übergangs- und Schlußbestimmungen
 - 1. ABSCHNITT - Ordnungswidrigkeiten
-- § 54
+- § 54 - [Red. Ordnungswidrigkeiten]
 - 2. ABSCHNITT - Übergangs- und Schlußbestimmungen
 - § 55 - Widmung von Feldwegen
 - § 56 - Unterhaltung bestehender Böschungen und Stützmauern
@@ -1007,7 +1007,7 @@ Für Entscheidungen und Maßnahmen bei der Benutzung von Straßen nach dem Absch
 
 ## 1. ABSCHNITT - Ordnungswidrigkeiten
 
-### § 54
+### § 54 - [Red. Ordnungswidrigkeiten]
 
 (1) Ordnungswidrig handelt, wer
 

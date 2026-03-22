@@ -94,7 +94,7 @@ Erster Unterabschnitt - Erster Rechtszug
 - § 46h - Formfiktion
 - § 47 - Sondervorschriften über Ladung und Einlassung *)
 - § 48 - Rechtsweg und Zuständigkeit
-- § 48a
+- § 48a - [red. weggefallen]
 - § 49 - Ablehnung von Gerichtspersonen
 - § 50 - Zustellung
 - § 50a - Videoverhandlung
@@ -726,7 +726,7 @@ Ist eine empfangsbedürftige Willenserklärung, die der schriftlichen oder elekt
 1. bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern und Arbeitgebern aus einem Arbeitsverhältnis und aus Verhandlungen über die Eingehung eines Arbeitsverhältnisses, das sich nach einem Tarifvertrag bestimmt,
 2. bürgerliche Rechtsstreitigkeiten aus dem Verhältnis einer gemeinsamen Einrichtung der Tarifvertragsparteien zu den Arbeitnehmern oder Arbeitgebern. Im Geltungsbereich eines Tarifvertrags nach Satz 1 Nr. 1 gelten die tarifvertraglichen Bestimmungen über das örtlich zuständige Arbeitsgericht zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern, wenn die Anwendung des gesamten Tarifvertrags zwischen ihnen vereinbart ist. Die in § 38 Abs. 2 und 3 der Zivilprozeßordnung vorgesehenen Beschränkungen finden keine Anwendung.
 
-### § 48a
+### § 48a - [red. weggefallen]
 
 -
 
@@ -1091,10 +1091,9 @@ Hinsichtlich der Beschwerde gegen Entscheidungen der Arbeitsgerichte oder ihrer 
 (8) Auf das Beschlussverfahren finden die Absätze 1 bis 7 entsprechende Anwendung.
 
 
-## Fünfter Unterabschnitt - Wiederaufnahme des
-Verfahrens
+## Fünfter Unterabschnitt - Wiederaufnahme des Verfahrens
 
-### § 79
+### § 79 - [red. Wiederaufnahme des Verfahrens]
 
 Die Vorschriften der Zivilprozeßordnung über die Wiederaufnahme des Verfahrens gelten für Rechtsstreitigkeiten nach § 2 Abs. 1 bis 4 entsprechend. Die Nichtigkeitsklage kann jedoch nicht auf Mängel des Verfahrens bei der Berufung der ehrenamtlichen Richter oder auf Umstände, die die Berufung eines ehrenamtlichen Richters zu seinem Amt ausschließen, gestützt werden.
 

@@ -35,7 +35,7 @@ projekte:
 - § 16 Eigennutzung
 - § 17 Gebühren für die Benutzung der öffentlichen Abwasserbeseitigung und der Wasserversorgung
 - § 18 Gebühren für die Benutzung der öffentlichen Abfallentsorgung
-- § 19
+- § 19 - [red. Gebühren für Kindergartenbenutzung (Elternbeiträge)]
 - § 20 Beitragserhebung
 - § 21 Beitragsschuldner*
 - § 22 Eingebrachte Sachen, Rechte, Werk- und Dienstleistungen*
@@ -241,26 +241,6 @@ und es dadurch ermöglicht, eine Abgabe zu verkürzen oder nicht gerechtfertigte
 
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Körperschaft, der die Abgabe zusteht.
 
-**Amtliche Abkürzung:** KAG
-**Ausfertigungsdatum:** 17.03.2005
-**Gültig ab:** 31.03.2005
-**Dokumenttyp:** Gesetz
-**Quelle:** Land Baden-Württemberg
-**Fundstelle:** GBl. 2005, 206
-**Gliederungs-Nr:** 6130
-
-Vom 17. März 2005*
-
-Zum 22.01.2026 aktuellste verfügbare Fassung der Gesamtausgabe
-
-Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 7 des Gesetzes vom 17. Dezember 2020 (GBl. S. 1233, 1249)
-
-**Fußnoten**
-
-*) Verkündet als Artikel 1 des Gesetzes zur Neuregelung des kommunalen Abgabenrechts und zur Änderung des Naturschutzgesetzes vom 17. März 2005 (GBl. S. 206)
-
----
-
 ## ZWEITER TEIL - Steuern
 
 ### § 9 Gemeindesteuern
@@ -280,27 +260,6 @@ Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 7 des 
 (1) Die Stadtkreise und die Landkreise erheben Steuern nach Maßgabe der Gesetze.
 
 (2) Die Stadtkreise und die Landkreise können eine Steuer auf die Ausübung des Jagdrechts (Jagdsteuer) erheben. Der Steuersatz beträgt für Inländer höchstens 15 Prozent, für Personen, die ihren ständigen Wohnsitz oder gewöhnlichen Aufenthalt im Ausland haben, höchstens 60 Prozent des Jahreswerts der Jagd, soweit nicht Staatsverträge entgegenstehen. Von der Besteuerung ausgenommen bleibt die Ausübung der Jagd in nicht verpachteten Jagden des Bundes und der Länder sowie die Ausübung der Jagd auf Grundflächen, die nach § 5 Abs. 1 des Bundesjagdgesetzes einem nicht verpachteten Eigenjagdbezirk des Bundes oder eines Landes angegliedert worden sind.
-
-**Amtliche Abkürzung:** KAG
-**Ausfertigungsdatum:** 17.03.2005
-**Gültig ab:** 31.03.2005
-**Dokumenttyp:** Gesetz
-**Quelle:** Land Baden-Württemberg
-**Fundstelle:** GBl. 2005, 206
-**Gliederungs-Nr:** 6130
-
-Vom 17. März 2005*
-
-Zum 22.01.2026 aktuellste verfügbare Fassung der Gesamtausgabe
-
-Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 7 des Gesetzes vom 17. Dezember 2020 (GBl. S. 1233, 1249)
-
-**Fußnoten**
-
-*) Verkündet als Artikel 1 des Gesetzes zur Neuregelung des kommunalen Abgabenrechts und zur Änderung des Naturschutzgesetzes vom 17. März 2005 (GBl. S. 206)
-
----
-
 
 ## DRITTER TEIL - Gebühren für öffentliche Leistungen einschließlich Benutzungsgebühren
 
@@ -402,29 +361,9 @@ berücksichtigt werden sollen,
 
 (3) Gemeinden, denen vom Landkreis nach § 6 Abs. 2 Nr. 1 des Landesabfallgesetzes vom 14. Oktober 2008 (GBl. S. 370), das durch Artikel 4 des Gesetzes vom 17. Dezember 2009 (GBl. S. 802, 809) geändert worden ist, das Einsammeln und Befördern übertragen worden ist, können Gebühren für das Einsammeln und Befördern sowie für die weitere Entsorgung der Abfälle erheben, soweit der Landkreis ihnen die Kosten der weiteren Entsorgung durch Satzung auferlegt. Für die Erhebung der Gebühren durch die Gemeinden und für die vom Landkreis gegenüber den Gemeinden festzulegende Abgabe für die weitere Entsorgung gilt Absatz 1 entsprechend. Die Befugnis der Landkreise nach Absatz 2 bleibt unberührt.
 
-### § 19
+### § 19 - [red. Gebühren für Kindergartenbenutzung (Elternbeiträge)]
 
 Zur Erhebung von Gebühren für die Benutzung von Kindergärten und anderen Tageseinrichtungen nach dem Kindertagesbetreuungsgesetz (Elternbeiträge) wird auf § 90 Absatz 3 des Achten Buches Sozialgesetzbuch verwiesen.
-
-**Amtliche Abkürzung:** KAG
-**Ausfertigungsdatum:** 17.03.2005
-**Gültig ab:** 31.03.2005
-**Dokumenttyp:** Gesetz
-**Quelle:** Land Baden-Württemberg
-**Fundstelle:** GBl. 2005, 206
-**Gliederungs-Nr:** 6130
-
-Vom 17. März 2005*
-
-Zum 22.01.2026 aktuellste verfügbare Fassung der Gesamtausgabe
-
-Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 7 des Gesetzes vom 17. Dezember 2020 (GBl. S. 1233, 1249)
-
-**Fußnoten**
-
-*) Verkündet als Artikel 1 des Gesetzes zur Neuregelung des kommunalen Abgabenrechts und zur Änderung des Naturschutzgesetzes vom 17. März 2005 (GBl. S. 206)
-
----
 
 ## VIERTER TEIL - Anschluss- und Erschließungsbeiträge
 
@@ -631,27 +570,6 @@ Der Beitragspflicht unterliegen erschlossene Grundstücke im Geltungsbereich ein
 
 (2) Im Einzelfall kann die Gemeinde von der Erhebung des Erschließungsbeitrags ganz oder teilweise absehen, wenn dies im öffentlichen Interesse geboten ist. Die Freistellung kann auch für den Fall vorgesehen werden, dass die Beitragsschuld noch nicht entstanden ist.
 
-**Amtliche Abkürzung:** KAG
-**Ausfertigungsdatum:** 17.03.2005
-**Gültig ab:** 31.03.2005
-**Dokumenttyp:** Gesetz
-**Quelle:** Land Baden-Württemberg
-**Fundstelle:** GBl. 2005, 206
-**Gliederungs-Nr:** 6130
-
-Vom 17. März 2005*
-
-Zum 22.01.2026 aktuellste verfügbare Fassung der Gesamtausgabe
-
-Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 7 des Gesetzes vom 17. Dezember 2020 (GBl. S. 1233, 1249)
-
-**Fußnoten**
-
-*) Verkündet als Artikel 1 des Gesetzes zur Neuregelung des kommunalen Abgabenrechts und zur Änderung des Naturschutzgesetzes vom 17. März 2005 (GBl. S. 206)
-
-
----
-
 ## FÜNFTER TEIL - Kostenersatz und sonstige Abgaben
 
 ### § 42 Kostenersatz für Haus- und Grundstücksanschlüsse
@@ -687,24 +605,6 @@ Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 7 des 
 ### § 45 Sonstige öffentlich-rechtliche Abgaben und Umlagen
 
 §§ 3, 7 und 8 gelten sinngemäß für sonstige öffentlich-rechtliche Abgaben und Umlagen, die von Gemeinden, Gemeindeverbänden und sonstigen öffentlich-rechtlichen Körperschaften, Anstalten und Stiftungen mit Ausnahme des Kommunalverbands für Jugend und Soziales Baden-Württemberg erhoben werden, soweit nicht eine besondere gesetzliche Regelung besteht.
-
-**Amtliche Abkürzung:** KAG
-**Ausfertigungsdatum:** 17.03.2005
-**Gültig ab:** 31.03.2005
-**Dokumenttyp:** Gesetz
-**Quelle:** Land Baden-Württemberg
-**Fundstelle:** GBl. 2005, 206
-**Gliederungs-Nr:** 6130
-
-Vom 17. März 2005*
-
-Zum 22.01.2026 aktuellste verfügbare Fassung der Gesamtausgabe
-
-Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 7 des Gesetzes vom 17. Dezember 2020 (GBl. S. 1233, 1249)
-
-**Fußnoten**
-
-*) Verkündet als Artikel 1 des Gesetzes zur Neuregelung des kommunalen Abgabenrechts und zur Änderung des Naturschutzgesetzes vom 17. März 2005 (GBl. S. 206)
 
 ## SECHSTER TEIL - Änderung von Landesrecht
 

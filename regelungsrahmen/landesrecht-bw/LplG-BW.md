@@ -19,11 +19,11 @@ projekte:
 ## Inhaltsverzeichnis
 
 - ERSTER TEIL - Aufgabe der Raumordnung und Landesplanung
-- § 1
+- § 1 - [red. Aufgabe der Raumordnung und Landesplanung]
 - § 2 - Leitvorstellung, Gegenstromprinzip
 - § 2a - Umweltprüfung
 - § 3 - Allgemeine Vorschriften über Entwicklungspläne und Regionalpläne
-- § 4
+- § 4 - [red. weggefallen]
 - § 5 - Planerhaltung
 - ZWEITER TEIL - Mittel der Raumordnung und Landesplanung
 - 1. ABSCHNITT - Entwicklungspläne
@@ -41,7 +41,7 @@ projekte:
 - § 14 - Beratung bei raumbedeutsamen Planungen und Maßnahmen
 - § 15 - Vorbereitung und Verwirklichung der Regionalpläne
 - § 16 - Mitwirkung der Regionalverbände bei regionalbedeutsamen Angelegenheiten, grenzüberschreitende Zusammenarbeit
-- § 17
+- § 17 - [red. weggefallen]
 - § 18 - Raumverträglichkeitsprüfung
 - § 19 - Erprobung von Maßnahmen, Sicherstellung der staatlichen Aufgabenerfüllung
 - § 20 - Untersagung raumordnungswidriger Planungen und Maßnahmen
@@ -50,7 +50,7 @@ projekte:
 - § 23 - Ersatzleistung
 - § 24 - Zielabweichungsverfahren
 - 4. ABSCHNITT - Mitwirkung der Regionalverbände bei den Fachplanungen des Landes und bei den weisungsfreien Planungen der Gemeinden und Landkreise
-- § 25
+- § 25 - [red. Mitwirkung der Regionalverbände bei den Fachplanungen des Landes und bei den weisungsfreien Planungen der Gemeinden und Landkreise]
 - 5. ABSCHNITT - Erfassung, Auswertung und Abstimmung raumbedeutsamer Sachverhalte
 - § 26 - Auskunfts- und Mitteilungspflicht
 - § 27 - Abstimmung raumbedeutsamer Planungen und Maßnahmen
@@ -58,7 +58,7 @@ projekte:
 - § 29 - Analysen zur Landesentwicklung
 - DRITTER TEIL - Organisation der Raumordnung und Landesplanung
 - 1. ABSCHNITT - Raumordnungsbehörden; Landesplanungsbehörde
-- § 30
+- § 30 - [red. Raumordnungsbehörden; Landesplanungsbehörde]
 - 2. ABSCHNITT - Regionalverbände
 - § 31 - Regionalverbände und Regionen
 - § 32 - Rechtsform
@@ -74,7 +74,7 @@ projekte:
 - § 42 - Wirtschaftsführung
 - § 43 - Deckung des Finanzbedarfs
 - § 44 - Aufsicht
-- § 45
+- § 45 - [red. weggefallen]
 - VIERTER TEIL - Übergangs- und Schlussvorschriften
 - § 46 - Weisungsfreie Aufgaben und Schulträgerschaft
 - § 47 - Richtwerte
@@ -90,7 +90,7 @@ projekte:
 
 ## ERSTER TEIL - Aufgabe der Raumordnung und Landesplanung
 
-### § 1
+### § 1 - [red. Aufgabe der Raumordnung und Landesplanung]
 
 (1) Aufgabe der Raumordnung und Landesplanung ist
 
@@ -152,7 +152,7 @@ insbesondere der besonderen Bedeutung von Energieeinsparung, -effizienz und erne
 (2) Bei der Aufstellung, Fortschreibung und Änderung der Entwicklungspläne und der Regionalpläne sind die öffentlichen und privaten Belange, soweit sie auf der jeweiligen Planungsebene erkennbar und von Bedeutung sind, gegeneinander und untereinander abzuwägen. Auf der Ebene der Regionalplanung sind insbesondere die Flächennutzungspläne und die Ergebnisse der von den Gemeinden beschlossenen sonstigen städtebaulichen Planungen zu berücksichtigen. Bei der Zusammenstellung des Abwägungsmaterials ist der Aufgabe der Raumordnung als übergeordneter Rahmenplanung Rechnung zu tragen. Der Umweltbericht und die nach den §§ 9 und 12 beachtlichen Stellungnahmen sind in die Abwägung einzubeziehen. Bezüglich der Gebiete von gemeinschaftlicher Bedeutung und der europäischen Vogelschutzgebiete sind § 7 Absatz 6 ROG sowie die Vorschriften des Naturschutzgesetzes über die Zulässigkeit und Durchführung von Eingriffen einschließlich der Einholung der Stellungnahme der Europäischen Kommission anzuwenden.
 
 
-### § 4
+### § 4 - [red. weggefallen]
 _(aufgehoben)_
 
 
@@ -403,7 +403,7 @@ Die Regionalverbände wirken auf die Verwirklichung der Regionalpläne hin. Sie 
 (3) Entscheidungen nach Absatz 1 bedürfen der Genehmigung der Rechtsaufsichtsbehörde. Die Genehmigung ist zu erteilen, wenn die Mitgliedschaft des Regionalverbands zulässig ist.
 
 
-### § 17
+### § 17 - [red. weggefallen]
 _(aufgehoben)_
 
 
@@ -484,7 +484,7 @@ Auf Antrag wird ein Zielabweichungsverfahren nach § 6 Absatz 2 ROG von der höh
 
 ## 4. ABSCHNITT - Mitwirkung der Regionalverbände bei den Fachplanungen des Landes und bei den weisungsfreien Planungen der Gemeinden und Landkreise
 
-### § 25
+### § 25 - [red. Mitwirkung der Regionalverbände bei den Fachplanungen des Landes und bei den weisungsfreien Planungen der Gemeinden und Landkreise]
 
 (1) Die Ministerien sollen Regionalverbände beauftragen, an raumbedeutsamen Fachplanungen (fachlichen Entwicklungsplänen und sonstigen raumbedeutsamen Fachplanungen) des Landes mitzuwirken, insbesondere diese räumlich auszuformen.
 
@@ -531,7 +531,7 @@ Die oberste Raumordnungs- und Landesplanungsbehörde erstellt im Benehmen mit de
 
 ## 1. ABSCHNITT - Raumordnungsbehörden; Landesplanungsbehörde
 
-### § 30
+### § 30 - [red. Raumordnungsbehörden; Landesplanungsbehörde]
 
 (1) Oberste Raumordnungs- und Landesplanungsbehörde ist das für Raumordnung und Landesplanung zuständige Ministerium.
 
@@ -718,7 +718,7 @@ Auf die Wirtschaftsführung des Regionalverbands finden die Vorschriften über d
 (3) §§ 118, 120 bis 127 und 129 Abs. 1, 2 und 5 der Gemeindeordnung gelten entsprechend.
 
 
-### § 45
+### § 45 - [red. weggefallen]
 _(aufgehoben)_
 
 

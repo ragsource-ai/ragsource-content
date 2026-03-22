@@ -4597,9 +4597,7 @@ Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 
 2. die Tierart im Sinne der Nummern 7.1 bis 7.9 der Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung, die bis zur Änderung in der baulichen Anlage zur Tierhaltung gehalten wurde, nicht geändert wird, es sei denn, mit der Änderung erfolgt zugleich ein Wechsel in eine höhere Haltungsform im Sinne des § 4 Absatz 1 des Tierhaltungskennzeichnungsgesetzes und
 
 
-3. durch die Änderung die Grundfläche und die Höhe der baulichen Anlage zur Tierhaltung nur insoweit vergrößert wird, als dies unter Beibehaltung der vor dem Umbau zulässigen Höchsttierzahl zur Erfüllung der Anforderungen an die Haltungsform Frischluftstall, Auslauf/Weide oder Bio im Sinne des § 4 Absatz 1 Nummer 3 bis 5 des Tierhaltungskennzeichnungsgesetzes erforderlich ist, wobei Flächen für einen Auslauf, der den Anforderungen an die Haltungsform Frischluftstall, Auslauf/Weide oder Bio im Sinne des
-### § 4 Absatz 1 Nummer 3 bis 5 des Tierhaltungskennzeichnungsgesetzes genügt, nicht in die Grundfläche
-einzurechnen sind.
+3. durch die Änderung die Grundfläche und die Höhe der baulichen Anlage zur Tierhaltung nur insoweit vergrößert wird, als dies unter Beibehaltung der vor dem Umbau zulässigen Höchsttierzahl zur Erfüllung der Anforderungen an die Haltungsform Frischluftstall, Auslauf/Weide oder Bio im Sinne des § 4 Absatz 1 Nummer 3 bis 5 des Tierhaltungskennzeichnungsgesetzes erforderlich ist, wobei Flächen für einen Auslauf, der den Anforderungen an die Haltungsform Frischluftstall, Auslauf/Weide oder Bio im Sinne des § 4 Absatz 1 Nummer 3 bis 5 des Tierhaltungskennzeichnungsgesetzes genügt, nicht in die Grundfläche einzurechnen sind.
 
 
 Bei einer Änderung der Tierart im Sinne von Satz 1 Nummer 2 bestimmt sich die zulässige Höchsttierzahl im Sinne von Satz 1 Nummer 3 durch die Umrechnung über Großvieheinheiten im Sinne des Anhangs A der technischen Regel VDI 3894 Blatt 1 Ausgabe September 2011, die bei der Beuth Verlag GmbH, Berlin, zu beziehen ist. Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 35, die dem Anwendungsbereich des § 35
@@ -4628,8 +4626,7 @@ Für Änderungen an baulichen Anlagen zur Tierhaltung, auf deren Zulassungsentsc
 ### § 245c Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im
 Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt
 
-(1) Abweichend von § 233 Absatz 1 Satz 1 können Verfahren nach diesem Gesetz, die förmlich vor dem 13. Mai 2017 eingeleitet worden sind, nur dann nach den vor dem 13. Mai 2017 geltenden Rechtsvorschriften abgeschlossen werden, wenn die Beteiligung der Behörden und der sonstigen Träger öffentlicher Belange nach § 4 Absatz 1 Satz 1 oder nach sonstigen Vorschriften dieses Gesetzes vor dem 16. Mai 2017 eingeleitet worden ist.
-### § 233 Absatz 1 Satz 2 bleibt unberührt.
+(1) Abweichend von § 233 Absatz 1 Satz 1 können Verfahren nach diesem Gesetz, die förmlich vor dem 13. Mai 2017 eingeleitet worden sind, nur dann nach den vor dem 13. Mai 2017 geltenden Rechtsvorschriften abgeschlossen werden, wenn die Beteiligung der Behörden und der sonstigen Träger öffentlicher Belange nach § 4 Absatz 1 Satz 1 oder nach sonstigen Vorschriften dieses Gesetzes vor dem 16. Mai 2017 eingeleitet worden ist. § 233 Absatz 1 Satz 2 bleibt unberührt.
 
 (2) Bebauungspläne oder Satzungen mit Regelungen nach § 22 Absatz 1 Satz 1 Nummer 3 und 4 finden keine Anwendung, wenn die Regelung nach § 1010 Absatz 1 des Bürgerlichen Gesetzbuchs vor dem 13. Mai 2017 getroffen worden ist. Bebauungspläne oder Satzungen mit Regelungen nach § 22 Absatz 1 Satz 1 Nummer 5 finden keine Anwendung, wenn die Nutzung als Nebenwohnung vor dem 13. Mai 2017 aufgenommen worden ist.
 
@@ -4772,9 +4769,7 @@ b) wenn dies unter Würdigung nachbarlicher Interessen mit den öffentlichen Bel
 (7) In den ersten sechs Monaten nach Eintritt des Katastrophenfalls kann die Baugenehmigungsbehörde mit Zustimmung der höheren Verwaltungsbehörde im Gebiet der von der Katastrophe betroffenen Gemeinde sowie in benachbarten Gemeinden bei der Zulassung von Vorhaben im Sinne des Absatzes 2 Nummer 1 und unter den dort genannten weiteren Voraussetzungen von den §§ 29 bis 35 vorübergehend abweichen, wenn eine Rechtsverordnung nach den Absätzen 1 und 2 Nummer 1 nicht ergangen ist. Die Absätze 4 und 5 sind
 ### § 246d Sonderregelungen für Biogasanlagen
 
-(1) Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von Biogas im Sinne des § 35 Absatz 1 Nummer 6 sind bis zum Ablauf des 31. Dezember 2024 abweichend von § 35 Absatz 1 Nummer 6 Buchstabe a, b und d auch dann bauplanungsrechtlich zulässig, wenn die Biogasproduktion erhöht wird und die Biomasse überwiegend aus dem Betrieb oder überwiegend aus diesem und aus weniger als 50 Kilometer entfernten Betrieben nach
-### § 35 Absatz 1 Nummer 1, 2 oder 4 stammt, soweit Letzterer Tierhaltung betreibt. Zu den in Satz 1 genannten
-Betrieben nach § 35 Absatz 1 Nummer 4 zählen auch solche, die dem Anwendungsbereich des § 245a Absatz 5 Satz 1 oder 2 unterfallen.
+(1) Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von Biogas im Sinne des § 35 Absatz 1 Nummer 6 sind bis zum Ablauf des 31. Dezember 2024 abweichend von § 35 Absatz 1 Nummer 6 Buchstabe a, b und d auch dann bauplanungsrechtlich zulässig, wenn die Biogasproduktion erhöht wird und die Biomasse überwiegend aus dem Betrieb oder überwiegend aus diesem und aus weniger als 50 Kilometer entfernten Betrieben nach § 35 Absatz 1 Nummer 1, 2 oder 4 stammt, soweit Letzterer Tierhaltung betreibt. Zu den in Satz 1 genannten Betrieben nach § 35 Absatz 1 Nummer 4 zählen auch solche, die dem Anwendungsbereich des § 245a Absatz 5 Satz 1 oder 2 unterfallen.
 
 (2) Von § 35 Absatz 1 Nummer 6 werden bis zum 31. Dezember 2028 auch Vorhaben erfasst, die der energetischen Nutzung von Biomasse im Rahmen eines am 1. Januar 2024 bestehenden Tierhaltung betreibenden gewerblichen Betriebes dienen, der auf Grundlage der vor dem 20. September 2013 geltenden Fassung des § 35 Absatz 1 Nummer 4 zugelassen worden ist.
 

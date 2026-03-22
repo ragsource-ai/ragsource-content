@@ -15,15 +15,15 @@ projekte:
 
 ## Inhaltsverzeichnis
 
-- § 1
-- § 2
-- § 3
-- § 4
-- § 5
+- § 1 [red. Geltungsbereich und Gebührenerhebung]
+- § 2 [red. Gebühren bei Ablehnung, Rücknahme und Widerspruch]
+- § 3 [red. Umsatzsteuer]
+- § 4 [red. Salvatorische Klausel]
+- § 5 [red. Inkrafttreten und Außerkrafttreten]
 
 Aufgrund von § 4 Abs. 3 des Landesgebührengesetzes in der Fassung des Gesetzes zur Neuregelung des Gebührenrechts vom 14. Dezember 2004 (GBl. S. 895) in der jeweils geltenden Fassung wird verordnet:
 
-### § 1
+### § 1 [red. Geltungsbereich und Gebührenerhebung]
 
 (1) Für die Wahrnehmung von Aufgaben des Landratsamts Göppingen als untere Verwaltungsbehörde im Sinne des Landesverwaltungsgesetzes und als untere Baurechtsbehörde im Sinne der Landesbauordnung werden Gebühren nach der Anlage zu dieser Verordnung erhoben, soweit nicht durch Rechtsvorschrift etwas Anderes bestimmt ist.
 
@@ -33,7 +33,7 @@ Aufgrund von § 4 Abs. 3 des Landesgebührengesetzes in der Fassung des Gesetzes
 
 (4) Im Übrigen gelten die Regelungen des Landesgebührengesetztes in der jeweils geltenden Fassung.
 
-### § 2
+### § 2 [red. Gebühren bei Ablehnung, Rücknahme und Widerspruch]
 
 (1) Wird ein Antrag auf eine öffentliche Leistung abgelehnt, wird eine Gebühr in Höhe von einem Zehntel bis zum vollen Betrag der Gebühr, mindestens 12 € erhoben. Wird der Antrag ausschließlich wegen Unzuständigkeit der Behörde abgelehnt, wird keine Gebühr erhoben.
 
@@ -54,17 +54,17 @@ Aufgrund von § 4 Abs. 3 des Landesgebührengesetzes in der Fassung des Gesetzes
 
 (7) Die Absätze 1 bis 5 gelten nur, sofern in der Anlage nichts Besonderes bestimmt ist.
 
-### § 3
+### § 3 [red. Umsatzsteuer]
 
 Soweit die aufgrund dieser Rechtsverordnung festgelegten Gebühren bzw. Entgelte der Umsatzsteuer unterliegen, erhöhen sich diese Gebühren bzw. Entgelte um die Umsatzsteuer in der gesetzlichen Höhe.
 
-### § 4
+### § 4 [red. Salvatorische Klausel]
 
 **Salvatorische Klausel**
 
 Die Unwirksamkeit einer einzelnen Ordnungsziffer oder eines einzelnen Paragraphen führt nur zur Unwirksamkeit der gesamten Rechtsverordnung, wenn anzunehmen ist, dass die Rechtsverordnung ohne diese Ziffer oder des Paragraphen nicht in dieser Form erlassen worden wäre.
 
-### § 5
+### § 5 [red. Inkrafttreten und Außerkrafttreten]
 
 Diese Verordnung tritt am 01.03.2025 in Kraft. Die Verordnung des Landratsamts Göppingen über die Erhebung von Gebühren für die Wahrnehmung von Aufgaben als untere Verwaltungsbehörde und als untere Baurechtsbehörde vom 20.12.2021, in Kraft getreten am 01.01.2022, in ihrer zuletzt gültigen Fassung vom 26.04.2022, tritt mit Wirkung zum 28.02.2025 außer Kraft.
 

@@ -53,7 +53,7 @@ projekte:
 - § 27c - Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit
 - § 28 - Anhörung Beteiligter
 - § 29 - Akteneinsicht durch Beteiligte
-- § 30
+- § 30 - [Red. weggefallen]
 - § 31 - Fristen und Termine
 - § 32 - Wiedereinsetzung in den vorigen Stand
 - § 33 - Beglaubigung von Dokumenten
@@ -593,7 +593,7 @@ Ist eine Veröffentlichung der auszulegenden Unterlagen im Internet, insbesonder
 
 (3) Die Akteneinsicht erfolgt bei der Behörde, die die Akten führt. Im Einzelfall kann die Einsicht auch bei einer anderen Behörde oder bei einer diplomatischen oder berufskonsularischen Vertretung der Bundesrepublik Deutschland im Ausland erfolgen; weitere Ausnahmen kann die Behörde, die die Akten führt, gestatten.
 
-### § 30
+### § 30 - [Red. weggefallen]
 
 (aufgehoben)
 

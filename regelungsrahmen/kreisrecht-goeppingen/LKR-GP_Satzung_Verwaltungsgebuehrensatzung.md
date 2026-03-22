@@ -28,11 +28,11 @@ projekte:
 - § 11 Gebührenschuldner
 - § 12 Entstehung, Fälligkeit und Zahlung der Gebühr
 - § 13 Gebührenerstattung
-- § 14
-- § 15
-- § 16
-- § 17
-- § 18
+- § 14 - [red. Änderung von Entscheidungen zu Gebühren]
+- § 15 - [red. Vorschriften für Sondernutzungsgebühren]
+- § 16 - [red. Sondernutzungen i.S. des Straßengesetzes]
+- § 17 - [red. Umsatzsteuer]
+- § 18 - [red. Schlussbestimmungen]
 
 **Landkreis Göppingen 3.7**  
 **vom 1. Januar 2020 mit Änderungen vom 01.01.2021**  
@@ -165,27 +165,27 @@ Die Benutzungsgebühr entsteht mit der Inanspruchnahme der Einrichtung. Gebühre
 
 (2) Im Falle des § 10 Abs. 6 kann keine Erstattung verlangt werden, wenn der Widerruf später als 15 Jahre nach der Erteilung der Sondernutzungserlaubnis erfolgt. Im Übrigen gilt § 13 Abs. 1 entsprechend.
 
-### § 14
+### § 14 - [red. Änderung von Entscheidungen zu Gebühren]
 
 Die Entscheidung über eine in einem Jahresbetrag festzusetzende Sondernutzungsgebühr kann geändert werden, wenn sich die im Einzelfall maßgebenden Verhältnisse wesentlich geändert haben.
 
-### § 15
+### § 15 - [red. Vorschriften für Sondernutzungsgebühren]
 
 Soweit im Straßengesetz von Baden-Württemberg vom 11.05.1992 (GBI. S. 330) und in §§ 10 ff. dieser Satzung nichts anderes bestimmt ist, finden auf die Sondernutzungsgebühren die für die Benutzungsgebühren der Landkreise geltenden Vorschriften Anwendung.
 
-### § 16
+### § 16 - [red. Sondernutzungen i.S. des Straßengesetzes]
 
 §§ 10 ff. dieser Satzung finden auch auf Rechte und Befugnisse zur Benutzung von Straßen über den Gemeingebrauch hinaus Anwendung, die nach § 57 Straßengesetz als Sondernutzungen i. S. des Straßengesetzes für Baden-Württemberg gelten.
 
 ## 4. Abschnitt: Umsatzsteuer
 
-### § 17
+### § 17 - [red. Umsatzsteuer]
 
 Soweit die aufgrund dieser Satzung festgelegten Gebühren der Umsatzsteuer unterliegen, tritt zu ihnen die Umsatzsteuer in der jeweiligen Höhe.
 
 ## 5. Abschnitt: Schlussbestimmungen
 
-### § 18
+### § 18 - [red. Schlussbestimmungen]
 
 (1) Diese Satzung tritt am 1. Januar 2020 in Kraft.
 

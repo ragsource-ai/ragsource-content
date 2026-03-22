@@ -94,11 +94,11 @@ projekte:
 - C. Örtliche Schulverwaltung (§§ 48-54)
 - § 48 - Örtliche Schulverwaltung
 - § 49 - Schulbeirat
-- § 50
+- § 50 - [red. weggefallen]
 - § 51 - Benützung von Schulräumen
-- § 52
-- § 53
-- § 54
+- § 52 - [red. weggefallen]
+- § 53 - [red. weggefallen]
+- § 54 - [red. weggefallen]
 - 6. TEIL - Mitwirkung der Eltern und der für die Berufserziehung der Schüler Mitverantwortlichen an der Gestaltung des Lebens und der Arbeit der Schule; Schülermitverantwortung; Landesschulbeirat
 - A. Klassenpflegschaft, Elternbeiräte (§§ 55-61)
 - § 55 - Eltern und Schule
@@ -165,7 +165,7 @@ projekte:
 - § 100b - Familien- und Geschlechtserziehung
 - 11. TEIL
 - § 101 - Sonderpädagogische Bildungs- und Beratungszentren mit Internat in freier Trägerschaft
-- § 102
+- § 102 - [red. weggefallen]
 - § 103 - Lehrer an sonderpädagogischen Bildungs- und Beratungszentren mit Internat in freier Trägerschaft
 - § 104 - Versorgungsberechtigung
 - § 105 - Zuschuß zu den Personalkosten der sonderpädagogischen Bildungs- und Beratungszentren mit Internat in freier Trägerschaft
@@ -179,7 +179,7 @@ projekte:
 - § 107e - Werkgymnasium Heidenheim
 - § 107f - Deutsch-Französisches Gymnasium Freiburg im Breisgau
 - § 108 - Fortgeltung der Rechtsstellung
-- § 109
+- § 109 - [red. weggefallen]
 - § 110 - Besondere Schulaufsichtsbehörden
 - § 111 - Ausbildungsschulen der Pädagogischen Hochschulen
 - § 112 - Lehrkräfte an Höheren Mädchenschulen
@@ -1197,7 +1197,7 @@ Die Vertreter der Schüler müssen mindestens der siebten Klasse angehören. Fü
 Der Schulträger nach § 2 Abs. 1 Nr. 1 hört in allen wichtigen Schulangelegenheiten Vertreter der Schulleiter, der Lehrer, der Eltern, der Schüler und Vertreter der Religionsgemeinschaften, die an einer seiner Schulen Religionsunterricht erteilen, bei beruflichen Schulen auch Vertreter der für die Berufserziehung der Schüler Mitverantwortlichen. Der Schulträger kann zur Wahrnehmung dieser Aufgabe einen Schulbeirat als beschließenden oder beratenden Ausschuß bilden.
 
 
-### § 50
+### § 50 - [red. weggefallen]
 _(aufgehoben)_
 
 
@@ -1206,15 +1206,15 @@ _(aufgehoben)_
 Räume und Plätze öffentlicher Schulen dürfen nicht für Zwecke verwendet werden, die den Belangen der Schule widersprechen. Über die Verwendung für andere als schulische Zwecke entscheidet der Schulträger im Benehmen mit dem Schulleiter. Ist der Schulleiter der Auffassung, dass die andere Verwendung schulischen Belangen widerspricht, so entscheidet die Rechtsaufsichtsbehörde im Einvernehmen mit der Schulaufsichtsbehörde.
 
 
-### § 52
+### § 52 - [red. weggefallen]
 _(aufgehoben)_
 
 
-### § 53
+### § 53 - [red. weggefallen]
 _(aufgehoben)_
 
 
-### § 54
+### § 54 - [red. weggefallen]
 _(aufgehoben)_
 
 
@@ -1998,7 +1998,7 @@ Staatliche sonderpädagogische Bildungs- und Beratungszentren mit Internat und s
 (3) Die vor dem Inkrafttreten dieses Gesetzes erteilten Genehmigungen bleiben in Kraft.
 
 
-### § 102
+### § 102 - [red. weggefallen]
 _(aufgehoben)_
 
 
@@ -2138,7 +2138,7 @@ Das Deutsch-Französische Gymnasium Freiburg im Breisgau ist ein allgemein bilde
 Schulen, die bisher als öffentliche Schulen behandelt wurden, gelten auch nach Inkrafttreten dieses Gesetzes als öffentliche Schulen im Sinne dieses Gesetzes. In Zweifelsfällen entscheidet das Kultusministerium.
 
 
-### § 109
+### § 109 - [red. weggefallen]
 _(aufgehoben)_
 
 

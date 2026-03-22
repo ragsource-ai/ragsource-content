@@ -28,7 +28,7 @@ projekte:
 - § 8b - Externe Notfallpläne für Abfallentsorgungseinrichtungen
 - § 9 - Katastrophenhilfe
 - § 10 - Katastrophenschutzdienst
-- § 11
+- § 11 - [red. Helfer des Katastrophenschutzes]
 - § 12 - Rechtsverhältnisse der Helfer
 - § 13 - Fortgewährung von Leistungen; Erstattungen
 - § 14 - Aufwendungsersatz
@@ -41,7 +41,7 @@ projekte:
 - § 21 - Einsatz
 - § 22 - Katastrophenvoralarm
 - § 23 - Aufhebung von Katastrophenalarm und Katastrophenvoralarm
-- § 24
+- § 24 - [red. Aufgaben des Polizeivollzugsdienstes]
 - § 25 - Hilfspflichten der Bevölkerung
 - § 26 - Besondere Pflichten von Angehörigen der Berufe des Gesundheitswesens
 - § 27 - Pflichten der Inhaber von Fahrzeugen und Geräten; Instandsetzungen
@@ -49,7 +49,7 @@ projekte:
 - § 29 - Pflichten der im Katastrophengebiet oder am Einsatzort Anwesenden
 - § 30 - Pflichten der Betreiber von Anlagen mit besonderem Gefahrenpotenzial
 - § 31 - Pflichten beim Katastrophenvoralarm
-- § 32
+- § 32 - [red. Entschädigungen]
 - § 33 - Kostentragung
 - § 34 - Zuschüsse, Erstattungen
 - § 35 - Außergewöhnliche Einsatzlage
@@ -240,7 +240,7 @@ Für die unter Artikel 6 der Richtlinie 2006/21/EG des Europäischen Parlaments 
 
 ## 2. Abschnitt - Helfer des Katastrophenschutzes
 
-### § 11
+### § 11 - [red. Helfer des Katastrophenschutzes]
 
 (1) Helfer des Katastrophenschutzes sind Männer und Frauen, die im Katastrophenschutz ehrenamtlich tätig sind. Sie verpflichten sich gegenüber dem Träger der Katastrophenhilfe zur Mitwirkung im Katastrophenschutz, soweit ihre Mitwirkungspflicht nicht bereits auf Grund der Zugehörigkeit zum Träger besteht.
 
@@ -342,7 +342,7 @@ Die Katastrophenschutzbehörde stellt den Zeitpunkt fest, von dem an eine Katast
 
 ## 2. Abschnitt - Aufgaben des Polizeivollzugsdienstes
 
-### § 24
+### § 24 - [red. Aufgaben des Polizeivollzugsdienstes]
 
 Der Polizeivollzugsdienst nimmt die Aufgaben der Katastrophenschutzbehörde wahr, wenn und solange bei Gefahr im Verzuge ein rechtzeitiges Tätigwerden der zuständigen Katastrophenschutzbehörde nicht erreichbar ist, und trifft die notwendigen vorläufigen Maßnahmen. Im Übrigen bleiben die dem Polizeivollzugsdienst obliegenden Aufgaben unberührt.
 
@@ -415,7 +415,7 @@ Die Vorschriften der §§ 25 bis 30 über Hilfs- und Leistungspflichten gelten b
 
 ## 1. Abschnitt - Entschädigungen
 
-### § 32
+### § 32 - [red. Entschädigungen]
 
 (1) Soweit Maßnahmen auf Grund dieses Gesetzes enteignende Wirkung haben, ist von der Katastrophenschutzbehörde, in deren Bezirk die Maßnahme getroffen wurde, auf Antrag eine angemessene Entschädigung in Geld zu leisten.
 

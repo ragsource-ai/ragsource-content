@@ -39,7 +39,7 @@ projekte:
 	6. Unterabschnitt - Wahlorgane
 - § 11 - Gemeindewahlausschuß
 - § 12 - Kreiswahlausschuß
-- § 13 (aufgehoben)
+- § 13 - [Red. weggefallen]
 - § 14 - Wahlvorstände
 - § 15 - Gemeinsame Vorschriften über die Ausschüsse und Wahlvorstände
 - § 16 - Besorgung der laufenden Wahlgeschäfte
@@ -270,7 +270,7 @@ im Zeitpunkt der Unterzeichnung der Bewerbung wahlberechtigten Personen unterzei
 (3) § 11 Abs. 2 Sätze. 3 und 4, Abs. 3 und 4 gilt entsprechend. Der Landrat hat Stimmrecht.
 
 
-### § 13
+### § 13 - [Red. weggefallen]
 _(aufgehoben)_
 
 

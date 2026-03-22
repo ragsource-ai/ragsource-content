@@ -22,6 +22,7 @@ projekte:
 
 ## Inhaltsverzeichnis
 
+- Präambel
 - § 1 Firma und Sitz
 - § 2 Gegenstand des Unternehmens
 - § 3 Stammkapital und Stammeinlage

@@ -69,7 +69,7 @@ projekte:
 - § 41 - Ausschluss der Disziplinarbefugnis
 - § 42 - Verwertungsverbot, Entfernung aus der Personalakte
 - Teil 4 - Begnadigung
-- § 43
+- § 43 - [Red. Begnadigung]
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -542,7 +542,7 @@ Handlungen, die Gegenstand des Verfahrens waren, können nicht Gegenstand eines 
 
 ## Teil 4 - Begnadigung
 
-### § 43
+### § 43 - [Red. Begnadigung]
 
 (1) Dem Ministerpräsidenten steht das Gnadenrecht in Angelegenheiten nach diesem Gesetz zu. Soweit es sich nicht um schwere Fälle handelt, kann er dieses Recht mit Zustimmung der Landesregierung auf andere Stellen übertragen.
 

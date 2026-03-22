@@ -27,7 +27,7 @@ projekte:
 - § 3 Zustimmung zur Ablösung
 - § 4 Inkrafttreten
 
-### § 37 Abs. 5 und 6 der Landesbauordnung Baden-Württemberg (LBO)
+### [red. Rechtsgrundlage]
 
 Der Gemeinderat der Stadt Konstanz hat am 14.12.2021 aufgrund des § 37 Abs. 5 und 6 der Landesbauordnung Baden-Württemberg (LBO) folgende Änderung der Allgemeinen Bestimmungen über die Stellplatzablösung im Bereich der Stadt Konstanz beschlossen:
 

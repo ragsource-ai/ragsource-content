@@ -19,22 +19,22 @@ projekte:
 
 ## Inhaltsverzeichnis
 
-- § 1
-- § 2
+- § 1 - [red. Öffentliche Bekanntmachungen]
+- § 2 - [red. Inkrafttreten]
 
 **Stand:** Januar 2008
 
-### Satzung über die Form der öffentlichen Bekanntmachung
+## Satzung über die Form der öffentlichen Bekanntmachung
 
 Aufgrund des § 4 der Gemeindeordnung für Baden-Württemberg i.V.m. § 1 der Verordnung zur Durchführung der Gemeindeordnung für Baden-Württemberg hat der Gemeinderat am 14.04.1983 folgende Satzung beschlossen:
 
 ---
 
-### § 1
+### § 1 - [red. Öffentliche Bekanntmachungen]
 
 Öffentliche Bekanntmachungen werden durch das Einrücken in das Mitteilungsblatt des Gemeindeverwaltungsverbandes "Raum Bad Boll" und der Gemeinden Aichelberg, Boll, Dürnau, Gammelshausen, Hattenhofen und Zell u. A. durchgeführt. Als Tag der Bekanntmachung gilt der Erscheinungstag des Amtsblattes.
 
-### § 2
+### § 2 - [red. Inkrafttreten]
 
 **(1)** Diese Satzung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft.
 

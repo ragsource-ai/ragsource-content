@@ -21,19 +21,19 @@ projekte:
 
 ## Inhaltsverzeichnis
 
-- § 1
-- § 2
-- § 3
-- § 4
-- § 5
-- § 6
-- § 7
+- § 1 [red. Kostenersatz für Jugendhilfeleistungen]
+- § 2 [red. Ermittlung des Kostenersatzes]
+- § 3 [red. Personalhoheit und Stellenplan]
+- § 4 [red. Abrechnungsverfahren und Vorauszahlungen]
+- § 5 [red. Prüfungskosten]
+- § 6 [red. Kostenerstattung für ambulante Leistungen]
+- § 7 [red. Inkrafttreten]
 
-### § 1
+### § 1 [red. Kostenersatz für Jugendhilfeleistungen]
 
 Der Landkreis ersetzt der Großen Kreisstadt Konstanz als örtlicher Träger der öffentlichen Jugendhilfe die Personalkosten für die Erfüllung der Jugendhilfeleistungen des SGB VIII (KJHG) zu zwei Dritteln nach Maßgabe der nachfolgenden Regelungen.
 
-### § 2
+### § 2 [red. Ermittlung des Kostenersatzes]
 
 (1) Für die Ermittlung des Kostenersatzes sind die Arbeitsbeauftragungen für die in § 1 zugrunde gelegten Bereiche maßgebend, die für folgende Aufgaben zuständig sind:
 
@@ -45,25 +45,25 @@ e) Erziehungsberatung (50% einer Vollzeitstelle)
 
 (2) Für sonstige Personalkosten (Querschnittsleistungen) werden pauschal 7,5 % aus der Summe nach Abs. 1a. bis 1e. erstattet.
 
-### § 3
+### § 3 [red. Personalhoheit und Stellenplan]
 
 Die Anzahl der Mitarbeiter für die Aufgaben nach dem SGB VIII bestimmt die Stadt Konstanz durch ihren Stellenplan. Die Besoldung/Vergütung der Mitarbeiter verbleibt in der Personalhoheit der Stadt Konstanz. Für die Bewertung von Stellen gilt auch die Bewertung von Stellen nach § 5 Abs. 2 LKJHG sowie die Bewertung der gemäß Absatz vor Ort angebotenen Stellen im Lande abweichen.
 
-### § 4
+### § 4 [red. Abrechnungsverfahren und Vorauszahlungen]
 
 (1) Die Stadt Konstanz teilt dem Landkreis ihre Personalkosten für die Mitarbeiter für die in § 2 Abs. 1 genannten Aufgaben mit einer Liste mit Funktionen sowie Besoldungs-/Vergütungsgruppen mit. Nach form- und sachgerechter Vorlage der Abrechnungsgrundlagen führt der Landkreis die Feststellung und Abrechnung des Erstattungsbetrages bis zum 31. Mai des Folgejahres durch.
 
 (2) Der Landkreis leistet Vorauszahlungen jeweils am 10. des dritten Monats des Kalendervierteljahres in Höhe eines Viertels des 90 % des endgültig festgesetzten Vorjahresbetrages. Die Vorauszahlung ist vollständig, wenn die Abrechnung vor dem vierten Quartal nicht erfolgt ist, im Wege der Abschlussrechnung des zweiwöchentlichen Jahres zu berichtigen.
 
-### § 5
+### § 5 [red. Prüfungskosten]
 
 (1) Die Stadt Konstanz stellt dem Landkreis ihre Personalkosten für Prüfungen über örtliche und überörtliche Prüfungen der Jugendrechtspflege dar.
 
-### § 6
+### § 6 [red. Kostenerstattung für ambulante Leistungen]
 
 Neben den in § 5 Ziffern 1 und 2 LKJHG Baden-Württemberg aufgeführten Leistungen erstattet der Landkreis der Stadt Konstanz auch die Kosten für ambulante Leistungen nach §§ 27, 28, 29, 39 und 35 SGB VIII.
 
-### § 7
+### § 7 [red. Inkrafttreten]
 
 Diese Satzung tritt rückwirkend zum 01.01.2011 in Kraft.
 

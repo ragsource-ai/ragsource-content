@@ -24,7 +24,7 @@ projekte:
 - § 3 - Zahlstellen
 - § 4 - Handvorschüsse
 - § 5 - Einrichtung und Geschäftsgang der Gemeindekasse
-- § 6
+- § 6 - [red. weggefallen]
 - ZWEITER ABSCHNITT - Kassenanordnungen
 - § 7 - Allgemeines
 - § 8 - Zahlungsanordnung
@@ -132,7 +132,7 @@ Zur Leistung geringfügiger Auszahlungen, die regelmäßig anfallen, können ein
 (4) Sendungen, die an die Gemeindekasse gerichtet sind, sind ihr ungeöffnet zuzuleiten. Zahlungsmittel und Wertsendungen, die bei einer anderen Dienststelle der Gemeinde eingehen, sind unverzüglich an die Gemeindekasse weiterzuleiten.
 
 
-### § 6
+### § 6 - [red. weggefallen]
 _(aufgehoben)_
 
 

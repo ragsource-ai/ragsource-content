@@ -150,7 +150,7 @@ projekte:
 - § 102 - Fortgeltung von Rechtsverordnungen
 - § 103 - Weitere Übergangsbestimmungen
 - 3. Unterabschnitt - Schlussvorschriften
-- § 104
+- § 104 - [Red. weggefallen]
 - § 105 - Künftig wegfallende Ämter
 - § 106 - Erlass von Verwaltungsvorschriften
 - [Anlage 1 - Landesbesoldungsordnung A](https://www.landesrecht-bw.de/bsbw/document/jlr-BesGBW2010V101IVZ/format/xsl/anchor/jlr-BesGBW2010V76Anlage1)
@@ -1550,7 +1550,7 @@ Soweit nach diesem Gesetz die Landesregierung oder eine andere Stelle ermächtig
 
 ## 3. Unterabschnitt - Schlussvorschriften
 
-### § 104
+### § 104 - [Red. weggefallen]
 _(aufgehoben)_
 
 
