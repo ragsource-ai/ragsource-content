@@ -22,16 +22,22 @@ projekte:
 
 ## Inhaltsverzeichnis
 
-- § 1 Die Stadt Konstanz erhebt die Gewerbesteuer nach den Vorschriften des Gewerbesteuergesetzes
-- § 2 Der Gewerbesteuerhebesatz wird festgesetzt auf 410 v. H. der Steuermessbeträge
-- § 3 Diese Satzung tritt am 01.01.2023 in Kraft
+- § 1 Erhebung der Gewerbesteuer
+- § 2 Gewerbesteuerhebesatz
+- § 3 Inkrafttreten
 
 ## (Rechtsgrundlage)
 
 Aufgrund von § 4 der Gemeindeordnung Baden-Württemberg und §§ 2 und 9 des Kommunalabgabengesetzes Baden-Württemberg in Verbindung mit §§ 1 und 16 Gewerbesteuergesetz in der jeweils gültigen Fassung hat der Gemeinderat der Stadt Konstanz am 16.12.2010, geändert am 13.12.2022, folgende Satzung beschlossen:
 
-### § 1 Die Stadt Konstanz erhebt die Gewerbesteuer nach den Vorschriften des Gewerbesteuergesetzes
+### § 1 Erhebung der Gewerbesteuer
 
-### § 2 Der Gewerbesteuerhebesatz wird festgesetzt auf 410 v. H. der Steuermessbeträge
+Die Stadt Konstanz erhebt die Gewerbesteuer nach den Vorschriften des Gewerbesteuergesetzes.
 
-### § 3 Diese Satzung tritt am 01.01.2023 in Kraft
+### § 2 Gewerbesteuerhebesatz
+
+Der Gewerbesteuerhebesatz wird festgesetzt auf 410 v. H. der Steuermessbeträge.
+
+### § 3 Inkrafttreten
+
+Diese Satzung tritt am 01.01.2023 in Kraft.

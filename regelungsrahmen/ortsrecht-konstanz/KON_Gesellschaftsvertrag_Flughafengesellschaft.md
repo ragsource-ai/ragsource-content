@@ -23,7 +23,7 @@ projekte:
 
 - § 1 Die Firma der Gesellschaft
 - § 2 Gegenstand des Unternehmens
-- § 3 Die Gesellschaft ist auf unbestimmte Zeit gegründet
+- § 3 Dauer der Gesellschaft
 - § 4 Das Stammkapital
 - § 5 Die Veräußerung eines Geschäftsanteils
 - § 6 Weitere Einzahlungen der Gesellschafter
@@ -53,7 +53,9 @@ Die Firma der Gesellschaft lautet „Flughafen-Gesellschaft Konstanz GmbH". Der 
 
 Gegenstand des Unternehmens ist ausschließlich die unmittelbare und tatsächliche Förderung aller mit der Luftfahrt, insbesondere dem Luftverkehr, zusammenhängenden Geschäfte und Einrichtungen, insbesondere die Förderung der Luftverkehrsinteressen im Süden von Baden-Württemberg, hauptsächlich im Bodenseegebiet, die Verwaltung von Flughäfen und die Besorgung aller mit diesen Aufgaben zusammenhängenden Geschäfte. Die Gesellschaft ist berechtigt, weitere gleichartige o. ä. Unternehmen zu errichten oder bestehende zu erwerben oder sich an bestehenden zu beteiligen. Die Gesellschaft ist berechtigt, Zweigniederlassungen zu errichten.
 
-### § 3 Die Gesellschaft ist auf unbestimmte Zeit gegründet
+### § 3 Dauer der Gesellschaft
+
+Die Gesellschaft ist auf unbestimmte Zeit gegründet.
 
 ### § 4 Das Stammkapital
 
