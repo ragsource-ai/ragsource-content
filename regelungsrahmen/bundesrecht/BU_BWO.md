@@ -7,7 +7,6 @@ geaendert_am: "2024-09-12"
 quelle: "Gesetz vom 1985-08-28 (BGBl I 1985, 1769 (1986 I 258)), zuletzt geändert durch Art. 1 V v. 12.9.2024 I Nr. 283"
 gueltig_ab: 2024-09-12
 url: "https://www.gesetze-im-internet.de/bwo_1985/"
-beschreibung: "Durchführungsverordnung zum Bundeswahlgesetz: regelt das gesamte Verfahren der Vorbereitung und Durchführung der Bundestagswahl, von der Einteilung der Wahlkreise über Wahlvorschläge und Stimmzettel bis zur Ergebnisfeststellung."
 stand: "2024-09-12"
 status: published
 projekte:

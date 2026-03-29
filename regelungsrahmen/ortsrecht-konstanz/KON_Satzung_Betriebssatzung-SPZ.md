@@ -13,7 +13,6 @@ erlassen_am: 2023-07-20
 geaendert_am: ""
 quelle: ""
 gueltig_ab: 2023-09-30
-beschreibung: "Betriebssatzung für den Eigenbetrieb Sozialpädiatrisches Zentrum (SPZ Konstanz) der Spitalstiftung Konstanz, die Aufgaben, Organe, Wirtschaftsführung und Personalhoheit des Eigenbetriebes regelt."
 stand: 2023-07-20
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1482770928/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_05%20Betriebssatzung%20f%C3%BCr%20des%20Eigenbetriebes%20Sozialp%C3%A4diatrisches%20Zentrum%20der%20Spitalstiftung%20Konstanz%20%28SPZ%20Konstanz%29"
 status: published

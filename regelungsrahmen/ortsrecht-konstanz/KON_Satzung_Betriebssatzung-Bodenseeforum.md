@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2016-06-16
 gueltig_ab: 2016-07-01
-beschreibung: "Betriebssatzung für den Eigenbetrieb Bodenseeforum Konstanz, regelt Organisation und Wirtschaftsführung des städtischen Tagungs- und Kongressbetriebs."
 stand: 2016-06-16
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-765459853/konstanz/Dateien/Service/Ortsrecht/VIII%20Wirtschaft%20und%20Verkehr/VIII_03%20Betriebssatzung%20f%C3%BCr%20den%20Eigenbetrieb%20Bodenseeforum%20Konstanz.pdf"
 status: published

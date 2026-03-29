@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2019-06-29
 gueltig_ab: 2020-01-01
-beschreibung: "Öffentlich-rechtliche Vereinbarung zwischen der Stadt Konstanz und der Gemeinde Reichenau über die Mitbenutzung der städtischen Wertstoffhöfe durch Reichenauer Bürgerinnen und Bürger gegen Kostenbeteiligung."
 stand: 2019-10-17
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E350056199/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_03.1%20%C3%96ffentlich-Rechtliche%20Vereinbarung%20zwischen%20der%20Stadt%20Konstanz%20und%20der%20Gemeinde%20Reichenau%20%C3%BCber%20die%20Mitbenutzung%20der%20Konstanzer%20Wertstoffh%C3%B6fe.pdf"
 status: published

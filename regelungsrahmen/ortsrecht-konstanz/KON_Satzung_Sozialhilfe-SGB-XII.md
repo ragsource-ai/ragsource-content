@@ -9,7 +9,6 @@ land: Baden-Württemberg
 kreis: Konstanz
 erlassen_am: 2020-10-19
 gueltig_ab: 2020-10-19
-beschreibung: "Satzung des Landkreises Konstanz über die Übertragung der Durchführung von Sozialhilfe nach SGB XII auf die Große Kreisstadt Konstanz für ihr Gemeindegebiet."
 stand: 2020-10-19
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E707455160/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_17%20Satzung%20%C3%BCber%20die%20Durchf%C3%BChrung%20der%20Sozialhilfe%20nach%20SGB%20XII%20im%20Landkreis%20Konstanz.pdf"
 status: published

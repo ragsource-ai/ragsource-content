@@ -7,7 +7,6 @@ geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 2013-05-03 (BGBl I 2013, 1084), zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 370"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/bmg/"
-beschreibung: "Regelt das Meldewesen in Deutschland: Meldepflichten, An- und Abmeldung, Datenverarbeitung durch Meldebehörden, Melderegisterauskünfte sowie Datenübermittlung an Behörden und Private."
 stand: "2025-12-22"
 status: published
 projekte:

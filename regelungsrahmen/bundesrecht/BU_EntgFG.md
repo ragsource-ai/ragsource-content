@@ -7,7 +7,6 @@ geaendert_am: "2019-11-22"
 quelle: "Gesetz vom 1994-05-26 (BGBl I 1994, 1014, 1065), zuletzt geändert durch Art. 9 G v. 22.11.2019 I 1746"
 gueltig_ab: 2019-11-22
 url: "https://www.gesetze-im-internet.de/entgfg/"
-beschreibung: "CLAUDE_FILL"
 stand: "2019-11-22"
 status: published
 projekte:

@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 1981-07-08
 geaendert_am: 2023-09-28
 gueltig_ab: 2023-09-29
-beschreibung: "Hauptsatzung der Stadt Konstanz mit Regelungen zur Gemeinderatsverfassung, den Ausschüssen, den Zuständigkeiten des Oberbürgermeisters, der Ortschaftsverfassung sowie der Durchführung von Sitzungen."
 stand: 2023-09-29
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E468575503/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_01%20Hauptsatzung%20der%20Stadt%20Konstanz.pdf"
 status: published

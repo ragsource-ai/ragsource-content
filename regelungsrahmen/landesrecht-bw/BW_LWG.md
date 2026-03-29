@@ -9,7 +9,6 @@ geaendert_am: "2022-04-26"
 quelle: "Gesetz neugefasst am 15.04.2005 (GBl. 2005, 384), zuletzt geändert durch Artikel 2 des Gesetzes vom 26. April 2022 (GBl. S. 237)"
 gueltig_ab: 2005-03-24
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WahlGBW2005rahmen"
-beschreibung: "Regelt Landtagswahlen in Baden-Württemberg. Bestimmt Wahlsystem, Wahlrecht, Wählbarkeit, Wahlorgane, Aufstellung von Wahlvorschlägen sowie Wahlhandlung und Ergebnisfeststellung."
 stand: "2022-04-26"
 status: published
 projekte:

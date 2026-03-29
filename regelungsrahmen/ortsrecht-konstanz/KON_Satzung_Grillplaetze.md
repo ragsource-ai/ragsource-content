@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2008-06-26
 geaendert_am: 2017-05-23
 gueltig_ab: 2017-07-11
-beschreibung: "Satzung der Stadt Konstanz über die Benutzungsrechte, Benutzungszeiten und Verhaltensregeln auf den öffentlichen Grillplätzen im Stadtgebiet Konstanz."
 stand: 2017-05-23
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E783894079/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_07%20Satzung%20%C3%BCber%20die%20Benutzung%20der%20%C3%B6ffentlichen%20Grillpl%C3%A4tze%20auf%20Konstanzer%20Gemarkung.pdf"
 status: published

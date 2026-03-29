@@ -8,7 +8,6 @@ land: Baden-Württemberg
 quelle: "GABl. 2020, 380"
 gueltig_ab: 2020-04-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000032897"
-beschreibung: "Vorgängerfassung des Wohnungsbauförderprogramms, noch gültig für laufende Maßnahmen."
 stand: "2026-03-27"
 status: published
 projekte:

@@ -9,7 +9,6 @@ quelle: "GABl. 2012, 865"
 gueltig_ab: 2021-02-01
 gueltig_bis: 2028-01-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000034573"
-beschreibung: "Regelt brandschutztechnische Prüfung im Baugenehmigungsverfahren."
 stand: "2026-03-27"
 status: published
 projekte:

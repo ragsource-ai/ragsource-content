@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2023-04-24
 gueltig_ab: 2023-05-04
-beschreibung: "Polizeiverordnung der Stadt Konstanz über die Pflicht zum Anbringen und zur Instandhaltung von Hausnummern an Gebäuden im Stadtgebiet."
 status: published
 projekte:
   - amtsschimmel

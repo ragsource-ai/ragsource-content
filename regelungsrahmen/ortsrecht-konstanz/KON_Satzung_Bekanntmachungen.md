@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2017-12-19
 gueltig_ab: 2018-02-01
-beschreibung: "Satzung der Stadt Konstanz, die regelt, dass öffentliche Bekanntmachungen durch Bereitstellung im Internet auf www.konstanz.de erfolgen; für Bauleitpläne zusätzlich im Amtsblatt; Notbekanntmachung per SÜDKURIER möglich."
 stand: 2017-12-19
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-757452785/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_02%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20%C3%96ffentliche%20Bekanntmachungen.pdf"
 status: published

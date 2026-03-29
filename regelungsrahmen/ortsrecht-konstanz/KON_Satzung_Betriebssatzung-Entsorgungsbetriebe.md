@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 1992-11-12
 gueltig_ab: 1993-01-01
-beschreibung: "Betriebssatzung für die Entsorgungsbetriebe der Stadt Konstanz als Eigenbetrieb, regelt Organisation, Aufgaben und Wirtschaftsführung."
 stand: 2016-03-17
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1496631804/konstanz/Dateien/Service/Ortsrecht/VIII%20Wirtschaft%20und%20Verkehr/VIII_01%20Betriebssatzung%20der%20Entsorgungsbetriebe%20Stadt%20Konstanz.pdf"
 status: published

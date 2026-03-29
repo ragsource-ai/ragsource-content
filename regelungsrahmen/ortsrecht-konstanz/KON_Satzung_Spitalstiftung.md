@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2019-09-26
 gueltig_ab: 2019-09-26
-beschreibung: "Satzung der Spitalstiftung Konstanz, einer seit 1228 bestehenden öffentlich-rechtlichen Stiftung, die Stiftungszweck, Organe und Verwaltung zur Förderung von Pflege, Gesundheit und Wohnversorgung bedürftiger Menschen regelt."
 stand: 2019-09-26
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1340518912/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_02%20Satzung%20der%20Spitalstiftung%20Konstanz.pdf"
 status: published

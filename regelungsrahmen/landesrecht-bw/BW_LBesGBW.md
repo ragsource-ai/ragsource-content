@@ -9,7 +9,6 @@ geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 09.11.2010 (GBl. 2010, 793, 826), zuletzt geändert durch Artikel 1 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 122)"
 gueltig_ab: 2010-11-23
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BesGBW2010rahmen"
-beschreibung: "Besoldungsrecht des Landes Baden-Württemberg. Regelt Besoldungsgruppen, Dienstbezüge, Zulagen und Sonderzahlungen der Beamten, Richter und Staatsanwälte."
 stand: "2025-11-18"
 status: published
 projekte:

@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2022-11-24
 quelle: ""
 gueltig_ab: 2022-11-24
-beschreibung: "Örtliche Bauvorschrift der Stadt Konstanz über die Einschränkung der Kfz-Stellplatzpflicht für Wohnnutzungen sowie die Herstellung notwendiger Fahrradstellplätze im gesamten Stadtgebiet."
 stand: 2022-11-24
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1922340050/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_06%20Stellplatzsatzung.pdf"
 status: published

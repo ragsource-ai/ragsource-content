@@ -8,7 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2024, 623"
 gueltig_ab: 2024-10-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000041958"
-beschreibung: "Führt UVgO für Liefer- und Dienstleistungsaufträge ein. Kommunen wird Anwendung empfohlen."
+beschreibung: "UVgO für Liefer-/Dienstleistungsaufträge, kommunal empfohlen"
 stand: "2026-03-27"
 status: published
 projekte:

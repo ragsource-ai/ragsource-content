@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: "1981-10-15"
 quelle: "http://konstanz.de/rathaus/ortsrecht/03651/00071/index.html"
 gueltig_ab: "1981-10-15"
-beschreibung: "Örtliche Bauvorschrift der Stadt Konstanz zum Schutz des historischen Stadtbilds der Altstadt, mit Anforderungen an Gebäudegestaltung, Fassaden, Dachformen und Werbeanlagen."
 stand: ""
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1249215459/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_03%20Stadtbildsatzung.pdf"
 status: published

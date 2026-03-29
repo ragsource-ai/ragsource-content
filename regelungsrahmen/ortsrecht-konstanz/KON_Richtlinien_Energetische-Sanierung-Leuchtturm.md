@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2023-06-29
 quelle: ""
 gueltig_ab: 2023-07-01
-beschreibung: "Ergänzende Richtlinie zum Förderprogramm energetische Bestandssanierung mit einer Leuchtturmförderung für gewerbliche Gebäude mit besonders hohem Energieeinsparpotenzial."
 stand: 2023-06-29
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-982143579/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_11.1%20Richtlinie%20zum%20Fo%CC%88rderprogramm%20energetische%20Bestandssanierung%20Stadt%20Konstanz%20Erweiterung%20Leuchtturmf%C3%B6rderung.pdf"
 status: published

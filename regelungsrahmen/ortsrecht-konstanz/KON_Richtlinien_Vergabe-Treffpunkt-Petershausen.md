@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: "1990-01-01"
 gueltig_ab: "1990-01-01"
-beschreibung: "Vergabeordnung für die Räume des Treffpunkt Petershausen in Konstanz, regelt Nutzungsbedingungen und Gebühren für Mieter des Stadtteilzentrums."
 stand: ""
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1803119087/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_06%20Vergabeordnung%20f%C3%BCr%20die%20R%C3%A4ume%20des%20Treffpunkt%20Petershausen.pdf"
 status: published

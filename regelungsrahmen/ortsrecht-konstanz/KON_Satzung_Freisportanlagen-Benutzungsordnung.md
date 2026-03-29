@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2024-01-25
 quelle: ""
 gueltig_ab: 2024-09-01
-beschreibung: "Benutzungsordnung der Stadt Konstanz für Freisportanlagen wie Sportzentrum Wollmatingen, Schänzle-Sportareal und weitere Außensportanlagen, mit Regelungen zu Nutzungsrechten, Ordnungsvorschriften und Haftung."
 stand: 2024-01-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E298814845/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_09%20Benutzungsordnung%20f%C3%BCr%20die%20Freisportanlagen%20der%20Stadt%20Konstanz%20ab%2001.09.2024.pdf"
 status: published

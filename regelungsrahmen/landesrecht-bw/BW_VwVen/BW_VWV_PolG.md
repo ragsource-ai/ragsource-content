@@ -8,7 +8,6 @@ land: Baden-Württemberg
 quelle: "GABl. 1997, 406"
 gueltig_ab: 1997-08-27
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000018160"
-beschreibung: "Vollzugshinweise zum PolG, inkl. Regelungen zum Gemeindevollzugsdienst (GVD)."
 stand: "2026-03-27"
 status: published
 projekte:

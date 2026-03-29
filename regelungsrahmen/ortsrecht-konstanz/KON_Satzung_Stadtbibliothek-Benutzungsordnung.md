@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2017-12-19
 quelle: ""
 gueltig_ab: 2026-01-01
-beschreibung: "Regelt die Bedingungen für die Anmeldung, Ausleihe und Nutzung der Medien und digitalen Angebote der Stadtbibliothek Konstanz sowie die erhobenen Gebühren."
 stand: 2025-12-18
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1393289093/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_08%20Benutzungsordnung%20der%20Stadtbibliothek%20Konstanz.pdf"
 status: published

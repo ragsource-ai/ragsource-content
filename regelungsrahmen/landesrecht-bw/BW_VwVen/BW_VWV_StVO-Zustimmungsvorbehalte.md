@@ -8,7 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2025, 620"
 gueltig_ab: 2025-07-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000044323"
-beschreibung: "Neuere Fassung der landesrechtlichen VwV zur StVO."
+beschreibung: "Zustimmungsvorbehalte bei verkehrsrechtlichen Anordnungen"
 stand: "2026-03-27"
 status: published
 projekte:

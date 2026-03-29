@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2022-10-24
 quelle: ""
 gueltig_ab: 2022-10-24
-beschreibung: "Regelt die gesellschaftsrechtliche Grundlage der Bodensee-Schiffsbetriebe GmbH, deren Unternehmensgegenstand die Beförderung von Personen und Gütern auf dem Bodensee ist."
 stand: 2022-10-24
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E456335683/konstanz/Dateien/Service/Ortsrecht/IV.1%20Mittelbare%20Beteiligungen%20der%20Stadt%20Konstanz%20%C3%BCber%2050%20Prozent/IV.1_01%20Gesellschaftsvertrag%20der%20Bodensee-Schiffsbetriebe%20GmbH.pdf"
 status: published

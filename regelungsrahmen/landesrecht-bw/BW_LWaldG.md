@@ -9,7 +9,6 @@ geaendert_am: "2025-11-18"
 quelle: "Gesetz neugefasst am 31.08.1995 (GBl. 1995, 685), zuletzt geändert durch Artikel 11 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
 gueltig_ab: 1996-06-23
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WaldGBWrahmen"
-beschreibung: "Waldrecht Baden-Württemberg. Regelt forstliche Rahmenplanung, Erhaltung und Bewirtschaftung des Waldes, Forstbehörden, forstwirtschaftliche Zusammenschlüsse und das freie Betretungsrecht."
 stand: "2025-11-18"
 status: published
 projekte:

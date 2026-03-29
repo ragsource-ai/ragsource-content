@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2022-03-21
 gueltig_ab: 2022-03-22
-beschreibung: "Polizeiverordnung der Stadt Konstanz als Ortspolizeibehörde zum Schutz der Nachtruhe, zur Vermeidung von Lärm, zur Regelung der Tierhaltung sowie zum Schutz öffentlicher Anlagen und des Stadtbildes."
 status: published
 projekte:
   - amtsschimmel

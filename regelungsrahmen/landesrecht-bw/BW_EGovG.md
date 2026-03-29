@@ -9,7 +9,6 @@ geaendert_am: "2026-02-10"
 quelle: "Gesetz vom 17.12.2015 (GBl. 2015, 1191), zuletzt geändert durch Artikel 2 des Gesetzes vom 10. Februar 2026 (GBl. 2026 Nr. 19)"
 gueltig_ab: 2016-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-EGovGBWrahmen"
-beschreibung: "Regelt elektronisches Verwaltungshandeln in Baden-Württemberg. Schreibt elektronischen Zugang, Aktenführung, Formulare und IT-Infrastruktur vor und bestimmt Organisation der IT-Kooperation (IT-Rat, automatisierte Verwaltungsakte)."
 stand: "2026-02-10"
 status: published
 projekte:

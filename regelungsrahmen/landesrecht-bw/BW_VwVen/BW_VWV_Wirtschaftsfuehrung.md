@@ -8,7 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2024, 124"
 gueltig_ab: 2024-03-27
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000040976"
-beschreibung: "Regelungen zur Wirtschaftsführung im Haushaltsjahr."
+beschreibung: "Haushalts- und Wirtschaftsführung im Haushaltsjahr"
 stand: "2026-03-27"
 status: published
 projekte:

@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2010-06-24
 gueltig_ab: 2019-05-21
-beschreibung: "Satzung der Stadt Konstanz über die Erhebung von Erschließungsbeiträgen für Anbaustraßen, Wohnwege und Grünanlagen nach dem Kommunalabgabengesetz Baden-Württemberg."
 stand: 2019-05-21
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1226821783/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_02%20Satzung%20%C3%BCber%20die%20Erhebung%20von%20Erschlie%C3%9Fungsbeitr%C3%A4gen%20%28Fassung%20vom%2021.05.2019%29.pdf"
 status: published

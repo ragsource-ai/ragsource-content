@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2024-11-21
 gueltig_ab: 2024-11-27
-beschreibung: Regelt Sperrzeiten für Schank- und Speisewirtschaften sowie Vergnügungsstätten in Konstanz. Allgemeine Sperrzeit beginnt um 03:00 Uhr (Altstadt 01:00 Uhr), in der Nacht zum Samstag/Sonntag um 05:00 Uhr. Sonderregelungen für Altstadt/Stadehofen, Spielhallen, Bewirtung im Freien und besondere Anlässe.
 status: published
 projekte:
   - amtsschimmel

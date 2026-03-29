@@ -8,7 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2024, 279"
 gueltig_ab: 2024-05-29
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000041412"
-beschreibung: "Förderung kommunaler Wasserwirtschaftsmaßnahmen (Abwasser, Wasserversorgung, Gewässer). Ersetzt FrWw 2015."
+beschreibung: "Förderung Wasserwirtschaft (Abwasser, Wasserversorgung)"
 stand: "2026-03-27"
 status: published
 projekte:

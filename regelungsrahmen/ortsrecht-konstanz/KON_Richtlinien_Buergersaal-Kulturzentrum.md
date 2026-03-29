@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2021-01-01
 gueltig_ab: 2021-01-01
-beschreibung: Richtlinien der Stadt Konstanz für die Überlassung des Bürgersaals und der multifunktionalen Räume des Kulturzentrums am Münster für kulturelle und bürgerschaftliche Nutzung.
 stand: 2021-01-01
 url: https://www.konstanz.de/site/Konstanz/get/documents_E1767949070/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_04%20Richtlinien%20der%20Stadt%20Konstanz%20f%C3%BCr%20die%20%C3%9Cberlassung%20des%20B%C3%BCrgersaals%20und%20f%C3%BCr%20die%20multifunktionalen%20R%C3%A4ume%20des%20Kulturzentrums%20am%20M%C3%BCnster.pdf
 status: published

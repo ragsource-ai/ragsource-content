@@ -9,7 +9,7 @@ quelle: "GABl. 2022, 1159"
 gueltig_ab: 2023-01-01
 gueltig_bis: 2029-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000038135"
-beschreibung: "Anerkennung langjähriger Dienste, auch für kommunale Beschäftigte."
+beschreibung: "Dankurkunden für langjährige Dienste"
 stand: "2026-03-27"
 status: published
 projekte:

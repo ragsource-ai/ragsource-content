@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2024-12-17
 quelle: ""
 gueltig_ab: 2025-01-01
-beschreibung: "Gebührensatzung der Stadt Konstanz für die Benutzung der gemeindlichen Bestattungseinrichtungen und Amtshandlungen im Leichen- und Bestattungswesen."
 stand: 2024-12-17
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1341037713/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_02%20Satzung%20%C3%BCber%20die%20Erhebung%20von%20Geb%C3%BChren%20im%20Bestattungswesen%20%28Bestattungsgeb%C3%BChrenordnung%20der%20Stadt%20Konstanz%29%20ab%2001.01.2025.pdf"
 status: published

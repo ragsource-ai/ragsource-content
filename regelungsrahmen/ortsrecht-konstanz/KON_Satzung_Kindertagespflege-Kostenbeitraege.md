@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2024-12-12
 quelle: ""
 gueltig_ab: 2025-01-01
-beschreibung: "Satzung der Stadt Konstanz über die Erhebung von Kostenbeiträgen für die Kindertagespflege, einschließlich Beitragsbemessung, Einkommensanrechnung und Befreiungstatbestände."
 stand: 2024-12-12
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-144624599/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_19%20Satzung%20der%20Stadt%20Konstanz%20zur%20Erhebung%20von%20Kostenbeitr%C3%A4gen%20in%20der%20Kindertagespflege.pdf"
 status: published

@@ -8,7 +8,6 @@ land: Baden-Württemberg
 quelle: "GABl. 2025, S. 1055"
 gueltig_ab: 2025-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000045040"
-beschreibung: "Zuwendungen an Kommunen für Schulbau und -sanierung."
 stand: "2026-03-27"
 status: published
 projekte:

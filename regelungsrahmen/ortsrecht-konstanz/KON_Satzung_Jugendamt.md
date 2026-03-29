@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2022-12-13
 quelle: ""
 gueltig_ab: 2022-12-23
-beschreibung: "Satzung der Stadt Konstanz, die Organisation, Aufgaben und Verwaltung des Städtischen Jugendamtes sowie die Zusammensetzung des Jugendhilfeausschusses regelt."
 stand: 2022-12-13
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-151893772/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_01%20Satzung%20f%C3%BCr%20das%20Jugendamt%20Konstanz.pdf"
 status: published

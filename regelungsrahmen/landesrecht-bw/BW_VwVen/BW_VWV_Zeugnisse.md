@@ -7,7 +7,7 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2019-04-02
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000030427"
-beschreibung: "Regelungen zur Zeugnisausstellung an öffentlichen Schulen. Weisungsaufgabe der Gemeinde als Schulträger."
+beschreibung: "Zeugnisausstellung an öffentlichen Schulen"
 stand: "2026-03-27"
 status: published
 projekte:

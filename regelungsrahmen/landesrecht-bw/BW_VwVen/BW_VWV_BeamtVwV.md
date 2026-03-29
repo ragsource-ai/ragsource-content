@@ -9,7 +9,6 @@ quelle: "GABl. 2016, 281"
 gueltig_ab: 2016-07-01
 gueltig_bis: 2030-06-30
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000039375"
-beschreibung: "Durchführungsvorschrift zum LBG BW. Gilt auch für kommunale Beamte."
 stand: "2026-03-27"
 status: published
 projekte:

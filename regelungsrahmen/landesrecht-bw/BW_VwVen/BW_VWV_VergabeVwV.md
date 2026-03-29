@@ -9,7 +9,6 @@ quelle: "GABl. 2024, S. 824"
 gueltig_ab: 2025-01-01
 gueltig_bis: 2031-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VB-BW-AD-GABl2024-12-824"
-beschreibung: "Kommunalspezifische VwV zum Vergaberecht. Konkretisiert das Landesvergabegesetz im Unterschwellenbereich."
 stand: "2026-03-27"
 status: published
 projekte:

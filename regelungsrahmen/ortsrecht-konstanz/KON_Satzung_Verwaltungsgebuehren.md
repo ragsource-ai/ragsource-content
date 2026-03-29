@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2012-12-12
 geaendert_am: 2025-09-25
 gueltig_ab: 2025-10-16
-beschreibung: Regelt die Erhebung von Verwaltungsgebühren für öffentliche Leistungen der Stadt Konstanz. Mit Gebührenverzeichnis (Stand 25.09.2025) für Amtshandlungen der allgemeinen Verwaltung, Standesamt, Bau und Ordnung sowie Naturschutz. Gebühren bis 10.000 €.
 stand: 2025-09-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-230890691/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_05%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Erhebung%20von%20Verwaltungsgeb%C3%BChren.pdf"
 status: published

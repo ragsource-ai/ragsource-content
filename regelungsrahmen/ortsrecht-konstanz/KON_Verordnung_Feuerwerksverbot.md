@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2015-12-11
 geaendert_am: 2017-12-22
 gueltig_ab: 2015-12-12
-beschreibung: "Allgemeinverfügung der Stadt Konstanz als Ortspolizeibehörde über das dauerhaft geltende Verbot des Abbrennens von Feuerwerkskörpern der Kategorie F2 in der Konstanzer Altstadt an Silvester und Neujahr."
 status: published
 projekte:
   - amtsschimmel

@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2017-03-23
 geaendert_am: 2024-09-12
 gueltig_ab: 2025-01-01
-beschreibung: "Satzung der Stadt Konstanz über die Benutzungsverhältnisse, Verhaltensregeln und Benutzungsgebühren in kommunalen Wohnungslosen- und Flüchtlingsunterkünften."
 status: published
 projekte:
   - amtsschimmel

@@ -9,7 +9,6 @@ geaendert_am: "2023-12-21"
 quelle: "Gesetz vom 12.03.2015 (GBl. 2015, 221), zuletzt geändert durch Gesetz vom 21. Dezember 2023 (GBl. S. 482)"
 gueltig_ab: 2014-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PersVGBW2015rahmen"
-beschreibung: "Personalvertretungsrecht des Landes Baden-Württemberg. Regelt Bildung, Zuständigkeiten und Verfahren der Personalräte in den Dienststellen des Landes."
 stand: "2023-12-21"
 status: published
 projekte:

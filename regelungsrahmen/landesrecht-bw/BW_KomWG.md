@@ -9,7 +9,6 @@ geaendert_am: "2025-07-22"
 quelle: "Gesetz neugefasst am 01.09.1983 (GBl. 1983, 429), zuletzt geändert durch Artikel 5 des Gesetzes vom 22. Juli 2025 (GBl. 2025 Nr. 71)"
 gueltig_ab: 1983-09-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KomWGBW1983rahmen"
-beschreibung: "Kommunalwahlrecht Baden-Württemberg. Regelt Vorbereitung, Durchfuehrung und Feststellung des Ergebnisses von Gemeinderat-, Kreistag- und Buergermeisterwahlen sowie Wahlpruefung und Wahlorgane."
 stand: "2025-07-22"
 status: published
 projekte:

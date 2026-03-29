@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2019-11-25
 quelle: ""
 gueltig_ab: 2019-12-05
-beschreibung: "Regelt die Nutzung, das Verhalten, die Beisetzungsmodalitäten und die Verwaltung des Mainau Ruhewaldes als naturnahe Bestattungseinrichtung der Stadt Konstanz."
 stand: 2019-11-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E202795192/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_17.1%20Satzung%20der%20Stadt%20Konstanz%20f%C3%BCr%20den%20Mainau%20Ruhewald.pdf"
 status: published

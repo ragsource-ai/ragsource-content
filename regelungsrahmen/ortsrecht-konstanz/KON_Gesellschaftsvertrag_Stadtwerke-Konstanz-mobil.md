@@ -14,7 +14,6 @@ quelle: ""
 gueltig_ab: 2023-01-01
 stand: 2023-09-22
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E581632866/konstanz/Dateien/Service/Ortsrecht/IV.1%20Mittelbare%20Beteiligungen%20der%20Stadt%20Konstanz%20%C3%BCber%2050%20Prozent/IV.1_04%20Gesellschaftsvertrag%20der%20Stadtwerke%20Konstanz%20mobil%20GmbH.pdf"
-beschreibung: "Gesellschaftsvertrag der Stadtwerke Konstanz mobil GmbH als städtische Tochtergesellschaft der Stadtwerke Konstanz GmbH, die Personenbeförderung, Fahrzeugvermietung sowie Parkhäuser und Ladeinfrastruktur betreibt."
 status: published
 projekte:
   - amtsschimmel

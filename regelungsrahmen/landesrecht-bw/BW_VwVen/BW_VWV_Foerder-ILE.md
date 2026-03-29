@@ -9,7 +9,7 @@ quelle: "GABl. 2019, 335"
 gueltig_ab: 2019-01-01
 gueltig_bis: 2028-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000031186"
-beschreibung: "Förderung der Flurneuordnung und integrierten Landentwicklung."
+beschreibung: "Flurneuordnung und Landentwicklung"
 stand: "2026-03-27"
 status: published
 projekte:

@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2001-10-29
 gueltig_ab: 2001-10-30
-beschreibung: "Verordnung des Regierungspräsidiums Freiburg, die das Nachgehen der Prostitution im festgelegten Sperrbezirk der Stadt Konstanz sowie auf öffentlichen Straßen und Plätzen im gesamten Stadtgebiet verbietet."
 status: published
 projekte:
   - amtsschimmel

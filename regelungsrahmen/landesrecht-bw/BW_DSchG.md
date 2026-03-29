@@ -9,7 +9,6 @@ geaendert_am: "2023-02-07"
 quelle: "Gesetz neugefasst am 06.12.1983 (GBl. 1983, 797), zuletzt geändert durch Artikel 6 des Gesetzes vom 7. Februar 2023 (GBl. S. 26, 42)"
 gueltig_ab: 1984-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-DSchGBW1983rahmen"
-beschreibung: "Regelt Schutz, Pflege und Erhaltung von Kulturdenkmalen in Baden-Württemberg. Bestimmt Denkmalschutzbehörden, Erhaltungspflichten, eingetragene Kulturdenkmale und Verfahren bei Zufallsfunden."
 stand: "2023-02-07"
 status: published
 projekte:

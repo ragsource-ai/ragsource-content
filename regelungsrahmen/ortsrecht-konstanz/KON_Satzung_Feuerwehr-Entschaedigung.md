@@ -13,7 +13,6 @@ erlassen_am: 2023-12-19
 gueltig_ab: 2024-01-01
 stand: 2023-12-19
 quelle: ""
-beschreibung: "Satzung der Stadt Konstanz über die Entschädigung der ehrenamtlich tätigen Feuerwehrangehörigen, einschließlich Regelungen zu Freiwilligkeitsleistungen, Kameradschaftspflege und Verdienstausfallersatz."
 status: published
 projekte:
   - amtsschimmel

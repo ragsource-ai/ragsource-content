@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2023-08-29
 gueltig_ab: 2023-10-01
-beschreibung: "Legt die Gebühren für die Ausstellung von Bewohnerparkausweisen fest. Jahresausweis: 100 €, Dreimonatsausweis: 45 €, Ersatzdokument: 10 €. Gebühr entsteht mit Ausstellung und ist sofort fällig."
 status: published
 projekte:
   - amtsschimmel

@@ -7,7 +7,6 @@ geaendert_am: "2024-10-23"
 quelle: "Gesetz vom 1994-06-06 (BGBl I 1994, 1170, 1171), zuletzt geändert durch Art. 52 G v. 23.10.2024 I Nr. 323"
 gueltig_ab: 2024-10-23
 url: "https://www.gesetze-im-internet.de/arbzg/"
-beschreibung: "Regelt Höchstarbeitszeiten, Ruhepausen und Ruhezeiten für Arbeitnehmer, einschließlich Sonderregelungen für Nacht- und Schichtarbeit sowie Ausnahmen für bestimmte Branchen und Berufsgruppen."
 stand: "2024-10-23"
 status: published
 projekte:

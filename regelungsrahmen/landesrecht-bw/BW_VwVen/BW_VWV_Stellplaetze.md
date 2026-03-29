@@ -9,7 +9,6 @@ quelle: "GABl. 2022, 799"
 gueltig_ab: 2022-09-01
 gueltig_bis: 2029-08-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000037733"
-beschreibung: "Richtwerte für notwendige Kfz- und Fahrradstellplätze nach § 37 LBO."
 stand: "2026-03-27"
 status: published
 projekte:

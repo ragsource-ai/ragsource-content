@@ -9,7 +9,6 @@ geaendert_am: "2023-02-07"
 quelle: "Gesetz vom 17.12.2020 (GBl. 2020, 1233), zuletzt geändert durch Artikel 10 des Gesetzes vom 7. Februar 2023 (GBl. S. 26, 44)"
 gueltig_ab: 2020-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KrWGBWrahmen"
-beschreibung: "Kreislaufwirtschaft und Abfallbewirtschaftung in Baden-Württemberg. Regelt Pflichten öffentlich-rechtlicher Entsorgungsträger, Sonderabfallagentur, Andienungspflichten, Abfallwirtschaftspläne und Ueberwachung."
 stand: "2023-02-07"
 status: published
 projekte:

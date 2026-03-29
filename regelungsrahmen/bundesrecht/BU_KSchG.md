@@ -7,7 +7,6 @@ geaendert_am: "2021-06-14"
 quelle: "Gesetz vom 1951-08-10 (BGBl I 1951, 499), zuletzt geändert durch Art. 2 G v. 14.6.2021 I 1762"
 gueltig_ab: 2021-06-14
 url: "https://www.gesetze-im-internet.de/kschg/"
-beschreibung: "Schützt Arbeitnehmer vor sozial ungerechtfertigten Kündigungen: regelt Voraussetzungen für wirksame Kündigungen, Klagefrist, Abfindung sowie Sonderkündigungsschutz in Betrieben ab 10 Beschäftigten."
 stand: "2021-06-14"
 status: published
 projekte:

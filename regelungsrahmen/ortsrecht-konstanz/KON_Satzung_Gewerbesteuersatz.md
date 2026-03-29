@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2010-12-16
 geaendert_am: 2022-12-13
 gueltig_ab: 2023-01-01
-beschreibung: "Satzung der Stadt Konstanz zur Festsetzung des Gewerbesteuerhebesatzes auf 410 vom Hundert der Steuermessbeträge."
 stand: 2022-12-13
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E526962998/konstanz/Dateien/Service/Ortsrecht/II%20Finanzen/II_07%20Satzung%20%C3%BCber%20die%20Festsetzung%20des%20Gewerbesteuersatzes%20in%20der%20Stadt%20Konstanz%20ab%2001.01.2023.pdf"
 status: published

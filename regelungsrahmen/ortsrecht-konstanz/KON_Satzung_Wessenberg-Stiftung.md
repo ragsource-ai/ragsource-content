@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: "2005-03-22"
 gueltig_ab: "2005-03-22"
-beschreibung: "Satzung der von Wessenberg'schen Vermächtnisstiftung Konstanz, die Stiftungszweck, Vermögen, Organe und Verwaltung dieser öffentlich-rechtlichen Stiftung zur Unterstützung erziehungsbedürftiger Kinder und Jugendlicher regelt."
 stand: "2005-03-22"
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1187900377/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_03%20Satzung%20der%20von%20Wessenberg%27schen%20Verm%C3%A4chtnisstiftung.pdf"
 status: published

@@ -13,7 +13,6 @@ erlassen_am: 2015-03-26
 gueltig_ab: 2016-02-01
 stand: 2016-07-21
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E911193217/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_17%20Richtlinien%20%C3%BCber%20Aufgaben%20und%20Rechtsstellung%20der_des%20Behindertenbeauftragte_n%20der%20Stadt%20Konstanz.pdf"
-beschreibung: "Richtlinien der Stadt Konstanz über Organisation, Aufgaben, Beteiligungsrechte und Rechtsstellung der/des ehrenamtlichen Behindertenbeauftragten sowie des Beirates für Menschen mit Behinderung."
 status: published
 projekte:
   - amtsschimmel

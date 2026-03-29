@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2001-09-27
 gueltig_ab: 2001-10-15
-beschreibung: "Satzung der Stadt Konstanz über die Erhebung von Erschließungsbeiträgen für die Lärmschutzanlage entlang der Kindlebildstraße L 221 im Neubaugebiet Eichbühl."
 stand: 2001-09-27
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1524531203/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_08%20Satzung%20%C3%BCber%20die%20Erhebung%20von%20Erschlie%C3%9Fungsbeitr%C3%A4gen%20f%C3%BCr%20die%20L%C3%A4rmschutzanlage%20entlang%20der%20Kindlebildstra%C3%9Fe%20L%20221.pdf"
 status: published

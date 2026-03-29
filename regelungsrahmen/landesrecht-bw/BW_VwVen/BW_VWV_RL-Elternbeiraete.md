@@ -8,7 +8,6 @@ land: Baden-Württemberg
 quelle: "GABl. 2008, 170"
 gueltig_ab: 2008-04-02
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000002500"
-beschreibung: "Bildung und Aufgaben der Elternbeiräte in Kindertageseinrichtungen nach § 5 KiTaG."
 stand: "2026-03-27"
 status: published
 projekte:

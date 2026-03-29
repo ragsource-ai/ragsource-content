@@ -9,7 +9,6 @@ geaendert_am: 2026-02-10
 quelle: Gesetz vom 12.06.2018 (GBl. 2018, 173), zuletzt geändert durch Artikel 1 des Gesetzes vom 10. Februar 2026 (GBl. 2026 Nr. 19)
 gueltig_ab: 2026-02-28
 url: https://www.landesrecht-bw.de/bsbw/document/jlr-DSGBW2018rahmen
-beschreibung: "Datenschutzrecht des Landes Baden-Württemberg. Ergänzt die DS-GVO für öffentliche Stellen und regelt Verarbeitungsgrundlagen, Betroffenenrechte, KI-Nutzung und besondere Verarbeitungssituationen."
 stand: 2026-02-10
 status: published
 projekte:

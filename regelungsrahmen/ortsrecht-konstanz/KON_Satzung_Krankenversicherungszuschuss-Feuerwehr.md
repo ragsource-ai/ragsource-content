@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2018-10-25
 gueltig_ab: 2018-10-30
-beschreibung: "Satzung der Stadt Konstanz über die Gewährung eines Zuschusses zu den Krankenversicherungsbeiträgen für Beamtinnen und Beamte des Einsatzdienstes der Feuerwehr anstelle der Heilfürsorge, mit rückwirkender Geltung ab 01.01.2018."
 status: published
 projekte:
   - amtsschimmel

@@ -9,7 +9,6 @@ geaendert_am: "2025-07-22"
 quelle: "Gesetz neugefasst am 10.07.2003 (GBl. 2003, 385), zuletzt geändert durch Artikel 10 des Gesetzes vom 22. Juli 2025 (GBl. 2025 Nr. 71)"
 gueltig_ab: 2003-05-20
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-LPlGBW2003rahmen"
-beschreibung: "Raumordnung und Landesplanung in Baden-Württemberg. Regelt Landesentwicklungsplan, Regionalpläne, Raumverträglichkeitsprüfung, Zielabweichungsverfahren und Aufgaben der Regionalverbände."
 stand: "2025-07-22"
 status: published
 projekte:

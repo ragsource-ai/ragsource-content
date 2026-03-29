@@ -7,7 +7,6 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2015-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000009650"
-beschreibung: "Förderung kommunaler Sporthallen und Sportfreianlagen."
 stand: "2026-03-27"
 status: published
 projekte:

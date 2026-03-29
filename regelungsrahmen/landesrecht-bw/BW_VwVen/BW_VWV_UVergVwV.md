@@ -9,7 +9,7 @@ quelle: "GABl. 2020, 759"
 gueltig_ab: 2024-11-01
 gueltig_bis: 2027-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000042440"
-beschreibung: "VwV des Finanzministeriums (Titel via Crawler zu verifizieren)."
+beschreibung: "Vergütung nebenamtlicher/nebenberuflicher Unterricht"
 stand: "2026-03-27"
 status: published
 projekte:

@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2022-05-10
 gueltig_ab: 2022-05-10
-beschreibung: "Förderrichtlinie der Stadt Konstanz für Gastronomiebetriebe, die Mehrweg-Verpackungssysteme einführen; gewährt Zuschüsse bis zu 250 Euro zur Reduzierung von Einwegverpackungen."
 status: published
 projekte:
   - amtsschimmel

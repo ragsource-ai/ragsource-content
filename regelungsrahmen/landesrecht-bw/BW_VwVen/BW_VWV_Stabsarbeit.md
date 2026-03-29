@@ -9,7 +9,6 @@ quelle: "GABl. 2024, 234"
 gueltig_ab: 2024-06-01
 gueltig_bis: 2031-05-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000041316"
-beschreibung: "Einrichtung und Arbeit von Führungsstäben bei außergewöhnlichen Ereignissen."
 stand: "2026-03-27"
 status: published
 projekte:

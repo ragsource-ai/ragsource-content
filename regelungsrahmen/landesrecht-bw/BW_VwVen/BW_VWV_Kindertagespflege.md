@@ -8,7 +8,6 @@ land: Baden-Württemberg
 quelle: "GABl. 2021, S. 242"
 gueltig_ab: 2021-04-07
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000035164"
-beschreibung: "Qualifikation und Fortbildung von Tagespflegepersonen."
 stand: "2026-03-27"
 status: published
 projekte:

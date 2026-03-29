@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2018-12-19
 gueltig_ab: 2019-04-01
-beschreibung: "Regelt Vergabe, Nutzung und Kündigung von Liegeplätzen für Boote im Uferbereich Seerhein und Schänzle. Nur für Personen mit Hauptwohnsitz Konstanz. Jahresmiete nach Motorleistung (bis 15 PS: 319 €, über 115 PS: 1.440 € brutto). Untervermietung unzulässig."
 status: published
 projekte:
   - amtsschimmel

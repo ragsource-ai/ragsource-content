@@ -9,7 +9,7 @@ quelle: "GABl. 2012, 858"
 gueltig_ab: 2013-01-01
 gueltig_bis: 2026-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000011813"
-beschreibung: "Zuwendungen für Kulturarbeit nach § 96 Bundesvertriebenengesetz."
+beschreibung: "Zuwendungen Kulturarbeit § 96 BVFG"
 stand: "2026-03-27"
 status: published
 projekte:

@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 1993-07-01
 geaendert_am: 2010-06-24
 gueltig_ab: 2010-07-01
-beschreibung: "Satzung der Stadt Konstanz über die regelmäßige Weitergabe von Daten aus dem Meldewesen und der Baubehörde an die kommunale Statistikstelle für Bevölkerungsstatistiken sowie die Statistische Gebäude- und Wohnungsdatei."
 stand: 2010-06-30
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1104984112/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_16%20Satzung%20%C3%BCber%20die%20regelm%C3%A4%C3%9Fige%20Weitergabe%20von%20Daten%20anderer%20Verwaltungsstellen%20der%20Stadt%20Konstanz%20an%20die%20kommunale%20Statistikstelle.pdf"
 status: published

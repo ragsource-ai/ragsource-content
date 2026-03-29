@@ -7,7 +7,6 @@ geaendert_am: "2022-09-15"
 quelle: "Allgemeine Verwaltungsvorschrift der Bundesregierung vom 15.09.2022, Bundesrat Drucksache 455/22"
 gueltig_ab: 2023-01-01
 url: ""
-beschreibung: "Allgemeine Verwaltungsvorschrift zur einheitlichen Anwendung des Lohnsteuerrechts durch die Finanzämter. Konkretisiert die §§ 3–42f EStG: Steuerbefreiungen, Bewertung von Sachbezügen, Werbungskosten, Arbeitslohnbegriff, Lohnsteuerabzugsverfahren, Pauschalierung und Haftung."
 stand: "2022-09-15"
 status: published
 projekte:

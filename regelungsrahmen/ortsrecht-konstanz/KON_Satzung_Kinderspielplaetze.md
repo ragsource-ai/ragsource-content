@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2019-03-21
 geaendert_am: 2021-06-17
 gueltig_ab: 2021-06-18
-beschreibung: "Satzung der Stadt Konstanz über die Benutzungsregeln auf öffentlichen Kinderspielplätzen, einschließlich Rauch- und Alkoholverbot sowie Ordnungswidrigkeitstatbestände."
 stand: 2019-03-21
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1855965890/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_25%20Satzung%20%C3%BCber%20die%20Benutzung%20der%20%C3%B6ffentlichen%20Kinderspielpl%C3%A4tze%20der%20Stadt%20Konstanz.pdf"
 status: published

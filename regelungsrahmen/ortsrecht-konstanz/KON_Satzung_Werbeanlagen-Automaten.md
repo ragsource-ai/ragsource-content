@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: "1985-02-23"
 gueltig_ab: "1985-02-23"
-beschreibung: "Örtliche Bauvorschrift der Stadt Konstanz, die Gestaltung, Anordnung und Zulässigkeit von Werbeanlagen und Automaten im Bereich der historischen Altstadt regelt."
 stand: ""
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E176861018/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_05%20Satzung%20%C3%BCber%20Werbeanlagen%20und%20Automaten%20der%20Stadt%20Konstanz.pdf"
 status: published

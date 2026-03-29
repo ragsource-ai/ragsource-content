@@ -7,7 +7,6 @@ geaendert_am: "2024-10-23"
 quelle: "Gesetz vom 1995-07-20 (BGBl I 1995, 946), zuletzt geändert durch Art. 50 G v. 23.10.2024 I Nr. 323"
 gueltig_ab: 2024-10-23
 url: "https://www.gesetze-im-internet.de/nachwg/"
-beschreibung: "Verpflichtet Arbeitgeber, wesentliche Vertragsbedingungen (Arbeitszeit, Vergütung, Urlaub, Kündigungsfristen u.a.) schriftlich nachzuweisen und dem Arbeitnehmer auszuhändigen. Regelt Fristen, Textformausnahmen, Auslandseinsätze sowie Bußgelder bei Verstößen."
 stand: "2024-10-23"
 status: published
 projekte:

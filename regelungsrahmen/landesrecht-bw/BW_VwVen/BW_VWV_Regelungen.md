@@ -9,7 +9,6 @@ quelle: "GABl. 2023, S. 444"
 gueltig_ab: 2023-10-01
 gueltig_bis: 2030-09-30
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000040104"
-beschreibung: "Meta-VwV: Regelt Erlass, Veröffentlichung und Geltungsdauer von VwVen. Max. 7 Jahre Geltungsdauer."
 stand: "2026-03-27"
 status: published
 projekte:

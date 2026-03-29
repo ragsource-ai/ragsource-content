@@ -6,7 +6,6 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz in der Fassung vom 16. September 1974, zuletzt geändert durch Artikel 3 des Gesetzes vom 22. Juli 2025 (GBl. 2025 Nr. 71)
 gueltig_ab: 2025-07-22
-beschreibung: "Regelt Formen der kommunalen Zusammenarbeit in Baden-Württemberg: Zweckverbände (Gründung, Organisation, Finanzen, Auflösung), öffentlich-rechtliche Vereinbarungen und gemeinsame Kommunalanstalten."
 status: published
 projekte:
   - amtsschimmel

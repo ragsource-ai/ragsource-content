@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: "2022-12-19"
 gueltig_ab: "2022-12-19"
-beschreibung: "Nutzungsordnung für die denkmalgeschützte Konzertmuschel im Stadtgarten Konstanz, regelt Überlassung vorrangig an kulturelle und nicht-kommerzielle Akteure."
 stand: "2022-12-19"
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1392591094/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_05%20%C3%9Cberlassungsordnung%20f%C3%BCr%20die%20Konzertmuschel.pdf"
 status: published

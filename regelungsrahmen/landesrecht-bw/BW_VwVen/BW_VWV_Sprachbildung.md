@@ -7,7 +7,6 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2025-12-02
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000044818"
-beschreibung: "Sprachförderung für Kinder mit nichtdeutscher Herkunftssprache in Schulen."
 stand: "2026-03-27"
 status: published
 projekte:

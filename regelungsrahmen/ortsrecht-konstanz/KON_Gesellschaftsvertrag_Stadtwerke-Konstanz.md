@@ -14,7 +14,6 @@ quelle: ""
 gueltig_ab: 2026-02-27
 stand: 2026-02-27
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1185917638/konstanz/Dateien/Service/Ortsrecht/IV%20Beteiligungen%20der%20Stadt%20Konstanz%20%28%C3%BCber%2050%20Prozent%29/IV_01%20Stadtwerke%20Konstanz%20GmbH.pdf"
-beschreibung: "Gesellschaftsvertrag der Stadtwerke Konstanz GmbH als städtisches Unternehmen, das Energie, Wasser, Personenbeförderung und weitere Infrastrukturleistungen im kommunalen Verflechtungsgebiet Konstanz erbringt."
 status: published
 projekte:
   - amtsschimmel

@@ -9,7 +9,6 @@ geaendert_am: "2025-12-16"
 quelle: "Gesetz vom 06.10.2020 (GBl. 2020, 735, ber. S. 1092), zuletzt geändert durch Gesetz vom 16. Dezember 2025 (GBl. 2025 Nr. 149)"
 gueltig_ab: 2021-01-17
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PolGBW2021rahmen"
-beschreibung: "Polizeirecht Baden-Württemberg. Regelt Aufgaben und Befugnisse der Polizei, Datenverarbeitung, Einzelmaßnahmen (Personenfeststellung, Gewahrsam), Polizeiverordnungen und Einsatz technischer Mittel."
 stand: "2025-12-16"
 status: published
 projekte:

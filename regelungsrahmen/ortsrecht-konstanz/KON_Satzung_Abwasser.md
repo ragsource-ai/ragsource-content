@@ -13,7 +13,6 @@ erlassen_am: 2005-12-15
 geaendert_am: 2024-12-17
 quelle: Satzung in der Fassung vom 15.12.2005 (Beschluss des Gemeinderats der Stadt Konstanz), zuletzt geändert am 17.12.2024
 gueltig_ab: 2024-12-17
-beschreibung: "Abwassersatzung (AbwS) der Stadt Konstanz: Regelt Anschluss- und Benutzungspflicht, Einleitungsverbote und -bedingungen für die öffentliche Abwasserbeseitigung, Anforderungen an Grundstücksentwässerungsanlagen sowie die Erhebung von Abwasserbeiträgen und Abwassergebühren (gesplittete Schmutz- und Niederschlagswassergebühr)."
 stand: 2024-12-17
 url: https://www.konstanz.de/site/Konstanz/get/documents_E-991410582/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_01%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20%C3%B6ffentliche%20Abwasserbeseitigung%20%28Abwassersatzung%29%20in%20der%20Fassung%20ab%2001.01.2025.pdf
 status: published

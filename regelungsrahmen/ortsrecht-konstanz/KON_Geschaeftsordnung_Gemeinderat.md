@@ -14,7 +14,6 @@ quelle: ""
 gueltig_ab: 1992-10-01
 stand: 2022-10-27
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1578469305/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_04%20Gesch%C3%A4ftsordnung%20f%C3%BCr%20den%20Gemeinderat%20der%20Stadt%20Konstanz.pdf"
-beschreibung: "Geschäftsordnung des Gemeinderates der Stadt Konstanz, die das Verfahren und die Rechte und Pflichten der Gemeinderatsmitglieder in Sitzungen und bei Beschlussfassungen regelt."
 status: published
 projekte:
   - amtsschimmel

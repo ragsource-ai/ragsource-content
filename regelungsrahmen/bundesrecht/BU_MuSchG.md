@@ -7,7 +7,6 @@ geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 2017-05-23 (BGBl I 2017, 1228), zuletzt geändert durch Art. 13 G v. 22.12.2025 I Nr. 371"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/muschg_2018/"
-beschreibung: "Schützt Mütter vor, während und nach der Geburt: regelt Beschäftigungsverbote, Kündigungsschutz, Mutterschaftsgeld sowie Schutzmaßnahmen für schwangere und stillende Frauen am Arbeitsplatz."
 stand: "2025-12-22"
 status: published
 projekte:

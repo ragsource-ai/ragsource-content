@@ -13,7 +13,6 @@ erlassen_am: "2000-07-11"
 gueltig_ab: "2000-07-11"
 stand: "2000-07-11"
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-326514819/konstanz/Dateien/Service/Ortsrecht/IV%20Beteiligungen%20der%20Stadt%20Konstanz%20%28%C3%BCber%2050%20Prozent%29/IV_02%20WOBAK%20St%C3%A4dt.%20Wohnungsbaugesellschaft%20mbH.pdf"
-beschreibung: "Gesellschaftsvertrag der WOBAK Städtischen Wohnungsbaugesellschaft Konstanz mbH als städtisches Wohnungsunternehmen, das breite Bevölkerungsschichten mit Wohnraum versorgt und wohnungswirtschaftliche Aufgaben wahrnimmt."
 status: published
 projekte:
   - amtsschimmel

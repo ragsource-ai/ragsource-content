@@ -7,7 +7,6 @@ land: Baden-Württemberg
 quelle: Gesetz neugefasst am 24.07.2000 (GBl. 2000, 581), zuletzt geändert durch Artikel 13 des Gesetzes vom 18.11.2025 (GBl. 2025 Nr. 124)
 gueltig_ab: 1999-12-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GemOBWrahmen"
-beschreibung: "Verfassungsrecht der Gemeinden in Baden-Württemberg. Regelt Organisation, Zuständigkeiten und Aufgaben von Gemeinderat, Bürgermeister und Verwaltung."
 stand: "2025-11-18"
 status: published
 projekte:

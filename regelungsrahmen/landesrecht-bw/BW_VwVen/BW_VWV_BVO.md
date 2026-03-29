@@ -8,7 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 1996, 370"
 gueltig_ab: 1996-06-28
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000002201"
-beschreibung: "Rundschreiben zur Beihilfeverordnung, relevant für kommunale Beamte."
+beschreibung: "Beihilfeverordnung für kommunale Beamte"
 stand: "2026-03-27"
 status: published
 projekte:

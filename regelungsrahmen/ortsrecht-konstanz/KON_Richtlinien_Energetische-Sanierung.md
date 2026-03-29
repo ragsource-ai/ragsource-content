@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2024-10-31
 quelle: ""
 gueltig_ab: 2024-10-31
-beschreibung: "Richtlinie der Stadt Konstanz mit Förderkonditionen und Förderhöhen für die energetische Bestandssanierung von Wohn- und Nichtwohngebäuden im Stadtgebiet."
 stand: 2024-10-31
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E935659865/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_11%20Richtlinie%20zum%20Förderprogramm%20energetische%20Bestandssanierung%20Stadt%20Konstanz.pdf"
 status: published

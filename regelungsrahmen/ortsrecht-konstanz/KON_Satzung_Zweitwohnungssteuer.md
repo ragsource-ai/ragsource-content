@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2014-04-29
 geaendert_am: 2021-05-20
 gueltig_ab: 2022-01-01
-beschreibung: "Satzung der Stadt Konstanz über die Erhebung einer Zweitwohnungssteuer von 35 Prozent des jährlichen Mietaufwands für Inhaber von Zweitwohnungen im Stadtgebiet."
 stand: 2021-12-17
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-127051907/konstanz/Dateien/Service/Ortsrecht/II%20Finanzen/II_02%20Satzung%20%C3%BCber%20die%20Erhebung%20einer%20Zweitwohnungssteuer%20in%20der%20Stadt%20Konstanz.pdf"
 status: published

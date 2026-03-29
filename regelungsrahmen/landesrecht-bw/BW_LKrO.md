@@ -12,7 +12,6 @@ offiziell: Landkreisordnung für Baden-Württemberg
 erlassdatum: 1987-06-19
 quelle: Fassung vom 19.06.1987 (GBl. BW); zuletzt geändert durch Art. 14 G v. 18.11.2025 (GBl. 2025 Nr. 124)
 gueltig_ab: 2025-11-18
-beschreibung: "Verfassungsrecht der Landkreise in Baden-Württemberg. Regelt Wesen, Wirkungskreis und Aufgaben des Landkreises, Kreistag, Landrat, Kreisfinanzen und Rechtsaufsicht über die Landkreise."
 status: published
 ---
 

@@ -7,7 +7,6 @@ geaendert_am: "2023-01-11"
 quelle: "Gesetz vom 1978-06-16 (BGBl I 1978, 709), zuletzt geändert durch Art. 1 G v. 11.1.2023 I Nr. 11"
 gueltig_ab: 2023-01-11
 url: "https://www.gesetze-im-internet.de/euwg/"
-beschreibung: "Regelt die Wahl der deutschen Abgeordneten zum Europäischen Parlament: Wahlrechtsgrundsätze, Wahlsystem (Verhältniswahl), Wahlvorschläge, Stimmabgabe sowie Erwerb und Verlust der Mitgliedschaft im Europäischen Parlament."
 stand: "2023-01-11"
 status: published
 projekte:

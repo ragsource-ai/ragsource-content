@@ -8,7 +8,6 @@ land: Baden-Württemberg
 quelle: "GABl. 2025, 501"
 gueltig_ab: 2025-04-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000044164"
-beschreibung: "Förderprogramm Wohnungsbau BW 2022. Relevant für Gemeinden mit kommunalen Wohnbauprojekten."
 stand: "2026-03-27"
 status: published
 projekte:

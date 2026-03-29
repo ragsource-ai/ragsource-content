@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2024-01-25
 quelle: ""
 gueltig_ab: 2024-09-01
-beschreibung: "Hallenbenutzungsordnung der Stadt Konstanz für die Mehrzweckhallen in den Stadtteilen Allmannsdorf, Dettingen-Wallhausen, Dingelsdorf und Litzelstetten sowie die Hallen Petershausen und Wollmatingen."
 stand: 2024-01-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-2127970594/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_13%20Hallenbenutzungsordnung%20f%C3%BCr%20die%20Mehrzweckhallen%20in%20Allmannsdorf%20Dettingen-Wallhausen%20Dingelsdorf%20und%20Litzelstetten%20sowie%20die%20Halle%20Petershausen%20und%20die%20Wollmatinger%20Halle.pdf"
 status: published

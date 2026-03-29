@@ -6,7 +6,6 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz neugefasst am 02.03.2010 (GBl. 2010, 333), zuletzt geändert durch Artikel 1 des Gesetzes vom 25.02.2025 (GBl. 2025 Nr. 14)
 gueltig_ab: 2009-11-19
-beschreibung: "Feuerwehrrecht Baden-Württemberg. Regelt Aufgaben und Organisation der Gemeindefeuerwehr, Pflichten der Gemeinden zum Brandschutz, Rechtsstellung der Feuerwehrangehörigen sowie Aufgaben von Landkreisen und Land."
 status: published
 projekte:
   - amtsschimmel

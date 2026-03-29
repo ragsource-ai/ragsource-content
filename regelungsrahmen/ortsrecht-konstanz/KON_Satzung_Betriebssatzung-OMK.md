@@ -13,7 +13,6 @@ erlassen_am: 2021-07-22
 geaendert_am: 2024-04-18
 quelle: ""
 gueltig_ab: 2024-09-01
-beschreibung: "Regelt die Organisation, Aufgaben und wirtschaftliche Führung des städtischen Eigenbetriebs Orchesterkultur und Musikbildung Konstanz (OMK), der das Sinfonieorchester und die Musikschule betreibt."
 stand: 2024-04-18
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-983975784/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_18%20Betriebssatzung%20f%C3%BCr%20den%20Eigenbetrieb%20Orchesterkultur%20und%20Musikbildung%20Konstanz.pdf"
 status: published

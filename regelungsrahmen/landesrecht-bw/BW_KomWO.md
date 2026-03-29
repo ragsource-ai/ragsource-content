@@ -9,7 +9,6 @@ geaendert_am: "2026-02-09"
 quelle: "Gesetz vom 02.09.1983 (GBl. 1983, 459), zuletzt geändert durch Verordnung vom 9. Februar 2026 (GBl. 2026 Nr. 26)"
 gueltig_ab: 1983-09-10
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KomWOBW1983rahmen"
-beschreibung: "Durchführungsverordnung zum Kommunalwahlgesetz BW. Regelt Wählerverzeichnis, Wahlscheine, Wahlvorschläge, Stimmzettel, Wahlhandlung, Briefwahl und Feststellung des Wahlergebnisses."
 stand: "2026-02-09"
 status: published
 projekte:

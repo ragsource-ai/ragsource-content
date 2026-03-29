@@ -13,7 +13,6 @@ erlassen_am: 2024-03-21
 gueltig_ab: 2024-06-13
 stand: 2024-06-13
 quelle: ""
-beschreibung: "Satzung der Stadt Konstanz über die Bildung, Zusammensetzung und Aufgaben des Internationalen Ausschusses als beratendes Gremium für interkulturelle und internationale Angelegenheiten."
 status: published
 projekte:
   - amtsschimmel

@@ -9,7 +9,6 @@ quelle: "GABl. 2021, 31"
 gueltig_ab: 2021-02-01
 gueltig_bis: 2028-01-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000034521"
-beschreibung: "Regelt Aufstellflächen und Zufahrten für die Feuerwehr bei Bauvorhaben."
 stand: "2026-03-27"
 status: published
 projekte:

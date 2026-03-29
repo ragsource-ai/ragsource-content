@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2022-10-24
 quelle: ""
 gueltig_ab: 2022-10-24
-beschreibung: "Regelt die gesellschaftsrechtliche Grundlage der Bodensee-Hafen-Gesellschaft mbH (BHG), deren Unternehmensgegenstand der Betrieb von Häfen und Schiffs- und Bootslegeplätzen am Bodensee ist."
 stand: 2022-10-24
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-821754089/konstanz/Dateien/Service/Ortsrecht/IV.1%20Mittelbare%20Beteiligungen%20der%20Stadt%20Konstanz%20%C3%BCber%2050%20Prozent/IV.1_02%20Gesellschaftsvertrag%20der%20Bodensee-Hafen-Gesellschaft%20mbH.pdf"
 status: published

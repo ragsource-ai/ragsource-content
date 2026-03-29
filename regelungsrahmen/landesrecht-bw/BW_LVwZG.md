@@ -6,7 +6,6 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz vom 03.07.2007 (GBl. 2007, 293), zuletzt geändert durch Artikel 2 des Gesetzes vom 28.01.2025 (GBl. 2025 Nr. 8)
 gueltig_ab: 2007-10-01
-beschreibung: "Verwaltungszustellungsrecht Baden-Württemberg. Regelt Zustellungsarten und -verfahren (Post, Behörde, elektronisch via De-Mail, öffentliche Zustellung) sowie Heilung von Zustellungsmängeln."
 status: published
 projekte:
   - amtsschimmel

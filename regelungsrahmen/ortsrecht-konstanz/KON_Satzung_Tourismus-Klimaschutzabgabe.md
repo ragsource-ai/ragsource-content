@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2022-10-27
 geaendert_am: 2022-11-24
 gueltig_ab: 2023-04-01
-beschreibung: "Satzung der Stadt Konstanz über die Erhebung einer Tourismus- und Klimaschutzabgabe von 5,6 Prozent auf das Übernachten in Beherbergungsbetrieben; ersetzt die frühere Kurtaxesatzung ab 01.04.2023."
 stand: 2022-12-07
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-675311049/konstanz/Dateien/Service/Ortsrecht/II%20Finanzen/II_05%20Satzung%20%C3%BCber%20die%20Erhebung%20einer%20Tourismus-%20und%20Klimaschutzabgabe%20ab%2001.04.2023.pdf"
 status: published

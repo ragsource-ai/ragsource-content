@@ -7,7 +7,6 @@ geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 2006-12-05 (BGBl I 2006, 2748), zuletzt geändert durch Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 370"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/beeg/"
-beschreibung: "Regelt Anspruch, Höhe und Bezugsdauer von Elterngeld (Basis-, Plus- und Partnerschaftsbonus) sowie die Elternzeit einschließlich Teilzeitarbeit und Kündigungsschutz."
 stand: "2025-12-22"
 status: published
 projekte:

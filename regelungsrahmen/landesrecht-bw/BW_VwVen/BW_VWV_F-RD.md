@@ -9,7 +9,7 @@ quelle: "GABl. 2022, 719"
 gueltig_ab: 2022-01-01
 gueltig_bis: 2028-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000037702"
-beschreibung: "Zuwendungen zur Förderung des Rettungsdienstes (Rettungswachen, Infrastruktur)."
+beschreibung: "Förderung Rettungsdienst-Investitionen"
 stand: "2026-03-27"
 status: published
 projekte:

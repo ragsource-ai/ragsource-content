@@ -8,7 +8,6 @@ erlassen_am: "2024-07-25"
 quelle: "Gesetz vom 25.07.2024 (GBl. 2024, Nr. 66)"
 gueltig_ab: 2024-08-02
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-RettDGBW2024rahmen"
-beschreibung: "Regelt Organisation, Trägerschaft, Genehmigung, Finanzierung und Datenschutz des Rettungsdienstes in BW (Notfallrettung, Krankentransport, Luftrettung, Integrierte Leitstellen, §§ 1–61)."
 stand: "2024-07-25"
 status: published
 projekte:

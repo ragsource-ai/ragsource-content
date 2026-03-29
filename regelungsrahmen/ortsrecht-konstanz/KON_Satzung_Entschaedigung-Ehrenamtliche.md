@@ -12,7 +12,6 @@ gemeinde: Konstanz
 erlassen_am: 2000-02-24
 geaendert_am: 2025-03-20
 gueltig_ab: 2025-03-31
-beschreibung: "Satzung der Stadt Konstanz über Aufwandsentschädigungen und Sitzungsgelder für Stadträte, Ortschaftsräte und andere ehrenamtlich tätige EinwohnerInnen sowie Reisekostenregelungen und Entschädigungen für ehrenamtliche Ortsvorsteher."
 stand: 2025-03-20
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-907309080/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_03%20Satzung%20%C3%BCber%20die%20Entsch%C3%A4digung%20ehrenamtlich%20t%C3%A4tiger%20EinwohnerInnen.pdf"
 status: published

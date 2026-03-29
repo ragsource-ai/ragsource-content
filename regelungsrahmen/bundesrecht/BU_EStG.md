@@ -7,7 +7,6 @@ geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 1934-10-16 (RGBl I 1934, 1005), zuletzt geändert durch Art. 2 G v. 22.12.2025 I Nr. 363"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/estg/"
-beschreibung: "Regelt die Besteuerung des Einkommens natürlicher Personen: Einkunftsarten, Gewinnermittlung, Sonderausgaben, außergewöhnliche Belastungen, Lohnsteuer, Kapitalertragsteuer sowie Veranlagung und Steuertarif."
 stand: "2025-12-22"
 status: published
 projekte:

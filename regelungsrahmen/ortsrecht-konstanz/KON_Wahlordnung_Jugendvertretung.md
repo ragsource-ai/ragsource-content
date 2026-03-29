@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2022-09-29
 gueltig_ab: 2022-09-29
-beschreibung: "Wahlordnung für die Wahl der Jugendvertretung der Stadt Konstanz; regelt Wahltag, Wahlberechtigte, Wählerverzeichnis, Bewerbungsverfahren, Wahlausschuss, Online-Wahlverfahren und Stimmverteilung."
 stand: 2022-09-29
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E696210507/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_14.1%20Wahlordnung%20der%20Jugendvertretung%20der%20Stadt%20Konstanz.pdf"
 status: published

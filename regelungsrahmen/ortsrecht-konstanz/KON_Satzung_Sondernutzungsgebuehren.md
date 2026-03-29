@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2001-11-18
 gueltig_ab: 2002-01-01
-beschreibung: "Satzung der Stadt Konstanz über die Erlaubnispflicht und die Gebührenerhebung für Sondernutzungen an öffentlichen Straßen, einschließlich Gebührenverzeichnis für verschiedene Nutzungsarten."
 status: published
 projekte:
   - amtsschimmel

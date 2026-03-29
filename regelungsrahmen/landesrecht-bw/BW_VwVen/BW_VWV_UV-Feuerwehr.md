@@ -9,7 +9,7 @@ quelle: "GABl. 2016, 558"
 gueltig_ab: 2020-01-01
 gueltig_bis: 2026-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000034798"
-beschreibung: "Ergänzende Unfallversicherungsleistungen für Feuerwehrangehörige. Gültig bis 31.12.2026."
+beschreibung: "Ergänzende Unfallversicherung Feuerwehr"
 stand: "2026-03-27"
 status: published
 projekte:

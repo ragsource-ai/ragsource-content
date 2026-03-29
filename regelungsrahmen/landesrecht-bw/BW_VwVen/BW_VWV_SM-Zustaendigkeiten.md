@@ -8,7 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2006, 588"
 gueltig_ab: 2006-12-21
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000001501"
-beschreibung: "Zuständigkeitsregelungen im Personalbereich."
+beschreibung: "Personalzuständigkeiten im Sozialministerium"
 stand: "2026-03-27"
 status: published
 projekte:

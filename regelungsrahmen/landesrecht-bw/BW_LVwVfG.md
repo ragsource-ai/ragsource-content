@@ -6,7 +6,6 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz neugefasst am 12.04.2005 (GBl. 2005, 350), zuletzt geändert durch Artikel 1 des Gesetzes vom 28.01.2025 (GBl. 2025 Nr. 8)
 gueltig_ab: 2005-03-01
-beschreibung: "Verwaltungsverfahrensrecht Baden-Württemberg. Regelt Verwaltungsverfahren, Zuständigkeit, Beteiligte, Fristen, Verwaltungsakt (Erlass, Begründung, Bestandskraft), öffentlich-rechtlichen Vertrag und Planfeststellung."
 status: published
 projekte:
   - amtsschimmel

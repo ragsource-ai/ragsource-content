@@ -9,7 +9,7 @@ quelle: "GABl. 2021, 311"
 gueltig_ab: 2022-01-01
 gueltig_bis: 2028-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000035438"
-beschreibung: "Reisekostenerstattung für Beamte und Beschäftigte, gilt auch für kommunale Dienstreisen."
+beschreibung: "Reisekosten Beamte/Beschäftigte"
 stand: "2026-03-27"
 status: published
 projekte:

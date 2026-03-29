@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2022-06-02
 gueltig_ab: 2023-01-01
-beschreibung: "Satzung über die Organisation, Gliederung, Aufgaben und den Betrieb der Feuerwehr Konstanz einschließlich Regelungen zu Aufnahme, Dienstpflichten, Führungsstruktur und Rechtsstellung der Feuerwehrangehörigen."
 stand: 2022-06-02
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E2070094537/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_04%20Feuerwehrsatzung%20der%20Stadt%20Konstanz%20ab%2001.01.2023.pdf"
 status: published

@@ -9,7 +9,6 @@ geaendert_am: "2024-12-17"
 quelle: "Gesetz vom 09.11.2010 (GBl. 2010, 793, 794), zuletzt geändert durch Artikel 10, 11 und 12 des Gesetzes vom 17. Dezember 2024 (GBl. 2024 Nr. 114)"
 gueltig_ab: 2011-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BGBW2010rahmen"
-beschreibung: "Beamtenrecht des Landes Baden-Württemberg. Regelt Begründung, Inhalt und Beendigung des Beamtenverhältnisses, Pflichten und Rechte der Landesbeamten sowie Laufbahnen."
 stand: "2024-12-17"
 status: published
 projekte:

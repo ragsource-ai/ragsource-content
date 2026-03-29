@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2012-11-22
 gueltig_ab: 2012-11-25
-beschreibung: "Satzung der Stadt Konstanz über Erlaubnispflicht, Verfahren und Bedingungen für Sondernutzungen an öffentlichen Straßen und in Fußgängerzonen, einschließlich Gestaltungsrichtlinien für gewerbliche Nutzungen."
 status: published
 projekte:
   - amtsschimmel

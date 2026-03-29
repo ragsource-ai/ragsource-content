@@ -8,7 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2015, 653"
 gueltig_ab: 2015-09-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000010186"
-beschreibung: "Förderung der Landjugendarbeit auf kommunaler Ebene."
+beschreibung: "Umsetzung des Kinderbetreuungsfördergesetzes"
 stand: "2026-03-27"
 status: published
 projekte:

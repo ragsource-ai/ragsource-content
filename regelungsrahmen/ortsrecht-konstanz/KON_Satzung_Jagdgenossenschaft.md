@@ -11,7 +11,6 @@ kreis: Konstanz
 gemeinde: Konstanz
 erlassen_am: 2021-11-02
 gueltig_ab: 2022-01-19
-beschreibung: "Satzung der Jagdgenossenschaft Konstanz über die Organisation, Aufgaben, Organe und das Haushalts- sowie Rechnungswesen der Jagdgenossenschaft; Verwaltung durch den Gemeinderat."
 status: published
 projekte:
   - amtsschimmel
