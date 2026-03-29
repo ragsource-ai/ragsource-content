@@ -1,5 +1,5 @@
 ---
-titel: "Verwaltungsvorschrift des Ministeriums für Ländlichen Raum und Verbraucherschutz1) über die Gewährung von Zuwendungen für Nachhaltige Waldwirtschaft (VwV NWW)"
+titel: "Verwaltungsvorschrift des Ministeriums für Ländlichen Raum und Verbraucherschutz über die Gewährung von Zuwendungen für Nachhaltige Waldwirtschaft (VwV NWW)"
 ebene: land
 saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift

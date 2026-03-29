@@ -1,5 +1,5 @@
 ---
-titel: "Verwaltungsvorschrift des Kultusministeriums über Zeugnisse, Halbjahresinformation,"
+titel: "Verwaltungsvorschrift des Kultusministeriums über Zeugnisse, Halbjahresinformation, Lernentwicklungsbericht und Schulbericht (VwV Zeugnisse)"
 ebene: land
 saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift

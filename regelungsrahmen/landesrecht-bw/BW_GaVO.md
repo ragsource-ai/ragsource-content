@@ -1,5 +1,5 @@
 ---
-titel: Verordnung des Ministeriums für Landesentwicklung und Wohnen über Garagen und Stellplätze (GaVO)[*](https://www.landesrecht-bw.de/bsbw/document/jlr-GaVBW1997rahmen#/search)
+titel: "Verordnung des Ministeriums für Landesentwicklung und Wohnen über Garagen und Stellplätze (GaVO)"
 ebene: land
 saule: regelungsrahmen
 land_ars: "08"
