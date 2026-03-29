@@ -9,7 +9,6 @@ quelle: "GABl. 2025, 905"
 gueltig_ab: 2026-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000045446"
 stand: "2026-03-27"
-beschreibung: "VV-LHO Fassung VVBW000045446 — ggf. Duplikat von BW_VWV_VV_LHO"
 status: published
 projekte:
   - amtsschimmel
@@ -144,8 +143,7 @@ Darüber hinaus ist die Prüfung durchzuführen, wenn Lösungsansätze für die 
 
 **3** Wirtschaftlichkeitsuntersuchungen
 
-**3.1**
-**Allgemeines**
+**3.1** **Allgemeines**
 
 **3.1.1** Angemessene Wirtschaftlichkeitsuntersuchungen sind bei der Planung neuer finanzwirksamer Maßnahmen, bei der Änderung bereits laufender finanzwirksamer Maßnahmen (Planungsphase) sowie bei der Entscheidung (Entscheidungsphase), während der Durchführung (im Rahmen einer begleitenden Erfolgskontrolle) und nach Abschluss von finanzwirksamen Maßnahmen (im Rahmen einer abschließenden Erfolgskontrolle) vorzunehmen. Dabei sind auch die mit den Maßnahmen verbundenen Nachhaltigkeitsaspekte nach Nummer 1.4 zu berücksichtigen.
 
@@ -207,8 +205,7 @@ Begleitende Erfolgskontrollen sollen möglichst zu Zeitpunkten durchgeführt wer
 
 **3.4** Methoden (Verfahren) der Wirtschaftlichkeitsuntersuchungen
 
-**3.4.1**
-**Allgemeines**
+**3.4.1** **Allgemeines**
 
 Bei der Durchführung von Wirtschaftlichkeitsuntersuchungen ist die nach den Erfordernissen des Einzelfalls einfachste und wirtschaftlichste Methode anzuwenden. Zur Verfügung stehen einzelwirtschaftlich und gesamtwirtschaftlich orientierte Verfahren. Welches Verfahren anzuwenden ist, bestimmt sich nach der Art der Maßnahme, dem mit ihr verfolgten Zweck und den mit der Maßnahme verbundenen Auswirkungen.
 
@@ -260,8 +257,7 @@ Bei Erlass, Fortschreibung und Änderung von Förderprogrammen ist § 9 KlimaG B
 
 ### Zu § 7 a LHO
 
-**1**
-**Allgemeines**
+**1** **Allgemeines**
 
 § 7 a LHO regelt den haushaltsrechtlichen Rahmen für
 
@@ -2865,8 +2861,7 @@ In diesem Abschnitt sind besondere in den jeweiligen Zuwendungsbescheid aufzuneh
 
 **3.7** Verfahren
 
-**3.7.1**
-**Allgemeines**
+**3.7.1** **Allgemeines**
 
 Die Möglichkeiten, das Zuwendungsverfahren durch die Einschaltung von nichtstaatlichen Einrichtungen durch die Weitergabe von Zuwendungen nach Nummer 12 der VV oder durch Sammelantragsverfahren zu vereinfachen und wirtschaftlicher zu gestalten, sind auszuschöpfen.
 
@@ -3150,8 +3145,7 @@ Bei Umsetzungen nach § 50 Absatz 2 LHO muss der vordringliche Personalbedarf un
 **3** Auf § 3 Absatz 2 und auf § 40 LHO und die VV hierzu wird hingewiesen.
 
 ### Zu § 52 LHO
-**1**
-**Allgemeines**
+**1** **Allgemeines**
 
 Das Nähere für die Entrichtung des angemessenen Entgelts regelt das Finanzministerium im Benehmen mit dem zuständigen Ministerium.
 
@@ -3405,8 +3399,7 @@ Die beteiligten Stellen haben Maßnahmen zu Stundungen, Niederschlagungen oder E
 
 **6** Behandlung von Kleinbeträgen
 
-**6.1**
-**Allgemeines**
+**6.1** **Allgemeines**
 
 Für Behandlung von Kleinbeträgen gelten die nachfolgenden Bestimmungen, soweit nicht in Rechtsvorschriften andere Regelungen getroffen sind oder Sonderregelungen nach Nummer 7 bestehen.
 
@@ -3767,8 +3760,7 @@ Im Übrigen dürfte es wegen des Eigeninteresses vieler Unternehmen an einer umf
 
 **3** Prüfung und Berichterstattung nach § 53 Absatz 1 Nummer 2 HGrG
 
-**3.1**
-**Allgemeines**
+**3.1** **Allgemeines**
 
 **3.1.1** Neben der Prüfung der Ordnungsmäßigkeit der Geschäftsführung sieht § 53 Absatz 1 Nummer 2 HGrG ausdrücklich eine Berichterstattung über folgende Punkte vor:
 
@@ -6567,8 +6559,7 @@ Die zuständige Stelle hat diese Unterlagen und ihre Vollständigkeit zu prüfen
 
 **4** Nutzung elektronischer Zahlungsverfahren zur Leistung von Ausgaben: Auszahlungen per Kreditkarte
 
-**4.1**
-**Allgemeines**
+**4.1** **Allgemeines**
 
 **4.1.1** Die Beschaffung von Kreditkarten zur Leistung von Auszahlungen ist auf notwendige Einzelfälle zu beschränken.
 
@@ -7615,8 +7606,7 @@ Das Finanzministerium erlässt im Einvernehmen mit dem Rechnungshof ergänzende 
 ## Teil VII Sondervermögen
 
 ### Zu § 113 LHO
-**1**
-**Allgemeines**
+**1** **Allgemeines**
 
 Sondervermögen sind rechtlich unselbständige abgesonderte Teile des Landesvermögens, die durch Gesetz oder aufgrund eines Gesetzes entstanden und zur Erfüllung einzelner Aufgaben des Landes bestimmt sind. Die im Rahmen von Sondervermögen zweckgebunden vereinnahmten und verausgabten Beträge sind Einnahmen und Ausgaben des Landes.
 
