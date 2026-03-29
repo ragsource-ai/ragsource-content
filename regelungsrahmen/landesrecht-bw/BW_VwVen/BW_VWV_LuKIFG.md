@@ -17,115 +17,71 @@ projekte:
 
 ## Inhaltsverzeichnis
 
-- Anlage 1: Anlage 1 zu Nummer 4.1.4 der VwV LuKIFG - Anlage 2: Anlage 2 zu Nummer 4.1.4 der VwV LuKIFG Anlage 3: Anlage 3 zu Nummer 4.1.4 der VwV LuKIFG 1 Zuwendungsziel, Rechtsgrundlagen
-- Vorbemerkung
-- Anlage 1 zu Nummer 4.1.4 der VwV LuKIFG - Einzelbudgets Gemeinden GKZ Gemeinde Einzelbudget 111000 Stuttgart, Stadt
-- Vorbemerkung
-- Anlage 2 zu Nummer 4.1.4 der VwV LuKIFG - Einzelbudgets Stadtkreise GKZ Stadtkreis Einzelbudget 111000 Stuttgart
-- Vorbemerkung
-- Anlage 3 zu Nummer 4.1.4 der VwV LuKIFG - Einzelbudgets Landkreise GKZ Landkreis Einzelbudget 115900 Landkreis Böblingen
-- Vorbemerkung
+- 1 Zuwendungsziel, Rechtsgrundlagen
+- 1.1
+- 1.2
+- 1.3
+- 1.4
+- 2 Zuwendungszweck, zuwendungsfähige Maßnahmen
+- 2.1 Trägerneutrale Förderung
+- 2.2 Förderbereiche
+- 2.3 Sachinvestitionen
+- 2.4 Begleit- und Folgemaßnahmen
+- 2.5 Nicht förderfähige Ausgaben
+- 2.6 Verbuchung der Investitionen
+- 3 Zuwendungsempfänger
+- 4 Förderbudgets
+- 4.1
+- 4.1.1 Verteilung des Gemeinde-Teilbudgets
+- 4.1.2 Verteilung des Stadtkreis-Teilbudgets
+- 4.1.3 Verteilung des Landkreis-Teilbudgets
+- 4.1.4 Einzelbudgets
+- 4.2 Art und Höhe der Zuwendung
+- 5 Zuwendungsvoraussetzungen
+- 5.1 Förderzeitraum
+- 5.2 Wirtschaftlichkeitsbetrachtungen
+- 5.3 EU-Beihilferecht
+- 5.4 Nachhaltigkeitsaspekte
+- 5.5 Längerfristige Nutzung und demografische Veränderungen
+- 5.6 Vergabe von Aufträgen
+- 5.7 Baumaßnahmen
+- 5.8 Mindestinvestitionsvolumen
+- 5.9 Kenntlichmachung
+- 6 Digitales Verfahren
+- 7 Anzeige der Einzelinvestitionsmaßnahmen
+- 7.1 Anzeige der jeweiligen Investitionsmaßnahme
+- 7.2 Bestätigungen
+- 8 Vereinfachtes Bewilligungsverfahren
+- 9 Anzeige des Maßnahmenbeginns
+- 10 Mittelanmeldung - Mittelabruf - Mittelauszahlung
+- 10.1 Anmeldung des Mittelbedarfs durch die Kommunen
+- 10.2 Mittelabruf
+- 10.3 Mittelauszahlung
+- 11 Verwendungsbestätigung
+- 11.1 Inhalt der Verwendungsbestätigung
+- 11.2 Vier-Augen-Prinzip
+- 11.3 Erforderliche Versicherungen
+- 11.4 Abschließende Zahlung
+- 12 Belegvorhaltepflicht
+- 13 Prüfung von Stichproben
+- 13.1 Umfang
+- 13.2 Inhalt der Prüfung
+- 14 Rückforderung und Verzinsung
+- 15 Mitteilungs- und Dokumentationspflichten
+- 16 Anzeige der Ausschöpfung der Einzelbudgets
+- 17 Prüfungsrecht
+- 18 Ergänzende Hinweise (FAQ)
+- 19 Inkrafttreten
+- Anlage 1 Einzelbudgets Gemeinden
+- Anlage 2 Einzelbudgets Stadtkreise
+- Anlage 3 Einzelbudgets Landkreise
 
 Verwaltungsvorschrift des Finanzministeriums und des Innenministeriums zur Abwicklung des kommunalen Anteils am Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz (VwV LuKIFG)
 
-1 Zuwendungsziel, Rechtsgrundlagen
-
-2 Zuwendungszweck, zuwendungsfähige Maßnahmen
-
-2.1 Trägerneutrale Förderung
-
-2.2 Förderbereiche
-
-2.3 Sachinvestitionen
-
-2.4 Begleit- und Folgemaßnahmen
-
-2.5 Nicht förderfähige Ausgaben
-
-2.6 Verbuchung der Investitionen
-
-3 Zuwendungsempfänger
-
-4 Förderbudgets
-
-5 Zuwendungsvoraussetzungen
-
-5.1 Förderzeitraum
-
-5.2 Wirtschaftlichkeitsbetrachtungen
-
-5.3 EU-Beihilferecht
-
-5.4 Nachhaltigkeitsaspekte
-
-5.5 Längerfristige Nutzung und demografische Veränderungen
-
-5.6 Vergabe von Aufträgen
-
-5.7 Baumaßnahmen
-
-5.8 Mindestinvestitionsvolumen
-
-5.9 Kenntlichmachung
-
-6 Digitales Verfahren
-
-7 Anzeige der Einzelinvestitionsmaßnahmen
-
-7.1 Anzeige der jeweiligen Investitionsmaßnahme
-
-7.2 Bestätigungen
-
-8 Vereinfachtes Bewilligungsverfahren
-
-9 Anzeige des Maßnahmenbeginns
-
-10 Mittelanmeldung - Mittelabruf - Mittelauszahlung
-
-10.1 Anmeldung des Mittelbedarfs durch die Kommunen
-
-10.2 Mittelabruf
-
-10.3 Mittelauszahlung
-
-11 Verwendungsbestätigung
-
-11.1 Inhalt der Verwendungsbestätigung
-
-11.2 Vier-Augen-Prinzip
-
-11.3 Erforderliche Versicherungen
-
-11.4 Abschließende Zahlung
-
-12 Belegvorhaltepflicht
-
-13 Prüfung von Stichproben
-
-13.1 Umfang
-
-13.2 Inhalt der Prüfung
-
-14 Rückforderung und Verzinsung
-
-15 Mitteilungs- und Dokumentationspflichten
-
-16 Anzeige der Ausschöpfung der Einzelbudgets
-
-17 Prüfungsrecht
-
-18 Ergänzende Hinweise (FAQ)
-
-19 Inkrafttreten
+### 1 Zuwendungsziel, Rechtsgrundlagen
 
 
-## Anlage 1: Anlage 1 zu Nummer 4.1.4 der VwV LuKIFG - Anlage 2: Anlage 2 zu Nummer 4.1.4 der VwV LuKIFG Anlage 3: Anlage 3 zu Nummer 4.1.4 der VwV LuKIFG 1 Zuwendungsziel, Rechtsgrundlagen
-
-
-
-### Vorbemerkung
-
-1.1
+### 1.1
 
 Aus dem Sondervermögen Infrastruktur und Klimaneutralität werden den Ländern gemäß Artikel 143h Absatz 2 des Grundgesetzes Finanzhilfen zur Verfügung gestellt mit dem Ziel, bestehende Defizite im Bereich der Infrastruktur in der Aufgabenzuständigkeit von Ländern und Kommunen abzubauen und eine funktionsfähige, moderne öffentliche Infrastruktur zu erreichen.
 
@@ -133,12 +89,12 @@ Aus dem Sondervermögen Infrastruktur und Klimaneutralität werden den Ländern 
 Für Investitionen in die kommunale Infrastruktur in Baden-Württemberg steht ein Fördervolumen in Höhe von 8 766 533 333 Euro zur Verfügung.
 
 
-1.2
+### 1.2
 
 Mit dieser Verwaltungsvorschrift regelt das Land auf der Grundlage von § 2 Absatz 2 und Absatz 3 Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz (LuKIFG) vom 20. Oktober 2025 (BGBl. 2025 I Nr. 246) i.V.m. § 3 Absatz 1 der Verwaltungsvereinbarung zwischen dem Bund und den Ländern zur Durchführung des Länder-und-Kommunal-Infrastrukturfinanzierungsgesetzes vom 11.12.2025 die Verteilung des kommunalen Anteils auf die einzelnen Kommunen sowie die Voraussetzungen und das Verfahren für die Gewährung von Zuwendungen an die Kommunen zur Förderung der kommunalen Infrastruktur.
 
 
-1.3
+### 1.3
 
 Grundlagen für die Zuwendungen sind
 
@@ -166,31 +122,22 @@ die §§ 23 und 44 der Landeshaushaltsordnung für Baden-Württemberg (LHO) sowi
 in der jeweils geltenden Fassung.
 
 
-1.4
+### 1.4
 
 Die Zuwendungen werden ohne Rechtspflicht im Rahmen der verfügbaren Haushaltsermächtigungen gewährt.
 
 
-2
-
-Zuwendungszweck, zuwendungsfähige Maßnahmen
-
+### 2 Zuwendungszweck, zuwendungsfähige Maßnahmen
 
 Die Mittel sind zu verwenden für Sachinvestitionen der Träger von Infrastruktureinrichtungen, sofern sie der Erfüllung von kommunalen Aufgaben dienen.
 
 
-2.1
-
-Trägerneutrale Förderung
-
+### 2.1 Trägerneutrale Förderung
 
 Förderfähig sind nicht nur Sachinvestitionen von Kommunen in die öffentliche Kommunalinfrastruktur, sondern auch entsprechende Investitionen Dritter in deren Infrastruktureinrichtungen, soweit diese der Erfüllung von kommunalen Aufgaben dienen, wie beispielsweise Kinderbetreuungseinrichtungen in nicht staatlicher, darunter unter anderem privater, gemeinnütziger und kirchlicher Trägerschaft, unabhängig davon, ob sie juristische Personen des öffentlichen oder privaten Rechts sind. Als solche Dritte gelten auch kommunale Immobiliendienstleister.
 
 
-2.2
-
-Förderbereiche
-
+### 2.2 Förderbereiche
 
 Die Finanzhilfen sind nach § 3 Absatz 1 LuKIFG für Sachinvestitionen insbesondere folgender kommunaler Infrastrukturbereiche zu verwenden, sofern sie der Erfüllung von kommunalen Aufgaben dienen:
 
@@ -243,10 +190,7 @@ Digitalisierung.
 Die Liste der Förderbereiche ist nicht abschließend und erfasst auch Aufgaben, die nicht zu den Pflichtaufgaben der Kommunen gehören, aber regelmäßig auf kommunaler Ebene wahrgenommen werden. Förderfähig sind damit insbesondere auch Investitionen in die wirtschaftsnahe Infrastruktur, die Infrastruktur der regionalen Daseinsvorsorge, die Wohninfrastruktur, Gebäudesanierungen von öffentlichen Gebäuden, Sportanlagen, Kultureinrichtungen, die Infrastruktur der inneren Sicherheit, der Wasserwirtschaft und in ländliche Infrastrukturen.
 
 
-2.3
-
-Sachinvestitionen
-
+### 2.3 Sachinvestitionen
 
 Unter Sachinvestitionen sind Baumaßnahmen, der Erwerb von beweglichen Sachen, soweit sie nicht als sächliche Verwaltungsausgaben erfasst werden, und der Erwerb von unbeweglichen Sachen zu verstehen. Förderfähig ist auch der Erwerb eines Grundstücks sowie der Abriss als alleinige Investitionsmaßnahme.
 
@@ -254,10 +198,7 @@ Unter Sachinvestitionen sind Baumaßnahmen, der Erwerb von beweglichen Sachen, s
 Förderfähig sind zudem der Erwerb von dauerhaften Rechten und zeitlich begrenzten Nutzungsrechten im Bereich der Digitalisierung sowie die Entwicklung von digitalen Verfahren und ihre Beauftragung, auch wenn diese keine Investitionen im Sinne von § 10 Absatz 3 Nummer 2 Satz 2 des Haushaltsgrundsätzegesetz vom 19. August 1969 (BGBl. I. S. 1273), das zuletzt durch Artikel 2 des Gesetzes vom 20. Oktober 2025 (BGBl. 2025 I Nr. 247) geändert worden ist, darstellen.
 
 
-2.4
-
-Begleit- und Folgemaßnahmen
-
+### 2.4 Begleit- und Folgemaßnahmen
 
 Förderfähig sind auch notwendige Begleit- oder Folgemaßnahmen, wenn sie in unmittelbarem zeitlichem und sachlichem Zusammenhang mit den Sachinvestitionen stehen und zur Erreichung des Förderziels unabdingbar sind. Begleit- und Folgemaßnahmen sind nur bis zur Höhe von unter 100 Prozent der nach den Nummern 2.2 und 2.3 dieser Verwaltungsvorschrift förderfähigen Ausgaben förderfähig.
 
@@ -265,10 +206,7 @@ Förderfähig sind auch notwendige Begleit- oder Folgemaßnahmen, wenn sie in un
 Zu den Begleit- und Folgemaßnahmen zählen beispielsweise die mit Baumaßnahmen verbundenen Baunebenkosten oder vorbereitende Planungsleistungen oder für die Durchführung einer Investitionsmaßnahme nötige Gutachten oder Untersuchungen. Die Begleit- und Folgenmaßnahmen selbst müssen nicht zwingend investiv sein. Sie müssen jedoch der geförderten Investition zuordenbar und für die Durchführung der Maßnahme notwendig sein. Personalausgaben als Begleit- oder Folgemaßnahme - wie etwa Weiterbildungsmaßnahmen - sind nicht förderfähig. Auch nicht förderfähig sind in Folge der Investition entstehende laufende Ausgaben, wie etwa Ausgaben für Wartung, Instandhaltung, den Betrieb, den Unterhalt und für die Begleichung anderer andauernder Verpflichtungen.
 
 
-2.5
-
-Nicht förderfähige Ausgaben
-
+### 2.5 Nicht förderfähige Ausgaben
 
 Nicht förderfähig sind:
 
@@ -288,68 +226,45 @@ c)
 Finanzierungsausgaben.
 
 
-2.6
-
-Verbuchung der Investitionen
-
+### 2.6 Verbuchung der Investitionen
 
 Maßnahmen, die nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz gefördert werden, sind bilanziell als Investitionen im Sinne des § 61 Nummer 21 Gemeindehaushaltverordnung (GemHVO) vom 11. Dezember 2009 (GBl. 2009, S. 770), die zuletzt durch Artikel 1 der Verordnung vom 6. Dezember 2024 (GBl. 2024 Nr. 111) geändert worden ist, zu behandeln. Die zugehörigen Aufwendungen sind als Anschaffungs- und Herstellungskosten gemäß § 44 GemHVO zu verbuchen. Dies gilt insbesondere auch für Sanierungen, bei denen die Voraussetzungen der Drei-von-sieben-Maßnahmen-Regel bei Gebäuden nicht erfüllt sind. Die Mittel aus dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz sind als Sonderposten gemäß § 40 Absatz 4 Satz 2 GemHVO zu passivieren.
 
 
-3
-
-Zuwendungsempfänger
-
+### 3 Zuwendungsempfänger
 
 Zuwendungsempfänger sind die Kommunen.
 
 
-4
-
-Förderbudgets
+### 4 Förderbudgets
 
 
-4.1
+### 4.1
 
 Das Fördervolumen in Höhe von 8 766 533 333 Euro wird entsprechend § 3 Nummer 1 bis 3 Finanzausgleichsgesetz (FAG) vom 1. Januar 2000 (GBl. 2000, S. 14), das zuletzt durch Artikel 3 des Gesetzes vom 29. Juli 2025 (GBl. 2025, Nr. 81) geändert worden ist, den Gemeinden zu 74,10 %, den Stadtkreisen zu 4,92 % und den Landkreisen zu 20,98 % zugewiesen.
 
 
-4.1.1
-
-Verteilung des Gemeinde-Teilbudgets
-
+### 4.1.1 Verteilung des Gemeinde-Teilbudgets
 
 Das Teilbudget der Gemeinden wird auf die Gemeinden im Verhältnis ihrer zusammengerechneten Zuweisungen nach § 4 Absatz 1 FAG in den Jahren 2023 und 2024 zum Stand 10. Juni 2025 verteilt.
 
 
-4.1.2
-
-Verteilung des Stadtkreis-Teilbudgets
-
+### 4.1.2 Verteilung des Stadtkreis-Teilbudgets
 
 Das Teilbudget der Stadtkreise wird auf die Stadtkreise im Verhältnis ihrer zusammengerechneten Steuerkraftsummen nach § 38 Absatz 3 FAG und ihren zusammengerechneten Einwohnerzahlen in den Jahren 2023 und 2024 zum Stand 10. Juni 2025 verteilt. Die Einwohnerzahlen basieren auf § 30 Absatz 1 und 2 FAG; sie werden nach § 4 Absatz 2 FAG gewichtet.
 
 
-4.1.3
-
-Verteilung des Landkreis-Teilbudgets
-
+### 4.1.3 Verteilung des Landkreis-Teilbudgets
 
 Das Teilbudget der Landkreise wird auf die Landkreise im Verhältnis ihrer zusammengerechneten Steuerkraftsummen nach § 38 Absatz 2 FAG und ihren zusammengerechneten Einwohnerzahlen in den Jahren 2023 und 2024 zum Stand 10. Juni 2025 verteilt. Die Einwohnerzahlen basieren auf § 30 Absatz 1 FAG; sie werden nach § 4 Absatz 2 FAG gewichtet.
 
 
-4.1.4
-
-Einzelbudgets
-
+### 4.1.4 Einzelbudgets
 
 Die Einzelbudgets ergeben sich aus den Anlagen 1 bis 3.
 
 
-4.2
-
-Art und Höhe der Zuwendung
-
+### 4.2 Art und Höhe der Zuwendung
 
 Die Zuwendungen an die Kommunen werden jeweils als Zuschüsse im Rahmen von Projektförderungen gewährt. Die Höhe der Zuwendungen insgesamt, die den einzelnen Kommunen jeweils zur Verfügung stehen, ergibt sich aus den Anlagen 1 bis 3.
 
@@ -366,15 +281,10 @@ In Verwaltungsvorschriften des Landes geregelte Doppelförderungsverbote gelten 
 Etwaige Einschränkungen in Rechtsverordnungen und Gesetzen des Landes sowie in Bundes- oder EU-Vorschriften bleiben davon unberührt.
 
 
-5
-
-Zuwendungsvoraussetzungen
+### 5 Zuwendungsvoraussetzungen
 
 
-5.1
-
-Förderzeitraum
-
+### 5.1 Förderzeitraum
 
 Investitionsmaßnahmen können finanziert werden, sofern sie
 
@@ -400,26 +310,17 @@ Sollte aufgrund von nicht vorhersehbaren externen Gründen (Rechtsstreitigkeiten
 Im Jahr 2043 können die Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz nur noch für Investitionsvorhaben oder selbständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2042 vollständig abgenommen wurden und die im Jahr 2043 vollständig abgerechnet werden.
 
 
-5.2
-
-Wirtschaftlichkeitsbetrachtungen
-
+### 5.2 Wirtschaftlichkeitsbetrachtungen
 
 Für die Investitionsmaßnahmen sind von der jeweiligen Kommune angemessene Wirtschaftlichkeitsbetrachtungen durchzuführen. Bei der Mittelverwendung sind die Grundsätze der Wirtschaftlichkeit und Sparsamkeit einzuhalten.
 
 
-5.3
-
-EU-Beihilferecht
-
+### 5.3 EU-Beihilferecht
 
 Bei der Auswahl der Projekte stellen die Kommunen sicher, dass die einschlägigen unionsrechtlichen Vorgaben des Beihilferechts eingehalten werden.
 
 
-5.4
-
-Nachhaltigkeitsaspekte
-
+### 5.4 Nachhaltigkeitsaspekte
 
 Die Kommunen sollen bei der Umsetzung der Vorhaben die Ziele der Deutschen Nachhaltigkeitsstrategie berücksichtigen.
 
@@ -427,34 +328,22 @@ Die Kommunen sollen bei der Umsetzung der Vorhaben die Ziele der Deutschen Nachh
 Gemäß der Gesetzesbegründung zum Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz berührt das Gesetz vornehmlich die Ziele 3 - Gesundheit und Wohlergehen, 4 - hochwertige Bildung, 8 - menschenwürdige Arbeit und Wirtschaftswachstum, 9 - Industrie, Innovation und Infrastruktur sowie 13 - Maßnahmen zum Klimaschutz der Deutschen Nachhaltigkeitsstrategie.
 
 
-5.5
-
-Längerfristige Nutzung und demografische Veränderungen
-
+### 5.5 Längerfristige Nutzung und demografische Veränderungen
 
 Die geförderten Investitionen sollen unter Berücksichtigung der absehbaren demografischen Veränderungen auch längerfristig nutzbar sein.
 
 
-5.6
-
-Vergabe von Aufträgen
-
+### 5.6 Vergabe von Aufträgen
 
 Die Kommunen stellen sicher, dass die Vorschriften für die Vergabe von Aufträgen nach Nummer 3 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung an kommunale Körperschaften geprüft und beachtet werden.
 
 
-5.7
-
-Baumaßnahmen
-
+### 5.7 Baumaßnahmen
 
 Die Kommunen stellen sicher, dass die Ausführung einer Baumaßnahme den technischen und baurechtlichen Vorschriften entspricht. Aufgrund des der Kommune zugewiesenen Einzelbudgets nach Nummer 4.1.4 dieser Verwaltungsvorschrift kann in analoger Anwendung der Nummer 6.1.3 in Verbindung mit Nummer 13.6.3 VV-LHO zu § 44 Absatz 1 LHO die Beteiligung der baufachtechnischen Dienststelle entfallen.
 
 
-5.8
-
-Mindestinvestitionsvolumen
-
+### 5.8 Mindestinvestitionsvolumen
 
 Förderfähig sind Investitionsmaßnahmen mit einem Investitionsvolumen von mindestens 50 000 Euro.
 
@@ -462,31 +351,20 @@ Förderfähig sind Investitionsmaßnahmen mit einem Investitionsvolumen von mind
 Ein Unterschreiten des Mindestinvestitionsvolumens von 50 000 Euro ist förderunschädlich, wenn dies zum Zeitpunkt der Bewilligung oder des Beginns einer Maßnahme nicht vorhersehbar war.
 
 
-5.9
-
-Kenntlichmachung
-
+### 5.9 Kenntlichmachung
 
 Die Letztempfänger haben die Förderung aus dem Sondervermögen Infrastruktur und Klimaneutralität in geeigneter und öffentlichkeitswirksamer Weise unter Nutzung der Bildwortmarke des Bundes kenntlich zu machen. Bei Bauarbeiten hat die Kenntlichmachung zusätzlich durch Bauschilder zu erfolgen.
 
 
-6
-
-Digitales Verfahren
-
+### 6 Digitales Verfahren
 
 In Abweichung von Nummer 3.1 und Nummer 4.1 VV-LHO zu § 44 Absatz 1 LHO erfolgt die Abwicklung des Förderprogramms in digitaler Form über Service-BW und FöBIS.
 
 
-7
-
-Anzeige der Einzelinvestitionsmaßnahmen
+### 7 Anzeige der Einzelinvestitionsmaßnahmen
 
 
-7.1
-
-Anzeige der jeweiligen Investitionsmaßnahme
-
+### 7.1 Anzeige der jeweiligen Investitionsmaßnahme
 
 Die Kommune hat die jeweilige zur Finanzierung mit Mitteln nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz geplante Einzelinvestitionsmaßnahme anzuzeigen.
 
@@ -559,10 +437,7 @@ m)
 Angaben zu den voraussichtlichen Zeitpunkten des Abrufs der Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz.
 
 
-7.2
-
-Bestätigungen
-
+### 7.2 Bestätigungen
 
 Mit der Anzeige hat die Kommune zu bestätigen,
 
@@ -602,10 +477,7 @@ g)
 die Einwilligung zur Datenverarbeitung.
 
 
-8
-
-Vereinfachtes Bewilligungsverfahren
-
+### 8 Vereinfachtes Bewilligungsverfahren
 
 In Abweichung von Nummer 3.3 VV-LHO zu § 44 Absatz 1 LHO gilt die Zuwendung mit vollständiger Anzeige der jeweiligen Investitionsmaßnahme nach Nummer 7 dieser Verwaltungsvorschrift für die Maßnahme in der Höhe der angezeigten zu verwendenden Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz als bewilligt.
 
@@ -613,21 +485,15 @@ In Abweichung von Nummer 3.3 VV-LHO zu § 44 Absatz 1 LHO gilt die Zuwendung mit
 Eine inhaltliche Prüfung findet im Rahmen der Anzeige nicht statt. Eine Prüfung erfolgt erst im Rahmen der Prüfung der Stichproben nach Nummer 13 dieser Verwaltungsvorschrift. Nicht gemäß den Vorgaben dieser Verwaltungsvorschrift verwendete Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz können gemäß Nummer 14 dieser Verwaltungsvorschrift zurückgefordert werden.
 
 
-9
-
-Anzeige des Maßnahmenbeginns
-
+### 9 Anzeige des Maßnahmenbeginns
 
 Mit Beginn der Maßnahme hat die Kommune den Beginn der Maßnahme nach Nummer 5.1 Buchstabe a) dieser Verwaltungsvorschrift unter Angabe des Datums anzuzeigen. Für bereits vor Freischaltung des digitalen Verfahrens nach Nummer 6 dieser Verwaltungsvorschrift begonnene Maßnahmen hat die Anzeige des Maßnahmenbeginns unverzüglich nach Freischaltung des digitalen Verfahrens zu erfolgen.
 
 
-10 Mittelanmeldung - Mittelabruf - Mittelauszahlung
+### 10 Mittelanmeldung - Mittelabruf - Mittelauszahlung
 
 
-10.1
-
-Anmeldung des Mittelbedarfs durch die Kommunen
-
+### 10.1 Anmeldung des Mittelbedarfs durch die Kommunen
 
 Die Zuwendung darf von den Kommunen nur insoweit und nicht eher angefordert werden, als sie innerhalb von drei Monaten nach der Auszahlung zur Begleichung fälliger Rechnungen oder Abschlagszahlungen für zuwendungsfähige Ausgaben begonnener Maßnahmen benötigt wird. Davon unberührt bleibt eine Mittelanforderung für bereits fällige und bezahlte Rechnungen zulässig.
 
@@ -641,32 +507,22 @@ Der Mittelabruf ist innerhalb der Kommune von einer zweiten Person im Vier-Augen
 Eine Prüfung der Anmeldung des Mittelbedarfs findet zum Zeitpunkt der Anmeldung des Mittelbedarfs nicht statt. Eine Prüfung erfolgt erst im Rahmen der Prüfung der Stichproben nach Nummer 13 dieser Verwaltungsvorschrift. Nicht gemäß den Vorgaben dieser Verwaltungsvorschrift verwendete oder verfrüht angemeldete und ausgezahlte Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz sind gemäß Nummer 14 dieser Verwaltungsvorschrift zu verzinsen und können zurückgefordert werden.
 
 
-10.2
-
-Mittelabruf
-
+### 10.2 Mittelabruf
 
 Auf Basis der Anmeldungen ruft das Finanzministerium die Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz monatlich beim Bund ab.
 
 
-10.3
-
-Mittelauszahlung
-
+### 10.3 Mittelauszahlung
 
 Nach Eingang der Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz beim Land werden die Mittel unverzüglich an die Kommunen ausgezahlt.
 
 
-11 Verwendungsbestätigung
-
+### 11 Verwendungsbestätigung
 
 Nach Abschluss der geförderten Maßnahme hat die Kommune den Abschluss der Maßnahme unter Angabe des Datums der formalen Abnahme der Maßnahme anzuzeigen und die Verwendung der Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz innerhalb eines Jahres nach Abschluss der Maßnahme durch eine Verwendungsbestätigung nachzuweisen. Für bereits in 2025 abgeschlossene Maßnahmen verlängert sich die Frist auf den 31.12.2026.
 
 
-11.1
-
-Inhalt der Verwendungsbestätigung
-
+### 11.1 Inhalt der Verwendungsbestätigung
 
 Die Verwendungsbestätigung muss folgende Angaben enthalten:
 
@@ -716,18 +572,12 @@ i)
 eine Angabe zur Höhe der noch abzurufenden Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz.
 
 
-11.2
-
-Vier-Augen-Prinzip
-
+### 11.2 Vier-Augen-Prinzip
 
 Die Verwendungsbestätigung ist von einer zweiten Person innerhalb der Kommune auf Richtigkeit zu überprüfen.
 
 
-11.3
-
-Erforderliche Versicherungen
-
+### 11.3 Erforderliche Versicherungen
 
 Mit der Verwendungsbestätigung hat die Kommune zu versichern, dass
 
@@ -752,27 +602,20 @@ d)
 das Vier-Augen-Prinzip nach Nummer 11.2 dieser Verwaltungsvorschrift beachtet wurde.
 
 
-11.4
-
-Abschließende Zahlung
-
+### 11.4 Abschließende Zahlung
 
 Die abschließende Zahlung für eine geförderte Maßnahme kann erst nach vollständiger Vorlage der Verwendungsbestätigung angemeldet werden.
 
 
-12 Belegvorhaltepflicht
-
+### 12 Belegvorhaltepflicht
 
 Die Kommune hat alle mit der Zuwendung zusammenhängenden Belege, Verträge und sonstige Unterlagen vorzuhalten und auf Anforderung jederzeit zum Zwecke der Verwendungsprüfung oder zur Prüfung durch den Bundes- oder Landesrechnungshof Einsicht zu gewähren oder bei der prüfenden Stelle vorzulegen.
 
 
-13 Prüfung von Stichproben
+### 13 Prüfung von Stichproben
 
 
-13.1
-
-Umfang
-
+### 13.1 Umfang
 
 Die prüfenden Stellen prüfen jährlich eine Stichprobe von mindestens 5% der abgeschlossenen Investitionsmaßnahmen in die kommunale Infrastruktur. Der Prüfumfang kann risikobezogen erhöht werden. Prüfungen können bei begründetem Anlass auch vor Abschluss der Maßnahme vorgenommen werden.
 
@@ -780,10 +623,7 @@ Die prüfenden Stellen prüfen jährlich eine Stichprobe von mindestens 5% der a
 Die prüfenden Stellen legen die zu prüfenden Fälle risikobasiert fest.
 
 
-13.2
-
-Inhalt der Prüfung
-
+### 13.2 Inhalt der Prüfung
 
 Die Prüfung umfasst insbesondere
 
@@ -813,8 +653,7 @@ e)
 dass die Mittel innerhalb von drei Monaten nach der Auszahlung durch den Bund zur Begleichung fälliger Rechnungen für zuwendungsfähige Ausgaben begonnener Maßnahmen verwendet wurden.
 
 
-14 Rückforderung und Verzinsung
-
+### 14 Rückforderung und Verzinsung
 
 Das Land kann Mittel nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz von einer Kommune zurückfordern, wenn
 
@@ -844,8 +683,7 @@ Wenn der Zinsbetrag 100 Euro unterschreitet, sind keine Zinsen zu zahlen.
 Eine Verrechnung der aufgrund von zweckwidriger Mittelverwendungen oder sonstigen Gründen an den Bund zurückzuerstattenden Mittel mit Abrufen für andere Maßnahmen ist unzulässig.
 
 
-15 Mitteilungs- und Dokumentationspflichten
-
+### 15 Mitteilungs- und Dokumentationspflichten
 
 Das Land ist verpflichtet, gemäß § 5 Absatz 3 der Verwaltungsvereinbarung zur Durchführung des Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz gegenüber dem Bundesministerium der Finanzen zum Stichtag 1. Januar jedes Jahres (erstmals zum 1. Januar 2026) aggregiert eine zusammenfassende Liste der geplanten, begonnenen und abgeschlossenen Maßnahmen zu übersenden.
 
@@ -902,8 +740,7 @@ mitzuteilen.
 Diese Berichtspflichten werden auf Basis der Angaben der Kommunen nach den Nummern 7 bis 11 dieser Verwaltungsvorschrift erfüllt.
 
 
-16 Anzeige der Ausschöpfung der Einzelbudgets
-
+### 16 Anzeige der Ausschöpfung der Einzelbudgets
 
 Die Kommunen melden verbindlich einmalig zum Stichtag 31. Dezember 2034, ob sie ihr zugeteiltes Einzelbudget nach Nummer 4.1.4 dieser Verwaltungsvorschrift bis zum 31. Dezember 2042 vollständig abrufen werden oder welcher Teil nicht in Anspruch genommen werden wird.
 
@@ -911,27 +748,22 @@ Die Kommunen melden verbindlich einmalig zum Stichtag 31. Dezember 2034, ob sie 
 Über eine Neuverteilung freigewordener Mittel wird in Abstimmung mit den kommunalen Landesverbänden entschieden.
 
 
-17 Prüfungsrecht
-
+### 17 Prüfungsrecht
 
 Der Bundesrechnungshof (§ 91 BHO) sowie der Landesrechnungshof (§§ 91, 100 LHO) sind berechtigt, die Verwendung der Mittel zu prüfen.
 
 
-18 Ergänzende Hinweise (FAQ)
-
+### 18 Ergänzende Hinweise (FAQ)
 
 Weitere Einzelheiten werden in FAQs geregelt.
 
 
-19 Inkrafttreten
-
+### 19 Inkrafttreten
 
 Diese Verwaltungsvorschrift tritt am 01. Januar 2026 in Kraft und tritt mit dem Außerkrafttreten des Länder-und-Kommunal-Infrastrukturfinanzierungsgesetzes außer Kraft.
 
 
-## Anlage 1 zu Nummer 4.1.4 der VwV LuKIFG - Einzelbudgets Gemeinden GKZ Gemeinde Einzelbudget 111000 Stuttgart, Stadt
-
-
+## Anlage 1 Einzelbudgets Gemeinden
 
 ### Vorbemerkung
 
@@ -10847,9 +10679,8 @@ Herdwangen-Schönach
 2.267.104,42 €
 
 
-## Anlage 2 zu Nummer 4.1.4 der VwV LuKIFG - Einzelbudgets Stadtkreise GKZ Stadtkreis Einzelbudget 111000 Stuttgart
 
-
+## Anlage 2 Einzelbudgets Stadtkreise
 
 ### Vorbemerkung
 
@@ -10928,9 +10759,8 @@ Ulm
 28.337.293,01 €
 
 
-## Anlage 3 zu Nummer 4.1.4 der VwV LuKIFG - Einzelbudgets Landkreise GKZ Landkreis Einzelbudget 115900 Landkreis Böblingen
 
-
+## Anlage 3 Einzelbudgets Landkreise
 
 ### Vorbemerkung
 

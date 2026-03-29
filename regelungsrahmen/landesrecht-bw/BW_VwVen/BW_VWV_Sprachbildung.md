@@ -15,324 +15,77 @@ projekte:
 
 ## Inhaltsverzeichnis
 
-- Anlage: Anlage (zu Nummer 3.2.2.2) - Inhaltsübersicht
-- Vorbemerkung
-- Anlage 1 - Anlage 1
-- Vorbemerkung
+- 1 Geltungsbereich
+- 1.1 Alle Schülerinnen und Schüler
+- 1.2 Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
+- 1.3 Mehrsprachig aufwachsende Schülerinnen und Schüler
+- 2 Durchgängige Sprachbildung aller Schülerinnen und Schüler als Aufgabe aller Lehrkräfte
+- 2.1 Zielsetzung
+- 2.2 Durchgängige Sprachbildung
+- 2.2.1 Sprachförderung und Sprachbildung
+- 2.2.2 Konzeption und Koordination eines schulischen Konzepts zur Durchgängigen Sprachbildung
+- 2.3 Datenschutzrechtliche Regelungen
+- 3 Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
+- 3.1 Aufnahme und Schulpflicht
+- 3.1.1 Allgemein bildende Schulen
+- 3.1.2 Berufliche Schulen
+- 3.2 Schulischer Integrationsprozess und Sprachförderung
+- 3.2.1 Grundsätzliches
+- 3.2.2 Schulische Integration und Sprachförderung an allgemein bildenden Schulen
+- 3.2.2.1 VKL-Status und Status „Anschlussphase VKL-Status“
+- 3.2.2.2 Entwicklung eines schulischen Sprachförderkonzepts
+- 3.2.3 Schulische Integration und Sprachförderung an beruflichen Schulen
+- 3.2.3.1 Vorqualifizierungsjahr Arbeit/Beruf mit Schwerpunkt Erwerb von Deutschkenntnissen (VABO)
+- 3.2.3.2 Sprachfördermaßnahmen an beruflichen Schulen
+- 3.2.4 Sonderpädagogische Beratung und Unterstützung
+- 3.3 Fremdsprachenregelung
+- 3.3.1 Grundschule
+- 3.3.2 Hauptschule, Werkrealschule, Realschule, Gemeinschaftsschule, berufliche Bildungsgänge
+- 3.3.3 Gymnasium
+- 3.4 Zeugnisse und Leistungsbeurteilungen
+- 3.4.1 Grundsätzliches
+- 3.4.2 An allgemein bildenden Schulen
+- 3.4.2.1 Im VKL-Status
+- 3.4.2.2 Im Status „Anschlussphase VKL-Status“
+- 3.4.3 An Gemeinschaftsschulen
+- 3.4.4 An beruflichen Schulen
+- 3.4.5 Übergang von Schülerinnen und Schülern im VKL-Status oder im Status „Anschlussphase VKL-Status“ von der Grundschule in eine weiterführende Schule
+- 3.4.5.1 Kinder im VKL-Status
+- 3.4.5.2 Kinder im Status „Anschlussphase VKL-Status“
+- 3.5 Zusammenarbeit mit den Erziehungsberechtigten
+- 4 Mehrsprachig aufwachsende Schülerinnen und Schüler
+- 4.1 Muttersprachlicher Zusatzunterricht und Zertifizierung durch die Generalkonsulate
+- 4.2 Lernkurse mit Einbeziehung der Herkunftssprache
+- 5 Übergangsbestimmung
+- 6 Inkrafttreten
+- Anlage 1
 
 Verwaltungsvorschrift des Kultusministeriums über die Grundsätze zur Sprachbildung und Sprachförderung (VwV Sprachbildung und Sprachförderung - SprachbildungsVwV)
 
-Inhaltsübersicht
+### 1 Geltungsbereich
 
-1. Geltungsbereich
 
-1.1 Alle Schülerinnen und Schüler
 
-1.2 Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
-
-1.3 Mehrsprachig aufwachsende Schülerinnen und Schüler
-
-2. Durchgängige Sprachbildung aller Schülerinnen und Schüler als Aufgabe aller Lehrkräfte
-
-2.1 Zielsetzung
-
-2.2 Durchgängige Sprachbildung
-
-2.2.1 Sprachförderung und Sprachbildung
-
-2.2.2 Konzeption und Koordination eines schulischen Konzepts zur Durchgängigen Sprachbildung
-
-2.3 Datenschutzrechtliche Regelungen
-
-3. Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
-
-3.1 Aufnahme und Schulpflicht
-
-3.1.1 Allgemein bildende Schulen
-
-3.1.2 Berufliche Schulen
-
-3.2 Schulischer Integrationsprozess und Sprachförderung
-
-3.2.1 Grundsätzliches
-
-3.2.2 Schulische Integration und Sprachförderung an allgemein bildenden Schulen
-
-3.2.2.1 VKL-Status und Status „Anschlussphase VKL-Status“
-
-3.2.2.2 Entwicklung eines schulischen Sprachförderkonzepts
-
-3.2.3 Schulische Integration und Sprachförderung an beruflichen Schulen
-
-3.2.3.1 Vorqualifizierungsjahr Arbeit/Beruf mit Schwerpunkt Erwerb von Deutschkenntnissen (VABO)
-
-3.2.3.2 Sprachfördermaßnahmen an beruflichen Schulen
-
-3.2.4 Sonderpädagogische Beratung und Unterstützung
-
-3.3 Fremdsprachenregelung
-
-3.3.1 Grundschule
-
-3.3.2 Hauptschule, Werkrealschule, Realschule, Gemeinschaftsschule, berufliche Bildungsgänge
-
-3.3.3 Gymnasium
-
-3.4 Zeugnisse und Leistungsbeurteilungen
-
-3.4.1 Grundsätzliches
-
-3.4.2 An allgemein bildenden Schulen
-
-3.4.2.1 Im VKL-Status
-
-3.4.2.2 Im Status „Anschlussphase VKL-Status“
-
-3.4.3 An Gemeinschaftsschulen
-
-3.4.4 An beruflichen Schulen
-
-3.4.5 Übergang von Schülerinnen und Schülern im VKL-Status oder im Status „Anschlussphase VKL-Status“ von der Grundschule in eine weiterführende Schule
-
-3.4.5.1 Kinder im VKL-Status
-
-3.4.5.2 Kinder im Status „Anschlussphase VKL-Status“
-
-3.5 Zusammenarbeit mit den Erziehungsberechtigten
-
-4. Mehrsprachig aufwachsende Schülerinnen und Schüler
-
-4.1 Muttersprachlicher Zusatzunterricht und Zertifizierung durch die Generalkonsulate
-
-4.2 Lernkurse mit Einbeziehung der Herkunftssprache
-
-5. Übergangsbestimmung
-
-6. Inkrafttreten
-
-
-## Anlage: Anlage (zu Nummer 3.2.2.2) - Inhaltsübersicht
-
-
-
-### Vorbemerkung
-
-1.
-
-Geltungsbereich
-
-1.1
-
-Alle Schülerinnen und Schüler
-
-1.2
-
-Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
-
-1.3
-
-Mehrsprachig aufwachsende Schülerinnen und Schüler
-
-
-2.
-
-Durchgängige Sprachbildung aller Schülerinnen und Schüler als Aufgabe aller Lehrkräfte
-
-2.1
-
-Zielsetzung
-
-2.2
-
-Durchgängige Sprachbildung
-
-2.2.1
-
-Sprachförderung und Sprachbildung
-
-2.2.2
-
-Konzeption und Koordination eines schulischen Konzepts zur Durchgängigen Sprachbildung
-
-2.3
-
-Datenschutzrechtliche Regelungen
-
-
-3.
-
-Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
-
-3.1
-
-Aufnahme und Schulpflicht
-
-3.1.1
-
-Allgemein bildende Schulen
-
-3.1.2
-
-Berufliche Schulen
-
-3.2
-
-Schulischer Integrationsprozess und Sprachförderung
-
-3.2.1
-
-Grundsätzliches
-
-3.2.2
-
-Schulische Integration und Sprachförderung an allgemein bildenden Schulen
-
-3.2.2.1
-
-VKL-Status und Status "Anschlussphase VKL-Status"
-
-3.2.2.2
-
-Entwicklung eines schulischen Sprachförderkonzepts
-
-3.2.3
-
-Schulische Integration und Sprachförderung an beruflichen Schulen
-
-3.2.3.1
-
-Vorqualifizierungsjahr Arbeit / Beruf mit Schwerpunkt Erwerb von Deutschkenntnissen (VABO)
-
-3.2.3.2
-
-Sprachfördermaßnahmen an beruflichen Schulen
-
-3.2.4
-
-Sonderpädagogische Beratung und Unterstützung
-
-3.3
-
-Fremdsprachenregelung
-
-3.3.1
-
-Grundschule
-
-3.3.2
-
-Hauptschule, Werkrealschule, Realschule, Gemeinschaftsschule, berufliche Bildungsgänge
-
-3.3.3
-
-Gymnasium
-
-3.4
-
-Zeugnisse und Leistungsbeurteilungen
-
-3.4.1
-
-Grundsätzliches
-
-3.4.2
-
-An allgemein bildenden Schulen
-
-3.4.2.1
-
-Im VKL-Status
-
-3.4.2.2
-
-Im Status "Anschlussphase VKL-Status"
-
-3.4.3
-
-An Gemeinschaftsschulen
-
-3.4.4
-
-An beruflichen Schulen
-
-3.4.5
-
-Übergang von Schülerinnen und Schülern im VKL-Status oder im Status "Anschlussphase VKL-Status" von der Grundschule in eine weiterführende Schule
-
-3.4.5.1
-
-Kinder im VKL-Status
-
-3.4.5.2
-
-Kinder im Status "Anschlussphase VKL-Status"
-
-3.5
-
-Zusammenarbeit mit den Erziehungsberechtigten
-
-
-4.
-
-Mehrsprachig aufwachsende Schülerinnen und Schüler
-
-4.1
-
-Muttersprachlicher Zusatzunterricht und Zertifizierung durch die Generalkonsulate
-
-4.2
-
-Lernkurse mit Einbeziehung der Herkunftssprache
-
-
-5.
-
-Übergangsbestimmung
-
-
-6.
-
-Inkrafttreten
-
-
-1.
-
-Geltungsbereich
-
-
-1.1
-
-Alle Schülerinnen und Schüler
-
+### 1.1 Alle Schülerinnen und Schüler
 
 Sprachliches Verständnis und bildungssprachliche Kompetenzen sind für alle Kinder und Jugendlichen wesentliche Voraussetzung zum Lernen und für den Schulerfolg. Die sprachliche Bildung und die sprachliche Förderung aller Schülerinnen und Schüler sind daher eine zentrale Aufgabe von schulischen Bildungseinrichtungen und die Aufgabe aller Lehrkräfte. Nummer 2 gilt daher für alle Schülerinnen und Schüler sowie alle Lehrkräfte einer Schule.
 
 
-1.2
-
-Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
-
+### 1.2 Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
 
 Darüber hinaus haben Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen für eine vollumfängliche Teilnahme am deutschsprachigen Regelunterricht, unabhängig von ihrer Staatsangehörigkeit und ihrem aufenthaltsrechtlichen Status (beispielsweise Schülerinnen und Schüler der zweiten oder dritten Migrationsgeneration), besondere Förder- und Unterstützungsbedarfe. Für sie gilt daher neben Nummer 2 zudem Nummer 3.
 
 
-1.3
-
-Mehrsprachig aufwachsende Schülerinnen und Schüler
-
+### 1.3 Mehrsprachig aufwachsende Schülerinnen und Schüler
 
 Mehrsprachigkeit ist keine Ausnahme, sondern ein Normalfall in deutschen Bildungseinrichtungen. Von Mehrsprachigkeit wird gesprochen, wenn in mindestens zwei Sprachen bedeutungsvolle Äußerungen erzeugt werden können. Das bedeutet nicht, dass mehrsprachige Personen mehrere Sprachen in allen Kompetenzbereichen oder auch in allen Themenbereichen vollständig beherrschen. Die Sprachen werden in unterschiedlichen Kontexten unterschiedlich eingesetzt oder gemischt. Da mehrsprachige Kompetenzen auch Teil der Denksprache mehrsprachig Lernender sind, ist Mehrsprachigkeit eine Ressource, die es zu würdigen, zu nutzen und zu fördern gilt. Sie ist eine Ressource für die kognitive Aktivierung, für Verstehensprozesse und Sprachbewusstheit sowie für die Kommunikation in einer globalisierten und vernetzten Welt. Zur Förderung und Nutzung dieser Ressource gilt daher für mehrsprachig aufwachsende Schülerinnen und Schüler Nummer 2 und, falls sie zur Zielgruppe gehören, gegebenenfalls Nummer 3 sowie Nummer 4 dieser Verwaltungsvorschrift.
 
 
-2.
-
-Durchgängige Sprachbildung aller Schülerinnen und Schüler als Aufgabe aller Lehrkräfte
+### 2 Durchgängige Sprachbildung aller Schülerinnen und Schüler als Aufgabe aller Lehrkräfte
 
 
-2.1
 
-Zielsetzung
-
+### 2.1 Zielsetzung
 
 Sprache ist nicht nur das zentrale Mittel zur Kommunikation, sondern auch das wichtigste Werkzeug für das Denken und Lernen. Durch die Bildungsbiographie hindurch werden die inhaltsbezogenen Anforderungen an die Lernenden komplexer und sie benötigen zunehmend anspruchsvollere fach- und bildungssprachliche Fähigkeiten, um die inhaltsbezogenen Anforderungen kognitiv zu bewältigen.
 
@@ -343,18 +96,12 @@ Mit der Durchgängigen Sprachbildung sollen im Sinne der Bildungsgerechtigkeit a
 Alle Schülerinnen und Schüler erhalten daher während ihrer gesamten Bildungsbiographie und Schullaufbahn in allen Schularten entsprechend ihrer Bedarfe eine dauerhafte und strukturierte Begleitung und Unterstützung ihrer sprachlichen und somit inhaltsbezogenen Kompetenzentwicklung. Dabei stellen alle den Schülerinnen und Schülern zur Verfügung stehenden sprachlichen und mehrsprachigen Kompetenzen eine Ressource dar, die ihnen kognitive Prozesse erleichtert und mit der sie zum Beispiel an Vorwissen anknüpfen können und die es daher einzubinden gilt.
 
 
-2.2
-
-Durchgängige Sprachbildung
-
+### 2.2 Durchgängige Sprachbildung
 
 Durchgängige Sprachbildung zielt demnach auf den Aufbau bildungssprachlicher Kompetenzen ab, die die Grundlage für das Verstehen, Reflektieren und Weiterdenken von Lerninhalten schaffen und entlang der gesamten Bildungsbiographie erworben werden. Ein von den individuellen und spezifischen Bedingungen und Gegebenheiten vor Ort ausgehendes Schulkonzept zur Durchgängigen Sprachbildung bietet Schülerinnen und Schülern eine dauerhafte, kontinuierliche und strukturierte Begleitung und Unterstützung bei der sprachlichen Entwicklung über ihre gesamte Bildungsbiographie hinweg. Ausgehend von dieser Zielsetzung stimmt ein solches Konzept bestehende und neu zu konzipierende Angebote zur Sprachförderung und Sprachbildung gemäß Nummer 2.2.1 aufeinander ab und gibt den Rahmen für die inhaltliche Ausgestaltung dieser vor.
 
 
-2.2.1
-
-Sprachförderung und Sprachbildung
-
+### 2.2.1 Sprachförderung und Sprachbildung
 
 Sprachförderung dient der zielgerichteten Unterstützung der Sprachentwicklung bei Lernenden, die einen diagnostisch erhobenen sprachlichen Förderbedarf aufweisen. Sie umfasst zeitlich begrenzte, kompensatorische, integrative oder auch, wenn besonders begründet, additive Maßnahmen, die sich selektiv an Schülerinnen und Schüler mit diagnostiziertem Sprachförderbedarf richten. Im Rahmen des Erwerbs bildungssprachlicher Kompetenzen ist sie Teil der Sprachbildung. In einem schulischen Sprachförderkonzept werden ausgehend von den schulischen Strukturen und Gegebenheiten vor Ort bestehende und zu entwickelnde Maßnahmen zur zielgerichteten Kompensation von Förderbedarfen sinnvoll aufeinander abgestimmt und mit weiteren Angeboten vor Ort verbunden. Ein schulisches Sprachförderkonzept hat darüber hinaus den Bildungsplan und die darin festgeschriebenen Kompetenzen zur Grundlage und orientiert sich flexibel an der Bedürfnislage der Schülerinnen und Schüler. Sprachförderangebote sowie Diagnostikverfahren, die von den Schulen genutzt werden, berücksichtigen die Mehrsprachigkeit der Schülerinnen und Schüler, damit sie ihrer Förderfunktion für die mehrsprachige Zielgruppe gerecht werden können. Ziel ist dabei die volle schulische und berufliche Integration aller Schülerinnen und Schüler.
 
@@ -365,10 +112,7 @@ Sprachbildung zielt auf den Erwerb der für die Lernprozesse des Regelunterricht
 Sprachbildung ist damit in Form fachintegrierter Sprachbildung (sprachbildender Fachunterricht) Teil eines jeden Regelunterrichts und somit Aufgabe aller pädagogischen Fachkräfte und aller Lehrkräfte aller Schularten, Lernbereiche und Fächer.
 
 
-2.2.2
-
-Konzeption und Koordination eines schulischen Konzepts zur Durchgängigen Sprachbildung
-
+### 2.2.2 Konzeption und Koordination eines schulischen Konzepts zur Durchgängigen Sprachbildung
 
 Die Konzeption und Koordination eines schulischen Konzepts zur Durchgängigen Sprachbildung gehört zum Aufgabenbereich der Schulleitungen aller Schularten. Mit der Wahrnehmung der Konzeption und der Koordination kann ein Team aus Lehrkräften nach einem Interessensbekundungsverfahren beauftragt werden. Konzeption und Koordination umfassen insbesondere die Erarbeitung und Weiterentwicklung eines entsprechenden verbindlichen Konzepts zur Durchgängigen Sprachbildung, das sich zusammensetzt aus drei ineinandergreifenden Teilkonzepten:
 
@@ -394,23 +138,16 @@ Dieser lernförderliche Rahmen umfasst neben Diagnostik und Lernbegleitung die G
 Die Schulen bauen das Konzept sukzessive auf. Die beruflichen Schulen setzen dies im Rahmen der vorhandenen Ressourcen und organisatorischen Möglichkeiten um. Mögliche Änderungen von Anforderungen an den Schulträger stimmt die Schulleitung im Rahmen der vorhandenen Ressourcen rechtzeitig mit diesem ab.
 
 
-2.3
-
-Datenschutzrechtliche Regelungen
-
+### 2.3 Datenschutzrechtliche Regelungen
 
 Soweit die Schulen bei der Sprachförderung und Sprachbildung personenbezogene Daten verarbeiten, sind die datenschutzrechtlichen Regelungen, insbesondere die Verwaltungsvorschrift des Kultusministeriums über den Datenschutz an öffentlichen Schulen sowie die Sprachbildungsverordnung zu beachten.
 
 
-3.
-
-Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
+### 3 Schülerinnen und Schüler mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen
 
 
-3.1
 
-Aufnahme und Schulpflicht
-
+### 3.1 Aufnahme und Schulpflicht
 
 Gemäß § 72 Absatz 1 des Schulgesetzes für Baden-Württemberg (SchG) besteht Schulpflicht für Kinder und Jugendliche, die in Baden-Württemberg ihren Wohnsitz oder gewöhnlichen Aufenthalt oder ihre Ausbildungs- oder Arbeitsstätte haben. Schulpflichtig ist auch, wem aufgrund eines Asylantrags der Aufenthalt in Baden-Württemberg gestattet ist oder wer hier geduldet wird. Die Schulpflicht für diese Gruppe beginnt sechs Monate nach dem Zuzug aus dem Ausland und besteht bis zur Erfüllung der Ausreisepflicht. Beziehen Kinder und Jugendliche dieser Gruppe innerhalb dieser sechs Monate einen festen Wohnsitz in Baden-Württemberg, besteht für sie ab Bezug dieses Wohnsitzes Schulpflicht. Es besteht auch vor Beginn der Schulpflicht ein Recht auf Bildung.
 
@@ -418,10 +155,7 @@ Gemäß § 72 Absatz 1 des Schulgesetzes für Baden-Württemberg (SchG) besteht 
 Die Aufnahme von neu zugewanderten Schülerinnen und Schülern an eine Schule gilt grundsätzlich immer bis zum Ende des jeweiligen Schuljahres, weshalb ein unterjähriger Wechsel zwischen allgemein bildenden Schulen wie auch zwischen allgemein bildenden Schulen und beruflichen Schulen grundsätzlich zu vermeiden ist. Ausgenommen hiervon ist die verbindliche Zuweisung zu einer Schulart und Klassenstufe am Ende des VKL-Status innerhalb der allgemein bildenden Schulen.
 
 
-3.1.1
-
-Allgemein bildende Schulen
-
+### 3.1.1 Allgemein bildende Schulen
 
 Neu zugewanderte Kinder und Jugendliche mit nichtdeutscher Herkunftssprache nehmen im Bereich der allgemein bildenden Schulen vor Schuleintritt an einer Einschätzung des Lern- und Sprachstands teil. Auf Grundlage dieser Einschätzung besuchen sie die ihrem Alter und ihrer Leistung entsprechende Regelklasse der in Betracht kommenden Schulart im Status einer Regelschülerin oder eines Regelschülers. Hierbei kann auch berücksichtigt werden, welche Schulart im Herkunftsland zuletzt besucht worden ist. Die Einschätzung des Lern- und Sprachstands erfolgt im Rahmen der organisatorischen Möglichkeiten durch das Staatliche Schulamt, welches in diese Aufgabe auch Dritte einbinden kann.
 
@@ -444,10 +178,7 @@ Beschulung im Falle eines sehr hohen Beschulungsdrucks
 Im Falle eines sehr hohen Beschulungsdrucks kann es erforderlich sein, dass Kinder und Jugendliche in die Vorbereitungsklasse einer Schulart aufgenommen werden, wenngleich der Übergang in eine Regelklasse dieser Schulart nachgehend an die Beschulung in der Vorbereitungsklasse nicht realistisch erscheint. Die Beschulung in dem sich an den VKL-Status anschließenden Status "Anschlussphase VKL-Status" findet dann in einer zur Leistung des Schülers oder der Schülerin passenden Schulart statt, siehe Nummer 3.2.2.1 sowie tabellarische Übersicht in Anlage 1.
 
 
-3.1.2
-
-Berufliche Schulen
-
+### 3.1.2 Berufliche Schulen
 
 Gemäß § 77 SchG sind Jugendliche, die ihre allgemeine Schulpflicht gemäß § 75 SchG erfüllt haben und keine weiterführende allgemein bildende Schule besuchen, berufsschulpflichtig. Dies ist in der Regel ab einem Alter von 15 beziehungsweise 16 Jahren der Fall. Die Berufsschulpflicht besteht bis zur Vollendung des 18. Lebensjahrs. Jugendliche und junge Erwachsene ohne Ausbildungsplatz, die im Alter von 18 oder 19 Jahren sind, können gemäß § 78 Absatz 1 Satz 3 SchG die Berufsschule freiwillig mit den Rechten und Pflichten eines Berufsschulpflichtigen bis zum Ende des Schuljahrs besuchen, in dem das 20. Lebensjahr vollendet wird. Der Anspruch kann durch eine Anfrage nach einem Schulplatz geltend gemacht werden. Im Rahmen der Pflicht oder des Rechts, die Berufsschule zu besuchen, wird, sofern kein Ausbildungsverhältnis besteht, in der Regel eine der hierfür vorgesehenen Klassen des Vorqualifizierungsjahres Arbeit und Beruf mit Schwerpunkt Erwerb von Deutschkenntnissen (VABO) besucht.
 
@@ -458,15 +189,11 @@ Die Regelungen zur Aufnahme in die weiteren Bildungsgänge beruflicher Schulen b
 Berufsschulpflichtige und berufsschulberechtigte junge Menschen, die gemäß §§ 78 und 79 SchG von der beruflichen Schule aufzunehmen wären, können zum Spracherwerb auch in eine allgemein bildende Schule aufgenommen werden, insofern dort keine zusätzlichen Klassen entstehen.
 
 
-3.2
-
-Schulischer Integrationsprozess und Sprachförderung
+### 3.2 Schulischer Integrationsprozess und Sprachförderung
 
 
-3.2.1
 
-Grundsätzliches
-
+### 3.2.1 Grundsätzliches
 
 Vorrangiges Ziel der schulischen Sprachförderung ist es, Schülerinnen und Schülern ausreichende deutsche Sprachkenntnisse zu vermitteln und sie dazu zu befähigen, sprachliche Barrieren selbstständig zu überwinden, um sie in die Regelklassen der verschiedenen Schularten und Bildungsgänge einzugliedern. Damit soll sichergestellt werden, dass sie einen ihrem kognitiven Potenzial entsprechenden schulischen Abschluss oder Berufsabschluss erreichen und ein selbstständiges Leben als aktives Mitglied in der Gesellschaft führen können. Die Ergebnisse einer Potenzialanalyse für neu Zugewanderte zur Erhebung der fachlichen und überfachlichen Kompetenzen und Potenziale der Schülerinnen und Schüler geben Hinweise zum Lern- und Leistungsstand sowie zu Entwicklungspotenzialen der oder des Einzelnen und zur Steuerung des weiteren schulischen oder beruflichen Integrationsprozesses. Zur Potenzialanalyse stehen den Schulen die digitalen Verfahren 2P (Potential und Perspektive) zur Verfügung. Bei der Eingliederung in die Regelklassen sollen grundsätzlich gemeinsame Klassen aus Schülerinnen und Schülern deutscher und nichtdeutscher Herkunftssprache gebildet werden. Hier sollen alle Lernenden einerseits nach ihren Bedarfen und andererseits nach den fachsprachlichen Erfordernissen gefördert und gefordert werden, sodass sie sprachliche Hürden - auch unter Zuhilfenahme von Nachschlagewerken - selbstständig überwinden können, selbstwirksam am Regelunterricht teilnehmen können und dazu befähigt werden, ihr kognitives Potenzial voll auszuschöpfen. Sprachförderung im Allgemeinen und das Erlernen des methodischen Umgangs mit Nachschlagewerken im Speziellen haben also zum Ziel, die Schülerinnen und Schüler zu befähigen, sprachliche Barrieren zu überwinden, damit sie ihre fachlichen und methodischen Kenntnisse und Fähigkeiten unter Beweis stellen können. Der Einsatz von Nachschlagewerken im Unterricht sowohl als Hilfsmittel als auch als Gegenstand des Lehrens und Lernens trägt somit nicht nur zu Chancengerechtigkeit bei, indem Nachteile gegenüber in der deutschen Sprache sozialisierten Schülerinnen und Schülern ausgeglichen werden, sondern vermittelt auch selbstwirksamkeitsfähige Kompetenzen, die für eine mündige Bürgerin oder einen mündigen Bürger in einer international vernetzten Wissensgesellschaft zentral sind.
 
@@ -474,18 +201,12 @@ Vorrangiges Ziel der schulischen Sprachförderung ist es, Schülerinnen und Sch�
 Eine auf diese Zielsetzung ausgerichtete Sprachförderung ist eingebettet in ein schulisches Sprachförderkonzept, das von den individuellen und spezifischen Bedingungen und Gegebenheiten vor Ort ausgeht und bestehende sowie zu konzipierende Fördermaßnahmen mit Blick auf die Zielsetzung strukturell logisch abstimmt und verbindet. Das Sprachförderkonzept ist Teil eines Gesamtkonzepts zur Durchgängigen Sprachbildung, siehe Nummer 2.2 sowie 3.2.2.2.
 
 
-3.2.2
-
-Schulische Integration und Sprachförderung an allgemein bildenden Schulen
-
+### 3.2.2 Schulische Integration und Sprachförderung an allgemein bildenden Schulen
 
 Während des schulischen Integrationsprozesses durchlaufen Schülerinnen und Schüler gemäß Nummer 1.2 mit dem VKL-Status und dem Status "Anschlussphase VKL-Status" zwei Status, mit denen bestimmte Schutzrechte verbunden sind, siehe Nummer 3.4.2 und 3.4.3. Diese Status-Abfolge ist unabhängig von dem gewählten schulischen Integrationsmodell (teilintegratives oder vollintegratives Modell, siehe hierzu auch die tabellarische Übersicht in Anlage 1) und den damit verbundenen Fördermaßnahmen gemäß der Nummern 3.2.2.2 und 3.2.4.
 
 
-3.2.2.1
-
-VKL-Status und Status "Anschlussphase VKL-Status"
-
+### 3.2.2.1 VKL-Status und Status „Anschlussphase VKL-Status“
 
 VKL-Status
 
@@ -519,10 +240,7 @@ Beendigung des Status "Anschlussphase VKL-Status" und Übergang in den Regelstat
 Sprachliches Lernen im Sinne einer Durchgängigen Sprachbildung findet somit nicht nur in der Sprachförderung statt, sondern ist elementarer Bestandteil aller Lehr- und Lernprozesse. In Form von fachintegrierter Sprachbildung (sprachbildender Fachunterricht) werden die im Rahmen der Sprachförderung initiierten Lernprozesse im Regelunterricht aufgegriffen und auch nach der Beendigung des Status "Anschlussphase VKL-Status" fortgeführt. Darüber hinaus trägt die fachintegrierte Sprachbildung zur bildungssprachlichen Kompetenzentwicklung aller Kinder und Jugendlichen bei. Sprachbildung in diesem Sinne ist Teil eines jeden Regelunterrichts und damit Aufgabe aller pädagogischen Fachkräfte und Lehrkräfte aller Lernbereiche und Fächer.
 
 
-3.2.2.2
-
-Entwicklung eines schulischen Sprachförderkonzepts
-
+### 3.2.2.2 Entwicklung eines schulischen Sprachförderkonzepts
 
 Ein Teilkonzept zur Sprachförderung von Schülerinnen und Schülern gemäß Nummer 1.2 und Schülerinnen und Schülern mit diagnostiziertem Sprachförderbedarf - unabhängig vom Durchlaufen der VKL-Status - unterstützt den schulischen Integrationsprozess und die sprachliche Entwicklung. Für die Konzeption und die Ausgestaltung dieses Teilkonzepts zur Sprachförderung werden die schulischen Gestaltungsmöglichkeiten von Bildungsplan oder Lehrplan, Stundentafel und Schulcurriculum genutzt. Als Teilkonzept eines Gesamtkonzepts zur Durchgängigen Sprachbildung ist es abgestimmt auf ein Teilkonzept zur Sprachbildung im sprachbildenden Fachunterricht unter den Bedingungen von Mehrsprachigkeit. Die den Schulen im Rahmen des zugewiesenen Gesamtbudgets zur Verfügung stehenden Lehrerstunden sollen auch für Maßnahmen der Sprachförderung und -bildung von Schülerinnen und Schülern gemäß Nummer 1.2 im VKL-Status und im Status "Anschlussphase VKL-Status" verwendet werden.
 
@@ -588,15 +306,11 @@ Ein nachgehender Sprachförderkurs kann je Förderziel zeitlich und inhaltlich f
 Nachgehende Sprachförderkurse können parallel zum Regelunterricht liegen, sofern die unterrichtenden Lehrkräfte das Fehlen im Fachunterricht in der pädagogischen Gesamtabwägung als vertretbar erachten. Nehmen Schülerinnen und Schüler in einem Schulhalbjahr aufgrund von parallel zum Unterricht liegenden nachgehenden Sprachförderkursen an einem in der Kontingentstundentafel verankerten Unterrichtsfach nicht oder nur teilweise teil, sind die Stundenpläne der nachgehenden Sprachförderung in dem anderen Schulhalbjahr so anzupassen, dass die Teilnahme an diesem Unterrichtsfach vollständig ermöglicht wird (Rotationsmodell). Die Teilnahme am Unterricht von Fächern, die nur in einem Halbjahr unterrichtet werden, ist durchgehend sicherzustellen. Nehmen Schülerinnen und Schüler aufgrund von durch die Schulleitung angeordneten Fördermaßnahmen nur teilweise am Unterricht eines Faches teil, sind die Leistungsüberprüfungen in diesem Fach so anzupassen, dass der Schülerin oder dem Schüler aus der Nichtteilnahme am Unterricht kein Nachteil erwächst. Dabei sind bei der Gestaltung alternativer Aufgaben neben der Anpassung des Stoffumfangs auch das methodische Arbeiten und fachwissenschaftliche Arbeitstechniken zu berücksichtigen, sofern die Nichtteilnahme Einfluss auf das Erschließen und Üben fachwissenschaftlicher Methoden und Textformen hatte. Die Anpassungen müssen dabei in direktem Zusammenhang mit der Nichtteilnahme stehen. Nimmt eine Schülerin oder ein Schüler aufgrund von Fördermaßnahmen gemäß Nummer 3.2.2.2 am Unterricht eines Faches in einem Schulhalbjahr überhaupt nicht oder in einem Umfang, der keine Notenbildung erlaubt, teil, wird in diesem Fach keine Note erteilt. Sofern möglich, erhält die Schülerin oder der Schüler in diesem Fach eine Verbalbeurteilung. Ab dem Schuljahr 2027/2028 steht für die Verbalbeurteilung das über Raum-BW zur Verfügung gestellte amtliche Muster zur verbindlichen Verwendung zur Verfügung. Die Verbalbeurteilung fließt in diesem Fall nicht in eine mögliche reguläre Versetzungsentscheidung ein. Die Nichterteilung wird unter "Bemerkungen" wie folgt vermerkt: "Aufgrund der Teilnahme an Fördermaßnahmen gemäß Nummer 3.2.2.2 Verwaltungsvorschrift Sprachbildung und Sprachförderung kann in dem Fach keine Note erteilt werden." Hinsichtlich der Verankerung der Fördermaßnahmen gemäß Nummer 3.2.2.2 im Stundenplan wird auf das unter eben dieser Nummer festgehaltene Rotationsmodell verwiesen.
 
 
-3.2.3
-
-Schulische Integration und Sprachförderung an beruflichen Schulen
+### 3.2.3 Schulische Integration und Sprachförderung an beruflichen Schulen
 
 
-3.2.3.1
 
-Vorqualifizierungsjahr Arbeit/Beruf mit Schwerpunkt Erwerb von Deutschkenntnissen (VABO)
-
+### 3.2.3.1 Vorqualifizierungsjahr Arbeit/Beruf mit Schwerpunkt Erwerb von Deutschkenntnissen (VABO)
 
 Berufsschulpflichtige und zum Besuch der Berufsschule Berechtigte mit nicht deutscher Herkunftssprache und unzureichenden Deutschkenntnissen besuchen Klassen des Vorqualifizierungsjahres Arbeit und Beruf mit Schwerpunkt Erwerb von Deutschkenntnissen (VABO) mit dem Ziel, ausreichende Deutschkenntnisse zu erwerben, um anschließend eine Ausbildung aufnehmen oder andere Schularten besuchen zu können.
 
@@ -604,10 +318,7 @@ Berufsschulpflichtige und zum Besuch der Berufsschule Berechtigte mit nicht deut
 Schülerinnen und Schüler des VABO sollen stundenweise den Unterricht anderer Bildungsgänge besuchen oder weitere Angebote zur Integration nutzen. Die Schulen können für VABO-Klassen Lehrerwochenstunden für erhöhten Organisations- und Koordinationsaufwand im Rahmen der Vorgaben der Stundentafel einsetzen.
 
 
-3.2.3.2
-
-Sprachfördermaßnahmen an beruflichen Schulen
-
+### 3.2.3.2 Sprachfördermaßnahmen an beruflichen Schulen
 
 Zur sprachlichen Förderung von Jugendlichen und jungen Erwachsenen mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen in Klassen außerhalb des VABO entwickeln die beruflichen Schulen eigene Konzepte zur integrierten Sprachförderung, die auf die Prinzipien der individuellen Förderung ausgerichtet sind. Die Sprachförderung wird in enger Zusammenarbeit aller betroffenen Fachlehrkräfte gemeinsam entwickelt und im Rahmen der Stundentafeln umgesetzt.
 
@@ -618,10 +329,7 @@ Schülerinnen und Schüler, die im Anschluss an das VABO berufliche Bildungsgän
 Zur sprachlichen Förderung von Jugendlichen und jungen Erwachsenen mit nichtdeutscher Herkunftssprache und unzureichenden Deutschkenntnissen in Berufsschulklassen und Berufsfachschulklassen können außerdem gemäß dem Organisationserlass in der jeweils geltenden Fassung die vom Kultusministerium gesondert festgelegten Mindestschülerzahlen und Klassenteiler angewandt werden.
 
 
-3.2.4
-
-Sonderpädagogische Beratung und Unterstützung
-
+### 3.2.4 Sonderpädagogische Beratung und Unterstützung
 
 Für eine eventuelle Feststellung des Anspruchs auf ein sonderpädagogisches Bildungsangebot gelten die allgemeinen Bestimmungen, insbesondere die Verordnung über sonderpädagogische Bildungsangebote. Dabei ist zu beachten, dass fehlende Kenntnisse in der deutschen Sprache sowie geringe Bildungs- und Betreuungserfahrungen allein kein Kriterium für die Überprüfung auf ein sonderpädagogisches Bildungsangebot sind. Bei den entsprechenden Überprüfungen kann auf Wunsch der Erziehungsberechtigten eine geeignete Lehrkraft oder eine andere geeignete Person der jeweiligen Herkunftssprache hinzugezogen werden; auf diese Möglichkeit sollen die Erziehungsberechtigten durch die meldende Schule oder bei Antrag der Erziehungsberechtigten von der zuständigen Schulaufsichtsbehörde hingewiesen werden.
 
@@ -629,26 +337,17 @@ Für eine eventuelle Feststellung des Anspruchs auf ein sonderpädagogisches Bil
 Über die Formen sonderpädagogischer Beratung und Unterstützung sowie über ein sonderpädagogisches Bildungsangebot für Schülerinnen und Schüler gemäß Nummer 1.2 an allgemeinen Schulen wird gemäß geltender Bestimmungen im Bedarfsfall entschieden. Über den Einzelfall entscheidet die zuständige Schulaufsichtsbehörde.
 
 
-3.3
-
-Fremdsprachenregelung
-
+### 3.3 Fremdsprachenregelung
 
 Mehrsprachigkeit ist eine Ressource, welche Kinder und Jugendliche nichtdeutscher Herkunftssprache mitbringen und die zu würdigen ist. An den Schulen sind die besondere Situation der mehrsprachig aufwachsenden Kinder und Jugendlichen und der noch zu unterstützende Sprachkompetenzerwerb in den Blick zu nehmen. Für Schülerinnen und Schüler gemäß Nummer 1.2, die im VKL-Status zum ersten Mal in eine Grundschule oder weiterführende Schulart eingetreten sind, gelten im Einzelnen die nachfolgenden Regelungen, unabhängig davon, ob eine Vorbereitungsklasse besucht worden ist oder nicht. In den zielgleichen Bildungsgängen der Sonderpädagogischen Bildungs- und Beratungszentren sowie in den aufgeführten beruflichen Bildungsgängen gelten die Regelungen entsprechend.
 
 
-3.3.1
-
-Grundschule
-
+### 3.3.1 Grundschule
 
 In den Klassenstufen 3 und 4 werden die besondere Situation von Kindern gemäß Nummer 3.3 und der noch zu unterstützende Sprachkompetenzerwerb in Englisch oder Französisch bei der Notengebung pädagogisch angemessen berücksichtigt. In pädagogisch begründeten Einzelfällen kann die Note ausgesetzt und durch eine verbale Beurteilung ersetzt werden.
 
 
-3.3.2
-
-Hauptschule, Werkrealschule, Realschule, Gemeinschaftsschule, berufliche Bildungsgänge
-
+### 3.3.2 Hauptschule, Werkrealschule, Realschule, Gemeinschaftsschule, berufliche Bildungsgänge
 
 Die Schülerinnen und Schüler sollen durch individuelle Förderung in der Pflichtfremdsprache auf einen Kenntnisstand gebracht werden, der es ihnen ermöglicht, am Unterricht der von ihnen besuchten Klasse teilzunehmen. Schülerinnen und Schüler gemäß Nummer 3.3 können ihre Kenntnisse in der Herkunftssprache oder in einer ihrer Herkunftssprachen auf formlosen Antrag nachweisen, wenn es aus organisatorischen, haushaltsmäßigen und personellen Gründen möglich ist, den Kenntnisstand der Schülerinnen und Schüler in jedem Schuljahr durch von der zuständigen Schulaufsichtsbehörde bestellte Personen zu überprüfen. Das Ergebnis der Überprüfung ist im Zeugnis festzuhalten. Wird die Leistung (Jahresleistung oder Anmeldenote) in der Pflichtfremdsprache oder der zweiten Fremdsprache mit »mangelhaft« bewertet, kann diese durch mindestens die Note »gut« in der Feststellungsprüfung der Herkunftssprache ausgeglichen werden. Diese Regelung kann in einem Jahrgang nur für eine Fremdsprache angewandt werden. Ansonsten ist die Note, die für die Leistungen in der Herkunftssprache erteilt wird, für die Versetzung unerheblich. Die in der Abschlussprüfung des Bildungsgangs erlangte Note bleibt von dieser Regelung unberührt. Das Ergebnis der Überprüfung ist im Zeugnis festzuhalten.
 
@@ -656,10 +355,7 @@ Die Schülerinnen und Schüler sollen durch individuelle Förderung in der Pflic
 Für die Jahrgangsstufe der gymnasialen Oberstufe an der Gemeinschaftsschule und für die Oberstufe des Beruflichen Gymnasiums gelten die Regelungen für das Gymnasium gemäß Nummer 3.3.3.
 
 
-3.3.3
-
-Gymnasium
-
+### 3.3.3 Gymnasium
 
 In den Klassen 7 bis 10 des achtjährigen Gymnasiums oder 7 bis 11 des neunjährigen Gymnasiums kann die Herkunftssprache oder eine der Herkunftssprachen eine der vorgeschriebenen Pflichtfremdsprachen ersetzen, wenn es aus organisatorischen und personellen Gründen möglich ist, den Kenntnisstand der Schülerinnen und Schüler in jedem Schuljahr mittels einer herkunftssprachlichen Feststellungsprüfung schriftlich zu überprüfen. Dies gilt für Schülerinnen und Schüler, die vor der oder mit der Beendigung des Status "Anschlussphase VKL-Status" in die Klassen 7 bis 10 des achtjährigen Gymnasiums oder die Klasse 11 des neunjährigen Gymnasiums eintreten.
 
@@ -679,15 +375,11 @@ Für Schülerinnen und Schüler, die in die Klasse 8 des sechsjährigen Beruflic
 In den Jahrgangsstufen der gymnasialen Kursstufe des allgemein bildenden Gymnasiums und der Oberstufe des Beruflichen Gymnasiums (mit Ausnahme der Klasse 11 des sechsjährigen Beruflichen Gymnasiums) sowie in der Berufsoberschule ist der Ersatz einer Fremdsprache durch die Herkunftssprache oder eine der Herkunftssprachen ausgeschlossen; dies gilt auch in der Abiturprüfung. Bei Ersatz einer Pflichtfremdsprache durch die Herkunftssprache oder eine der Herkunftssprachen im Zeugnis der Klasse 10 des achtjährigen Gymnasiums oder der Klasse 11 des neunjährigen Gymnasiums sowie der Klasse 11 des sechsjährigen Beruflichen Gymnasiums gelten die Anforderungen bezüglich der zweiten Pflichtfremdsprache für das Abitur als erfüllt.
 
 
-3.4
-
-Zeugnisse und Leistungsbeurteilungen
+### 3.4 Zeugnisse und Leistungsbeurteilungen
 
 
-3.4.1
 
-Grundsätzliches
-
+### 3.4.1 Grundsätzliches
 
 Die schulische Leistungsmessung steht im Dienst der Chancengerechtigkeit. Jeder junge Mensch hat ohne Rücksicht auf Herkunft oder wirtschaftliche Lage das Recht auf eine seiner Begabung entsprechende Erziehung und Ausbildung. Um Chancengerechtigkeit zu ermöglichen, kann es geboten sein, bei Lebenssachverhalten, die von ihrem Wesen her ungleich sind, von Rechts wegen zu differenzieren. Hierfür können Schülerinnen und Schülern gemäß Nummer 1.2, die aufgrund nicht ausreichenden Sprachverständnisses oder eingeschränkter Ausdrucksfähigkeit ihre fachbezogenen Kompetenzen nicht umsetzen können, Unterstützungsmaßnahmen zur Verfügung gestellt werden, um sie zu befähigen, ihre fachlichen Kompetenzen zum Ausdruck zu bringen. Unterstützungsmaßnahmen zielen dabei auf den Ausgleich sprachlicher Defizite ab, die in der Biographie und nicht den kognitiven Fähigkeiten von Schülerinnen und Schülern gemäß Nummer 1.2 begründet liegen und die zu einem Nachteil gegenüber in der deutschen Sprache sozialisierten Schülerinnen und Schülern führen. Art und Umfang der Unterstützungsmaßnahmen sind abhängig von dem jeweiligen Status gemäß Nummer 3.2.2.1 sowie einem entsprechenden Status bei Besuch einer beruflichen Schule. Grundsätzlich ist darauf zu achten, dass in Leistungsfeststellungen sprachliche Hürden nicht das Abrufen der fachlichen Leistung behindern. Eine dem Leistungsabruf nicht dienliche Komplexität auf Wort-, Satz- und Textebene, die über das aus dem Bildungsplan hervorgehende sprachliche Niveau hinausgeht, ist zu vermeiden. Leistungsüberprüfungen sind in diesem Sinne sprachbewusst zu gestalten.
 
@@ -701,15 +393,11 @@ Schülerinnen und Schüler, die im VKL-Status in eine Grundschule oder weiterfü
 Die Schulen können im Rahmen des Nachteilsausgleichs per Beschluss der Klassenkonferenz oder des Prüfungsausschusses eine entsprechende Zeitverlängerung gewähren. Die Gewährung einer Zeitverlängerung liegt im Ermessen der Klassenkonferenz oder des Prüfungsausschusses. Ausgenommen ist hiervon die gemeinsame schriftliche Abschlussprüfung von Berufsschule und Wirtschaft.
 
 
-3.4.2
-
-An allgemein bildenden Schulen
+### 3.4.2 An allgemein bildenden Schulen
 
 
-3.4.2.1
 
-Im VKL-Status
-
+### 3.4.2.1 Im VKL-Status
 
 Die Leistungsbeurteilung bei Schülerinnen und Schülern, die sich an einer allgemein bildenden Schule gemäß Nummer 3.2.2.1 im VKL-Status befinden, orientiert sich in Vorbereitungsklassen und Vorbereitungskursen an dem Orientierungsrahmen VKL-Deutsch im Kontext von Mehrsprachigkeit. Dabei werden keine Noten entsprechend der Bildungspläne in den Regelfächern erteilt, sondern andere Formen der individuellen Rückmeldung wie beispielsweise verbales oder kompetenzorientiertes Feedback genutzt. Dies gilt auch für die Teilnahme am Regelunterricht, sofern aufgrund der Sprachkenntnisse noch nicht die Leistung gemäß dem jeweiligen Bildungsplan erbracht werden kann. Darüber hinaus gelten für Leistungsfeststellungen im Regelklassenunterricht für Schülerinnen und Schüler im VKL-Status die Regelungen zu den alternativen und adaptierten Aufgabenstellungen gemäß Nummer 3.4.2.2.
 
@@ -726,10 +414,7 @@ In Halbjahresinformationen oder Zeugnissen wird entsprechend von der jeweiligen 
 Im VKL-Status erfolgt keine Versetzungsentscheidung in der besuchten Klasse. Schülerinnen und Schüler im VKL-Status, die teil- oder vollintegriert sind, können nach Entscheidung der unterrichtenden Lehrkräfte ohne Versetzungsentscheidung in eine höhere Klassenstufe der Regelklasse wechseln.
 
 
-3.4.2.2
-
-Im Status "Anschlussphase VKL-Status"
-
+### 3.4.2.2 Im Status „Anschlussphase VKL-Status“
 
 Bei der Leistungsbeurteilung von Schülerinnen und Schülern, die sich gemäß Nummer 3.2.2.1 im Status "Anschlussphase VKL-Status" befinden, nehmen die Schulen bei der Leistungsbeurteilung auf die sprachlich bedingten Erschwernisse des Lernens Rücksicht. Die Rücksichtnahme umfasst für alle Schularten, Klassen- und Jahrgangsstufen neben dem allgemeinen pädagogischen Ermessen die unter Nummer 3.4.1 festgehaltenen Unterstützungsmaßnahmen. Zusätzlich gelten - ausgenommen der Jahrgangsstufe des Gymnasiums und der Oberstufe der Gemeinschaftsschule - folgende weitere Maßnahmen, die eine Anpassung der Anforderungen miteinschließen.
 
@@ -764,31 +449,21 @@ Nicht ausreichende Leistungen im Fach Deutsch und den Fremdsprachen können bei 
 Bei Nichterfüllung der in der Versetzungsordnung der entsprechenden Schulart genannten Voraussetzungen kann eine Versetzung erfolgen, wenn die Klassenkonferenz durch Beschluss feststellt, dass die Leistungen nur aufgrund sprachlich bedingter Schwierigkeiten für die Versetzung nicht ausreichen und die sprachliche Entwicklung der Schülerin oder des Schülers prognostisch annehmen lässt, dass nach einer Übergangszeit die Anforderungen des jeweiligen Niveaus der nächsthöheren Klasse voraussichtlich erfüllt werden. Dies gilt nicht für die Versetzung in die Jahrgangsstufe des Gymnasiums, beim achtjährigen Gymnasium Klassen 11 und 12, beim neunjährigen Gymnasium Klassen 12 und 13. Die Rücksichtnahme auf die sprachlich bedingten Schwierigkeiten des Lernens, beispielsweise adaptierte Aufgabenstellungen und alternative Aufgabenstellungen, haben keinen Einfluss auf den Erwerb eines dem Hauptschulabschluss, Werkrealschulabschluss oder Realschulabschluss gleichwertigen Bildungsabschlusses.
 
 
-3.4.3
-
-An Gemeinschaftsschulen
-
+### 3.4.3 An Gemeinschaftsschulen
 
 Für die Gemeinschaftsschulen gelten die vorgenannten Ausführungen unter Berücksichtigung der Vorgaben der Gemeinschaftsschulverordnung in der jeweils geltenden Fassung entsprechend. Dies betrifft insbesondere die schriftliche Information über die Leistungen der Schülerinnen und Schüler zum Schulhalbjahr und am Ende des Schuljahres (Lernentwicklungsbericht).
 
 
-3.4.4
-
-An beruflichen Schulen
-
+### 3.4.4 An beruflichen Schulen
 
 Es gelten die in den jeweiligen Ausbildungs- und Prüfungsordnungen festgelegten Grundsätze der Leistungsfeststellung und Leistungsbeurteilung. Sofern die fachbezogenen Kompetenzen der Schülerinnen und Schüler aufgrund von nicht ausreichenden Sprachkenntnissen oder eingeschränkter Ausdrucksfähigkeit nicht umgesetzt werden können, kann dies unter besonderer Gewichtung der individuellen Lernfortschritte bei der einzelnen Leistungsfeststellung und im Rahmen der pädagogisch-fachlichen Gesamtwertung Berücksichtigung finden. Davon ausgenommen sind Prüfungsleistungen, die Jahrgangsstufen der Beruflichen Gymnasien und die Berufsoberschulen. Abschnitt 3.4.1 bleibt hiervon unberührt.
 
 
-3.4.5
-
-Übergang von Schülerinnen und Schülern im VKL-Status oder im Status "Anschlussphase VKL-Status" von der Grundschule in eine weiterführende Schule
+### 3.4.5 Übergang von Schülerinnen und Schülern im VKL-Status oder im Status „Anschlussphase VKL-Status“ von der Grundschule in eine weiterführende Schule
 
 
-3.4.5.1
 
-Kinder im VKL-Status
-
+### 3.4.5.1 Kinder im VKL-Status
 
 Für Kinder, die im VKL-Status in die vierte Klasse eintreten, finden die Bestimmungen des § 88 SchG über die Wahl des Bildungsweges nach der Grundschule keine Anwendung. Sie nehmen demnach nicht am neuen Aufnahmeverfahren Klasse 4 teil, also nicht an der zentralen Kompetenzmessung und nicht am Potenzialtest. Für sie gelten die Regelungen nach Nummer 3.2.2.1. Demnach entscheiden die unterrichtenden Lehrkräfte mit Zustimmung der Schulleitung unter Berücksichtigung einer allgemeinen Einschätzung und Prognose der Leistungsentwicklung über die Zuweisung in die weiterführende Schulart. Entspricht die Zuweisung zu einer bestimmten Schulart trotz Beratung auf diagnostischer Grundlage nicht dem Willen der Erziehungsberechtigten, entscheidet die Schulleitung der von den Erziehungsberechtigten gewünschten Schule auf der Grundlage einer Feststellungsprüfung zur Aufnahme über die Aufnahme.
 
@@ -799,10 +474,7 @@ Eine freiwillige Teilnahme an der Kompetenzmessung und dem Potentialtest gemäß
 Es ist darauf zu achten, dass Schülerinnen und Schüler von der Vorbereitungsklasse einer Grundschule in einem angemessenen zeitlichen Rahmen in die Vorbereitungsklasse einer weiterführenden Schule übergehen, um einer Überalterung entgegenzuwirken.
 
 
-3.4.5.2
-
-Kinder im Status "Anschlussphase VKL-Status"
-
+### 3.4.5.2 Kinder im Status „Anschlussphase VKL-Status“
 
 Für Kinder, die im Status "Anschlussphase VKL-Status" in die Klasse 4 eintreten, sollen für die pädagogische Gesamtwürdigung gemäß § 88 Absatz 3 Nummer 1 SchG die bestehenden rechtlichen Spielräume wie folgt genutzt werden.
 
@@ -816,10 +488,7 @@ Die pädagogische Gesamtwürdigung schließt mit einer Empfehlung von Schularten
 Eine Empfehlung für die Schularten und eine Niveaustufe wird ausgesprochen, wenn die allgemeine Einschätzung und Prognose der Leistungsentwicklung erwarten lassen, dass den jeweiligen Anforderungen der Schulart und des Niveaus entsprochen wird. Dies bedeutet, dass auch wenn diese Schülerinnen und Schüler die Notenrichtwerte nach § 1 Absatz 4 Aufnahmeverordnung verfehlen, kann dennoch eine Empfehlung ausgesprochen werden, sofern die Klassenkonferenz zu der Einschätzung gelangt, dass die Schülerin oder der Schüler das Potenzial für die Schulart oder Niveaustufe hat und jedenfalls nach einer Übergangszeit den Anforderungen gewachsen sein wird.
 
 
-3.5
-
-Zusammenarbeit mit den Erziehungsberechtigten
-
+### 3.5 Zusammenarbeit mit den Erziehungsberechtigten
 
 Maßgeblichen Anteil am Gelingen der schulischen Eingliederung von Kindern und Jugendlichen gemäß Nummer 1.2 haben die Erziehungsberechtigten. Der intensiven Zusammenarbeit zwischen schulischen Bildungseinrichtungen und Erziehungsberechtigten kommt daher eine hohe Bedeutung zu. Die Erziehungsberechtigten werden bereits von den Fachkräften der Tageseinrichtungen für Kinder und den Lehrkräften der Schulen im Rahmen der Kooperation dieser Tageseinrichtungen mit den Grundschulen über mögliche Bildungsgänge beraten, siehe VwV Kooperation Kindertageseinrichtungen - Grundschulen.
 
@@ -827,15 +496,11 @@ Maßgeblichen Anteil am Gelingen der schulischen Eingliederung von Kindern und J
 In den Schulen übernehmen Lehrkräfte, weitere Fachkräfte und Schulleitungen die Aufgabe der Information und Beratung der Erziehungsberechtigten von Schülerinnen und Schülern gemäß Nummer 1.2.
 
 
-4.
-
-Mehrsprachig aufwachsende Schülerinnen und Schüler
+### 4 Mehrsprachig aufwachsende Schülerinnen und Schüler
 
 
-4.1
 
-Muttersprachlicher Zusatzunterricht und Zertifizierung durch die Generalkonsulate
-
+### 4.1 Muttersprachlicher Zusatzunterricht und Zertifizierung durch die Generalkonsulate
 
 Zur Förderung der Kinder und Jugendlichen in der nichtdeutschen Herkunftssprache kann das jeweilige Generalkonsulat oder Konsulat Unterrichtskurse in eigener Verantwortung durchführen, die Unterricht in der Muttersprache, der Geschichte sowie der Landeskunde umfassen. Diese Kurse werden im Rahmen des Möglichen von der zuständigen Schulaufsichtsbehörde organisatorisch unterstützt, unterliegen aber nicht deren Aufsicht. Eine enge Zusammenarbeit der deutschen Schulbehörden und Schulen mit den Vertretungen und Lehrkräften der Herkunftsländer ist anzustreben. Die Erziehungsberechtigten entscheiden in eigener Verantwortung über die Teilnahme ihrer Kinder an den freiwilligen Angeboten zur muttersprachlichen Bildung.
 
@@ -852,26 +517,17 @@ Stattdessen kann auch ein Zeugnis oder eine Bescheinigung des Generalkonsulats o
 Zertifizierungsangebote der Generalkonsulate oder Konsulate, die das Sprachniveau ausweisen, werden von der zuständigen Schulaufsichtsbehörde im Rahmen des Möglichen organisatorisch unterstützt, zum Beispiel durch Beratung oder Bereitstellung von Räumlichkeiten. Nehmen Schülerinnen und Schüler solche Zertifizierungsangebote der Generalkonsulate oder Konsulate wahr, besteht die Möglichkeit, im Zeugnis oder im Lernentwicklungsbericht unter "Bemerkungen" folgenden Hinweis aufzunehmen: "Nach Mitteilung des ... Generalkonsulats oder Konsulats in ... ist das Sprachniveau der Schülerin oder des Schülers in deren oder dessen Herkunftssprache ... gemäß oder analog dem Gemeinsamen europäischen Referenzrahmen für Sprachen durch das Generalkonsulat oder Konsulat geprüft und zertifiziert worden. Die Schülerin oder der Schüler hat dabei folgende Punktzahl erzielt: ..."
 
 
-4.2
-
-Lernkurse mit Einbeziehung der Herkunftssprache
-
+### 4.2 Lernkurse mit Einbeziehung der Herkunftssprache
 
 Mehrsprachigkeit ist eine Ressource, die es zu würdigen, zu nutzen und zu fördern gilt, indem die Sprachen der Schülerinnen und Schüler aktiv aufgegriffen werden. Mehrsprachig aufwachsende Schülerinnen und Schüler gemäß Nummer 1.3 können im Rahmen der verfügbaren Ressourcen durch Lernkurse mit Einbeziehung der Herkunftssprache zusätzlich gefördert werden. Lernkurse mit Einbeziehung der Herkunftssprache zählen zu den Maßnahmen der Durchgängigen Sprachbildung nach Nummer 2.2 und stellen ein freiwilliges Zusatzangebot dar. Lernkurse mit Einbeziehung der Herkunftssprache nutzen die jeweilige Herkunftssprache als Ressource, um Kinder in fachlichen, überfachlichen und sprachlichen Kompetenzen in Bezug auf den Regelunterricht zu fördern und erleichtern ihnen dadurch, sich die Lerninhalte der Bildungspläne auf bildungssprachlichem Niveau anzueignen. Sie tragen damit dazu bei, den Gebrauch der Herkunftssprache oder einer der Herkunftssprachen zu pflegen und diese weiterzuentwickeln. Sie erfolgen in enger Anbindung an den Regelunterricht und sollen mindestens zwei Wochenstunden umfassen. Die Gruppengröße richtet sich nach den Vorgaben für Sprachförder- und Vorbereitungskurse des jeweils gültigen Organisationserlasses des Kultusministeriums. Lerngruppen können klassen-, klassenstufen- und auch standortübergreifend gebildet werden.
 
 
-5.
-
-Übergangsbestimmung
-
+### 5 Übergangsbestimmung
 
 Die Bestimmungen zur Fremdsprachenregelung gemäß Nummer 5 der Verwaltungsvorschrift des Kultusministeriums über die Grundsätze zum Unterricht für Kinder und Jugendliche mit nichtdeutscher Herkunftssprache und geringen Deutschkenntnissen an allgemein bildenden und beruflichen Schulen vom 31. Mai 2017 (K.u.U. S. 95) finden noch bis zum 31. Juli 2026 Anwendung.
 
 
-6.
-
-Inkrafttreten
-
+### 6 Inkrafttreten
 
 Diese Verwaltungsvorschrift tritt am Tag nach ihrer Veröffentlichung in Kraft, sofern nachstehend nichts anderes bestimmt ist.
 
@@ -885,9 +541,7 @@ Die Durchgängige Sprachbildung gemäß Nummer 2 tritt für weiterführende Schu
 Gleichzeitig mit dem Inkrafttreten tritt die Verwaltungsvorschrift des Kultusministeriums über die Grundsätze zum Unterricht für Kinder und Jugendliche mit nichtdeutscher Herkunftssprache und geringen Deutschkenntnissen an allgemein bildenden und beruflichen Schulen vom 31. Mai 2017 (K.u.U. S. 95) außer Kraft.
 
 
-## Anlage 1 - Anlage 1
-
-
+## Anlage 1
 
 ### Vorbemerkung
 
