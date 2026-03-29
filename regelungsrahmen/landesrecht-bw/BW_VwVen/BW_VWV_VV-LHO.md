@@ -9,6 +9,7 @@ quelle: "GABl. 2025, 905"
 gueltig_ab: 2026-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000045486"
 stand: "2026-03-28"
+beschreibung: "VV-LHO Fassung VVBW000045486 — ggf. Duplikat von BW_VWV_AVV_Haushaltsrecht"
 status: published
 projekte:
   - amtsschimmel

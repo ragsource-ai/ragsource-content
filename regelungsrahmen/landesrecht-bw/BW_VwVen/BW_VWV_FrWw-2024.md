@@ -1,5 +1,5 @@
 ---
-titel: "Richtlinien des Umweltministeriums für die Förderung wasserwirtschaftlicher Vorhaben ..."
+titel: "Richtlinien des Umweltministeriums für die Förderung wasserwirtschaftlicher Vorhaben (Förderrichtlinien Wasserwirtschaft 2024 - FrWw 2024)"
 ebene: land
 saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift

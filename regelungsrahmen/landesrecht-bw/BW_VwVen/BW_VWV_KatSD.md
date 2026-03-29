@@ -1,5 +1,5 @@
 ---
-titel: "Verwaltungsvorschrift des Innenministeriu ms über die Stärke und Gliederung des Katastrophenschutzdienstes (VwV KatSD)"
+titel: "Verwaltungsvorschrift des Innenministeriums über die Stärke und Gliederung des Katastrophenschutzdienstes (VwV KatSD)"
 ebene: land
 saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift

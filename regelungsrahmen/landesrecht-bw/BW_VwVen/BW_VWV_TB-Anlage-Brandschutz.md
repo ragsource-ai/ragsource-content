@@ -1,5 +1,5 @@
 ---
-titel: "Bekanntmachung des Ministeriums für Landesentwicklung und Wohnen zur Verwaltungsvorschrift ..."
+titel: "Bekanntmachung des Ministeriums für Landesentwicklung und Wohnen zur Verwaltungsvorschrift Technische Baubestimmungen (VwV TB) — Anlage: Richtlinie über brandschutztechnische Anforderungen an Leitungsanlagen (LAR)"
 ebene: land
 saule: regelungsrahmen
 rechtsnatur:

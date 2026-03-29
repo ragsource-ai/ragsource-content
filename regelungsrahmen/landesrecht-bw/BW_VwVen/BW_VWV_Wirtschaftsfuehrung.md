@@ -1,5 +1,5 @@
 ---
-titel: "Verwaltungsvorschriften des Finanzministeriums zur Haushalts- und Wirtschaftsführung im ..."
+titel: "Verwaltungsvorschriften des Finanzministeriums zur Haushalts- und Wirtschaftsführung im Haushaltsjahr 2024 (VwV-Haushaltsvollzug 2024)"
 ebene: land
 saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift

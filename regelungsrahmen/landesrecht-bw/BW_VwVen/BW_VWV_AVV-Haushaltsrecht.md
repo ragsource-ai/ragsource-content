@@ -1,5 +1,5 @@
 ---
-titel: "Allgemeine Verwaltungsvorschriften des Ministeriums für Finanzen zur Landeshaushaltsordnung für ..."
+titel: "Allgemeine Verwaltungsvorschriften des Ministeriums für Finanzen zur Landeshaushaltsordnung für Baden-Württemberg (VV-LHO)"
 ebene: land
 saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift
@@ -9,6 +9,7 @@ quelle: "GABl. 2025, 905"
 gueltig_ab: 2026-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000045446"
 stand: "2026-03-27"
+beschreibung: "VV-LHO Fassung VVBW000045446 — ggf. Duplikat von BW_VWV_VV_LHO"
 status: published
 projekte:
   - amtsschimmel
