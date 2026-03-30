@@ -209,7 +209,7 @@ Die Auftraggeber sollen von den Unternehmen ein klimafreundliches Verhalten auch
 
 Das zentrale Portal für nachhaltige Beschaffung des Beschaffungsamtes des Bundesministeriums des Innern und für Heimat (BMI) - Kompetenzstelle für nachhaltige Beschaffung informiert über Gesetze, Regelungen, Leitfäden und Beispiele aus Bund, Ländern und Kommunen zur nachhaltigen Beschaffung (siehe Internetseite der Kompetenzstelle für nachhaltige Beschaffung).
 
-## 11.2 Umwelt- und klimarelevante Aspekte
+### 11.2 Umwelt- und klimarelevante Aspekte
 
 ### 11.2.1 Grundsätze
 

@@ -43,7 +43,7 @@ projekte:
 - § 17 Ortsvorsteherin bzw. Ortsvorsteher
 - § 18 Durchführung von Sitzungen ohne persönliche Anwesenheit der Mitglieder im Sitzungsraum
 - § 19 Inkrafttreten
-- Tabelle zu § 5 der Hauptsatzung – Abgrenzung der Zuständigkeiten
+- Anhang 1: Tabelle zu § 5 der Hauptsatzung – Abgrenzung der Zuständigkeiten
 
 ## (Rechtsgrundlage)
 
@@ -420,7 +420,7 @@ Diese Satzung zur Änderung der Hauptsatzung tritt am Tage nach ihrer öffentlic
 
 **Anmerkung:** Die Hauptsatzung und ihre jeweiligen Änderungen wurden vorschriftsmäßig öffentlich bekanntgemacht. Die letzte Satzung zur Änderung der Satzung mit Beschluss vom 28.09.2023 wurde am 29.09.2023 ortsüblich bekanntgemacht.
 
-### Tabelle zu § 5 der Hauptsatzung – Abgrenzung der Zuständigkeiten
+### Anhang 1: Tabelle zu § 5 der Hauptsatzung – Abgrenzung der Zuständigkeiten
 
 (Weitere Zuständigkeiten innerhalb der Dezernate ergeben sich aus der Zuständigkeitsordnung der Stadt Konstanz)
 
