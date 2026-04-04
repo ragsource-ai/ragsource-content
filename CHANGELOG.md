@@ -9,6 +9,18 @@ Format basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/).
 
 ---
 
+## [2026-04-04] — Parser-Umstellung: Heading-Korrekturen
+
+### Geändert
+- **Heading-Konvention präzisiert:** Alle abrufbaren Abschnitte müssen `###`-Headings verwenden. `##` ist nur für `## Inhaltsverzeichnis` und strukturelle Zwischenüberschriften ohne eigenen Inhalt reserviert.
+
+### Behoben
+- `BW_FischG`: `§§ 1a, 21a, 44a` von `##` auf `###` angehoben (waren nicht indexiert)
+- `BW_KomWG`: `§§ 38a, 39a, 39b` von `##` auf `###` angehoben (waren nicht indexiert)
+- `BW_LNTVO`: `§ 11a` von `##` auf `###` angehoben (war nicht indexiert)
+
+---
+
 ## [2026-03-22] — Bundesrecht Erweiterung
 
 ### Hinzugefügt

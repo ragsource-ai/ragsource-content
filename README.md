@@ -11,7 +11,7 @@ Die Artikel bilden die Wissensbasis für KI-Assistenten wie [amtsschimmel.ai](ht
 
 Jede Markdown-Datei entspricht einem Rechtsdokument (Gesetz, Satzung, Verordnung) mit strukturierten Metadaten. Der RAGSource-Server liest diese Dateien, indexiert sie und stellt sie über eine MCP-Schnittstelle für KI-Systeme bereit.
 
-**Aktuell:** 109 Artikel aus Bundes-, Landes-, Kreis- und Gemeinderecht
+**Aktuell:** 261 Quellen aus Bundes-, Landes-, Kreis- und Gemeinderecht
 
 ---
 
@@ -93,6 +93,31 @@ Nur die Felder setzen, die zur `ebene` passen (bund = keine, land = `land_ars`, 
 | `keywords` | `[Feuerwehr, Satzung]` | Suchbegriffe fuer den Volltext-Index |
 | `fragen` | `["Wie wird ...?"]` | Typische Nutzerfragen |
 | `querverweise` | `[Hauptsatzung ...]` | Verwandte Artikel (exakte Titel) |
+
+### Markdown-Struktur
+
+Jede Datei enthält nach dem Frontmatter ein optionales Inhaltsverzeichnis und den Volltext mit `###`-Headings als Abschnittsgrenzen:
+
+```markdown
+## Inhaltsverzeichnis
+
+- § 1 Aufgaben
+- § 2 Begriffsbestimmungen
+
+### § 1 Aufgaben
+Volltext...
+
+### § 2 Begriffsbestimmungen
+Volltext...
+
+### 7 Anforderungen an Baustoffe
+Volltext (plain-numerisch, z.B. IndBauRL)...
+
+### Anhang 1: Grundsätze
+Volltext...
+```
+
+**Trennregel:** Jedes `###`-Heading öffnet einen neuen, einzeln abrufbaren Abschnitt. `##`-Headings (außer `## Inhaltsverzeichnis`) sind reine Strukturüberschriften und werden in den Body des laufenden Abschnitts übernommen. `####` und tiefer sind Sub-Content innerhalb eines Abschnitts.
 
 ---
 

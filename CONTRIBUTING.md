@@ -22,7 +22,7 @@ Alle Inhalte müssen:
 1. **Öffentlich zugänglich** sein (keine urheberrechtlich geschützten Inhalte)
 2. **Lizenzrechtlich frei verwendbar** sein — amtliche Werke nach § 5 UrhG oder vergleichbar
 3. Das **Frontmatter-Schema** einhalten (siehe unten)
-4. Das **Heading-Format** einhalten: `##` für Strukturelemente, `###` für §§/Artikel
+4. Das **Heading-Format** einhalten: `###` für alle abrufbaren Abschnitte (§§, Artikel, Anhänge, numerische Abschnitte). `##` nur für das Inhaltsverzeichnis (`## Inhaltsverzeichnis`) und rein strukturelle Zwischenüberschriften ohne eigenen Inhalt.
 
 ### Frontmatter-Pflichtfelder
 
@@ -90,7 +90,7 @@ All content must:
 1. Be **publicly accessible** (no copyrighted content)
 2. Be **freely usable** — official works under § 5 UrhG or equivalent
 3. Follow the **frontmatter schema** (see README)
-4. Follow the **heading format**: `##` for structural elements, `###` for §§/articles
+4. Follow the **heading format**: `###` for all retrievable sections (§§, articles, annexes, numbered sections). `##` only for the table of contents (`## Inhaltsverzeichnis`) and purely structural headings with no standalone content.
 
 ### Process
 
