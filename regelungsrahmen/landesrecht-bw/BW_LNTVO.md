@@ -196,7 +196,7 @@ Aus begründetem Anlass kann der Dienstvorgesetzte Nachweise über Vergütungen 
 (4) Wird die Nebentätigkeit unentgeltlich ausgeübt, ohne daß die Voraussetzungen des § 10 Abs. 1 Satz 3 oder Abs. 2 Nr. 1 vorliegen, so ist Absatz 3 Satz 2 entsprechend anzuwenden.
 
 
-## § 11 a - Nutzungsentgelt im Krankenhaus
+### § 11 a - Nutzungsentgelt im Krankenhaus
 
 (1) Ärzte des Krankenhauses, die wahlärztliche Leistungen selbst berechnen können, sind verpflichtet, die Kostenerstattung der Ärzte nach der Bundespflegesatzverordnung in der jeweils maßgebenden Fassung zu entrichten. Darüber hinaus sind sie verpflichtet, zum Ausgleich der hierdurch nicht erfaßten Kosten und des wirtschaftlichen Vorteils ein Nutzungsentgelt in Höhe von 20 vom Hundert der jährlich bezogenen Bruttovergütung zu entrichten. Bei sonstigen stationären oder teilstationären ärztlichen Leistungen beträgt das Nutzungsentgelt 26 vom Hundert der jährlich bezogenen Bruttovergütung.
 

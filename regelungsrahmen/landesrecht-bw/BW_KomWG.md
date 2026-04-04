@@ -562,7 +562,7 @@ Ist die Feststellung des Wahlergebnisses rechtskräftig aufgehoben, hat bei Geme
 (2) Für die gleichzeitige Durchführung der Wahl der Kreisräte gilt § 37 Abs. 2 bis 4 entsprechend. Die nur für die Wahl der Kreisräte Wahlberechtigten sind in den Wählerverzeichnissen gesondert aufzuführen.
 
 
-## § 38 a - Wahl des Bürgermeister
+### § 38 a - Wahl des Bürgermeister
 
 Der Gemeinderat kann bestimmen, dass die Wahl des Bürgermeisters am Tag der Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland, des Deutschen Bundestags, des Landtags, der Mitglieder der Regionalversammlung des Verbands Region Stuttgart, der Kreisräte, der Gemeinderäte, der Ortschaftsräte und der Bezirksbeiräte sowie am Tag einer Volksabstimmung durchgeführt wird. § 37 Abs. 2 bis 4 gilt entsprechend; der Bürgermeister kann bestimmen, dass der Stimmzettel für die Wahl des Bürgermeisters auch bei der persönlichen Stimmabgabe im Wahlraum in einem gemeinsamen Stimmzettelumschlag für kommunale Wahlen nach § 37 Abs. 4 Satz 4 abzugeben ist.
 
@@ -576,7 +576,7 @@ Der Gemeinderat kann bestimmen, dass die Wahl des Bürgermeisters am Tag der Wah
 (2) Die Kosten für die Wahl der Kreisräte trägt der Landkreis; soweit die Kosten bei den Gemeinden entstehen, trägt sie die Gemeinde.
 
 
-## § 39 a - Statistische Auswertung der Wahlergebnisse im Land
+### § 39 a - Statistische Auswertung der Wahlergebnisse im Land
 
 (1) Die Gemeinden und Landkreise berichten das Wahlergebnis jeder regelmäßigen Wahl der Gemeinderäte, der Ortschaftsräte, der Bezirksbeiräte und der Kreisräte der obersten Rechtsaufsichtsbehörde nach deren näherer Bestimmung. Dabei können auch Angaben über den Anteil der Frauen und der Unionsbürger bei den Bewerbern und den gewählten Personen angefordert werden. Das Statistische Landesamt fertigt auf Grund dieser Berichte eine zusammenfassende Darstellung der Ergebnisse.
 
@@ -589,7 +589,7 @@ Der Gemeinderat kann bestimmen, dass die Wahl des Bürgermeisters am Tag der Wah
 (5) Dem Statistischen Landesamt obliegen die statistische Auswertung der Wahlergebnisse auf überregionaler Ebene sowie die rechnerische Unterstützung bei Änderungen des Wahlsystems.
 
 
-## § 39 b - Repräsentative Wahlstatistik in der Gemeinde
+### § 39 b - Repräsentative Wahlstatistik in der Gemeinde
 
 (1) Die Gemeinde kann für eigene statistische Zwecke über das Ergebnis von Gemeindewahlen unter Wahrung des Wahlgeheimnisses in ausgewählten Wahlbezirken eine Statistik auf repräsentativer Grundlage über die Wahlberechtigten, Wahlscheinvermerke und die Beteiligung an der Wahl nach Geschlecht, Staatsangehörigkeit und Geburtsjahresgruppen erstellen. § 39 a Absatz 3 gilt entsprechend. Die wahlstatistischen Auszählungen und Auswertungen dürfen nur von einer Statistikstelle im Sinne von § 9 Absatz 1 des Landesstatistikgesetzes vorgenommen werden.
 

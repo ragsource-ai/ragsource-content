@@ -94,7 +94,7 @@ projekte:
 (4) Die wasser- und naturschutzrechtlichen Bestimmungen bleiben unberührt.
 
 
-## § 1 a - Rechtsakte der Europäischen Gemeinschaft
+### § 1 a - Rechtsakte der Europäischen Gemeinschaft
 
 (1) Dieses Gesetz dient auch der Durchführung von Rechtsakten der Europäischen Gemeinschaft auf dem Gebiet der Aquakultur und der Binnenfischerei.
 
@@ -322,7 +322,7 @@ Ein beschränktes Fischereirecht kann durch Rechtsgeschäft nur ungeteilt übert
 (4) Der Berechtigte hat bei der Ausübung der Fischerei den Erlaubnisschein bei sich zu führen und auf Verlangen auch dem Fischereiberechtigten und dem Pächter zur Einsichtnahme auszuhändigen.
 
 
-## § 21 a - Fischereibezirk
+### § 21 a - Fischereibezirk
 
 (1) Soweit es aus Gründen der Hege erforderlich ist, kann das Ministerium durch Rechtsverordnung zusammenhängende Abschnitte von Gewässern zu Fischereibezirken erklären.
 
@@ -549,7 +549,7 @@ Vor Erlaß der Rechtsverordnung ist der Entwurf in den Gemeinden, in denen die S
 (3) Die Rechtsverordnungen nach Absatz 1 gelten für die Gewässer im Sinne von § 1 Abs. 2 und für den Bodensee (einschließlich des Untersees) nur, wenn dies in der Rechtsverordnung ausdrücklich bestimmt ist.
 
 
-## § 44 a - Umsetzung von Rechtsakten der Europäischen Gemeinschaft
+### § 44 a - Umsetzung von Rechtsakten der Europäischen Gemeinschaft
 
 (1) Zur Durchführung der Rechtsakte der Europäischen Gemeinschaft auf dem Gebiet der Aquakultur und der Binnenfischerei (§ 1 a) kann das Ministerium durch Rechtsverordnung Bestimmungen treffen über
 
