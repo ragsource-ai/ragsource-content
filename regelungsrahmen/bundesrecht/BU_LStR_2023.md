@@ -9,7 +9,7 @@ gueltig_ab: 2023-01-01
 url: ""
 stand: "2022-09-15"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -11,7 +11,7 @@ gueltig_ab: 1984-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-DSchGBW1983rahmen"
 stand: "2023-02-07"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

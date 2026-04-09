@@ -11,7 +11,7 @@ gueltig_ab: 1971-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BestattGBWrahmen"
 stand: "2021-02-03"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

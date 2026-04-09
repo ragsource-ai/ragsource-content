@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Kreistagsbeschluss zur Aufhebung vom 30.01.2009
 gueltig_ab: 2009-04-01
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

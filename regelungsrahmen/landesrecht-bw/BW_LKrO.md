@@ -4,7 +4,7 @@ ebene: land
 saule: regelungsrahmen
 land_ars: 08
 land: Baden-Württemberg
-projekte:
+sammlungen:
   - amtsschimmel
 kurztitel: LKrO
 rechtstyp: Landesgesetz

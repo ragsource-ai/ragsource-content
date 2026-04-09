@@ -5,7 +5,7 @@ saule: 1
 gueltig_ab: 2018-03-22
 quellenangabe: "Feuerwehr-Dienstvorschrift 800 – Informations- und Kommunikationstechnik im Einsatz. Hrsg.: AFKzV."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_DV_800.pdf"
-projekte:
+sammlungen:
   - amtsschimmel
   - brandmeister
 ---

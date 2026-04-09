@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Kreistagsbeschluss vom 01.01.2021
 gueltig_ab: 2021-01-01
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

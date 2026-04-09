@@ -11,7 +11,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000002201"
 beschreibung: "Beihilfeverordnung für kommunale Beamte"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

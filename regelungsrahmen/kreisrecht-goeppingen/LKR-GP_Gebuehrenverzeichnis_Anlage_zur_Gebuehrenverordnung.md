@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Anlage zur Gebührenverordnung des Landratsamts Göppingen vom 01.03.2025
 gueltig_ab: 2025-03-01
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

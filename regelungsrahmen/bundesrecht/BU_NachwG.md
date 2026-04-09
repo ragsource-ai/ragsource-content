@@ -9,7 +9,7 @@ gueltig_ab: 2024-10-23
 url: "https://www.gesetze-im-internet.de/nachwg/"
 stand: "2024-10-23"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

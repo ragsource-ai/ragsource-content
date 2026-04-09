@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 12.04.2018, Rechtsgrundlage § 36 Abs. 2 GemO BW
 gueltig_ab: 2018-04-12
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -10,7 +10,7 @@ quelle: "Gesetz vom 08.06.1995 (GBl. 1995, 417), zuletzt geändert durch Gesetz 
 gueltig_ab: 1995-06-23
 stand: "2026-02-10"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

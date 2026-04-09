@@ -11,7 +11,7 @@ gueltig_ab: 2008-10-22
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-DGBWrahmen"
 stand: "2021-02-03"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

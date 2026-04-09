@@ -14,7 +14,7 @@ gueltig_ab: 2025-01-01
 stand: 2024-06-03
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-142728606/konstanz/Dateien/Service/Ortsrecht/II%20Finanzen/II_08%20Satzung%20zur%20Erhebung%20einer%20Steuer%20auf%20Einwegverpackungen%20%28Verpackungssteuersatzung%29%20ab%2001.01.2025.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -12,7 +12,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000036731"
 beschreibung: "Nichtinvestive Städtebauförderung"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

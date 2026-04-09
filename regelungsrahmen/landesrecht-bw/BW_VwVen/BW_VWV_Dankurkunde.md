@@ -12,7 +12,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000038135"
 beschreibung: "Dankurkunden für langjährige Dienste"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

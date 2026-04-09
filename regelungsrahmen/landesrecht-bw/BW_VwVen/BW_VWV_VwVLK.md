@@ -9,7 +9,7 @@ quelle: GABl. BW 2022, S. 354, geändert durch Erlass vom 7. Dezember 2023
 gueltig_ab: 2022-04-12
 stand: 2026-03-30
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

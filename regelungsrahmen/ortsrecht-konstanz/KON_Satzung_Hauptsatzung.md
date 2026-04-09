@@ -15,7 +15,7 @@ gueltig_ab: 2023-09-29
 stand: 2023-09-29
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E468575503/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_01%20Hauptsatzung%20der%20Stadt%20Konstanz.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

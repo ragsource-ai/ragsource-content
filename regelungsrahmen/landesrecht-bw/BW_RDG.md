@@ -10,7 +10,7 @@ gueltig_ab: 2024-08-02
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-RettDGBW2024rahmen"
 stand: "2024-07-25"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

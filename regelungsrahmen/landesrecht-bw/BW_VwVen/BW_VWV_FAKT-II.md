@@ -12,7 +12,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000042339"
 beschreibung: "Förderprogramm Agrarumwelt, Klimaschutz und Tierwohl"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

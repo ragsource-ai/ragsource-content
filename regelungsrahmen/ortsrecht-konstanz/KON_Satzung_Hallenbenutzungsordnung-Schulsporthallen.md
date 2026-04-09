@@ -15,7 +15,7 @@ gueltig_ab: 2024-09-01
 stand: 2024-01-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1356086822/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_06%20Hallenbenutzungsordnung%20f%C3%BCr%20die%20Turn-%20und%20Gymnastikhallen%20der%20st%C3%A4dtischen%20Schulen%20inklusive%20der%20Sporthalle%20der%20Geschwister-Scholl-Schule.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

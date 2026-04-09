@@ -9,7 +9,7 @@ gueltig_ab: 2024-07-19
 url: "https://www.gesetze-im-internet.de/betrvg/"
 stand: "2024-07-19"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

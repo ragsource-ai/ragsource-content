@@ -11,7 +11,7 @@ gueltig_bis: 2031-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000043017"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

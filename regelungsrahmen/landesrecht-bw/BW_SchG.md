@@ -11,7 +11,7 @@ gueltig_ab: 1983-08-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-SchulGBW1983rahmen"
 stand: "2025-12-16"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

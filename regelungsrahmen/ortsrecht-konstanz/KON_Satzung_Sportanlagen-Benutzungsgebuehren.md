@@ -14,7 +14,7 @@ gueltig_ab: 2025-01-01
 stand: 2024-01-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-35935167/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_15%20Benutzungsgeb%C3%BChrensatzung%20f%C3%BCr%20die%20%C3%9Cberlassung%20von%20st%C3%A4dtischen%20Sportanlagen.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -5,7 +5,7 @@ saule: 1
 gueltig_ab: 2020-07-08
 quellenangabe: "Feuerwehr-Dienstvorschrift 10 – Tragbare Leitern. Stand: November 2019. Hrsg.: AFKzV."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_010.pdf"
-projekte:
+sammlungen:
   - amtsschimmel
   - brandmeister
 ---

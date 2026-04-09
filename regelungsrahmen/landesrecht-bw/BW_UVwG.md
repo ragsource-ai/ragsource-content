@@ -11,7 +11,7 @@ gueltig_ab: 2015-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-UmwVwGBWrahmen"
 stand: "2025-11-18"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -14,7 +14,7 @@ gueltig_ab: 2022-07-19
 stand: 2022-07-19
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1922396453/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_04.2%20Mietpreisordnung%20Kulturzentrum%20am%20M%C3%BCnster.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

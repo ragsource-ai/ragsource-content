@@ -10,7 +10,7 @@ url: "https://www.gesetze-im-internet.de/gg/"
 beschreibung: "CLAUDE_FILL"
 stand: "2025-03-22"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

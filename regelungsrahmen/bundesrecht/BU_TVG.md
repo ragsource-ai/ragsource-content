@@ -9,7 +9,7 @@ gueltig_ab: 2020-05-20
 url: "https://www.gesetze-im-internet.de/tvg/"
 stand: "2020-05-20"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

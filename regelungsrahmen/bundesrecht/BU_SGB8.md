@@ -2,7 +2,7 @@
 titel: Sozialgesetzbuch Achtes Buch (SGB VIII)
 ebene: bund
 saule: regelungsrahmen
-projekte:
+sammlungen:
   - amtsschimmel
 kurztitel: SGB VIII
 rechtstyp: Bundesgesetz

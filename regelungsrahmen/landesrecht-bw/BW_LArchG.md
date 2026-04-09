@@ -10,7 +10,7 @@ gueltig_ab: 2025-07-30
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-ArchivGBW2025rahmen"
 stand: "2025-07-22"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

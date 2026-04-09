@@ -14,7 +14,7 @@ gueltig_ab: 2022-10-29
 stand: 2022-10-27
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1278533687/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_14%20Satzung%20der%20Jugendvertretung%20der%20Stadt%20Konstanz.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

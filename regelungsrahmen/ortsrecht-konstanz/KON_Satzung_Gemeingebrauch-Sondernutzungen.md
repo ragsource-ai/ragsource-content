@@ -12,7 +12,7 @@ gemeinde: Konstanz
 erlassen_am: 2012-11-22
 gueltig_ab: 2012-11-25
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-193765723/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_08%20Satzung%20%C3%BCber%20den%20Gemeingebrauch%20und%20%C3%BCber%20Sondernutzungen%20an%20%C3%B6ffentlichen%20Stra%C3%9Fen%20und%20in%20der%20Fu%C3%9Fg%C3%A4ngerzone%20und%20Richtlinien%20%C3%BCber%20die%20Erteilung%20von%20Sondernutzungserlaubnissen%20-%20Gestaltungsrichtlinien.pdf"
 ---

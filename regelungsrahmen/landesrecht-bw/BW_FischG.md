@@ -11,7 +11,7 @@ gueltig_ab: 1981-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-FischGBW1979rahmen"
 stand: "2024-10-15"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

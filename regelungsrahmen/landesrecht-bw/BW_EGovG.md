@@ -11,7 +11,7 @@ gueltig_ab: 2016-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-EGovGBWrahmen"
 stand: "2026-02-10"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

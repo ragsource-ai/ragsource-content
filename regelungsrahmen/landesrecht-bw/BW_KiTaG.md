@@ -11,7 +11,7 @@ gueltig_ab: 2009-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KiTaGBW2009rahmen"
 stand: "2025-07-29"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

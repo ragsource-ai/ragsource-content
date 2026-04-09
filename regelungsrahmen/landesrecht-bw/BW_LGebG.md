@@ -7,7 +7,7 @@ land: Baden-Württemberg
 quelle: Gesetz in der Fassung vom 14. Dezember 2004 (GBl. S. 895), zuletzt geändert durch Artikel 12 des Gesetzes vom 5. November 2024 (GBl. 2024 Nr. 91)
 gueltig_ab: 2024-11-05
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

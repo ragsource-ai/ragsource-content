@@ -14,7 +14,7 @@ gueltig_ab: 1990-01-01
 stand: 1989-12-14
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E627587202/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_17%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Verpflichtung%20der%20Anwohner%20zum%20Reinigen,%20Schneer%C3%A4umen%20und%20Streuen%20der%20Gehwege%20vom%2014.%20Dezember%201989.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -9,7 +9,7 @@ gueltig_ab: 2026-02-04
 url: "https://www.gesetze-im-internet.de/bgb/"
 stand: "2026-02-04"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

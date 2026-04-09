@@ -11,7 +11,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000010789"
 beschreibung: "Ausführung des Landesgesetzes über die freiwillige Gerichtsbarkeit"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

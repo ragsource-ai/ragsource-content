@@ -12,7 +12,7 @@ gemeinde: Konstanz
 erlassen_am: 2001-11-18
 gueltig_ab: 2002-01-01
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E404677129/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_12%20Satzung%20%C3%BCber%20Erlaubnisse%20und%20Geb%C3%BChren%20f%C3%BCr%20Sondernutzungen%20an%20%C3%B6ffentlichen%20Stra%C3%9Fen.pdf"
 ---

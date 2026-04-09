@@ -11,7 +11,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000040976"
 beschreibung: "Haushalts- und Wirtschaftsführung im Haushaltsjahr"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

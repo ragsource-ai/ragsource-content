@@ -9,7 +9,7 @@ gueltig_ab: 2025-12-02
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000044818"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

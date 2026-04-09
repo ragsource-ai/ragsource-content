@@ -9,7 +9,7 @@ gueltig_ab: 2023-01-11
 url: "https://www.gesetze-im-internet.de/euwg/"
 stand: "2023-01-11"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

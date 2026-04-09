@@ -11,7 +11,7 @@ gueltig_ab: 1994-10-22
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PolGDVBW1994rahmen"
 stand: "2025-11-18"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

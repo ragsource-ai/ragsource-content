@@ -15,7 +15,7 @@ gueltig_ab: 2024-01-01
 stand: 2023-11-30
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-474608925/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_13%20Satzung%20%C3%BCber%20die%20Erhebung%20von%20Geb%C3%BChren%20f%C3%BCr%20die%20T%C3%A4tigkeit%20des%20Gutachterausschusses%20und%20seiner%20Gesch%C3%A4ftsstelle.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

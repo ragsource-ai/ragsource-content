@@ -10,7 +10,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000030427"
 beschreibung: "Zeugnisausstellung an öffentlichen Schulen"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

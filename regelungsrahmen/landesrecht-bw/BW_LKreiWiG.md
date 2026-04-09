@@ -11,7 +11,7 @@ gueltig_ab: 2020-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KrWGBWrahmen"
 stand: "2023-02-07"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

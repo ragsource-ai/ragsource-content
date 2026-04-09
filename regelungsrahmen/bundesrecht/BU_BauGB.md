@@ -7,7 +7,7 @@ gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/bbaug/"
 stand: "2025-12-22"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

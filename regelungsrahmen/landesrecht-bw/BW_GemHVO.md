@@ -11,7 +11,7 @@ gueltig_ab: 2010-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GemHVBW2009rahmen"
 stand: "2026-02-09"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

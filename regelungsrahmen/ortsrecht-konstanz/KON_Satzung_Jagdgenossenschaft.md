@@ -12,7 +12,7 @@ gemeinde: Konstanz
 erlassen_am: 2021-11-02
 gueltig_ab: 2022-01-19
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1275988451/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_20%20Jagdgenossenschaftssatzung.pdf"
 ---

@@ -11,7 +11,7 @@ gueltig_ab: 2021-01-17
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PolGBW2021rahmen"
 stand: "2025-12-16"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

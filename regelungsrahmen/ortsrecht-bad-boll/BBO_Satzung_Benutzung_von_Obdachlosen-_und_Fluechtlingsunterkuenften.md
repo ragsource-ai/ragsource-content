@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 30.07.2015, geändert durch Satzungen vom 29.06.2023 sowie 24.10.2024, Stand Januar 2025
 gueltig_ab: 2015-07-30
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

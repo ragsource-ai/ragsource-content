@@ -5,7 +5,7 @@ saule: regelungsrahmen
 quelle: BGBl. I 1991 S. 686, zuletzt geändert durch Art. 4 G v. 11.1.2026 (BGBl. 2026 I Nr. 9)
 gueltig_ab: 1960-01-21
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

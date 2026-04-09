@@ -11,7 +11,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000000143"
 beschreibung: "Rechtshilfeverkehr mit dem Ausland in Strafsachen"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

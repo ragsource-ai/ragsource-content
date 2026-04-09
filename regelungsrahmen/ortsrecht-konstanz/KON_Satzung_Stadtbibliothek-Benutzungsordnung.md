@@ -15,7 +15,7 @@ gueltig_ab: 2026-01-01
 stand: 2025-12-18
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1393289093/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_08%20Benutzungsordnung%20der%20Stadtbibliothek%20Konstanz.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

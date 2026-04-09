@@ -9,7 +9,7 @@ gueltig_ab: 2023-12-20
 url: "https://www.gesetze-im-internet.de/beamtstg/"
 stand: "2023-12-20"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

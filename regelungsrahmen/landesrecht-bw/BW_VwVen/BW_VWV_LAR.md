@@ -9,7 +9,7 @@ quelle: "GABl. BW Nr. 12 vom 31. Dezember 2025"
 gueltig_ab: 2025-12-31
 stand: "2026-03-29"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

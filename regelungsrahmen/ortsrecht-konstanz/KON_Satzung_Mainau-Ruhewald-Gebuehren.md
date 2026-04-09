@@ -14,7 +14,7 @@ gueltig_ab: 2025-01-01
 stand: 2024-12-17
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1914499603/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_17.2%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Erhebung%20von%20Geb%C3%BChren%20f%C3%BCr%20den%20Mainau%20Ruhewald%20ab%2001.01.2025.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Kreistagsbeschluss vom 24.11.2000
 gueltig_ab: 2001-01-01
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

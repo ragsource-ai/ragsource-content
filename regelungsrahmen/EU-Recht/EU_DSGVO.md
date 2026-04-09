@@ -10,7 +10,7 @@ land:
 kreis:
 verband:
 gemeinde:
-projekte:
+sammlungen:
   - amtsschimmel
   - brandmeister
 kurztitel: DSGVO

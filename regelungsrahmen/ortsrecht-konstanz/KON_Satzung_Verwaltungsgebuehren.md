@@ -15,7 +15,7 @@ gueltig_ab: 2025-10-16
 stand: 2025-09-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-230890691/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_05%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Erhebung%20von%20Verwaltungsgeb%C3%BChren.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

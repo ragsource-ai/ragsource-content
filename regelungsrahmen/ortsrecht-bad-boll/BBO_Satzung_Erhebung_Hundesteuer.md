@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 07.12.2023, geändert durch Satzung vom 14.11.2024, Rechtsgrundlage § 4 GemO i.V.m. §§ 2, 8 Abs. 2 und 9 Abs. 3 KAG BW
 gueltig_ab: 2025-01-01
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

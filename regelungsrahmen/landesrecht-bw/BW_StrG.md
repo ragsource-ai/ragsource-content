@@ -11,7 +11,7 @@ gueltig_ab: 1992-07-09
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-StrGBW1992rahmen"
 stand: "2023-02-07"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

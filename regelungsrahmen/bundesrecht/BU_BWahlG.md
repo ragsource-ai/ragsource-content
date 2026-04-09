@@ -9,7 +9,7 @@ gueltig_ab: 2024-03-07
 url: "https://www.gesetze-im-internet.de/bwahlg/"
 stand: "2024-03-07"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

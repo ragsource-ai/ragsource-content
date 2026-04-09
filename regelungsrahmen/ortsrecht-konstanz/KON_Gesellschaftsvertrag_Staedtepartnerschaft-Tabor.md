@@ -14,7 +14,7 @@ gueltig_ab: 1997-05-22
 stand: 1997-05-22
 url: https://www.konstanz.de/site/Konstanz/get/documents_E1570294308/konstanz/Dateien/Service/Ortsrecht/IV%20Beteiligungen%20der%20Stadt%20Konstanz%20%28%C3%BCber%2050%20Prozent%29/IV_06%20St%C3%A4dtepartnerschaft%20Tabor%20-%20Konstanz%20GmbH.pdf
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

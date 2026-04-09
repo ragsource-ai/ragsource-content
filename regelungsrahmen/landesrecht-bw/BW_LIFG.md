@@ -11,7 +11,7 @@ gueltig_ab: 2015-12-30
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-InfFrGBWrahmen"
 stand: "2026-02-10"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

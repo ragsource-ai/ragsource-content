@@ -10,7 +10,7 @@ gueltig_ab: 2023-07-28
 gueltig_bis: 2025-12-31
 stand: "2026-03-29"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

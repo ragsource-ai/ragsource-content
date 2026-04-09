@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 25.03.2021, Rechtsgrundlage § 4 GemO i.V.m. § 6 Abs. 1 Satz 3 und Abs. 3, § 7 Abs. 1 Satz 1, § 8 Abs. 2 Satz 2 HS 2, § 10 Abs. 2 Satz 1 und Abs. 3 Satz 1, § 18 Abs. 1 Satz 1 und Abs. 4 FwG BW
 gueltig_ab: 2021-03-25
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

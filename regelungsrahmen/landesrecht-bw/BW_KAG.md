@@ -9,7 +9,7 @@ gueltig_ab: 2005-03-31
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KAGBWrahmen"
 stand: "2020-12-17"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -14,7 +14,7 @@ gueltig_ab: 2025-12-17
 stand: 2025-12-16
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-939603329/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_16%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Parkgeb%C3%BChren%20in%20Konstanz%20%28Parkgeb%C3%BChrensatzung%29.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

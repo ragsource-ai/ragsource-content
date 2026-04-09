@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Kreistagsbeschluss vom 12.03.1993, geändert am 20.05.2003
 gueltig_ab: 1993-04-03
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

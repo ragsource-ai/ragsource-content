@@ -11,7 +11,7 @@ gueltig_ab: 1996-06-23
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WaldGBWrahmen"
 stand: "2025-11-18"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

@@ -10,7 +10,7 @@ gueltig_bis: 2031-12-31
 quelle: "Az.: IM6-1503-12/2, vom 21. August 2024"
 stand: 2024-08-21
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

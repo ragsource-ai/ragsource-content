@@ -15,7 +15,7 @@ gueltig_ab: 2008-05-29
 stand: 2019-09-26
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E797402948/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_18%20Gesch%C3%A4ftsordnung%20des%20Beirates%20f%C3%BCr%20Architektur%20und%20Stadtgestaltung%20der%20Stadt%20Konstanz%20%28Gestaltungsbeirat%20-%20GBR%29.pdf"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

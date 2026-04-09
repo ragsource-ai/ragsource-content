@@ -10,7 +10,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000038158"
 beschreibung: "Brandschutz bei Leitungsanlagen (Anlage zur VwV TB)"
 stand: "2026-03-27"
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

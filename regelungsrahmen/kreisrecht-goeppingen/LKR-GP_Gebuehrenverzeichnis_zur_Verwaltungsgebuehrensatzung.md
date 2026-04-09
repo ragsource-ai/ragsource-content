@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Anlage zur Verwaltungsgebührensatzung des Landkreises Göppingen
 gueltig_ab: 2021-01-01
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

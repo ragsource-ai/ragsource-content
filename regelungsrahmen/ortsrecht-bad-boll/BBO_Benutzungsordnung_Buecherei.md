@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinde Bad Boll, Stand Mai 2014
 gueltig_ab: 2014-05-01
 status: published
-projekte:
+sammlungen:
   - amtsschimmel
 ---
 

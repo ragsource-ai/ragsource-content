@@ -4,7 +4,7 @@ ebene: bund
 saule: regelungsrahmen
 quelle: BGBl. I 2003 S. 3022; zuletzt geändert durch Art. 9 G v. 22.12.2025 I Nr. 363
 gueltig_ab: 2025-12-22
-projekte:
+sammlungen:
   - amtsschimmel
 status: published
 ---
