@@ -14,7 +14,7 @@ gueltig_ab: 2016-03-30
 stand: 2016-03-17
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-469329644/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_10%20Satzung%20%C3%BCber%20die%20Festlegung%20der%20durch%20die%20Gr%C3%BCnanlage%20im%20Bebauungsplangebiet%20Zergle%20I%20in%20Konstanz-Wollmatingen%20erschlossenen%20Grundst%C3%BCcke%20%28Zuordnungssatzung%29.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

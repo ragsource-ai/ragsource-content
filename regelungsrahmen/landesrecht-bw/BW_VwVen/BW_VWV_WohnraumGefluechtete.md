@@ -9,7 +9,7 @@ quelle: "Az.: MLW25-27-193/4"
 gueltig_ab: 2022-09-15
 stand: "2026-03-29"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

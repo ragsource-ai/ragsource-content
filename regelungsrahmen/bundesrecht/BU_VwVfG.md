@@ -5,7 +5,7 @@ saule: regelungsrahmen
 quelle: BGBl. I 2003 S. 102, zuletzt geändert durch Art. 2 G v. 15.7.2024 (BGBl. 2024 I Nr. 236)
 gueltig_ab: 1977-01-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

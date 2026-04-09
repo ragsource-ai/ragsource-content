@@ -13,7 +13,7 @@ erlassen_am: 2017-03-23
 geaendert_am: 2024-09-12
 gueltig_ab: 2025-01-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-684171181/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_24%20Satzung%20%C3%BCber%20die%20Benutzung%20von%20Obdachlosen-%20und%20Fl%C3%BCchtlingsunterk%C3%BCnften%20der%20Stadt%20Konstanz%20ab%2001.01.2025.pdf"
 ---

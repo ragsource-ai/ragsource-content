@@ -12,7 +12,7 @@ gemeinde: Konstanz
 erlassen_am: 2018-10-25
 gueltig_ab: 2018-10-30
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-752408927/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_05%20Satzung%20Gew%C3%A4hrung%20eines%20Zuschusses%20zu%20den%20Beitr%C3%A4gen%20an%20eine%20Krankheitskostenversicherung%20f%C3%BCr%20die%20Beamtinnen%20und%20Beamten%20des%20Einsatzdienstes%20der%20Feuerwehr%20%28Krankheitskosten-Zuschusssatzung%20vom%2025.10.2018%29.pdf"
 ---

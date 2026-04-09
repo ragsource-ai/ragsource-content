@@ -9,7 +9,7 @@ gueltig_ab: 2021-06-14
 url: "https://www.gesetze-im-internet.de/kschg/"
 stand: "2021-06-14"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

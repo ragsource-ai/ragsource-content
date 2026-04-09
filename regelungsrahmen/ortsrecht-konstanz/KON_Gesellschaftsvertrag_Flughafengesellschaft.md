@@ -14,7 +14,7 @@ gueltig_ab: "2022-03-05"
 stand: "2022-03-05"
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1689908102/konstanz/Dateien/Service/Ortsrecht/IV%20Beteiligungen%20der%20Stadt%20Konstanz%20%28%C3%BCber%2050%20Prozent%29/IV_05%20Flughafengesellschaft%20Konstanz%20mbH.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

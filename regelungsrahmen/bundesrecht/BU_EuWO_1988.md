@@ -9,7 +9,7 @@ gueltig_ab: 2023-08-11
 url: "https://www.gesetze-im-internet.de/euwo_1988/"
 stand: "2023-08-11"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

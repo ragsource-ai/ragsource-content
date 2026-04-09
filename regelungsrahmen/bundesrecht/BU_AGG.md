@@ -9,7 +9,7 @@ gueltig_ab: 2023-12-22
 url: "https://www.gesetze-im-internet.de/agg/"
 stand: "2023-12-22"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

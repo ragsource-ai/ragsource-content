@@ -15,7 +15,7 @@ gueltig_ab: 2025-03-06
 stand: 2025-02-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1345169640/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_09%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20das%20Verbot%20der%20Zweckentfremdung%20von%20Wohnraum%20in%20der%20Stadt%20Konstanz.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

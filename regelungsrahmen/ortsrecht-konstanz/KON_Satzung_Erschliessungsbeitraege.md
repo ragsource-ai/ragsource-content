@@ -14,7 +14,7 @@ gueltig_ab: 2019-05-21
 stand: 2019-05-21
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1226821783/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_02%20Satzung%20%C3%BCber%20die%20Erhebung%20von%20Erschlie%C3%9Fungsbeitr%C3%A4gen%20%28Fassung%20vom%2021.05.2019%29.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

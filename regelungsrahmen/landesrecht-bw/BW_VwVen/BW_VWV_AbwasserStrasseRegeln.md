@@ -9,7 +9,7 @@ quelle: "Ministerium für Umwelt und Verkehr Baden-Württemberg"
 gueltig_ab: 2008-01-01
 stand: "2026-03-30"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

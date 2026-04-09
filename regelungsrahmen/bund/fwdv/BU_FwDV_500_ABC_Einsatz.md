@@ -5,7 +5,7 @@ saule: 1
 gueltig_ab: 2022-04-01
 quellenangabe: "Feuerwehr-Dienstvorschrift 500 – Einheiten im ABC-Einsatz. Hrsg.: AFKzV. Finale Version vom 1.4.2022."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_500_AFKzV_2022-03-16_02.pdf"
-sammlungen:
+endpoints:
   - amtsschimmel
   - brandmeister
 ---

@@ -10,7 +10,7 @@ gueltig_ab: 2025-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000045040"
 stand: "2026-03-27"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

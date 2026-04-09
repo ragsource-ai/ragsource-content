@@ -11,7 +11,7 @@ gueltig_ab: 1997-09-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GaVBW1997rahmen"
 stand: "2025-06-12"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

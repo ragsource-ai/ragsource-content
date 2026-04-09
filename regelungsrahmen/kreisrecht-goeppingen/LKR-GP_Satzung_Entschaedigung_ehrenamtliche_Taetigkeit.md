@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Kreistagsbeschluss vom 20.05.2022
 gueltig_ab: 2022-07-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

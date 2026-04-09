@@ -11,7 +11,7 @@ gueltig_ab: 1983-09-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KomWGBW1983rahmen"
 stand: "2025-07-22"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -7,7 +7,7 @@ land: Baden-Württemberg
 quelle: Gesetz neugefasst am 22.11.1999 (GBl. 1999, 625), zuletzt geändert durch Artikel 1 des Gesetzes vom 17.12.2020 (GBl. S. 1268)
 gueltig_ab: 1999-07-28
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
   - brandmeister
 ---

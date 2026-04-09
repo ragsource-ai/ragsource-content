@@ -15,7 +15,7 @@ gueltig_ab: 2024-09-01
 stand: 2024-01-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1150032962/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_07%20Hallenbenutzungsordnung%20f%C3%BCr%20die%20Sch%C3%A4nzle-Sporthalle%20Konstanz.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

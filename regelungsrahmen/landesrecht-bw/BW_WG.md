@@ -11,7 +11,7 @@ gueltig_ab: 2014-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WasGBW2014rahmen"
 stand: "2025-11-18"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

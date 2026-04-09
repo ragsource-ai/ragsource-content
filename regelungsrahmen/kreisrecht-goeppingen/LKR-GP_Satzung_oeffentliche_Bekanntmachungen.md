@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Kreistagsbeschluss vom 05.05.1978
 gueltig_ab: 1978-07-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

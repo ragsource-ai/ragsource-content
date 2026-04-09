@@ -12,7 +12,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000011813"
 beschreibung: "Zuwendungen Kulturarbeit § 96 BVFG"
 stand: "2026-03-27"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 07.11.2013, Rechtsgrundlage § 4 GemO i.V.m. § 16 FwG BW
 gueltig_ab: 2013-11-07
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

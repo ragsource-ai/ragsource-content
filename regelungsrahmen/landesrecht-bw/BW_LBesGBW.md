@@ -11,7 +11,7 @@ gueltig_ab: 2010-11-23
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BesGBW2010rahmen"
 stand: "2025-11-18"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -5,7 +5,7 @@ saule: regelungsrahmen
 quelle: BGBl. I 1968 S. 481, zuletzt geändert durch Art. 5 G v. 07.11.2024 (BGBl. 2024 I Nr. 354)
 gueltig_ab: 1968-10-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -14,7 +14,7 @@ gueltig_ab: 2024-04-16
 stand: 2024-01-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1187663492/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_08%20Richtlinien%20zur%20Vergabe%20st%C3%A4dtischer%20Turn-%20und%20Sporthallen%20f%C3%BCr%20Trainingszwecke%20und%20f%C3%BCr%20Sportveranstaltungen.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

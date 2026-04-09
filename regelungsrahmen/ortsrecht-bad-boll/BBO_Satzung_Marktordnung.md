@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 09.05.1985, geändert durch Satzung vom 03.07.1986, Stand Januar 2008
 gueltig_ab: 1985-05-09
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

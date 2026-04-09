@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Kreistagsbeschluss vom 30.06.1989
 gueltig_ab: 1989-07-20
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

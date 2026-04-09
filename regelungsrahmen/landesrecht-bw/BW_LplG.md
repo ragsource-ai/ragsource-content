@@ -11,7 +11,7 @@ gueltig_ab: 2003-05-20
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-LPlGBW2003rahmen"
 stand: "2025-07-22"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

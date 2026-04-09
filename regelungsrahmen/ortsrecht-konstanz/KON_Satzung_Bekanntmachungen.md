@@ -14,7 +14,7 @@ gueltig_ab: 2018-02-01
 stand: 2017-12-19
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-757452785/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_02%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20%C3%96ffentliche%20Bekanntmachungen.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

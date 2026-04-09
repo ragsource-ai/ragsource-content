@@ -16,7 +16,7 @@ gueltig_ab: 2026-01-02
 stand: 2017-04-01
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1833138684/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_01%20Friedhofsordnung%20der%20Stadt%20Konstanz.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

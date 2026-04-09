@@ -10,7 +10,7 @@ gueltig_ab: 2021-01-01
 gueltig_bis: 2027-12-31
 stand: "2026-03-29"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

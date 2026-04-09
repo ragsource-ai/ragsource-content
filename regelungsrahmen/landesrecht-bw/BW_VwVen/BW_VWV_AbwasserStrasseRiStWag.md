@@ -9,7 +9,7 @@ quelle: "Az.: 63-3942.40/129 und 5-8951.13"
 gueltig_ab: 2008-01-25
 stand: "2026-03-29"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

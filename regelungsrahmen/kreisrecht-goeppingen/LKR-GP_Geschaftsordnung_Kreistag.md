@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Kreistagsbeschluss vom 09.07.1974, zuletzt geändert am 13.07.2018
 gueltig_ab: 2018-07-13
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

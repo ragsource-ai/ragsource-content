@@ -9,7 +9,7 @@ gueltig_ab: 2024-09-12
 url: "https://www.gesetze-im-internet.de/bwo_1985/"
 stand: "2024-09-12"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

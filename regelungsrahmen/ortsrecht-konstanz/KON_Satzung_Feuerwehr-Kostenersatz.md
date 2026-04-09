@@ -14,7 +14,7 @@ gueltig_ab: 2016-08-27
 stand: 2016-07-21
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-947662384/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_23%20Feuerwehr-Kostenersatz-Satzung%20der%20Stadt%20Konstanz.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

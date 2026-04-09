@@ -11,7 +11,7 @@ gueltig_ab: 1972-07-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-NTVBW1972rahmen"
 stand: "2023-12-05"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

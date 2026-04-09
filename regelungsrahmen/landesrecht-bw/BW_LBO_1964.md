@@ -8,7 +8,7 @@ land: Baden-Württemberg
 quelle: GBl. 1964 S. 151, Vom 6. April 1964
 gueltig_ab: 1965-01-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

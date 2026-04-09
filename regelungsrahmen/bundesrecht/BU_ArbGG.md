@@ -9,7 +9,7 @@ gueltig_ab: 2025-12-08
 url: "https://www.gesetze-im-internet.de/arbgg/"
 stand: "2025-12-08"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

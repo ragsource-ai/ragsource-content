@@ -14,7 +14,7 @@ gueltig_ab: 2024-01-01
 stand: 2023-12-19
 quelle: ""
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E242884464/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_22%20Feuerwehrentsch%C3%A4digungssatzung%20der%20Stadt%20Konstanz%20%282024%29.pdf"
 ---

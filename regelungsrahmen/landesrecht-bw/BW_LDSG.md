@@ -11,7 +11,7 @@ gueltig_ab: 2026-02-28
 url: https://www.landesrecht-bw.de/bsbw/document/jlr-DSGBW2018rahmen
 stand: 2026-02-10
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

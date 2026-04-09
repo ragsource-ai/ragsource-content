@@ -11,7 +11,7 @@ gueltig_ab: 1953-11-20
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-VerfBWrahmen"
 stand: "2022-04-26"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

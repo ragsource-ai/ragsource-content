@@ -9,7 +9,7 @@ gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/bmg/"
 stand: "2025-12-22"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinde Bad Boll, Stand Januar 2016
 gueltig_ab: 2016-01-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinde Bad Boll, in Kraft getreten 01.03.2016, Stand Januar 2016
 gueltig_ab: 2016-03-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

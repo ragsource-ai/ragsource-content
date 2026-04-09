@@ -12,7 +12,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000041958"
 beschreibung: "UVgO für Liefer-/Dienstleistungsaufträge, kommunal empfohlen"
 stand: "2026-03-27"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

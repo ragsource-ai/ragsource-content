@@ -15,7 +15,7 @@ gueltig_ab: 2022-01-01
 stand: 2021-12-17
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E877551203/konstanz/Dateien/Service/Ortsrecht/II%20Finanzen/II_01%20Satzung%20%C3%BCber%20die%20Erhebung%20der%20Hundesteuer%20in%20der%20Stadt%20Konstanz.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

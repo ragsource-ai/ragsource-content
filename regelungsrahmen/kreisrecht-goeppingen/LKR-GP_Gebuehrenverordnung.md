@@ -9,7 +9,7 @@ kreis: Göppingen
 quelle: Rechtsverordnung des Landratsamts Göppingen vom 28.02.2025
 gueltig_ab: 2025-03-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -14,7 +14,7 @@ gueltig_ab: 2019-10-01
 stand: 2019-09-26
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1987588543/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_11%20Satzung%20der%20Stadt%20Konstanz%20f%C3%BCr%20die%20Tageseinrichtungen%20f%C3%BCr%20Kinder.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

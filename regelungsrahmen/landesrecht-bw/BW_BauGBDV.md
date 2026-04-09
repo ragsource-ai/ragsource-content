@@ -7,7 +7,7 @@ land: Baden-Württemberg
 quelle: Verordnung vom 02.03.1998, zuletzt geändert durch Artikel 157 der Verordnung vom 21.12.2021 (GBl. 2022 S. 1, 19)
 gueltig_ab: 1998-03-02
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

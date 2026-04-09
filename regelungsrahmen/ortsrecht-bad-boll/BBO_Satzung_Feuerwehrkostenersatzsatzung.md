@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 17.05.2018, geändert durch Satzungen vom 22.09.2022 und 16.05.2024, Rechtsgrundlage § 4 GemO i.V.m. § 34 Abs. 4, § 26 Abs. 2 FwG BW
 gueltig_ab: 2024-05-16
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

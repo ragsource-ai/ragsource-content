@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinde Bad Boll, beschlossen 12.02.1999, Stand Januar 2008
 gueltig_ab: 1999-02-12
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

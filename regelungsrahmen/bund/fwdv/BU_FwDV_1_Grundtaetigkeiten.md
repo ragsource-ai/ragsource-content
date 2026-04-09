@@ -5,7 +5,7 @@ saule: 1
 gueltig_ab: 2007-03-01
 quellenangabe: "Feuerwehr-Dienstvorschrift 1 – Grundtätigkeiten im Lösch- und Hilfeleistungseinsatz. Hrsg.: AFKzV. Stand September 2006, redaktionelle Änderungen bis März 2007."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_001.pdf"
-sammlungen:
+endpoints:
   - amtsschimmel
   - brandmeister
 ---

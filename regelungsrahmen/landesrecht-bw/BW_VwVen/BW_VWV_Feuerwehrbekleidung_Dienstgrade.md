@@ -10,7 +10,7 @@ gueltig_bis: 2029-09-30
 quelle: "Az.: IM6-1537-4/1, vom 27. September 2022"
 stand: 2022-09-27
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

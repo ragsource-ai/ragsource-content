@@ -5,7 +5,7 @@ saule: 1
 gueltig_ab: 2008-02-21
 quellenangabe: "Feuerwehr-Dienstvorschrift 3 – Einheiten im Lösch- und Hilfeleistungseinsatz. Hrsg.: AFKzV."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_003.pdf"
-sammlungen:
+endpoints:
   - amtsschimmel
   - brandmeister
 ---

@@ -10,7 +10,7 @@ gueltig_ab: 1997-08-27
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000018160"
 stand: "2026-03-27"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -11,7 +11,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000042534"
 beschreibung: "Verfolgung/Ahndung von Ordnungswidrigkeiten nach Landeswaldgesetz"
 stand: "2026-03-27"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

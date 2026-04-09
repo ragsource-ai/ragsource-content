@@ -11,7 +11,7 @@ gueltig_ab: 2015-07-14
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-NatSchGBW2015rahmen"
 stand: "2025-11-18"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

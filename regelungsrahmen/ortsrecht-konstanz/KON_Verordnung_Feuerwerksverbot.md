@@ -13,7 +13,7 @@ erlassen_am: 2015-12-11
 geaendert_am: 2017-12-22
 gueltig_ab: 2015-12-12
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E678115132/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_27%20Allgemeine%20Anordnung%20zum%20Abbrennverbot%20von%20Feuerwerksk%C3%B6rpern%20an%20Silvester%20und%20Neujahr%20in%20Konstanz.pdf"
 ---

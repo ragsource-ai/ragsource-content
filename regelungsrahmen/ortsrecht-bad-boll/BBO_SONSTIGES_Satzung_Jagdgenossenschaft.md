@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Beschluss der Versammlung der Jagdgenossen vom 30.11.2021, Stand November 2021
 gueltig_ab: 2021-11-30
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

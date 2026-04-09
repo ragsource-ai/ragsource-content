@@ -15,7 +15,7 @@ gueltig_ab: 2025-01-01
 stand: 2024-12-12
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E507425679/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_14_Richtlinie%20zur%20F%C3%B6rderung%20von%20Kindertageseinrichtungen%20in%20Konstanz%20ab%2001.01.2025.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

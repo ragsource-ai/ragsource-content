@@ -11,7 +11,7 @@ gueltig_ab: 2005-03-24
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WahlGBW2005rahmen"
 stand: "2022-04-26"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

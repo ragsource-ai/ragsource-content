@@ -12,7 +12,7 @@ gemeinde: Konstanz
 erlassen_am: 2023-04-24
 gueltig_ab: 2023-05-04
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1504449399/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_15%20Polizeiverordnung%20der%20Gro%C3%9Fen%20Kreisstadt%20Konstanz%20%C3%BCber%20das%20Anbringen%20von%20Hausnummern.pdf"
 ---

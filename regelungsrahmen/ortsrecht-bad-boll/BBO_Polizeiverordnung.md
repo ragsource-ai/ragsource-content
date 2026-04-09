@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 25.02.2021, zustimmungsbedürftig nach § 17 Abs. 1 PolG
 gueltig_ab: 2021-04-30
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

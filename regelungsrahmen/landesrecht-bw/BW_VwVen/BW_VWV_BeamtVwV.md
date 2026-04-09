@@ -11,7 +11,7 @@ gueltig_bis: 2030-06-30
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000039375"
 stand: "2026-03-27"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

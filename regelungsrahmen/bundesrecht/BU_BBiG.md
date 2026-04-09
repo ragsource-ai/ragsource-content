@@ -9,7 +9,7 @@ gueltig_ab: 2025-10-28
 url: "https://www.gesetze-im-internet.de/bbig_2005/"
 stand: "2025-10-28"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

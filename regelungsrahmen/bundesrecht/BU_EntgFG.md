@@ -9,7 +9,7 @@ gueltig_ab: 2019-11-22
 url: "https://www.gesetze-im-internet.de/entgfg/"
 stand: "2019-11-22"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

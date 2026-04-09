@@ -5,7 +5,7 @@ saule: 1
 gueltig_ab: 2019-03-14
 quellenangabe: "Feuerwehr-Dienstvorschrift 810 – Sprech- und Datenfunkverkehr. Hrsg.: AFKzV."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_DV_810.pdf"
-sammlungen:
+endpoints:
   - amtsschimmel
   - brandmeister
 ---

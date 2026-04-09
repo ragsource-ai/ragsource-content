@@ -11,7 +11,7 @@ verband: GVV Raum Bad Boll
 quelle: Vereinbarung der Mitgliedsgemeinden, Rechtsgrundlage § 60 GemO i.V.m. § 6 GKZ, zuletzt geändert am 15.05.2024
 gueltig_ab: 2024-07-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

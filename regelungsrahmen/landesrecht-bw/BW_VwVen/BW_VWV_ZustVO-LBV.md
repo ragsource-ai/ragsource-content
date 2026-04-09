@@ -10,7 +10,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000035054"
 beschreibung: "Zuständigkeiten Landesamt für Besoldung und Versorgung"
 stand: "2026-03-27"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

@@ -14,7 +14,7 @@ gueltig_ab: 2011-01-01
 stand: 2011-06-16
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E670294054/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_16%20Satzung%20%C3%BCber%20die%20Durchf%C3%BChrung%20des%20%C2%A7%205%20Abs.%202%20Nr.%202%20des%20Kinder-%20und%20Jugendhilfegesetzes%20f%C3%BCr%20Baden-W%C3%BCrttemberg%20%28LKJHG%29.pdf"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

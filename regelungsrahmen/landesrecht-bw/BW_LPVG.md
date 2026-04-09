@@ -11,7 +11,7 @@ gueltig_ab: 2014-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PersVGBW2015rahmen"
 stand: "2023-12-21"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

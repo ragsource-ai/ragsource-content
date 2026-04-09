@@ -9,7 +9,7 @@ gueltig_ab: 2025-12-19
 url: "https://www.gesetze-im-internet.de/lstdv/"
 stand: "2025-12-19"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

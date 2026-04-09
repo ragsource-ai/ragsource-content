@@ -9,7 +9,7 @@ gueltig_ab: 1999-12-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GemOBWrahmen"
 stand: "2025-11-18"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

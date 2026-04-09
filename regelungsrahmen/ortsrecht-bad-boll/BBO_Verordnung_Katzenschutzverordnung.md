@@ -13,7 +13,7 @@ gemeinde: Bad Boll
 quelle: Gemeinderatsbeschluss vom 30.09.2021
 gueltig_ab: 2022-01-01
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 

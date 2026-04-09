@@ -12,7 +12,7 @@ gemeinde: Konstanz
 erlassen_am: 2022-05-10
 gueltig_ab: 2022-05-10
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1303057877/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_11%20F%C3%B6rderrichtlinie%20Mehrwegverpackungen%20in%20der%20Konstanzer%20Gastronomie.pdf"
 ---

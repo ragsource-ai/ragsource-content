@@ -12,7 +12,7 @@ url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000037702"
 beschreibung: "Förderung Rettungsdienst-Investitionen"
 stand: "2026-03-27"
 status: published
-sammlungen:
+endpoints:
   - amtsschimmel
 ---
 
