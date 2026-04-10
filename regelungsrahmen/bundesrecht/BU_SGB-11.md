@@ -51,8 +51,7 @@ Zweites Kapitel - Leistungsberechtigter Personenkreis, Verfahren zur Feststellun
 - § 18e - Weiterentwicklung des Verfahrens zur Pflegebegutachtung durch Modellvorhaben, Studien und wissenschaftliche Expertisen
 - § 19 - Begriff der Pflegeperson
 
-Drittes Kapitel - Versicherungspflichtiger
-Personenkreis
+Drittes Kapitel - Versicherungspflichtiger Personenkreis
 - § 20 - Versicherungspflicht in der sozialen Pflegeversicherung für Mitglieder der gesetzlichen Krankenversicherung
 - § 21 - Versicherungspflicht in der sozialen Pflegeversicherung für sonstige Personen
 - § 21a - Versicherungspflicht in der sozialen Pflegeversicherung bei Mitgliedern von Solidargemeinschaften
@@ -93,8 +92,7 @@ Erster Titel - Leistungen bei häuslicher Pflege
 - § 40a - Digitale Pflegeanwendungen
 - § 40b - Leistungsanspruch beim Einsatz digitaler Pflegeanwendungen
 
-Zweiter Titel - Teilstationäre Pflege und
-Kurzzeitpflege
+Zweiter Titel - Teilstationäre Pflege und Kurzzeitpflege
 - § 41 - Tagespflege und Nachtpflege
 - § 42 - Kurzzeitpflege
 
@@ -149,8 +147,7 @@ Dritter Abschnitt - Meldungen
 - § 50 - Melde- und Auskunftspflichten bei Mitgliedern der sozialen Pflegeversicherung
 - § 51 - Meldungen bei Mitgliedern der privaten Pflegeversicherung
 
-Vierter Abschnitt - Wahrnehmung der
-Verbandsaufgaben
+Vierter Abschnitt - Wahrnehmung der Verbandsaufgaben
 - § 52 - Aufgaben auf Landesebene
 - § 53 - Aufgaben auf Bundesebene
 - § 53a - Beauftragung von anderen unabhängigen Gutachtern durch die Pflegekassen im Verfahren zur Feststellung der Pflegebedürftigkeit
@@ -192,15 +189,13 @@ Fünfter Abschnitt - Ausgleichsfonds, Finanzausgleich
 - § 67 - Monatlicher Ausgleich
 - § 68 - Jahresausgleich
 
-Siebtes Kapitel - Beziehungen der Pflegekassen
-zu den Leistungserbringern
+Siebtes Kapitel - Beziehungen der Pflegekassen zu den Leistungserbringern
 
 Erster Abschnitt - Allgemeine Grundsätze
 - § 69 - Sicherstellungsauftrag
 - § 70 - Beitragssatzstabilität
 
-Zweiter Abschnitt - Beziehungen zu den
-Pflegeeinrichtungen
+Zweiter Abschnitt - Beziehungen zu den Pflegeeinrichtungen
 - § 71 - Pflegeeinrichtungen
 - § 72 - Zulassung zur Pflege durch Versorgungsvertrag
 - § 73 - Abschluß von Versorgungsverträgen
@@ -209,8 +204,7 @@ Pflegeeinrichtungen
 - § 75 - Rahmenverträge, Bundesempfehlungen und -vereinbarungen über die pflegerische Versorgung
 - § 76 - Schiedsstelle
 
-Dritter Abschnitt - Beziehungen zu sonstigen
-Leistungserbringern
+Dritter Abschnitt - Beziehungen zu sonstigen Leistungserbringern
 - § 77 - Häusliche Pflege durch Einzelpersonen
 - § 78 - Verträge über Pflegehilfsmittel, Pflegehilfsmittelverzeichnis und Empfehlungen zu wohnumfeldverbessernden Maßnahmen
 - § 78a - Verträge über digitale Pflegeanwendungen und Verzeichnis für digitale Pflegeanwendungen, Verordnungsermächtigung
@@ -230,8 +224,7 @@ Erster Abschnitt - Allgemeine Vorschriften
 - § 82c - Wirtschaftlichkeit von Personalaufwendungen
 - § 83 - Verordnung zur Regelung der Pflegevergütung
 
-Zweiter Abschnitt - Vergütung der stationären
-Pflegeleistungen
+Zweiter Abschnitt - Vergütung der stationären Pflegeleistungen
 - § 84 - Bemessungsgrundsätze
 - § 85 - Pflegesatzverfahren
 - § 86 - Pflegesatzkommission
@@ -242,8 +235,7 @@ Pflegeleistungen
 - § 88 - Zusatzleistungen
 - § 88a - Wirtschaftlich tragfähige Vergütung für Kurzzeitpflege
 
-Dritter Abschnitt - Vergütung der ambulanten
-Pflegeleistungen
+Dritter Abschnitt - Vergütung der ambulanten Pflegeleistungen
 - § 89 - Grundsätze für die Vergütungsregelung
 - § 90 - Gebührenordnung für ambulante Pflegeleistungen
 
@@ -272,8 +264,7 @@ Erster Titel - Grundsätze der Datenverarbeitung
 - § 97d - Begutachtung durch unabhängige Gutachter
 - § 98 - Forschungsvorhaben
 
-Zweiter Titel - Informationsgrundlagen der
-Pflegekassen
+Zweiter Titel - Informationsgrundlagen der Pflegekassen
 - § 99 - Versichertenverzeichnis
 - § 100 - Nachweispflicht bei Familienversicherung
 - § 101 - Pflegeversichertennummer
@@ -304,8 +295,7 @@ Zehntes Kapitel - Private Pflegeversicherung
 - § 110a - Befristeter Zuschlag zu privaten Pflege-Pflichtversicherungsverträgen zur Finanzierung pandemiebedingter Mehrausgaben
 - § 111 - Risikoausgleich
 
-Elftes Kapitel - Qualitätssicherung, Sonstige Regelungen
-zum Schutz der Pflegebedürftigen
+Elftes Kapitel - Qualitätssicherung, Sonstige Regelungen zum Schutz der Pflegebedürftigen
 - § 112 - Qualitätsverantwortung
 - § 112a - Übergangsregelung zur Qualitätssicherung bei Betreuungsdiensten
 - § 113 - Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflegequalität
@@ -891,8 +881,7 @@ c) welche Veränderungen im Verfahren der Begutachtung unter Bezugnahme auf die 
 Pflegepersonen im Sinne dieses Buches sind Personen, die nicht erwerbsmäßig einen Pflegebedürftigen im Sinne des § 14 in seiner häuslichen Umgebung pflegen. Leistungen zur sozialen Sicherung nach § 44 erhält eine Pflegeperson nur dann, wenn sie eine oder mehrere pflegebedürftige Personen wenigstens zehn Stunden wöchentlich, verteilt auf regelmäßig mindestens zwei Tage in der Woche, pflegt.
 
 
-## Drittes Kapitel - Versicherungspflichtiger
-Personenkreis
+## Drittes Kapitel - Versicherungspflichtiger Personenkreis
 
 ### § 20 - Versicherungspflicht in der sozialen Pflegeversicherung für Mitglieder der gesetzlichen Krankenversicherung
 
@@ -1252,8 +1241,7 @@ Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des
 (2) Die Pflegekasse informiert den Pflegebedürftigen barrierefrei in schriftlicher oder elektronischer Form über die Kosten, die von ihm für die digitale Pflegeanwendung, einschließlich der Mehrkosten nach § 40a Absatz 2 Satz 8, selbst zu tragen sind, und über die Kosten, die von ihm für ergänzende Unterstützungsleistungen selbst zu tragen sind.
 
 
-## Zweiter Titel - Teilstationäre Pflege und
-Kurzzeitpflege
+## Zweiter Titel - Teilstationäre Pflege und Kurzzeitpflege
 
 ### § 41 - Tagespflege und Nachtpflege
 
@@ -1645,8 +1633,7 @@ Pflegekassen können die ihnen obliegenden Aufgaben durch Arbeitsgemeinschaften 
 (3) Die Meldepflichten bestehen auch für die Fälle, in denen eine bestehende private Pflegeversicherung gekündigt und der Abschluß eines neuen Vertrages bei einem anderen Versicherungsunternehmen nicht nachgewiesen wird.
 
 
-## Vierter Abschnitt - Wahrnehmung der
-Verbandsaufgaben
+## Vierter Abschnitt - Wahrnehmung der Verbandsaufgaben
 
 ### § 52 - Aufgaben auf Landesebene
 
@@ -1976,8 +1963,7 @@ Die Mittel der Pflegekasse umfassen die Betriebsmittel und die Rücklage.
 3. das Verfahren bei der Durchführung des Finanzausgleichs sowie die hierfür von den Pflegekassen mitzuteilenden Angaben regeln.
 
 
-## Siebtes Kapitel - Beziehungen der Pflegekassen
-zu den Leistungserbringern
+## Siebtes Kapitel - Beziehungen der Pflegekassen zu den Leistungserbringern
 
 
 ## Erster Abschnitt - Allgemeine Grundsätze
@@ -1995,8 +1981,7 @@ zu den Leistungserbringern
 (2) Vereinbarungen über die Höhe der Vergütungen, die dem Grundsatz der Beitragssatzstabilität widersprechen, sind unwirksam.
 
 
-## Zweiter Abschnitt - Beziehungen zu den
-Pflegeeinrichtungen
+## Zweiter Abschnitt - Beziehungen zu den Pflegeeinrichtungen
 
 ### § 71 - Pflegeeinrichtungen
 
@@ -2151,8 +2136,7 @@ c) in denen der Umfang der Gesamtversorgung der dort wohnenden Menschen mit Behi
 (6) Abweichend von § 85 Abs. 5 können die Parteien der Pflegesatzvereinbarung (§ 85 Abs. 2) gemeinsam eine unabhängige Schiedsperson bestellen. Diese setzt spätestens bis zum Ablauf von 28 Kalendertagen nach ihrer Bestellung die Pflegesätze und den Zeitpunkt ihres Inkrafttretens fest. Gegen die Festsetzungsentscheidung kann ein Antrag auf gerichtliche Aufhebung nur gestellt werden, wenn die Festsetzung der öffentlichen Ordnung widerspricht. Die Kosten des Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen. § 85 Abs. 6 gilt entsprechend.
 
 
-## Dritter Abschnitt - Beziehungen zu sonstigen
-Leistungserbringern
+## Dritter Abschnitt - Beziehungen zu sonstigen Leistungserbringern
 
 ### § 77 - Häusliche Pflege durch Einzelpersonen
 
@@ -2351,8 +2335,7 @@ c) der regional üblichen Niveaus der pflegetypischen Zuschläge im Sinne von Ab
 (2) Nach Erlass der Rechtsverordnung sind Rahmenverträge und Schiedsstellenregelungen nach § 75 zu den von der Verordnung erfassten Regelungsbereichen nicht mehr zulässig.
 
 
-## Zweiter Abschnitt - Vergütung der stationären
-Pflegeleistungen
+## Zweiter Abschnitt - Vergütung der stationären Pflegeleistungen
 
 ### § 84 - Bemessungsgrundsätze
 
@@ -2458,8 +2441,7 @@ Die als Pflegesatzparteien betroffenen Leistungsträger (§ 85 Abs. 2) vereinbar
 (2) Kommen die Empfehlungen nach Absatz 1 innerhalb der in Absatz 1 Satz 1 genannten Frist ganz oder teilweise nicht zustande, bestellen die in § 75 Absatz 6 genannten Parteien gemeinsam eine unabhängige Schiedsperson. Kommt eine Einigung auf eine Schiedsperson bis zum Ablauf von 28 Kalendertagen ab der Feststellung der Nichteinigung auf die Empfehlungen nicht zustande, erfolgt eine Bestellung der Schiedsperson durch das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales. Die Schiedsperson setzt den betreffenden Empfehlungsinhalt einschließlich der Kostentragung des Verfahrens innerhalb von zwei Monaten nach Bestellung fest.
 
 
-## Dritter Abschnitt - Vergütung der ambulanten
-Pflegeleistungen
+## Dritter Abschnitt - Vergütung der ambulanten Pflegeleistungen
 
 ### § 89 - Grundsätze für die Vergütungsregelung
 
@@ -2653,8 +2635,7 @@ Bei Wahrnehmung der Aufgaben auf dem Gebiet der Qualitätssicherung und Qualitä
 (2) Personenbezogene Daten sind zu anonymisieren.
 
 
-## Zweiter Titel - Informationsgrundlagen der
-Pflegekassen
+## Zweiter Titel - Informationsgrundlagen der Pflegekassen
 
 ### § 99 - Versichertenverzeichnis
 
@@ -2876,8 +2857,7 @@ g) für Ehegatten oder Lebenspartner ab dem Zeitpunkt des Nachweises der zur Ina
 (2) Die Errichtung, die Ausgestaltung, die Änderung und die Durchführung des Ausgleichs unterliegen der Aufsicht der Bundesanstalt für Finanzdienstleistungsaufsicht.
 
 
-## Elftes Kapitel - Qualitätssicherung, Sonstige Regelungen
-zum Schutz der Pflegebedürftigen
+## Elftes Kapitel - Qualitätssicherung, Sonstige Regelungen zum Schutz der Pflegebedürftigen
 
 ### § 112 - Qualitätsverantwortung
 

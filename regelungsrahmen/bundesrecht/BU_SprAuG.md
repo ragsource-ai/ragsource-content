@@ -22,31 +22,25 @@ Erster Teil - Allgemeine Vorschriften
 - § 1 - Errichtung von Sprecherausschüssen
 - § 2 - Zusammenarbeit
 
-Zweiter Teil - Sprecherausschuß, Versammlung der
-leitenden Angestellten, Gesamt-, Unternehmens- und
-Konzernsprecherausschuß
+Zweiter Teil - Sprecherausschuß, Versammlung der leitenden Angestellten, Gesamt-, Unternehmens- und Konzernsprecherausschuß
 
-Erster Abschnitt - Wahl, Zusammensetzung und
-Amtszeit des Sprecherausschusses
+Erster Abschnitt - Wahl, Zusammensetzung und Amtszeit des Sprecherausschusses
 - § 3 - Wahlberechtigung und Wählbarkeit
 - § 4 - Zahl der Sprecherausschußmitglieder
 - § 5 - Zeitpunkt der Wahlen und Amtszeit
 - § 6 - Wahlvorschriften
 - § 7 - Bestellung, Wahl und Aufgaben des Wahlvorstands
 - § 8 - Wahlanfechtung, Wahlschutz und Wahlkosten
-- § 9 - Ausschluß von Mitgliedern, Auflösung des Sprecherausschusses
-und Erlöschen der Mitgliedschaft
+- § 9 - Ausschluß von Mitgliedern, Auflösung des Sprecherausschusses und Erlöschen der Mitgliedschaft
 - § 10 - Ersatzmitglieder
 
-Zweiter Abschnitt - Geschäftsführung
-des Sprecherausschusses
+Zweiter Abschnitt - Geschäftsführung des Sprecherausschusses
 - § 11 - Vorsitzender
 - § 12 - Sitzungen des Sprecherausschusses
 - § 13 - Beschlüsse und Geschäftsordnung des Sprecherausschusses
 - § 14 - Arbeitsversäumnis und Kosten
 
-Dritter Abschnitt - Versammlung der leitenden
-Angestellten
+Dritter Abschnitt - Versammlung der leitenden Angestellten
 - § 15 - Zeitpunkt, Einberufung und Themen der Versammlung
 
 Vierter Abschnitt - Gesamtsprecherausschuß
@@ -115,13 +109,10 @@ Sechster Teil - Übergangs- und Schlußvorschriften
 (4) Arbeitgeber und Sprecherausschuß haben Betätigungen zu unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs beeinträchtigt werden. Sie haben jede parteipolitische Betätigung im Betrieb zu unterlassen; die Behandlung von Angelegenheiten tarifpolitischer, sozialpolitischer und wirtschaftlicher Art, die den Betrieb oder die leitenden Angestellten unmittelbar betreffen, wird hierdurch nicht berührt.
 
 
-## Zweiter Teil - Sprecherausschuß, Versammlung der
-leitenden Angestellten, Gesamt-, Unternehmens- und
-Konzernsprecherausschuß
+## Zweiter Teil - Sprecherausschuß, Versammlung der leitenden Angestellten, Gesamt-, Unternehmens- und Konzernsprecherausschuß
 
 
-## Erster Abschnitt - Wahl, Zusammensetzung und
-Amtszeit des Sprecherausschusses
+## Erster Abschnitt - Wahl, Zusammensetzung und Amtszeit des Sprecherausschusses
 
 ### § 3 - Wahlberechtigung und Wählbarkeit
 
@@ -182,8 +173,7 @@ Amtszeit des Sprecherausschusses
 
 (3) Die Kosten der Wahl trägt der Arbeitgeber. Versäumnis von Arbeitszeit, die zur Ausübung des Wahlrechts, zur Betätigung im Wahlvorstand oder zur Tätigkeit als Vermittler (§ 18a des Betriebsverfassungsgesetzes) erforderlich ist, berechtigt den Arbeitgeber nicht zur Minderung des Arbeitsentgelts.
 
-### § 9 - Ausschluß von Mitgliedern, Auflösung des Sprecherausschusses
-und Erlöschen der Mitgliedschaft
+### § 9 - Ausschluß von Mitgliedern, Auflösung des Sprecherausschusses und Erlöschen der Mitgliedschaft
 
 (1) Mindestens ein Viertel der leitenden Angestellten oder der Arbeitgeber können beim Arbeitsgericht den Ausschluß eines Mitglieds aus dem Sprecherausschuß oder die Auflösung des Sprecherausschusses wegen grober Verletzung seiner gesetzlichen Pflichten beantragen. Der Ausschluß eines Mitglieds kann auch vom Sprecherausschuß beantragt werden.
 
@@ -204,8 +194,7 @@ und Erlöschen der Mitgliedschaft
 (3) In dem Fall des § 6 Abs. 3 gilt Absatz 1 mit der Maßgabe, daß das gewählte Ersatzmitglied nachrückt oder die Stellvertretung übernimmt.
 
 
-## Zweiter Abschnitt - Geschäftsführung
-des Sprecherausschusses
+## Zweiter Abschnitt - Geschäftsführung des Sprecherausschusses
 
 ### § 11 - Vorsitzender
 
@@ -253,8 +242,7 @@ des Sprecherausschusses
 (2) Die durch die Tätigkeit des Sprecherausschusses entstehenden Kosten trägt der Arbeitgeber. Für die Sitzungen und die laufende Geschäftsführung hat der Arbeitgeber in erforderlichem Umfang Räume, sachliche Mittel und Büropersonal zur Verfügung zu stellen.
 
 
-## Dritter Abschnitt - Versammlung der leitenden
-Angestellten
+## Dritter Abschnitt - Versammlung der leitenden Angestellten
 
 ### § 15 - Zeitpunkt, Einberufung und Themen der Versammlung
 

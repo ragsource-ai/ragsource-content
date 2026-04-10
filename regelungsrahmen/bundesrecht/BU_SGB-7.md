@@ -87,8 +87,7 @@ Vierter Unterabschnitt - Leistungen zur Sozialen Teilhabe und ergänzende Leistu
 Fünfter Unterabschnitt - Leistungen bei Pflegebedürftigkeit
 - § 44 - Pflege
 
-Sechster Unterabschnitt - Geldleistungen während der Heilbehandlung und der
-Leistungen zur Teilhabe am Arbeitsleben
+Sechster Unterabschnitt - Geldleistungen während der Heilbehandlung und der Leistungen zur Teilhabe am Arbeitsleben
 - § 45 - Voraussetzungen für das Verletztengeld
 - § 46 - Beginn und Ende des Verletztengeldes
 - § 47 - Höhe des Verletztengeldes
@@ -99,8 +98,7 @@ Leistungen zur Teilhabe am Arbeitsleben
 - § 51 - (weggefallen)
 - § 52 - Anrechnung von Einkommen auf Verletzten- und Übergangsgeld
 
-Siebter Unterabschnitt - Besondere Vorschriften für die Versicherten in der
-Seefahrt
+Siebter Unterabschnitt - Besondere Vorschriften für die Versicherten in der Seefahrt
 - § 53 - Vorrang der medizinischen Betreuung durch die Reeder
 
 Achter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung
@@ -187,11 +185,9 @@ Fünfter Abschnitt - Gemeinsame Vorschriften für Leistungen
 - § 102 - Schriftform
 - § 103 - Zwischennachricht, Unfalluntersuchung
 
-Viertes Kapitel - Haftung von Unternehmern, Unternehmensangehörigen
-und anderen Personen
+Viertes Kapitel - Haftung von Unternehmern, Unternehmensangehörigen und anderen Personen
 
-Erster Abschnitt - Beschränkung der Haftung gegenüber Versicherten,
-ihren Angehörigen und Hinterbliebenen
+Erster Abschnitt - Beschränkung der Haftung gegenüber Versicherten, ihren Angehörigen und Hinterbliebenen
 - § 104 - Beschränkung der Haftung der Unternehmer
 - § 105 - Beschränkung der Haftung anderer im Betrieb tätiger
 Personen
@@ -229,8 +225,7 @@ Zweiter Unterabschnitt - Zuständigkeit der landwirtschaftlichen Berufsgenossens
 - § 123 - Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft
 - § 124 - Bestandteile des landwirtschaftlichen Unternehmens
 
-Dritter Unterabschnitt - Zuständigkeit der Unfallversicherungsträger der
-öffentlichen Hand
+Dritter Unterabschnitt - Zuständigkeit der Unfallversicherungsträger der öffentlichen Hand
 - § 125 - Zuständigkeit der Unfallversicherung Bund und Bahn
 - § 126 - (weggefallen)
 - § 127 - (weggefallen)
@@ -334,8 +329,7 @@ Zweiter Abschnitt - Besondere Vorschriften für die landwirtschaftliche Unfallve
 - § 184c - (weggefallen)
 - § 184d - (weggefallen)
 
-Dritter Abschnitt - Besondere Vorschriften für die Unfallversicherungsträger
-der öffentlichen Hand
+Dritter Abschnitt - Besondere Vorschriften für die Unfallversicherungsträger der öffentlichen Hand
 - § 185 - Gemeindeunfallversicherungsverbände, Unfallkassen der Länder und Gemeinden, gemeinsame Unfallkassen, Feuerwehr-Unfallkassen
 - § 186 - Aufwendungen der Unfallversicherung Bund und Bahn
 
@@ -347,17 +341,12 @@ Erster Unterabschnitt - Berechnungsgrundsätze
 Zweiter Unterabschnitt - Reduzierung der Kosten für Verwaltung und Verfahren
 - § 187a - Reduzierung der Kosten für Verwaltung und Verfahren in der landwirtschaftlichen Unfallversicherung
 
-Siebtes Kapitel - Zusammenarbeit der Unfallversicherungsträger mit
-anderen Leistungsträgern und ihre Beziehungen zu
-Dritten
+Siebtes Kapitel - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern und ihre Beziehungen zu Dritten
 
-Erster Abschnitt - Zusammenarbeit der Unfallversicherungsträger mit
-anderen Leistungsträgern
+Erster Abschnitt - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern
 - § 188 - Auskunftspflicht der Krankenkassen
 - § 189 - Beauftragung einer Krankenkasse
-- § 190 - Pflicht der Unfallversicherungsträger zur Benachrichtigung
-der Rentenversicherungsträger beim Zusammentreffen
-von Renten
+- § 190 - Pflicht der Unfallversicherungsträger zur Benachrichtigung der Rentenversicherungsträger beim Zusammentreffen von Renten
 
 Zweiter Abschnitt - Beziehungen der Unfallversicherungsträger zu Dritten
 - § 191 - Unterstützungspflicht der Unternehmer
@@ -688,8 +677,7 @@ Den nach § 2 Abs. 1 Nr. 11 Buchstabe a, Nr. 12 und Nr. 13 Buchstabe a und c Ver
 
 (5) Die Unternehmer sind über die Vorschriften nach Absatz 1 zu unterrichten und zur Unterrichtung der Versicherten verpflichtet.
 
-### § 16 - Geltung bei Zuständigkeit anderer Unfallversicherungsträger
-und für ausländische Unternehmen
+### § 16 - Geltung bei Zuständigkeit anderer Unfallversicherungsträger und für ausländische Unternehmen
 
 (1) Die Unfallverhütungsvorschriften eines Unfallversicherungsträgers gelten auch, soweit in dem oder für das Unternehmen Versicherte tätig werden, für die ein anderer Unfallversicherungsträger zuständig ist.
 
@@ -789,8 +777,7 @@ c) der Dokumentation der Gefährdungen und Maßnahmen,
 
 (4) Bei der Ausbildung von Sicherheitsbeauftragten und Fachkräften für Arbeitssicherheit sind die für den Arbeitsschutz zuständigen Landesbehörden zu beteiligen.
 
-### § 24 - Überbetrieblicher arbeitsmedizinischer und sicherheitstechnischer
-Dienst
+### § 24 - Überbetrieblicher arbeitsmedizinischer und sicherheitstechnischer Dienst
 
 (1) Unfallversicherungsträger können überbetriebliche arbeitsmedizinische und sicherheitstechnische Dienste einrichten; das Nähere bestimmt die Satzung. Die von den Diensten gespeicherten Daten dürfen nur mit Einwilligung des Betroffenen an die Unfallversicherungsträger übermittelt werden; § 203 bleibt unberührt. Die Dienste sind organisatorisch, räumlich und personell von den übrigen Organisationseinheiten der Unfallversicherungsträger zu trennen. Zugang zu den Daten dürfen nur Beschäftigte der Dienste haben.
 
@@ -1006,8 +993,7 @@ Haushaltshilfe und Leistungen zur Kinderbetreuung nach § 74 Abs. 1 bis 3 des Ne
 (6) Die Bundesregierung setzt mit Zustimmung des Bundesrates die neuen Mindest- und Höchstbeträge nach Absatz 2 und den Anpassungsfaktor nach Absatz 4 in der Rechtsverordnung über die Bestimmung des für die Rentenanpassung in der gesetzlichen Rentenversicherung maßgebenden aktuellen Rentenwertes fest.
 
 
-## Sechster Unterabschnitt - Geldleistungen während der Heilbehandlung und der
-Leistungen zur Teilhabe am Arbeitsleben
+## Sechster Unterabschnitt - Geldleistungen während der Heilbehandlung und der Leistungen zur Teilhabe am Arbeitsleben
 
 ### § 45 - Voraussetzungen für das Verletztengeld
 
@@ -1091,8 +1077,7 @@ Auf das Verletzten- und Übergangsgeld werden von dem gleichzeitig erzielten Ein
 2. Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
 
 
-## Siebter Unterabschnitt - Besondere Vorschriften für die Versicherten in der
-Seefahrt
+## Siebter Unterabschnitt - Besondere Vorschriften für die Versicherten in der Seefahrt
 
 ### § 53 - Vorrang der medizinischen Betreuung durch die Reeder
 
@@ -1347,8 +1332,7 @@ d) wegen körperlicher, geistiger oder seelischer Behinderung außerstande ist, 
 
 Ist nach allgemeinen Erfahrungen unter Berücksichtigung der besonderen Verhältnisse des Einzelfalles zu erwarten, daß nur eine Rente in Form der vorläufigen Entschädigung zu zahlen ist, kann der Unfallversicherungsträger die Versicherten nach Abschluß der Heilbehandlung mit einer Gesamtvergütung in Höhe des voraussichtlichen Rentenaufwandes abfinden. Nach Ablauf des Zeitraumes, für den die Gesamtvergütung bestimmt war, wird auf Antrag Rente als vorläufige Entschädigung oder Rente auf unbestimmte Zeit gezahlt, wenn die Voraussetzungen hierfür vorliegen.
 
-### § 76 - Abfindung bei Minderung der Erwerbsfähigkeit unter
-40 vom Hundert
+### § 76 - Abfindung bei Minderung der Erwerbsfähigkeit unter 40 vom Hundert
 
 (1) Versicherte, die Anspruch auf eine Rente wegen einer Minderung der Erwerbsfähigkeit von weniger als 40 vom Hundert haben, können auf ihren Antrag mit einem dem Kapitalwert der Rente entsprechenden Betrag abgefunden werden. Versicherte, die Anspruch auf mehrere Renten aus der Unfallversicherung haben, deren Vomhundertsätze zusammen die Zahl 40 nicht erreichen, können auf ihren Antrag mit einem Betrag abgefunden werden, der dem Kapitalwert einer oder mehrerer dieser Renten entspricht. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die Berechnung des Kapitalwertes.
 
@@ -1362,8 +1346,7 @@ Ist nach allgemeinen Erfahrungen unter Berücksichtigung der besonderen Verhält
 
 (2) Die Abfindungssumme wird auf die Rente angerechnet, soweit sie die Summe der Rentenbeträge übersteigt, die den Versicherten während des Abfindungszeitraumes zugestanden hätten. Die Anrechnung hat so zu erfolgen, daß den Versicherten monatlich mindestens die halbe Rente verbleibt.
 
-### § 78 - Abfindung bei Minderung der Erwerbsfähigkeit ab
-40 vom Hundert
+### § 78 - Abfindung bei Minderung der Erwerbsfähigkeit ab 40 vom Hundert
 
 (1) Versicherte, die Anspruch auf eine Rente wegen einer Minderung der Erwerbsfähigkeit von 40 vom Hundert oder mehr haben, können auf ihren Antrag durch einen Geldbetrag abgefunden werden. Das gleiche gilt für Versicherte, die Anspruch auf mehrere Renten haben, deren Vomhundertsätze zusammen die Zahl 40 erreichen oder übersteigen.
 
@@ -1631,12 +1614,10 @@ In den Fällen des § 36a Abs. 1 Satz 1 Nr. 2 des Vierten Buches wird die Entsch
 (2) Der Versicherte ist berechtigt, an der Untersuchung eines Versicherungsfalls, die am Arbeitsplatz oder am Unfallort durchgeführt wird, teilzunehmen. Hinterbliebene, die aufgrund des Versicherungsfalls Ansprüche haben können, können an der Untersuchung teilnehmen, wenn sie dies verlangen.
 
 
-## Viertes Kapitel - Haftung von Unternehmern, Unternehmensangehörigen
-und anderen Personen
+## Viertes Kapitel - Haftung von Unternehmern, Unternehmensangehörigen und anderen Personen
 
 
-## Erster Abschnitt - Beschränkung der Haftung gegenüber Versicherten,
-ihren Angehörigen und Hinterbliebenen
+## Erster Abschnitt - Beschränkung der Haftung gegenüber Versicherten, ihren Angehörigen und Hinterbliebenen
 
 ### § 104 - Beschränkung der Haftung der Unternehmer
 
@@ -1646,8 +1627,7 @@ ihren Angehörigen und Hinterbliebenen
 
 (3) Die nach Absatz 1 oder 2 verbleibenden Ersatzansprüche vermindern sich um die Leistungen, die Berechtigte nach Gesetz oder Satzung infolge des Versicherungsfalls erhalten.
 
-### § 105 - Beschränkung der Haftung anderer im Betrieb tätiger
-Personen
+### § 105 - Beschränkung der Haftung anderer im Betrieb tätiger Personen
 
 (1) Personen, die durch eine betriebliche Tätigkeit einen Versicherungsfall von Versicherten desselben Betriebs verursachen, sind diesen sowie deren Angehörigen und Hinterbliebenen nach anderen gesetzlichen Vorschriften zum Ersatz des Personenschadens nur verpflichtet, wenn sie den Versicherungsfall vorsätzlich oder auf einem nach § 8 Abs. 2 Nr. 1 bis 4 versicherten Weg herbeigeführt haben. Satz 1 gilt entsprechend bei der Schädigung von Personen, die für denselben Betrieb tätig und nach § 4 Abs. 1 Nr. 1 versicherungsfrei sind. § 104 Abs. 1 Satz 2, Abs. 2 und 3 gilt entsprechend.
 
@@ -1681,8 +1661,7 @@ Personen
 
 (2) Das Gericht hat sein Verfahren auszusetzen, bis eine Entscheidung nach Absatz 1 ergangen ist. Falls ein solches Verfahren noch nicht eingeleitet ist, bestimmt das Gericht dafür eine Frist, nach deren Ablauf die Aufnahme des ausgesetzten Verfahrens zulässig ist.
 
-### § 109 - Feststellungsberechtigung von in der Haftung beschränkten
-Personen
+### § 109 - Feststellungsberechtigung von in der Haftung beschränkten Personen
 
 Personen, deren Haftung nach den §§ 104 bis 107 beschränkt ist und gegen die Versicherte, ihre Angehörigen und Hinterbliebene Schadenersatzforderungen erheben, können statt der Berechtigten die Feststellungen nach § 108 beantragen oder das entsprechende Verfahren nach dem Sozialgerichtsgesetz betreiben. Der Ablauf von Fristen, die ohne ihr Verschulden verstrichen sind, wirkt nicht gegen sie; dies gilt nicht, soweit diese Personen das Verfahren selbst betreiben.
 
@@ -1853,8 +1832,7 @@ Zum landwirtschaftlichen Unternehmen gehören
 3. Arbeiten, die Unternehmer aufgrund einer öffentlich-rechtlichen Verpflichtung als landwirtschaftliche Unternehmer zu leisten haben.
 
 
-## Dritter Unterabschnitt - Zuständigkeit der Unfallversicherungsträger der
-öffentlichen Hand
+## Dritter Unterabschnitt - Zuständigkeit der Unfallversicherungsträger der öffentlichen Hand
 
 ### § 125 - Zuständigkeit der Unfallversicherung Bund und Bahn
 
@@ -2205,8 +2183,7 @@ Widerspricht ein Dienstvertrag der Dienstordnung, ist er insoweit nichtig. Dies 
 
 (4) Bei einem Wechsel der Person des Unternehmers sind der bisherige Unternehmer und sein Nachfolger bis zum Ablauf des Kalenderjahres, in dem der Wechsel angezeigt wurde, zur Zahlung der Beiträge und damit zusammenhängender Leistungen als Gesamtschuldner verpflichtet.
 
-### § 151 - Beitragserhebung bei überbetrieblichen arbeitsmedizinischen
-und sicherheitstechnischen Diensten
+### § 151 - Beitragserhebung bei überbetrieblichen arbeitsmedizinischen und sicherheitstechnischen Diensten
 
 Die Mittel für die Einrichtungen nach § 24 werden von den Unternehmern aufgebracht, die diesen Einrichtungen angeschlossen sind. Die Satzung bestimmt das Nähere über den Maßstab, nach dem die Mittel aufzubringen sind, und über die Fälligkeit.
 
@@ -2243,8 +2220,7 @@ Die Mittel für die Einrichtungen nach § 24 werden von den Unternehmern aufgebr
 
 Die Satzung kann bestimmen, daß die Beiträge nicht nach Arbeitsentgelten, sondern nach der Zahl der Versicherten unter Berücksichtigung der Gefährdungsrisiken berechnet werden. Grundlage für die Ermittlung der Gefährdungsrisiken sind die Leistungsaufwendungen. § 157 Abs. 5 und § 158 Abs. 2 gelten entsprechend.
 
-### § 156 - Beiträge nach einem auf Arbeitsstunden aufgeteilten
-Arbeitsentgelt
+### § 156 - Beiträge nach einem auf Arbeitsstunden aufgeteilten Arbeitsentgelt
 
 Die Satzung kann bestimmen, daß das für die Berechnung der Beiträge maßgebende Arbeitsentgelt nach der Zahl der geleisteten Arbeitsstunden oder den für die jeweiligen Arbeiten nach allgemeinen Erfahrungswerten durchschnittlich aufzuwendenden Arbeitsstunden berechnet wird; als Entgelt für die Arbeitsstunde kann höchstens der 2.100. Teil der Bezugsgröße bestimmt werden.
 
@@ -2564,8 +2540,7 @@ Abweichend von § 172a Abs. 2 wird die Rücklage mindestens in einfacher Höhe d
 ### § 184d - (weggefallen)
 
 
-## Dritter Abschnitt - Besondere Vorschriften für die Unfallversicherungsträger
-der öffentlichen Hand
+## Dritter Abschnitt - Besondere Vorschriften für die Unfallversicherungsträger der öffentlichen Hand
 
 ### § 185 - Gemeindeunfallversicherungsverbände, Unfallkassen der Länder und Gemeinden, gemeinsame Unfallkassen, Feuerwehr-Unfallkassen
 
@@ -2619,13 +2594,10 @@ der öffentlichen Hand
 (2) Bei der Ermittlung der Verwaltungs- und Verfahrenskosten nach Absatz 1 Satz 1 bleiben Versorgungsaufwendungen und Zuführungen zum Altersrückstellungsvermögen unberücksichtigt.
 
 
-## Siebtes Kapitel - Zusammenarbeit der Unfallversicherungsträger mit
-anderen Leistungsträgern und ihre Beziehungen zu
-Dritten
+## Siebtes Kapitel - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern und ihre Beziehungen zu Dritten
 
 
-## Erster Abschnitt - Zusammenarbeit der Unfallversicherungsträger mit
-anderen Leistungsträgern
+## Erster Abschnitt - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern
 
 ### § 188 - Auskunftspflicht der Krankenkassen
 
@@ -2635,9 +2607,7 @@ Die Unfallversicherungsträger können von den Krankenkassen Auskunft über die 
 
 Unfallversicherungsträger können Krankenkassen beauftragen, die ihnen obliegenden Geldleistungen zu erbringen; die Einzelheiten werden durch Vereinbarung geregelt.
 
-### § 190 - Pflicht der Unfallversicherungsträger zur Benachrichtigung
-der Rentenversicherungsträger beim Zusammentreffen
-von Renten
+### § 190 - Pflicht der Unfallversicherungsträger zur Benachrichtigung der Rentenversicherungsträger beim Zusammentreffen von Renten
 
 Erbringt ein Unfallversicherungsträger für einen Versicherten oder einen Hinterbliebenen, der eine Rente aus der gesetzlichen Rentenversicherung bezieht, Rente oder Heimpflege oder ergeben sich Änderungen bei diesen Leistungen, hat der Unfallversicherungsträger den Rentenversicherungsträger unverzüglich zu benachrichtigen; bei Zahlung einer Rente ist das Maß der Minderung der Erwerbsfähigkeit anzugeben.
 

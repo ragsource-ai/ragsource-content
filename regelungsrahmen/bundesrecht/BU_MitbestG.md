@@ -33,33 +33,27 @@ Erster Abschnitt - Bildung und Zusammensetzung
 
 Zweiter Abschnitt - Bestellung der Aufsichtsratsmitglieder
 
-Erster Unterabschnitt - Aufsichtsratsmitglieder
-der Anteilseigner
-- § 8 (Red. Kein amtlicher Titel)
+Erster Unterabschnitt - Aufsichtsratsmitglieder der Anteilseigner
+- § 8 - Erster Unterabschnitt - Aufsichtsratsmitglieder der Anteilseigner
 
-Zweiter Unterabschnitt - Aufsichtsratsmitglieder
-der Arbeitnehmer, Grundsatz
-- § 9 (Red. Kein amtlicher Titel)
+Zweiter Unterabschnitt - Aufsichtsratsmitglieder der Arbeitnehmer, Grundsatz
+- § 9 - Zweiter Unterabschnitt - Aufsichtsratsmitglieder der Arbeitnehmer, Grundsatz
 
-Dritter Unterabschnitt - Wahl der
-Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
+Dritter Unterabschnitt - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
 - § 10 - Wahl der Delegierten
 - § 11 - Errechnung der Zahl der Delegierten
 - § 12 - Wahlvorschläge für Delegierte
 - § 13 - Amtszeit der Delegierten
-- § 14 - Vorzeitige Beendigung der Amtszeit oder Verhinderung von
-Delegierten
-- § 15 - Wahl der unternehmensangehörigen Aufsichtsratsmitglieder
-der Arbeitnehmer
+- § 14 - Vorzeitige Beendigung der Amtszeit oder Verhinderung von Delegierten
+- § 15 - Wahl der unternehmensangehörigen Aufsichtsratsmitglieder der Arbeitnehmer
 - § 16 - Wahl der Vertreter von Gewerkschaften in den Aufsichtsrat
 - § 17 - Ersatzmitglieder
 
-Vierter Unterabschnitt - Unmittelbare Wahl der
-Aufsichtsratsmitglieder der Arbeitnehmer
-- § 18 (Red. Kein amtlicher Titel)
+Vierter Unterabschnitt - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+- § 18 - Vierter Unterabschnitt - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
 Fünfter Unterabschnitt - Nichterreichen des Geschlechteranteils durch die Wahl
-- § 18a (Red. Kein amtlicher Titel)
+- § 18a - Fünfter Unterabschnitt - Nichterreichen des Geschlechteranteils durch die Wahl
 
 Sechster Unterabschnitt - Weitere Vorschriften über das Wahlverfahren sowie über die Bestellung und Abberufung von Aufsichtsratsmitgliedern
 - § 19 - Bekanntmachung der Mitglieder des Aufsichtsrats
@@ -67,12 +61,9 @@ Sechster Unterabschnitt - Weitere Vorschriften über das Wahlverfahren sowie üb
 - § 21 - Anfechtung der Wahl von Delegierten
 - § 22 - Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer
 - § 23 - Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
-- § 24 - Verlust der Wählbarkeit und Änderung
-der Zuordnung unternehmensangehöriger
-Aufsichtsratsmitglieder
+- § 24 - Verlust der Wählbarkeit und Änderung der Zuordnung unternehmensangehöriger Aufsichtsratsmitglieder
 
-Dritter Abschnitt - Innere Ordnung, Rechte und
-Pflichten des Aufsichtsrats
+Dritter Abschnitt - Innere Ordnung, Rechte und Pflichten des Aufsichtsrats
 - § 25 - Grundsatz
 - § 26 - Schutz von Aufsichtsratsmitgliedern vor Benachteiligung
 - § 27 - Vorsitz im Aufsichtsrat
@@ -86,13 +77,13 @@ Dritter Teil - Gesetzliches Vertretungsorgan
 - § 33 - Arbeitsdirektor
 
 Vierter Teil - Seeschiffahrt
-- § 34 (Red. Kein amtlicher Titel)
+- § 34 - Vierter Teil - Seeschiffahrt
 
 Fünfter Teil - Übergangs- und Schlußvorschriften
-- § 35 (Red. Kein amtlicher Titel)
+- § 35 - Fünfter Teil - Übergangs- und Schlußvorschriften
 - § 36 - Verweisungen
 - § 37 - Erstmalige Anwendung des Gesetzes auf ein Unternehmen
-- § 38 (Red. Kein amtlicher Titel)
+- § 38 - Fünfter Teil - Übergangs- und Schlußvorschriften
 - § 39 - Ermächtigung zum Erlaß von Rechtsverordnungen
 - § 40 - Übergangsregelung
 - § 41 - Inkrafttreten
@@ -178,20 +169,18 @@ Anteilseigner im Sinne dieses Gesetzes sind je nach der Rechtsform der in § 1 A
 ## Zweiter Abschnitt - Bestellung der Aufsichtsratsmitglieder
 
 
-## Erster Unterabschnitt - Aufsichtsratsmitglieder
-der Anteilseigner
+## Erster Unterabschnitt - Aufsichtsratsmitglieder der Anteilseigner
 
-### § 8 (Red. Kein amtlicher Titel)
+### § 8 - Erster Unterabschnitt - Aufsichtsratsmitglieder der Anteilseigner
 
 (1) Die Aufsichtsratsmitglieder der Anteilseigner werden durch das nach Gesetz, Satzung oder Gesellschaftsvertrag zur Wahl von Mitgliedern des Aufsichtsrats befugte Organ (Wahlorgan) und, soweit gesetzliche Vorschriften dem nicht entgegenstehen, nach Maßgabe der Satzung oder des Gesellschaftsvertrags bestellt.
 
 (2) § 101 Abs. 2 des Aktiengesetzes bleibt unberührt.
 
 
-## Zweiter Unterabschnitt - Aufsichtsratsmitglieder
-der Arbeitnehmer, Grundsatz
+## Zweiter Unterabschnitt - Aufsichtsratsmitglieder der Arbeitnehmer, Grundsatz
 
-### § 9 (Red. Kein amtlicher Titel)
+### § 9 - Zweiter Unterabschnitt - Aufsichtsratsmitglieder der Arbeitnehmer, Grundsatz
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer (§ 7 Abs. 2) eines Unternehmens mit in der Regel mehr als 8.000 Arbeitnehmern werden durch Delegierte gewählt, sofern nicht die wahlberechtigten Arbeitnehmer die unmittelbare Wahl beschließen.
 
@@ -200,8 +189,7 @@ der Arbeitnehmer, Grundsatz
 (3) Zur Abstimmung darüber, ob die Wahl durch Delegierte oder unmittelbar erfolgen soll, bedarf es eines Antrags, der von einem Zwanzigstel der wahlberechtigten Arbeitnehmer des Unternehmens unterzeichnet sein muß. Die Abstimmung ist geheim. Ein Beschluß nach Absatz 1 oder 2 kann nur unter Beteiligung von mindestens der Hälfte der wahlberechtigten Arbeitnehmer und nur mit der Mehrheit der abgegebenen Stimmen gefaßt werden.
 
 
-## Dritter Unterabschnitt - Wahl der
-Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
+## Dritter Unterabschnitt - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
 
 ### § 10 - Wahl der Delegierten
 
@@ -249,8 +237,7 @@ Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
 
 (4) Abweichend von Absatz 1 endet die Amtszeit der Delegierten eines Betriebs, wenn nach Eintreten aller Ersatzdelegierten des Wahlvorschlags, dem die zu ersetzenden Delegierten angehören, die Gesamtzahl der Delegierten des Betriebs unter die im Zeitpunkt ihrer Wahl vorgeschriebene Zahl der auf den Betrieb entfallenden Delegierten gesunken ist.
 
-### § 14 - Vorzeitige Beendigung der Amtszeit oder Verhinderung von
-Delegierten
+### § 14 - Vorzeitige Beendigung der Amtszeit oder Verhinderung von Delegierten
 
 (1) Die Amtszeit eines Delegierten endet vor dem in § 13 bezeichneten Zeitpunkt
 1. durch Niederlegung des Amtes,
@@ -259,8 +246,7 @@ Delegierten
 
 (2) Endet die Amtszeit eines Delegierten vorzeitig oder ist er verhindert, so tritt an seine Stelle ein Ersatzdelegierter. Die Ersatzdelegierten werden der Reihe nach aus den nicht gewählten Arbeitnehmern derjenigen Wahlvorschläge entnommen, denen die zu ersetzenden Delegierten angehören.
 
-### § 15 - Wahl der unternehmensangehörigen Aufsichtsratsmitglieder
-der Arbeitnehmer
+### § 15 - Wahl der unternehmensangehörigen Aufsichtsratsmitglieder der Arbeitnehmer
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 7 Abs. 2 Arbeitnehmer des Unternehmens sein müssen, geheim und nach den Grundsätzen der Verhältniswahl für die Zeit, die im Gesetz oder in der Satzung (im Gesellschaftsvertrag) für die durch das Wahlorgan der Anteilseigner zu wählenden Mitglieder des Aufsichtsrats bestimmt ist. Dem Aufsichtsrat muss ein leitender Angestellter angehören.
 
@@ -285,17 +271,16 @@ der Arbeitnehmer
 (3) Im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes ist das Nachrücken eines Ersatzmitgliedes ausgeschlossen, wenn dadurch der Anteil von Frauen und Männern unter den Aufsichtsratsmitgliedern der Arbeitnehmer nicht mehr den Vorgaben des § 7 Absatz 3 entspricht; § 18a Absatz 2 Satz 2 gilt entsprechend.
 
 
-## Vierter Unterabschnitt - Unmittelbare Wahl der
-Aufsichtsratsmitglieder der Arbeitnehmer
+## Vierter Unterabschnitt - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
-### § 18 (Red. Kein amtlicher Titel)
+### § 18 - Vierter Unterabschnitt - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
 Sind nach § 9 die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer Wahl zu wählen, so sind die Arbeitnehmer des Unternehmens, die das 18. Lebensjahr vollendet haben, wahlberechtigt. § 7 Satz 2 des Betriebsverfassungsgesetzes gilt entsprechend. Für die Wahl sind die §§ 15 bis 17 mit der Maßgabe anzuwenden, daß an die Stelle der Delegierten die wahlberechtigten Arbeitnehmer des Unternehmens treten.
 
 
 ## Fünfter Unterabschnitt - Nichterreichen des Geschlechteranteils durch die Wahl
 
-### § 18a (Red. Kein amtlicher Titel)
+### § 18a - Fünfter Unterabschnitt - Nichterreichen des Geschlechteranteils durch die Wahl
 
 (1) Ergibt im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes die Auszählung der Stimmen und ihre Verteilung auf die Bewerber, dass die Vorgaben des § 7 Absatz 3 nicht erreicht worden sind, ist folgendes Geschlechterverhältnis für die Aufsichtsratssitze der Arbeitnehmer herzustellen:
 1. in Aufsichtsräten nach § 7 Absatz 2 Nummer 1 und 2 müssen unter den Aufsichtsratsmitgliedern der Arbeitnehmer nach § 3 Absatz 1 Nummer 1 jeweils mindestens eine Frau und mindestens ein Mann und unter den Aufsichtsratsmitgliedern der Gewerkschaften jeweils eine Frau und ein Mann vertreten sein;
@@ -356,17 +341,14 @@ Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die Namen der
 
 (4) Die Absätze 1 bis 3 sind für die Abberufung von Ersatzmitgliedern entsprechend anzuwenden.
 
-### § 24 - Verlust der Wählbarkeit und Änderung
-der Zuordnung unternehmensangehöriger
-Aufsichtsratsmitglieder
+### § 24 - Verlust der Wählbarkeit und Änderung der Zuordnung unternehmensangehöriger Aufsichtsratsmitglieder
 
 (1) Verliert ein Aufsichtsratsmitglied, das nach § 7 Abs. 2 Arbeitnehmer des Unternehmens sein muß, die Wählbarkeit, so erlischt sein Amt.
 
 (2) Die Änderung der Zuordnung eines Aufsichtsratsmitglieds zu den in § 3 Abs. 1 Nr. 1 oder § 3 Abs. 1 Nr. 2 genannten Arbeitnehmern führt nicht zum Erlöschen seines Amtes.
 
 
-## Dritter Abschnitt - Innere Ordnung, Rechte und
-Pflichten des Aufsichtsrats
+## Dritter Abschnitt - Innere Ordnung, Rechte und Pflichten des Aufsichtsrats
 
 ### § 25 - Grundsatz
 
@@ -435,7 +417,7 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 ## Vierter Teil - Seeschiffahrt
 
-### § 34 (Red. Kein amtlicher Titel)
+### § 34 - Vierter Teil - Seeschiffahrt
 
 (1) Die Gesamtheit der Schiffe eines Unternehmens gilt für die Anwendung dieses Gesetzes als ein Betrieb.
 
@@ -452,7 +434,7 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
 
-### § 35 (Red. Kein amtlicher Titel)
+### § 35 - Fünfter Teil - Übergangs- und Schlußvorschriften
 
 -
 
@@ -472,7 +454,7 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 (4) Absatz 3 gilt nicht für persönlich haftende Gesellschafter einer Kommanditgesellschaft auf Aktien.
 
-### § 38 (Red. Kein amtlicher Titel)
+### § 38 - Fünfter Teil - Übergangs- und Schlußvorschriften
 
 (weggefallen)
 

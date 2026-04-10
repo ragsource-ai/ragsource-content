@@ -36,8 +36,7 @@ Dritter Abschnitt - Fachkräfte für Arbeitssicherheit
 Vierter Abschnitt - Gemeinsame Vorschriften
 - § 8 - Unabhängigkeit bei der Anwendung der Fachkunde
 - § 9 - Zusammenarbeit mit dem Betriebsrat
-- § 10 - Zusammenarbeit der Betriebsärzte und der Fachkräfte für
-Arbeitssicherheit
+- § 10 - Zusammenarbeit der Betriebsärzte und der Fachkräfte für Arbeitssicherheit
 - § 11 - Arbeitsschutzausschuß
 - § 12 - Behördliche Anordnungen
 - § 13 - Auskunfts- und Besichtigungsrechte
@@ -48,7 +47,7 @@ Arbeitssicherheit
 - § 18 - Ausnahmen
 - § 19 - Überbetriebliche Dienste
 - § 20 - Ordnungswidrigkeiten
-- § 21 (Red. Kein amtlicher Titel)
+- § 21 - Vierter Abschnitt - Gemeinsame Vorschriften
 - § 22 - Berlin-Klausel
 - § 23 - Inkrafttreten
 
@@ -165,8 +164,7 @@ c) Ursachen von Arbeitsunfällen zu untersuchen, die Untersuchungsergebnisse zu 
 
 (3) Die Betriebsärzte und Fachkräfte für Arbeitssicherheit sind mit Zustimmung des Betriebsrats zu bestellen und abzuberufen. Das gleiche gilt, wenn deren Aufgaben erweitert oder eingeschränkt werden sollen; im übrigen gilt § 87 in Verbindung mit § 76 des Betriebsverfassungsgesetzes. Vor der Verpflichtung oder Entpflichtung eines freiberuflich tätigen Arztes, einer freiberuflich tätigen Fachkraft für Arbeitssicherheit oder eines überbetrieblichen Dienstes ist der Betriebsrat zu hören.
 
-### § 10 - Zusammenarbeit der Betriebsärzte und der Fachkräfte für
-Arbeitssicherheit
+### § 10 - Zusammenarbeit der Betriebsärzte und der Fachkräfte für Arbeitssicherheit
 
 Die Betriebsärzte und die Fachkräfte für Arbeitssicherheit haben bei der Erfüllung ihrer Aufgaben zusammenzuarbeiten. Dazu gehört es insbesondere, gemeinsame Betriebsbegehungen vorzunehmen. Die Betriebsärzte und die Fachkräfte für Arbeitssicherheit arbeiten bei der Erfüllung ihrer Aufgaben mit den anderen im Betrieb für Angelegenheiten der technischen Sicherheit, des Gesundheits- und des Umweltschutzes beauftragten Personen zusammen.
 
@@ -232,7 +230,7 @@ Die Verpflichtung des Arbeitgebers, Betriebsärzte und Fachkräfte für Arbeitss
 
 (2) Eine Ordnungswidrigkeit nach Absatz 1 Nr. 1 kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, eine Ordnungswidrigkeit nach Absatz 1 Nr. 2 und 3 mit einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
-### § 21 (Red. Kein amtlicher Titel)
+### § 21 - Vierter Abschnitt - Gemeinsame Vorschriften
 
 -
 

@@ -46,15 +46,13 @@ Zweiter Abschnitt - Berechtigte
 - § 20 - Berufsrückkehrende
 - § 21 - Träger
 
-Dritter Abschnitt - Verhältnis der Leistungen aktiver Arbeitsförderung
-zu anderen Leistungen
+Dritter Abschnitt - Verhältnis der Leistungen aktiver Arbeitsförderung zu anderen Leistungen
 - § 22 - Verhältnis zu anderen Leistungen
 - § 23 - Vorleistungspflicht der Arbeitsförderung
 
 Zweites Kapitel - Versicherungspflicht
 
-Erster Abschnitt - Beschäftigte, Sonstige
-Versicherungspflichtige
+Erster Abschnitt - Beschäftigte, Sonstige Versicherungspflichtige
 - § 24 - Versicherungspflichtverhältnis
 - § 25 - Beschäftigte
 - § 26 - Sonstige Versicherungspflichtige
@@ -339,8 +337,7 @@ Sechstes Kapitel - Ergänzende vergabespezifische Regelungen
 
 Siebtes Kapitel - Weitere Aufgaben der Bundesagentur
 
-Erster Abschnitt - Statistiken, Arbeitsmarkt- und Berufsforschung,
-Berichterstattung
+Erster Abschnitt - Statistiken, Arbeitsmarkt- und Berufsforschung, Berichterstattung
 - § 280 - Aufgaben
 - § 281 - Arbeitsmarktstatistiken, Verordnungsermächtigung
 - § 282 - Arbeitsmarkt- und Berufsforschung
@@ -407,8 +404,7 @@ Vierter Unterabschnitt - Sonstige Pflichten
 Zweiter Abschnitt - Schadensersatz bei Pflichtverletzungen
 - § 321 - Schadensersatz
 
-Dritter Abschnitt - Verordnungsermächtigung und
-Anordnungsermächtigung
+Dritter Abschnitt - Verordnungsermächtigung und Anordnungsermächtigung
 - § 321a - Verordnungsermächtigung
 - § 322 - Anordnungsermächtigung
 
@@ -467,8 +463,7 @@ Zweiter Unterabschnitt - Verfahren
 - § 350 - Meldungen der Sozialversicherungsträger
 - § 351 - Beitragserstattung
 
-Dritter Unterabschnitt - Verordnungsermächtigung, Anordnungsermächtigung und Ermächtigung
-zum Erlass von Verwaltungsvorschriften
+Dritter Unterabschnitt - Verordnungsermächtigung, Anordnungsermächtigung und Ermächtigung zum Erlass von Verwaltungsvorschriften
 - § 352 - Verordnungsermächtigung
 - § 352a - Anordnungsermächtigung
 - § 353 - Ermächtigung zum Erlaß von Verwaltungsvorschriften
@@ -569,8 +564,7 @@ Erster Abschnitt - (weggefallen)
 - § 416 - (weggefallen)
 - § 416a - (weggefallen)
 
-Zweiter Abschnitt - Ergänzungen für übergangsweise mögliche Leistungen
-und zeitweilige Aufgaben
+Zweiter Abschnitt - Ergänzungen für übergangsweise mögliche Leistungen und zeitweilige Aufgaben
 - § 417 - Sonderregelung zum Bundesprogramm „Ausbildungsplätze sichern“
 - § 418 - Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer
 - § 419 - (weggefallen)
@@ -589,8 +583,7 @@ Dritter Abschnitt - Grundsätze bei Rechtsänderungen
 - § 423 - (weggefallen)
 - § 424 - (weggefallen)
 
-Vierter Abschnitt - Sonderregelungen im Zusammenhang mit der Einordnung
-des Arbeitsförderungsrechts in das Sozialgesetzbuch
+Vierter Abschnitt - Sonderregelungen im Zusammenhang mit der Einordnung des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - § 425 - Übergang von der Beitrags- zur Versicherungspflicht
 - § 426 - (weggefallen)
 - § 427 - (weggefallen)
@@ -828,8 +821,7 @@ Berufsrückkehrende sind Frauen und Männer, die
 Träger sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die Maßnahmen der Arbeitsförderung selbst durchführen oder durch Dritte durchführen lassen.
 
 
-## Dritter Abschnitt - Verhältnis der Leistungen aktiver Arbeitsförderung
-zu anderen Leistungen
+## Dritter Abschnitt - Verhältnis der Leistungen aktiver Arbeitsförderung zu anderen Leistungen
 
 ### § 22 - Verhältnis zu anderen Leistungen
 
@@ -859,8 +851,7 @@ zu anderen Leistungen
 ## Zweites Kapitel - Versicherungspflicht
 
 
-## Erster Abschnitt - Beschäftigte, Sonstige
-Versicherungspflichtige
+## Erster Abschnitt - Beschäftigte, Sonstige Versicherungspflichtige
 
 ### § 24 - Versicherungspflichtverhältnis
 
@@ -2986,8 +2977,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 ## Siebtes Kapitel - Weitere Aufgaben der Bundesagentur
 
 
-## Erster Abschnitt - Statistiken, Arbeitsmarkt- und Berufsforschung,
-Berichterstattung
+## Erster Abschnitt - Statistiken, Arbeitsmarkt- und Berufsforschung, Berichterstattung
 
 ### § 280 - Aufgaben
 
@@ -3379,8 +3369,7 @@ Wer vorsätzlich oder fahrlässig
 5. als Arbeitgeber seine Pflichten nach § 320 Absatz 1a beim Qualifizierungsgeld nicht erfüllt, ist der Bundesagentur zum Ersatz des daraus entstandenen Schadens verpflichtet.
 
 
-## Dritter Abschnitt - Verordnungsermächtigung und
-Anordnungsermächtigung
+## Dritter Abschnitt - Verordnungsermächtigung und Anordnungsermächtigung
 
 ### § 321a - Verordnungsermächtigung
 
@@ -3725,8 +3714,7 @@ Personen, die ein Versicherungspflichtverhältnis auf Antrag begründen, tragen 
 2. die zuständige Einzugsstelle oder den Leistungsträger, soweit die Bundesagentur dies mit den Einzugsstellen oder den Leistungsträgern vereinbart hat.
 
 
-## Dritter Unterabschnitt - Verordnungsermächtigung, Anordnungsermächtigung und Ermächtigung
-zum Erlass von Verwaltungsvorschriften
+## Dritter Unterabschnitt - Verordnungsermächtigung, Anordnungsermächtigung und Ermächtigung zum Erlass von Verwaltungsvorschriften
 
 ### § 352 - Verordnungsermächtigung
 
@@ -4320,8 +4308,7 @@ b) § 312a Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 314 Absatz 1,
 ### § 416a - (weggefallen)
 
 
-## Zweiter Abschnitt - Ergänzungen für übergangsweise mögliche Leistungen
-und zeitweilige Aufgaben
+## Zweiter Abschnitt - Ergänzungen für übergangsweise mögliche Leistungen und zeitweilige Aufgaben
 
 ### § 417 - Sonderregelung zum Bundesprogramm „Ausbildungsplätze sichern“
 
@@ -4411,8 +4398,7 @@ Die Bundesagentur baut durch Zusammenwirken mit den Projektträgern des ESF Plus
 ### § 424 - (weggefallen)
 
 
-## Vierter Abschnitt - Sonderregelungen im Zusammenhang mit der Einordnung
-des Arbeitsförderungsrechts in das Sozialgesetzbuch
+## Vierter Abschnitt - Sonderregelungen im Zusammenhang mit der Einordnung des Arbeitsförderungsrechts in das Sozialgesetzbuch
 
 ### § 425 - Übergang von der Beitrags- zur Versicherungspflicht
 

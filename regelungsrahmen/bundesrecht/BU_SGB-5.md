@@ -55,10 +55,7 @@ Zweiter Abschnitt - Gemeinsame Vorschriften
 - § 15a - Behandlung durch Pflegefachpersonen, Pflegeprozessverantwortung
 - § 16 - Ruhen des Anspruchs
 - § 17 - Leistungen bei Beschäftigung im Ausland
-- § 18 - Kostenübernahme bei Behandlung
-außerhalb des Geltungsbereichs des Vertrages
-zur Gründung der Europäischen Gemeinschaft und des Abkommens über den
-Europäischen Wirtschaftsraum
+- § 18 - Kostenübernahme bei Behandlung außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum
 - § 19 - Erlöschen des Leistungsanspruchs
 
 Dritter Abschnitt - Leistungen zur Verhütung von Krankheiten, betriebliche Gesundheitsförderung und Prävention arbeitsbedingter Gesundheitsgefahren, Förderung der Selbsthilfe sowie Leistungen bei Schwangerschaft und Mutterschaft
@@ -196,21 +193,17 @@ Zehnter Abschnitt - Weiterentwicklung der Versorgung
 - § 68b - Förderung von Versorgungsinnovationen
 - § 68c - Förderung digitaler Innovationen durch die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen
 
-Viertes Kapitel - Beziehungen der Krankenkassen zu den
-Leistungserbringern
+Viertes Kapitel - Beziehungen der Krankenkassen zu den Leistungserbringern
 
 Erster Abschnitt - Allgemeine Grundsätze
 - § 69 - Anwendungsbereich
 - § 70 - Qualität, Humanität und Wirtschaftlichkeit
 - § 71 - Beitragssatzstabilität, besondere Aufsichtsmittel
 
-Zweiter Abschnitt - Beziehungen zu Ärzten,
-Zahnärzten und Psychotherapeuten
+Zweiter Abschnitt - Beziehungen zu Ärzten, Zahnärzten und Psychotherapeuten
 
-Erster Titel - Sicherstellung der vertragsärztlichen
-und vertragszahnärztlichen Versorgung
-- § 72 - Sicherstellung der vertragsärztlichen und vertragszahnärztlichen
-Versorgung
+Erster Titel - Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung
+- § 72 - Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung
 - § 72a - Übergang des Sicherstellungsauftrags auf die Krankenkassen
 - § 73 - Kassenärztliche Versorgung, Verordnungsermächtigung
 - § 73a - (weggefallen)
@@ -222,8 +215,7 @@ Versorgung
 - § 75a - Förderung der Weiterbildung
 - § 76 - Freie Arztwahl
 
-Zweiter Titel - Kassenärztliche und Kassenzahnärztliche
-Vereinigungen
+Zweiter Titel - Kassenärztliche und Kassenzahnärztliche Vereinigungen
 - § 77 - Kassenärztliche Vereinigungen und Bundesvereinigungen
 - § 77a - Dienstleistungsgesellschaften
 - § 77b - Besondere Regelungen zu Einrichtungen und Arbeitsgemeinschaften der Kassenärztlichen Bundesvereinigungen
@@ -264,8 +256,7 @@ Fünfter Titel - Schiedswesen
 - § 89 - Schiedsamt, Verordnungsermächtigungen
 - § 89a - Sektorenübergreifendes Schiedsgremium, Verordnungsermächtigungen
 
-Sechster Titel - Landesausschüsse und Gemeinsamer
-Bundesausschuss
+Sechster Titel - Landesausschüsse und Gemeinsamer Bundesausschuss
 - § 90 - Landesausschüsse
 - § 90a - Gemeinsames Landesgremium
 - § 91 - Gemeinsamer Bundesausschuss
@@ -277,8 +268,7 @@ Bundesausschuss
 - § 93 - Übersicht über ausgeschlossene Arzneimittel
 - § 94 - Wirksamwerden der Richtlinien
 
-Siebter Titel - Voraussetzungen und Formen der
-Teilnahme von Ärzten und Zahnärzten an der Versorgung
+Siebter Titel - Voraussetzungen und Formen der Teilnahme von Ärzten und Zahnärzten an der Versorgung
 - § 95 - Teilnahme an der vertragsärztlichen Versorgung
 - § 95a - Voraussetzung für die Eintragung in das Arztregister für Vertragsärzte
 - § 95b - Kollektiver Verzicht auf die Zulassung
@@ -289,8 +279,7 @@ Teilnahme von Ärzten und Zahnärzten an der Versorgung
 - § 97 - Berufungsausschüsse
 - § 98 - Zulassungsverordnungen
 
-Achter Titel - Bedarfsplanung, Unterversorgung,
-Überversorgung
+Achter Titel - Bedarfsplanung, Unterversorgung, Überversorgung
 - § 99 - Bedarfsplan
 - § 100 - Unterversorgung
 - § 101 - Überversorgung
@@ -299,16 +288,14 @@ Achter Titel - Bedarfsplanung, Unterversorgung,
 - § 104 - Verfahren bei Zulassungsbeschränkungen
 - § 105 - Förderung der vertragsärztlichen Versorgung
 
-Neunter Titel - Wirtschaftlichkeits- und
-Abrechnungsprüfung
+Neunter Titel - Wirtschaftlichkeits- und Abrechnungsprüfung
 - § 106 - Wirtschaftlichkeitsprüfung
 - § 106a - Wirtschaftlichkeitsprüfung ärztlicher Leistungen
 - § 106b - Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen
 - § 106c - Prüfungsstelle und Beschwerdeausschuss bei Wirtschaftlichkeitsprüfungen
 - § 106d - Abrechnungsprüfung in der vertragsärztlichen Versorgung
 
-Dritter Abschnitt - Beziehungen zu Krankenhäusern
-und anderen Einrichtungen
+Dritter Abschnitt - Beziehungen zu Krankenhäusern und anderen Einrichtungen
 - § 107 - Krankenhäuser, Vorsorge- oder Rehabilitationseinrichtungen
 - § 108 - Zugelassene Krankenhäuser
 - § 108a - Krankenhausgesellschaften
@@ -325,8 +312,7 @@ und anderen Einrichtungen
 - § 113 - Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung
 - § 114 - Landesschiedsstelle
 
-Vierter Abschnitt - Beziehungen zu Krankenhäusern
-und Vertragsärzten
+Vierter Abschnitt - Beziehungen zu Krankenhäusern und Vertragsärzten
 - § 115 - Dreiseitige Verträge und Rahmenempfehlungen zwischen Krankenkassen, Krankenhäusern und Vertragsärzten
 - § 115a - Vor- und nachstationäre Behandlung im Krankenhaus
 - § 115b - Ambulantes Operieren im Krankenhaus
@@ -353,21 +339,18 @@ und Vertragsärzten
 - § 122 - Behandlung in Praxiskliniken
 - § 123 - (weggefallen)
 
-Fünfter Abschnitt - Beziehungen zu Leistungserbringern
-von Heilmitteln
+Fünfter Abschnitt - Beziehungen zu Leistungserbringern von Heilmitteln
 - § 124 - Zulassung
 - § 125 - Verträge zur Heilmittelversorgung
 - § 125a - Heilmittelversorgung mit erweiterter Versorgungsverantwortung
 - § 125b - Verordnungsermächtigung
 
-Sechster Abschnitt - Beziehungen zu Leistungserbringern
-von Hilfsmitteln
+Sechster Abschnitt - Beziehungen zu Leistungserbringern von Hilfsmitteln
 - § 126 - Versorgung durch Vertragspartner
 - § 127 - Verträge
 - § 128 - Unzulässige Zusammenarbeit zwischen Leistungserbringern und Vertragsärzten
 
-Siebter Abschnitt - Beziehungen zu Apotheken und
-pharmazeutischen Unternehmern
+Siebter Abschnitt - Beziehungen zu Apotheken und pharmazeutischen Unternehmern
 - § 129 - Rahmenvertrag über die Arzneimittelversorgung, Verordnungsermächtigung
 - § 129a - Krankenhausapotheken
 - § 130 - Rabatt
@@ -379,8 +362,7 @@ pharmazeutischen Unternehmern
 - § 131 - Rahmenverträge mit pharmazeutischen Unternehmern
 - § 131a - Ersatzansprüche der Krankenkassen
 
-Achter Abschnitt - Beziehungen zu sonstigen
-Leistungserbringern
+Achter Abschnitt - Beziehungen zu sonstigen Leistungserbringern
 - § 132 - Versorgung mit Haushaltshilfe
 - § 132a - Versorgung mit häuslicher Krankenpflege
 - § 132b - Versorgung mit Soziotherapie
@@ -399,8 +381,7 @@ Leistungserbringern
 - § 134 - Vereinbarung zwischen dem Spitzenverband Bund der Krankenkassen und den Herstellern digitaler Gesundheitsanwendungen über Vergütungsbeträge; Verordnungsermächtigung
 - § 134a - Versorgung mit Hebammenhilfe
 
-Neunter Abschnitt - Sicherung der Qualität der
-Leistungserbringung
+Neunter Abschnitt - Sicherung der Qualität der Leistungserbringung
 - § 135 - Bewertung von Untersuchungs- und Behandlungsmethoden
 - § 135a - Verpflichtung der Leistungserbringer zur Qualitätssicherung
 - § 135b - Förderung der Qualität durch die Kassenärztlichen Vereinigungen
@@ -445,14 +426,12 @@ Elfter Abschnitt - Sonstige Beziehungen zu den Leistungserbringern
 Zwölfter Abschnitt - Beziehungen zu Leistungserbringern europäischer Staaten
 - § 140e - Verträge mit Leistungserbringern europäischer Staaten
 
-Dreizehnter Abschnitt - Beteiligung von Patientinnen und Patienten, Beauftragte oder Beauftragter
-der Bundesregierung für die Belange der Patientinnen und Patienten
+Dreizehnter Abschnitt - Beteiligung von Patientinnen und Patienten, Beauftragte oder Beauftragter der Bundesregierung für die Belange der Patientinnen und Patienten
 - § 140f - Beteiligung von Interessenvertretungen der Patientinnen und Patienten
 - § 140g - Verordnungsermächtigung
 - § 140h - Amt, Aufgabe und Befugnisse der oder des Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten
 
-Fünftes Kapitel - Sachverständigenrat zur Begutachtung der
-Entwicklung im Gesundheitswesen
+Fünftes Kapitel - Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen
 - § 141 - (weggefallen)
 - § 142 - Sachverständigenrat Gesundheit und Pflege
 
@@ -597,8 +576,7 @@ Beitragsbemessungsgrenze
 - § 224 - Beitragsfreiheit bei Krankengeld, Mutterschaftsgeld oder Elterngeld
 - § 225 - Beitragsfreiheit bestimmter Rentenantragsteller
 
-Zweiter Titel - Beitragspflichtige Einnahmen der
-Mitglieder
+Zweiter Titel - Beitragspflichtige Einnahmen der Mitglieder
 - § 226 - Beitragspflichtige Einnahmen versicherungspflichtig Beschäftigter
 - § 227 - Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die 
 gesetzliche Krankenversicherung und bisher nicht Versicherter
@@ -663,8 +641,7 @@ Dritter Abschnitt - Verwendung und Verwaltung der Mittel
 - § 263a - Anlagen in Investmentvermögen zur Förderung der Entwicklung digitaler Innovationen
 - § 264 - Übernahme der Krankenbehandlung für nicht Versicherungspflichtige gegen Kostenerstattung
 
-Vierter Abschnitt - Finanzausgleiche und Zuweisungen aus dem 
-Gesundheitsfonds
+Vierter Abschnitt - Finanzausgleiche und Zuweisungen aus dem Gesundheitsfonds
 - § 265 - Finanzausgleich für aufwendige Leistungsfälle
 - § 266 - Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich), Verordnungsermächtigung
 - § 267 - Datenverarbeitung für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
@@ -679,8 +656,7 @@ Gesundheitsfonds
 - § 272b - Sonderregelungen für den Gesundheitsfonds im Jahr 2023, Aussetzung des Zusatzbeitragssatzanhebungsverbots für das Jahr 2023
 - § 273 - Sicherung der Datengrundlagen für den Risikostrukturausgleich
 
-Fünfter Abschnitt - Prüfung der Krankenkassen und
-ihrer Verbände
+Fünfter Abschnitt - Prüfung der Krankenkassen und ihrer Verbände
 - § 274 - Prüfung der Geschäfts-, Rechnungs- und Betriebsführung
 
 Neuntes Kapitel - Medizinischer Dienst
@@ -702,8 +678,7 @@ Zweiter Abschnitt - Organisation
 - § 283 - Aufgaben des Medizinischen Dienstes Bund
 - § 283a - Aufgaben des Sozialmedizinischen Dienstes Deutsche Rentenversicherung Knappschaft-Bahn-See
 
-Zehntes Kapitel - Versicherungs- und Leistungsdaten,
-Datenschutz, Datentransparenz
+Zehntes Kapitel - Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz
 
 Erster Abschnitt - Informationsgrundlagen
 
@@ -713,8 +688,7 @@ Erster Titel - Grundsätze der Datenverarbeitung
 - § 286 - Datenübersicht
 - § 287 - Forschungsvorhaben
 
-Zweiter Titel - Informationsgrundlagen der
-Krankenkassen
+Zweiter Titel - Informationsgrundlagen der Krankenkassen
 - § 288 - Versichertenverzeichnis
 - § 289 - Nachweispflicht bei Familienversicherung
 - § 290 - Krankenversichertennummer
@@ -731,8 +705,7 @@ Krankenkassen
 - § 293 - Kennzeichen für Leistungsträger und Leistungserbringer
 - § 293a - Transparenzstelle für Verträge über eine hausarztzentrierte Versorgung und über eine besondere Versorgung
 
-Zweiter Abschnitt - Übermittlung und Aufbereitung
-von Leistungsdaten, Datentransparenz
+Zweiter Abschnitt - Übermittlung und Aufbereitung von Leistungsdaten, Datentransparenz
 
 Erster Titel - Übermittlung von Leistungsdaten
 - § 294 - Pflichten der Leistungserbringer
@@ -1324,10 +1297,7 @@ b) bisher nicht gesetzlich oder privat krankenversichert waren, es sei denn, das
 
 (3) Die zuständige Krankenkasse hat dem Reeder die Aufwendungen zu erstatten, die ihm nach § 104 Absatz 2 des Seearbeitsgesetzes entstanden sind.
 
-### § 18 - Kostenübernahme bei Behandlung
-außerhalb des Geltungsbereichs des Vertrages
-zur Gründung der Europäischen Gemeinschaft und des Abkommens über den
-Europäischen Wirtschaftsraum
+### § 18 - Kostenübernahme bei Behandlung außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Ist eine dem allgemein anerkannten Stand der medizinischen Erkenntnisse entsprechende Behandlung einer Krankheit nur außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum möglich, kann die Krankenkasse die Kosten der erforderlichen Behandlung ganz oder teilweise übernehmen. Der Anspruch auf Krankengeld ruht in diesem Fall nicht.
 
@@ -2982,8 +2952,7 @@ Die Krankenkassen sollen die Versicherten bei der Verfolgung von Schadensersatza
 (3) Um den Bedarf für eine Förderung digitaler Innovationen in der vertragsärztlichen und der vertragszahnärztlichen Versorgung und den möglichen Einfluss digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu ermitteln sowie die Auswirkungen digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu evaluieren, dürfen die Kassenärztlichen Bundesvereinigungen versichertenbezogene Daten im erforderlichen Umfang auswerten. Für die Bedarfsermittlung durch die Kassenärztlichen Bundesvereinigungen übermitteln die Kassenärztlichen Vereinigungen an die Kassenärztlichen Bundesvereinigungen die für diesen Zweck erforderlichen anonymisierten Daten. Absatz 2 Satz 4 gilt entsprechend.
 
 
-## Viertes Kapitel - Beziehungen der Krankenkassen zu den
-Leistungserbringern
+## Viertes Kapitel - Beziehungen der Krankenkassen zu den Leistungserbringern
 
 
 ## Erster Abschnitt - Allgemeine Grundsätze
@@ -3021,15 +2990,12 @@ Leistungserbringern
 (6) Wird durch einen der in den §§ 73b, 127 und 140a genannten Verträge das Recht erheblich verletzt, kann die Aufsichtsbehörde abweichend von § 89 Absatz 1 Satz 1 und 2 des Vierten Buches alle Anordnungen treffen, die für eine sofortige Behebung der Rechtsverletzung geeignet und erforderlich sind. Sie kann gegenüber der Krankenkasse oder der Arbeitsgemeinschaft der Krankenkassen insbesondere anordnen, den Vertrag dafür zu ändern oder aufzuheben. Die Krankenkasse oder Arbeitsgemeinschaft der Krankenkassen kann bei einer solchen Anordnung den Vertrag auch außerordentlich kündigen. Besteht die Gefahr eines schweren, nicht wieder gutzumachenden Schadens insbesondere für die Belange der Versicherten, kann die Aufsichtsbehörde einstweilige Maßnahmen anordnen. Ein Zwangsgeld kann bis zu einer Höhe von 10 Millionen Euro zugunsten des Gesundheitsfonds nach § 271 festgesetzt werden. Die Aufsichtsbehörde kann eine erhebliche Rechtsverletzung auch feststellen, nachdem diese beendet ist, sofern ein berechtigtes Interesse an der Feststellung besteht. Rechtsbehelfe gegen Anordnungen nach den Sätzen 1 bis 4 haben keine aufschiebende Wirkung. Die Sätze 1 bis 7 gelten auch für Verträge nach § 140a Absatz 1 Satz 3. Die Sätze 1 und 4 bis 7 gelten entsprechend bei Verstößen gegen die Pflicht nach § 127 Absatz 1 Satz 2 und Absatz 2 Satz 2, Vertragsverhandlungen zu ermöglichen. Verträge zwischen Krankenkassen und Leistungserbringern dürfen keine Vorschläge in elektronischer oder maschinell verwertbarer Form für die Vergabe und Dokumentation von Diagnosen für den Vertragspartner beinhalten. Die Krankenkassen haben auf Verlangen der zuständigen Aufsichtsbehörde bezüglich der Einhaltung Nachweise zu erbringen.
 
 
-## Zweiter Abschnitt - Beziehungen zu Ärzten,
-Zahnärzten und Psychotherapeuten
+## Zweiter Abschnitt - Beziehungen zu Ärzten, Zahnärzten und Psychotherapeuten
 
 
-## Erster Titel - Sicherstellung der vertragsärztlichen
-und vertragszahnärztlichen Versorgung
+## Erster Titel - Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung
 
-### § 72 - Sicherstellung der vertragsärztlichen und vertragszahnärztlichen
-Versorgung
+### § 72 - Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung
 
 (1) Ärzte, Zahnärzte, Psychotherapeuten, medizinische Versorgungszentren und Krankenkassen wirken zur Sicherstellung der vertragsärztlichen Versorgung der Versicherten zusammen. Soweit sich die Vorschriften dieses Kapitels auf Ärzte beziehen, gelten sie entsprechend für Zahnärzte, Psychotherapeuten und medizinische Versorgungszentren, sofern nichts Abweichendes bestimmt ist.
 
@@ -3275,8 +3241,7 @@ Können arbeitsunfähige Versicherte nach ärztlicher Feststellung ihre bisherig
 (5) Die Versicherten der knappschaftlichen Krankenversicherung können unter den Knappschaftsärzten und den in Absatz 1 genannten Personen und Einrichtungen frei wählen. Die Absätze 2 bis 4 gelten entsprechend.
 
 
-## Zweiter Titel - Kassenärztliche und Kassenzahnärztliche
-Vereinigungen
+## Zweiter Titel - Kassenärztliche und Kassenzahnärztliche Vereinigungen
 
 ### § 77 - Kassenärztliche Vereinigungen und Bundesvereinigungen
 
@@ -3837,8 +3802,7 @@ Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29 Absatz 
 (12) Die Regelungen der Absätze 1 bis 11 gelten nicht für die Kassenzahnärztlichen Vereinigungen und die Kassenzahnärztliche Bundesvereinigung.
 
 
-## Sechster Titel - Landesausschüsse und Gemeinsamer
-Bundesausschuss
+## Sechster Titel - Landesausschüsse und Gemeinsamer Bundesausschuss
 
 ### § 90 - Landesausschüsse
 
@@ -4060,8 +4024,7 @@ Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung ohne Zustimm
 (3) Klagen gegen Maßnahmen des Bundesministeriums für Gesundheit nach Absatz 1 haben keine aufschiebende Wirkung.
 
 
-## Siebter Titel - Voraussetzungen und Formen der
-Teilnahme von Ärzten und Zahnärzten an der Versorgung
+## Siebter Titel - Voraussetzungen und Formen der Teilnahme von Ärzten und Zahnärzten an der Versorgung
 
 ### § 95 - Teilnahme an der vertragsärztlichen Versorgung
 
@@ -4241,8 +4204,7 @@ c) in einem anderen Fachgebiet mit der Befugnis zum Führen einer entsprechenden
 (3) Absatz 2 Nummer 12 gilt nicht für die Zulassungsverordnung für Vertragszahnärzte.
 
 
-## Achter Titel - Bedarfsplanung, Unterversorgung,
-Überversorgung
+## Achter Titel - Bedarfsplanung, Unterversorgung, Überversorgung
 
 ### § 99 - Bedarfsplan
 
@@ -4366,8 +4328,7 @@ c) in einem anderen Fachgebiet mit der Befugnis zum Führen einer entsprechenden
 (5) Kommunen können mit Zustimmung der Kassenärztlichen Vereinigung in begründeten Ausnahmefällen eigene Einrichtungen zur unmittelbaren medizinischen Versorgung der Versicherten betreiben. Ein begründeter Ausnahmefall kann insbesondere dann vorliegen, wenn eine Versorgung auf andere Weise nicht sichergestellt werden kann. Sind die Voraussetzungen nach Satz 1 erfüllt, hat der Zulassungsausschuss die Einrichtung auf Antrag zur Teilnahme an der vertragsärztlichen Versorgung mit angestellten Ärzten, die in das Arztregister eingetragen sind, zu ermächtigen. § 95 Absatz 2 Satz 7 bis 10 gilt entsprechend. In der kommunalen Eigeneinrichtung tätige Ärzte sind bei ihren ärztlichen Entscheidungen nicht an Weisungen von Nichtärzten gebunden.
 
 
-## Neunter Titel - Wirtschaftlichkeits- und
-Abrechnungsprüfung
+## Neunter Titel - Wirtschaftlichkeits- und Abrechnungsprüfung
 
 ### § 106 - Wirtschaftlichkeitsprüfung
 
@@ -4454,8 +4415,7 @@ Abrechnungsprüfung
 (7) § 106 Absatz 4 gilt entsprechend.
 
 
-## Dritter Abschnitt - Beziehungen zu Krankenhäusern
-und anderen Einrichtungen
+## Dritter Abschnitt - Beziehungen zu Krankenhäusern und anderen Einrichtungen
 
 ### § 107 - Krankenhäuser, Vorsorge- oder Rehabilitationseinrichtungen
 
@@ -4660,8 +4620,7 @@ b) Kostenübernahme, Abrechnung der Entgelte, Berichte und Bescheinigungen,
 (5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere über die Zahl, die Bestellung, die Amtsdauer und die Amtsführung, die Erstattung der baren Auslagen und die Entschädigung für Zeitaufwand der Mitglieder der Schiedsstelle, die Geschäftsführung, das Verfahren, die Erhebung und die Höhe der Gebühren sowie über die Verteilung der Kosten zu bestimmen.
 
 
-## Vierter Abschnitt - Beziehungen zu Krankenhäusern
-und Vertragsärzten
+## Vierter Abschnitt - Beziehungen zu Krankenhäusern und Vertragsärzten
 
 ### § 115 - Dreiseitige Verträge und Rahmenempfehlungen zwischen Krankenkassen, Krankenhäusern und Vertragsärzten
 
@@ -4994,8 +4953,7 @@ Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der Inter
 -
 
 
-## Fünfter Abschnitt - Beziehungen zu Leistungserbringern
-von Heilmitteln
+## Fünfter Abschnitt - Beziehungen zu Leistungserbringern von Heilmitteln
 
 ### § 124 - Zulassung
 
@@ -5092,8 +5050,7 @@ b) mit den Festlegungen der Bundesmantelverträge nach § 86 vereinbar sein müs
 (3) (weggefallen)
 
 
-## Sechster Abschnitt - Beziehungen zu Leistungserbringern
-von Hilfsmitteln
+## Sechster Abschnitt - Beziehungen zu Leistungserbringern von Hilfsmitteln
 
 ### § 126 - Versorgung durch Vertragspartner
 
@@ -5152,8 +5109,7 @@ von Hilfsmitteln
 (6) Ist gesetzlich nichts anderes bestimmt, gelten bei der Erbringung von Leistungen nach den §§ 31 und 116b Absatz 7 die Absätze 1 bis 3 sowohl zwischen pharmazeutischen Unternehmern, Apotheken, pharmazeutischen Großhändlern und sonstigen Anbietern von Gesundheitsleistungen als auch jeweils gegenüber Vertragsärzten, Ärzten in Krankenhäusern und Krankenhausträgern entsprechend. Hiervon unberührt bleiben gesetzlich zulässige Vereinbarungen von Krankenkassen mit Leistungserbringern über finanzielle Anreize für die Mitwirkung an der Erschließung von Wirtschaftlichkeitsreserven und die Verbesserung der Qualität der Versorgung bei der Verordnung von Leistungen nach den §§ 31 und 116b Absatz 7. Die Sätze 1 und 2 gelten auch bei Leistungen zur Versorgung von chronischen und schwer heilenden Wunden nach § 37 Absatz 7 gegenüber den Leistungserbringern, die diese Leistungen erbringen.
 
 
-## Siebter Abschnitt - Beziehungen zu Apotheken und
-pharmazeutischen Unternehmern
+## Siebter Abschnitt - Beziehungen zu Apotheken und pharmazeutischen Unternehmern
 
 ### § 129 - Rahmenvertrag über die Arzneimittelversorgung, Verordnungsermächtigung
 
@@ -5420,8 +5376,7 @@ Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des zugelassen
 (2) Der Spitzenverband Bund der Krankenkassen vereinbart mit den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisationen der pharmazeutischen Unternehmer auf Bundesebene und Vertretern des pharmazeutischen Großhandels die näheren Einzelheiten für die Geltendmachung und Abwicklung der Ersatzansprüche der Krankenkassen. In den Vereinbarungen können insbesondere Pauschbeträge und eine Abtretung von Regressansprüchen vereinbart werden.
 
 
-## Achter Abschnitt - Beziehungen zu sonstigen
-Leistungserbringern
+## Achter Abschnitt - Beziehungen zu sonstigen Leistungserbringern
 
 ### § 132 - Versorgung mit Haushaltshilfe
 
@@ -5663,8 +5618,7 @@ Die Landesverbände der Krankenkassen und die Ersatzkassen schließen mit der La
 (6) (weggefallen)
 
 
-## Neunter Abschnitt - Sicherung der Qualität der
-Leistungserbringung
+## Neunter Abschnitt - Sicherung der Qualität der Leistungserbringung
 
 ### § 135 - Bewertung von Untersuchungs- und Behandlungsmethoden
 
@@ -6345,8 +6299,7 @@ Gelangt der Gemeinsame Bundesausschuss bei seinen Beratungen über eine Leistung
 Krankenkassen dürfen zur Versorgung ihrer Versicherten nach Maßgabe des Dritten Kapitels und des dazugehörigen untergesetzlichen Rechts Verträge mit Leistungserbringern nach § 13 Absatz 4 Satz 2 in anderen Mitgliedstaaten der Europäischen Union, in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz abschließen.
 
 
-## Dreizehnter Abschnitt - Beteiligung von Patientinnen und Patienten, Beauftragte oder Beauftragter
-der Bundesregierung für die Belange der Patientinnen und Patienten
+## Dreizehnter Abschnitt - Beteiligung von Patientinnen und Patienten, Beauftragte oder Beauftragter der Bundesregierung für die Belange der Patientinnen und Patienten
 
 ### § 140f - Beteiligung von Interessenvertretungen der Patientinnen und Patienten
 
@@ -6393,8 +6346,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung m
 (3) Zur Wahrnehmung der Aufgabe nach Absatz 2 beteiligen die Bundesministerien die beauftragte Person bei allen Gesetzes-, Verordnungs- und sonstigen wichtigen Vorhaben, soweit sie Fragen der Rechte und des Schutzes von Patientinnen und Patienten behandeln oder berühren. Alle Bundesbehörden und sonstigen öffentlichen Stellen im Bereich des Bundes unterstützen die beauftragte Person bei der Erfüllung der Aufgabe.
 
 
-## Fünftes Kapitel - Sachverständigenrat zur Begutachtung der
-Entwicklung im Gesundheitswesen
+## Fünftes Kapitel - Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen
 
 ### § 141 - (weggefallen)
 
@@ -6978,8 +6930,7 @@ Krankenkassen können die ihnen obliegenden Aufgaben durch Arbeitsgemeinschaften
 
 ## Vierter Abschnitt - Meldungen
 
-### § 198 - Meldepflicht des Arbeitgebers für versicherungspflichtig
-Beschäftigte
+### § 198 - Meldepflicht des Arbeitgebers für versicherungspflichtig Beschäftigte
 
 Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den §§ 28a bis 28c des Vierten Buches an die zuständige Krankenkasse zu melden.
 
@@ -7498,8 +7449,7 @@ Der Datenaustausch der Krankenkassen und der anderen Träger der sozialen Sicher
 
 ### § 222 - (weggefallen)
 
-### § 223 - Beitragspflicht, beitragspflichtige Einnahmen,
-Beitragsbemessungsgrenze
+### § 223 - Beitragspflicht, beitragspflichtige Einnahmen, Beitragsbemessungsgrenze
 
 (1) Die Beiträge sind für jeden Kalendertag der Mitgliedschaft zu zahlen, soweit dieses Buch nichts Abweichendes bestimmt.
 
@@ -7521,8 +7471,7 @@ Beitragsfrei ist ein Rentenantragsteller bis zum Beginn der Rente, wenn er
 3. ohne die Versicherungspflicht nach § 5 Absatz 1 Nummer 11 bis 12 nach § 10 dieses Buches oder nach § 7 des Zweiten Gesetzes über die Krankenversicherung der Landwirte versichert wäre. Satz 1 gilt nicht, wenn der Rentenantragsteller Arbeitseinkommen oder Versorgungsbezüge erhält. § 226 Abs. 2 gilt entsprechend.
 
 
-## Zweiter Titel - Beitragspflichtige Einnahmen der
-Mitglieder
+## Zweiter Titel - Beitragspflichtige Einnahmen der Mitglieder
 
 ### § 226 - Beitragspflichtige Einnahmen versicherungspflichtig Beschäftigter
 
@@ -7542,8 +7491,7 @@ Mitglieder
 
 (6) Sind Personen, die nach § 5 Absatz 1 Nummer 11b versicherungspflichtig sind, durch Ableistung eines Freiwilligendienstes nach dem Bundesfreiwilligendienstgesetz oder dem Jugendfreiwilligendienstegesetz oder eines vergleichbaren anerkannten Freiwilligendienstes auch nach § 5 Absatz 1 Nummer 1 versicherungspflichtig, sind die in § 5 Absatz 1 Nummer 11b und in § 237 Satz 3 genannten Leistungen bis zum Erreichen der in § 10 Absatz 2 Nummer 3 genannten Altersgrenzen beitragsfrei.
 
-### § 227 - Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die 
-gesetzliche Krankenversicherung und bisher nicht Versicherter
+### § 227 - Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die gesetzliche Krankenversicherung und bisher nicht Versicherter
 
 Für die nach § 5 Abs. 1 Nr. 13 Versicherungspflichtigen gilt § 240 entsprechend.
 
@@ -7568,8 +7516,7 @@ d) bei einer erhöhten Unfallversorgung der Unterschiedsbetrag zum Zahlbetrag de
 
 (2) Für Nachzahlungen von Versorgungsbezügen gilt § 228 Abs. 2 entsprechend.
 
-### § 230 - Rangfolge der Einnahmearten versicherungspflichtig
-Beschäftigter
+### § 230 - Rangfolge der Einnahmearten versicherungspflichtig Beschäftigter
 
 Erreicht das Arbeitsentgelt nicht die Beitragsbemessungsgrenze, werden nacheinander der Zahlbetrag der Versorgungsbezüge und das Arbeitseinkommen des Mitglieds bis zur Beitragsbemessungsgrenze berücksichtigt. Der Zahlbetrag der Rente der gesetzlichen Rentenversicherung wird getrennt von den übrigen Einnahmearten bis zur Beitragsbemessungsgrenze berücksichtigt.
 
@@ -7642,8 +7589,7 @@ Bei versicherungspflichtigen Rentnern werden der Beitragsbemessung zugrunde gele
 2. der Zahlbetrag der der Rente vergleichbaren Einnahmen und
 3. das Arbeitseinkommen. Bei Versicherungspflichtigen nach § 5 Absatz 1 Nummer 11b sind die dort genannten Leistungen bis zum Erreichen der Altersgrenzen des § 10 Absatz 2 beitragsfrei. Dies gilt entsprechend für die Leistungen der Hinterbliebenenversorgung nach § 229 Absatz 1 Satz 1 Nummer 1 und für die Waisenrente nach § 15 des Gesetzes über die Alterssicherung der Landwirte. § 226 Abs. 2 und die §§ 228, 229 und 231 gelten entsprechend.
 
-### § 238 - Rangfolge der Einnahmearten versicherungspflichtiger
-Rentner
+### § 238 - Rangfolge der Einnahmearten versicherungspflichtiger Rentner
 
 Erreicht der Zahlbetrag der Rente der gesetzlichen Rentenversicherung nicht die Beitragsbemessungsgrenze, werden nacheinander der Zahlbetrag der Versorgungsbezüge und das Arbeitseinkommen des Mitglieds bis zur Beitragsbemessungsgrenze berücksichtigt.
 
@@ -7712,8 +7658,7 @@ Der allgemeine Beitragssatz beträgt 14,6 Prozent der beitragspflichtigen Einnah
 
 Für Mitglieder, die keinen Anspruch auf Krankengeld haben, gilt ein ermäßigter Beitragssatz. Dies gilt nicht für die Beitragsbemessung nach § 240 Absatz 4b. Der ermäßigte Beitragssatz beträgt 14,0 Prozent der beitragspflichtigen Einnahmen der Mitglieder.
 
-### § 244 - Ermäßigter Beitrag für Wehrdienstleistende und
-Zivildienstleistende
+### § 244 - Ermäßigter Beitrag für Wehrdienstleistende und Zivildienstleistende
 
 (1) Bei Einberufung zu einem Wehrdienst wird der Beitrag für
 1. Wehrdienstleistende nach § 193 Abs. 1 auf ein Drittel,
@@ -7963,8 +7908,7 @@ Das Verwaltungsvermögen der Krankenkasse umfasst neben den in § 82a Satz 2 des
 (7) Die Aufwendungen, die den Krankenkassen durch die Übernahme der Krankenbehandlung nach den Absätzen 2 bis 6 entstehen, werden ihnen von den für die Hilfe zuständigen Trägern der Sozialhilfe oder der öffentlichen Jugendhilfe vierteljährlich erstattet. Als angemessene Verwaltungskosten einschließlich Personalaufwand für den Personenkreis nach Absatz 2 werden bis zu 5 vom Hundert der abgerechneten Leistungsaufwendungen festgelegt. Wenn Anhaltspunkte für eine unwirtschaftliche Leistungserbringung oder -gewährung vorliegen, kann der zuständige Träger der Sozialhilfe oder der öffentlichen Jugendhilfe von der jeweiligen Krankenkasse verlangen, die Angemessenheit der Aufwendungen zu prüfen und nachzuweisen.
 
 
-## Vierter Abschnitt - Finanzausgleiche und Zuweisungen aus dem 
-Gesundheitsfonds
+## Vierter Abschnitt - Finanzausgleiche und Zuweisungen aus dem Gesundheitsfonds
 
 ### § 265 - Finanzausgleich für aufwendige Leistungsfälle
 
@@ -8192,8 +8136,7 @@ c) mit Wahl der Kostenerstattung für den Bereich der ärztlichen Versorgung, di
 (7) Das Bundesamt für Soziale Sicherung führt die Prüfungen nach den Absätzen 2 bis 5 ab dem Berichtsjahr 2013 durch. Die in Satz 1 genannten Prüfungen sind spätestens bis zum Ablauf des 15. Kalenderjahres, das auf das Berichtsjahr folgt, auf das sich die jeweilige Prüfung bezieht, abzuschließen. Im Rahmen der Prüfung nach den Absätzen 4 oder 5 kann sich die Krankenkasse nicht darauf berufen, dass die zuständige Aufsichtsbehörde den Vertrag nicht innerhalb der Frist gemäß § 71 Absatz 4 Satz 2, § 71 Absatz 4 Satz 3 in der bis zum 22. Juli 2015 geltenden Fassung oder § 73b Absatz 9 Satz 2 in der bis zum 22. Juli 2015 geltenden Fassung beanstandet hat. Satz 1 gilt nicht für abgeschlossene Einzelfallprüfungen nach § 273 Absatz 3 Satz 1 und 2 in der bis zum 31. März 2020 geltenden Fassung; für die Ermittlung des Korrekturbetrags gilt Absatz 6.
 
 
-## Fünfter Abschnitt - Prüfung der Krankenkassen und
-ihrer Verbände
+## Fünfter Abschnitt - Prüfung der Krankenkassen und ihrer Verbände
 
 ### § 274 - Prüfung der Geschäfts-, Rechnungs- und Betriebsführung
 
@@ -8513,8 +8456,7 @@ b) die Arbeitsunfähigkeit von einem Arzt festgestellt worden ist, der durch die
 (3) Die Deutsche Rentenversicherung Knappschaft-Bahn-See trägt die Kosten der Tätigkeit des Beirates. Die Vertreter und deren persönliche Stellvertreter erhalten Reisekosten nach den Vorschriften des Bundes über Reisekostenvergütungen, Ersatz des Verdienstausfalls in entsprechender Anwendung des § 41 Absatz 2 des Vierten Buches sowie einen Pauschbetrag für Zeitaufwand in Höhe eines Fünfzigstels der monatlichen Bezugsgröße (§ 18 des Vierten Buches) für jeden Kalendertag einer Sitzung.
 
 
-## Zehntes Kapitel - Versicherungs- und Leistungsdaten,
-Datenschutz, Datentransparenz
+## Zehntes Kapitel - Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz
 
 
 ## Erster Abschnitt - Informationsgrundlagen
@@ -8590,8 +8532,7 @@ Die Krankenkassen und die Kassenärztlichen Vereinigungen regeln in Dienstanweis
 (2) Die nach Absatz 1 verarbeiteten Daten sind zu anonymisieren, soweit und sobald dies nach dem Forschungszweck des jeweiligen Forschungsvorhabens möglich ist.
 
 
-## Zweiter Titel - Informationsgrundlagen der
-Krankenkassen
+## Zweiter Titel - Informationsgrundlagen der Krankenkassen
 
 ### § 288 - Versichertenverzeichnis
 
@@ -8815,8 +8756,7 @@ d) Leistungen der häuslichen Pflegehilfe im Sinne des § 36 Absatz 1 des Elften
 (7) Die dem Bundesamt für Soziale Sicherung bei der Verwaltung der Vertragstransparenzstelle entstehenden Ausgaben werden aus den Einnahmen des Gesundheitsfonds gedeckt.
 
 
-## Zweiter Abschnitt - Übermittlung und Aufbereitung
-von Leistungsdaten, Datentransparenz
+## Zweiter Abschnitt - Übermittlung und Aufbereitung von Leistungsdaten, Datentransparenz
 
 
 ## Erster Titel - Übermittlung von Leistungsdaten
