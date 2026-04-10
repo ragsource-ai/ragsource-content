@@ -15,7 +15,6 @@ endpoints:
 extensions:
   - Arbeitsrecht
 ---
-
 ## Inhaltsverzeichnis
 
 Erster Teil - Allgemeine Vorschriften
