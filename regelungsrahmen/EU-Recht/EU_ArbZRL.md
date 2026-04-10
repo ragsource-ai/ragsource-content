@@ -18,6 +18,7 @@ rechtstyp: EU-Richtlinie
 offiziell: Richtlinie 2003/88/EG des Europäischen Parlaments und des Rates vom 4. November 2003 über bestimmte Aspekte der Arbeitszeitgestaltung
 erlassdatum: 2003-11-04
 inkrafttreten: 2004-08-02
+url: "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32003L0088"
 ---
 
 ## Inhaltsverzeichnis
