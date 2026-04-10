@@ -36,17 +36,16 @@ Jede Datei beginnt mit YAML-Frontmatter, das den Artikel klassifiziert:
 ---
 titel: Feuerwehrsatzung der Gemeinde Bad Boll
 ebene: gemeinde
-saule: regelungsrahmen
+typ: satzung
 # ARS-Felder (maschinell, fuer Geo-Filterung)
 land_ars: "08"
 kreis_ars: "08117"
 verband_ars: "081175009"
 gemeinde_ars: "081175009012"
-# Klartext-Felder (Lesehilfe, fuer Obsidian + LLM-Response)
-land: Baden-Wuerttemberg
-kreis: Goeppingen
-verband: GVV Raum Bad Boll
-gemeinde: Bad Boll
+endpoints:            # Tenancy: leer = universell fuer alle Deployments
+  - amtsschimmel
+extensions:           # Themen: leer = immer sichtbar
+  - Feuerwehr
 keywords:
   - Feuerwehr
   - Feuerwehrkommandant
@@ -88,8 +87,8 @@ Nur die Felder setzen, die zur `ebene` passen (bund = keine, land = `land_ars`, 
 |------|---------|--------------|
 | `quelle` | `Gemeinderatsbeschluss 25.03.2021` | Herkunft des Dokuments |
 | `gueltig_ab` | `2021-03-25` | Datum des Inkrafttretens |
-| `status` | `published` \| `draft` | Veroeffentlichungsstatus |
-| `projekte` | `[amtsschimmel]` | Projekt-Sichtbarkeit (leer = alle) |
+| `endpoints` | `[amtsschimmel]` | Tenancy: welche Deployments sehen die Quelle (leer = alle) |
+| `extensions` | `[Feuerwehr]` | Themen: thematische Zuordnung (leer = immer sichtbar) |
 | `keywords` | `[Feuerwehr, Satzung]` | Suchbegriffe fuer den Volltext-Index |
 | `fragen` | `["Wie wird ...?"]` | Typische Nutzerfragen |
 | `querverweise` | `[Hauptsatzung ...]` | Verwandte Artikel (exakte Titel) |

@@ -12,6 +12,8 @@ stand: "2025-03-22"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - universal
 ---
 
 ## Inhaltsverzeichnis

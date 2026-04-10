@@ -11,6 +11,8 @@ stand: "2020-05-20"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Arbeitsrecht
 ---
 
 ## Inhaltsverzeichnis

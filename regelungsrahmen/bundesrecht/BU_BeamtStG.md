@@ -11,6 +11,8 @@ stand: "2023-12-20"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Beamtenrecht
 ---
 
 ## Inhaltsverzeichnis

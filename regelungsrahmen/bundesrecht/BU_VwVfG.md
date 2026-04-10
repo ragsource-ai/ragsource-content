@@ -7,6 +7,8 @@ gueltig_ab: 1977-01-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - universal
 ---
 
 ## Inhaltsverzeichnis

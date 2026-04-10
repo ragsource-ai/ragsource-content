@@ -6,6 +6,8 @@ quelle: BGBl. I 2003 S. 2954, neugefasst durch Bek. v. 13.05.2011 I 850, 2094; z
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Arbeitsrecht
 ---
 
 ## Inhaltsverzeichnis

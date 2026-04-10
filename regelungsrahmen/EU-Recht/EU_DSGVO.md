@@ -13,6 +13,8 @@ gemeinde:
 endpoints:
   - amtsschimmel
   - brandmeister
+extensions:
+  - universal
 kurztitel: DSGVO
 rechtstyp: EU-Verordnung
 offiziell: Verordnung (EU) 2016/679
