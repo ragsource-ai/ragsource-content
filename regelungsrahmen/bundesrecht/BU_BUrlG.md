@@ -7,7 +7,7 @@ geaendert_am: "2013-04-20"
 quelle: "Gesetz vom 1963-01-08 (BGBl I 1963, 2), zuletzt geändert durch Art. 3 Abs. 3 G v. 20.4.2013 I 868"
 gueltig_ab: 2013-04-20
 url: "https://www.gesetze-im-internet.de/burlg/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das Mindesturlaubsgesetz für Arbeitnehmer (BUrlG) regelt den gesetzlichen Mindestanspruch auf bezahlten Erholungsurlaub von 24 Werktagen jährlich sowie Fragen zu Urlaubsentgelt, Übertragung, Teilurlaub und Abgeltung."
 stand: "2013-04-20"
 status: published
 endpoints:

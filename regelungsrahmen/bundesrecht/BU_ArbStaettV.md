@@ -7,7 +7,7 @@ geaendert_am: "2024-03-27"
 quelle: "Gesetz vom 2004-08-12 (BGBl I 2004, 2179), zuletzt geändert durch Art. 10 G v. 27.3.2024 I Nr. 109"
 gueltig_ab: 2024-03-27
 url: "https://www.gesetze-im-internet.de/arbst_ttv_2004/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Die Arbeitsstättenverordnung (ArbStättV) konkretisiert die Anforderungen des Arbeitgeberschutzes beim Einrichten und Betreiben von Arbeitsstätten und enthält verbindliche Vorgaben zu Raumklima, Beleuchtung, Bildschirmarbeitsplätzen und Nichtraucherschutz."
 stand: "2024-03-27"
 status: published
 endpoints:

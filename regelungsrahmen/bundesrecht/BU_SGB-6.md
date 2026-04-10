@@ -7,7 +7,7 @@ geaendert_am: "2026-02-04"
 quelle: "Gesetz vom 1989-12-18 (BGBl I 1989, 2261 (1990 I 1337)), zuletzt geändert durch Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33"
 gueltig_ab: 2026-02-04
 url: "https://www.gesetze-im-internet.de/sgb_6/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das SGB VI regelt die gesetzliche Rentenversicherung, insbesondere Versicherungspflicht, Rentenarten (Altersrenten, Renten wegen Erwerbsminderung, Hinterbliebenenrenten), Rentenberechnung, Beitragsrecht sowie Leistungen zur Rehabilitation und Teilhabe am Arbeitsleben."
 stand: "2026-02-04"
 status: published
 endpoints:
@@ -65,8 +65,8 @@ Dritter Titel - Übergangsgeld
 
 Vierter Titel - Ergänzende Leistungen
 - § 28 - Ergänzende Leistungen
-- § 29
-- § 30
+- § 29 - (weggefallen)
+- § 30 - (weggefallen)
 
 Fünfter Titel - Sonstige Leistungen
 - § 31 - Sonstige Leistungen
@@ -98,7 +98,7 @@ Erster Titel - Renten wegen Alters
 Zweiter Titel - Renten wegen verminderter
 Erwerbsfähigkeit
 - § 43 - Rente wegen Erwerbsminderung
-- § 44
+- § 44 - (weggefallen)
 - § 45 - Rente für Bergleute
 
 Dritter Titel - Renten wegen Todes
@@ -364,7 +364,7 @@ Zweiter Titel - Beitragsbemessungsgrundlagen
 - § 161 - Grundsatz
 - § 162 - Beitragspflichtige Einnahmen Beschäftigter
 - § 163 - Sonderregelung für beitragspflichtige Einnahmen Beschäftigter
-- § 164
+- § 164 - (weggefallen)
 - § 165 - Beitragspflichtige Einnahmen selbständig Tätiger
 - § 166 - Beitragspflichtige Einnahmen sonstiger Versicherter
 - § 167 - Freiwillig Versicherte
@@ -609,7 +609,7 @@ Achter Unterabschnitt - Zusatzleistungen
 - § 269a - (weggefallen)
 - § 269b - Rentenabfindung bei Wiederheirat von Witwen und Witwern
 - § 270 - (weggefallen)
-- § 270a
+- § 270a - (weggefallen)
 
 Neunter Unterabschnitt - Leistungen an Berechtigte
 im Ausland und Auszahlung
@@ -638,7 +638,7 @@ Dritter Titel - Übergangsvorschriften zur Zuständigkeit der Rentenversicherung
 Elfter Unterabschnitt - Finanzierung
 
 Erster Titel - (weggefallen)
-- § 275
+- § 275 - (weggefallen)
 
 Zweiter Titel - Beiträge
 - § 276 - Übergangsregelung für Auszubildende in einer außerbetrieblichen Einrichtung
@@ -690,7 +690,7 @@ Vierter Titel - Berechnungsgrundlagen
 - § 287f - (weggefallen)
 - § 287g - Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027
 - § 287h - Bundesmittel und Mindestrücklage
-- § 288
+- § 288 - (weggefallen)
 
 Fünfter Titel - Erstattungen
 - § 289 - Wanderversicherungsausgleich
@@ -1215,13 +1215,9 @@ b) Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Kranken
 
 (2) Für ambulante Leistungen zur Prävention und Nachsorge gilt Absatz 1 mit der Maßgabe, dass die Leistungen nach den §§ 73 und 74 des Neunten Buches im Einzelfall bewilligt werden können, wenn sie zur Durchführung der Leistungen notwendig sind. Fahrkosten nach § 73 Absatz 4 des Neunten Buches können pauschaliert bewilligt werden.
 
-### § 29
+### § 29 - (weggefallen)
 
-(weggefallen)
-
-### § 30
-
-(weggefallen)
+### § 30 - (weggefallen)
 
 
 ## Fünfter Titel - Sonstige Leistungen
@@ -1387,9 +1383,7 @@ Erwerbsfähigkeit
 
 (7) Wird neben einer Rente nach Absatz 1 oder 2 unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes eine Erwerbstätigkeit ausgeübt, deren Umfang das der Rentengewährung zugrunde liegende zeitliche Leistungsvermögen überschreitet, besteht für einen Zeitraum von regelmäßig sechs Monaten ab Beginn der Ausübung weiterhin Anspruch auf die gewährte Rente.
 
-### § 44
-
-(weggefallen)
+### § 44 - (weggefallen)
 
 ### § 45 - Rente für Bergleute
 
@@ -3341,9 +3335,7 @@ Beitragspflichtige Einnahmen sind
 
 (10) (weggefallen)
 
-### § 164
-
-(weggefallen)
+### § 164 - (weggefallen)
 
 ### § 165 - Beitragspflichtige Einnahmen selbständig Tätiger
 
@@ -5095,9 +5087,7 @@ Die Rentenabfindung bei Wiederheirat von Witwen und Witwern erfolgt ohne Anrechn
 
 ### § 270 - (weggefallen)
 
-### § 270a
-
-(weggefallen)
+### § 270a - (weggefallen)
 
 
 ## Neunter Unterabschnitt - Leistungen an Berechtigte
@@ -5222,9 +5212,7 @@ Ob im Beitrittsgebiet ein Betrieb knappschaftlich ist, einem knappschaftlichen B
 
 ## Erster Titel - (weggefallen)
 
-### § 275
-
-(weggefallen)
+### § 275 - (weggefallen)
 
 
 ## Zweiter Titel - Beiträge
@@ -5472,9 +5460,7 @@ Der Erhöhungsbetrag nach § 213 Absatz 4 wird in den Jahren 2024 bis 2027 jewei
 
 Ist der Beitragssatz in der allgemeinen Rentenversicherung vom 1. Januar eines Jahres an nach § 158 erstmals auf einen Wert von über 18,6 Prozent zu verändern, ist für dieses Jahr zusätzlich ein rechnerischer Beitragssatz in der allgemeinen Rentenversicherung nach § 158 zu ermitteln, der sich bei einer Mindestrücklage nach § 158 Absatz 1 Satz 1 Nummer 1 in Höhe des 0,2fachen der durchschnittlichen Ausgaben zu eigenen Lasten der Träger der allgemeinen Rentenversicherung für einen Kalendermonat ergeben würde. Bei der Bestimmung des allgemeinen Bundeszuschusses nach § 213 Absatz 2 und der Beitragszahlung für Kindererziehungszeiten nach § 177 Absatz 2 ist für das Jahr nach Satz 1 an Stelle des Beitragssatzes zur allgemeinen Rentenversicherung nach § 158 jeweils der rechnerische Beitragssatz nach Satz 1 anzuwenden. Bei der Festlegung des allgemeinen Bundeszuschusses nach § 213 Absatz 2 und der Beitragszahlung für Kindererziehungszeiten nach § 177 Absatz 2 in dem darauf folgenden Jahr ist als Beitragssatz für das Jahr nach Satz 1 an Stelle des Beitragssatzes zur allgemeinen Rentenversicherung nach § 158 jeweils der rechnerische Beitragssatz nach Satz 1 anzuwenden.
 
-### § 288
-
-(weggefallen)
+### § 288 - (weggefallen)
 
 
 ## Fünfter Titel - Erstattungen

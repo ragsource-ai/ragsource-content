@@ -7,7 +7,7 @@ geaendert_am: "2021-08-07"
 quelle: "Gesetz vom 1976-05-04 (BGBl I 1976, 1153), zuletzt geändert durch Art. 17 G v. 7.8.2021 I 3311"
 gueltig_ab: 2021-08-07
 url: "https://www.gesetze-im-internet.de/mitbestg/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das Mitbestimmungsgesetz (MitbestG) regelt die paritätische Mitbestimmung der Arbeitnehmer im Aufsichtsrat von Unternehmen mit mehr als 2.000 Beschäftigten sowie die Bestellung eines Arbeitsdirektors im Vorstand."
 stand: "2021-08-07"
 status: published
 endpoints:
@@ -35,11 +35,11 @@ Zweiter Abschnitt - Bestellung der Aufsichtsratsmitglieder
 
 Erster Unterabschnitt - Aufsichtsratsmitglieder
 der Anteilseigner
-- § 8
+- § 8 (Red. Kein amtlicher Titel)
 
 Zweiter Unterabschnitt - Aufsichtsratsmitglieder
 der Arbeitnehmer, Grundsatz
-- § 9
+- § 9 (Red. Kein amtlicher Titel)
 
 Dritter Unterabschnitt - Wahl der
 Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
@@ -56,10 +56,10 @@ der Arbeitnehmer
 
 Vierter Unterabschnitt - Unmittelbare Wahl der
 Aufsichtsratsmitglieder der Arbeitnehmer
-- § 18
+- § 18 (Red. Kein amtlicher Titel)
 
 Fünfter Unterabschnitt - Nichterreichen des Geschlechteranteils durch die Wahl
-- § 18a
+- § 18a (Red. Kein amtlicher Titel)
 
 Sechster Unterabschnitt - Weitere Vorschriften über das Wahlverfahren sowie über die Bestellung und Abberufung von Aufsichtsratsmitgliedern
 - § 19 - Bekanntmachung der Mitglieder des Aufsichtsrats
@@ -86,13 +86,13 @@ Dritter Teil - Gesetzliches Vertretungsorgan
 - § 33 - Arbeitsdirektor
 
 Vierter Teil - Seeschiffahrt
-- § 34
+- § 34 (Red. Kein amtlicher Titel)
 
 Fünfter Teil - Übergangs- und Schlußvorschriften
-- § 35
+- § 35 (Red. Kein amtlicher Titel)
 - § 36 - Verweisungen
 - § 37 - Erstmalige Anwendung des Gesetzes auf ein Unternehmen
-- § 38
+- § 38 (Red. Kein amtlicher Titel)
 - § 39 - Ermächtigung zum Erlaß von Rechtsverordnungen
 - § 40 - Übergangsregelung
 - § 41 - Inkrafttreten
@@ -181,7 +181,7 @@ Anteilseigner im Sinne dieses Gesetzes sind je nach der Rechtsform der in § 1 A
 ## Erster Unterabschnitt - Aufsichtsratsmitglieder
 der Anteilseigner
 
-### § 8
+### § 8 (Red. Kein amtlicher Titel)
 
 (1) Die Aufsichtsratsmitglieder der Anteilseigner werden durch das nach Gesetz, Satzung oder Gesellschaftsvertrag zur Wahl von Mitgliedern des Aufsichtsrats befugte Organ (Wahlorgan) und, soweit gesetzliche Vorschriften dem nicht entgegenstehen, nach Maßgabe der Satzung oder des Gesellschaftsvertrags bestellt.
 
@@ -191,7 +191,7 @@ der Anteilseigner
 ## Zweiter Unterabschnitt - Aufsichtsratsmitglieder
 der Arbeitnehmer, Grundsatz
 
-### § 9
+### § 9 (Red. Kein amtlicher Titel)
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer (§ 7 Abs. 2) eines Unternehmens mit in der Regel mehr als 8.000 Arbeitnehmern werden durch Delegierte gewählt, sofern nicht die wahlberechtigten Arbeitnehmer die unmittelbare Wahl beschließen.
 
@@ -288,14 +288,14 @@ der Arbeitnehmer
 ## Vierter Unterabschnitt - Unmittelbare Wahl der
 Aufsichtsratsmitglieder der Arbeitnehmer
 
-### § 18
+### § 18 (Red. Kein amtlicher Titel)
 
 Sind nach § 9 die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer Wahl zu wählen, so sind die Arbeitnehmer des Unternehmens, die das 18. Lebensjahr vollendet haben, wahlberechtigt. § 7 Satz 2 des Betriebsverfassungsgesetzes gilt entsprechend. Für die Wahl sind die §§ 15 bis 17 mit der Maßgabe anzuwenden, daß an die Stelle der Delegierten die wahlberechtigten Arbeitnehmer des Unternehmens treten.
 
 
 ## Fünfter Unterabschnitt - Nichterreichen des Geschlechteranteils durch die Wahl
 
-### § 18a
+### § 18a (Red. Kein amtlicher Titel)
 
 (1) Ergibt im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes die Auszählung der Stimmen und ihre Verteilung auf die Bewerber, dass die Vorgaben des § 7 Absatz 3 nicht erreicht worden sind, ist folgendes Geschlechterverhältnis für die Aufsichtsratssitze der Arbeitnehmer herzustellen:
 1. in Aufsichtsräten nach § 7 Absatz 2 Nummer 1 und 2 müssen unter den Aufsichtsratsmitgliedern der Arbeitnehmer nach § 3 Absatz 1 Nummer 1 jeweils mindestens eine Frau und mindestens ein Mann und unter den Aufsichtsratsmitgliedern der Gewerkschaften jeweils eine Frau und ein Mann vertreten sein;
@@ -435,7 +435,7 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 ## Vierter Teil - Seeschiffahrt
 
-### § 34
+### § 34 (Red. Kein amtlicher Titel)
 
 (1) Die Gesamtheit der Schiffe eines Unternehmens gilt für die Anwendung dieses Gesetzes als ein Betrieb.
 
@@ -452,7 +452,7 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
 
-### § 35
+### § 35 (Red. Kein amtlicher Titel)
 
 -
 
@@ -472,7 +472,7 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 (4) Absatz 3 gilt nicht für persönlich haftende Gesellschafter einer Kommanditgesellschaft auf Aktien.
 
-### § 38
+### § 38 (Red. Kein amtlicher Titel)
 
 (weggefallen)
 

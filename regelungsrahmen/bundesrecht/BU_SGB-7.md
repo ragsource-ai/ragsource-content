@@ -7,7 +7,7 @@ geaendert_am: "2026-02-04"
 quelle: "Gesetz vom 1996-08-07 (BGBl I 1996, 1254), zuletzt geändert durch Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33"
 gueltig_ab: 2026-02-04
 url: "https://www.gesetze-im-internet.de/sgb_7/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das SGB VII regelt die gesetzliche Unfallversicherung, insbesondere Versicherungsschutz bei Arbeitsunfällen und Berufskrankheiten, Präventionspflichten der Unfallversicherungsträger, Leistungen zur medizinischen Rehabilitation und Entschädigung sowie die Organisation der Berufsgenossenschaften."
 stand: "2026-02-04"
 status: published
 endpoints:

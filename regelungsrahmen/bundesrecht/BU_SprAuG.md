@@ -7,7 +7,7 @@ geaendert_am: "2022-09-16"
 quelle: "Gesetz vom 1988-12-20 (BGBl I 1988, 2312, 2316), zuletzt geändert durch Art. 6e G v. 16.9.2022 I 1454"
 gueltig_ab: 2022-09-16
 url: "https://www.gesetze-im-internet.de/spraug/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das Sprecherausschussgesetz (SprAuG) regelt die Wahl und die Aufgaben von Sprecherausschüssen als Vertretungsorgane leitender Angestellter in Betrieben sowie deren Mitwirkungsrechte gegenüber dem Arbeitgeber."
 stand: "2022-09-16"
 status: published
 endpoints:
@@ -82,8 +82,7 @@ Vierter Teil - Besondere Vorschriften
 - § 33 - Seeschiffahrt
 
 Fünfter Teil - Straf- und Bußgeldvorschriften
-- § 34 - Straftaten gegen Vertretungsorgane der leitenden
-Angestellten und ihre Mitglieder
+- § 34 - Straftaten gegen Vertretungsorgane der leitenden Angestellten und ihre Mitglieder
 - § 35 - Verletzung von Geheimnissen
 - § 36 - Bußgeldvorschriften
 
@@ -423,8 +422,7 @@ Der Arbeitgeber hat den Sprecherausschuß rechtzeitig in folgenden Angelegenheit
 
 ## Fünfter Teil - Straf- und Bußgeldvorschriften
 
-### § 34 - Straftaten gegen Vertretungsorgane der leitenden
-Angestellten und ihre Mitglieder
+### § 34 - Straftaten gegen Vertretungsorgane der leitenden Angestellten und ihre Mitglieder
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 1. eine Wahl des Sprecherausschusses oder des Unternehmenssprecherausschusses behindert oder durch Zufügung oder Androhung von Nachteilen oder durch Gewährung oder Versprechen von Vorteilen beeinflußt,

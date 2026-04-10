@@ -7,7 +7,7 @@ geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 1972-08-07 (BGBl I 1972, 1393), zuletzt geändert durch Art. 10 G v. 22.12.2025 I Nr. 369"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/a_g/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das Arbeitnehmerüberlassungsgesetz (AÜG) regelt die gewerbsmäßige Überlassung von Arbeitnehmern (Leiharbeit), insbesondere die Erlaubnispflicht für Verleiher, den Gleichbehandlungsgrundsatz sowie die Rechte und Pflichten im Leiharbeitsverhältnis."
 stand: "2025-12-22"
 status: published
 endpoints:

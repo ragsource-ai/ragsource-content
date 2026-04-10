@@ -7,7 +7,7 @@ geaendert_am: "2024-05-06"
 quelle: "Gesetz vom 2017-06-30 (BGBl I 2017, 2097), zuletzt geändert durch Art. 7 G v. 6.5.2024 I Nr. 149"
 gueltig_ab: 2024-05-06
 url: "https://www.gesetze-im-internet.de/bdsg_2018/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das BDSG 2018 ergänzt die DSGVO und regelt den Datenschutz im deutschen Recht, insbesondere für öffentliche Stellen, den Beschäftigtendatenschutz (§ 26), die Aufsichtsbehörden des Bundes und der Länder sowie den Datenschutz im Bereich der Strafverfolgung (Umsetzung der EU-Richtlinie 2016/680)."
 stand: "2024-05-06"
 status: published
 endpoints:

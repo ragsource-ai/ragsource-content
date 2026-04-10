@@ -7,7 +7,7 @@ geaendert_am: "2013-04-20"
 quelle: "Gesetz vom 1973-12-12 (BGBl I 1973, 1885), zuletzt geändert durch Art. 3 Abs. 5 G v. 20.4.2013 I 868"
 gueltig_ab: 2013-04-20
 url: "https://www.gesetze-im-internet.de/asig/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das Arbeitssicherheitsgesetz (ASiG) verpflichtet Arbeitgeber zur Bestellung von Betriebsärzten und Fachkräften für Arbeitssicherheit und legt deren Aufgaben, Qualifikationen und Zusammenarbeit zum Schutz der Beschäftigten fest."
 stand: "2013-04-20"
 status: published
 endpoints:
@@ -48,7 +48,7 @@ Arbeitssicherheit
 - § 18 - Ausnahmen
 - § 19 - Überbetriebliche Dienste
 - § 20 - Ordnungswidrigkeiten
-- § 21
+- § 21 (Red. Kein amtlicher Titel)
 - § 22 - Berlin-Klausel
 - § 23 - Inkrafttreten
 
@@ -232,7 +232,7 @@ Die Verpflichtung des Arbeitgebers, Betriebsärzte und Fachkräfte für Arbeitss
 
 (2) Eine Ordnungswidrigkeit nach Absatz 1 Nr. 1 kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, eine Ordnungswidrigkeit nach Absatz 1 Nr. 2 und 3 mit einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
-### § 21
+### § 21 (Red. Kein amtlicher Titel)
 
 -
 

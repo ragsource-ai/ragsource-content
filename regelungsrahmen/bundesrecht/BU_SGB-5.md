@@ -7,7 +7,7 @@ geaendert_am: "2026-02-03"
 quelle: "Gesetz vom 1988-12-20 (BGBl I 1988, 2477, 2482), zuletzt geändert durch Art. 8 G v. 3.2.2026 I Nr. 28"
 gueltig_ab: 2026-02-03
 url: "https://www.gesetze-im-internet.de/sgb_5/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das SGB V regelt die gesetzliche Krankenversicherung in Deutschland, insbesondere Versicherungspflicht und -freiheit, Leistungsansprüche der Versicherten (u. a. Krankengeld, ärztliche Behandlung), Beitragsrecht sowie die Organisation der Krankenkassen."
 stand: "2026-02-03"
 status: published
 endpoints:
@@ -103,8 +103,8 @@ Erster Titel - Krankenbehandlung
 - § 27b - Zweitmeinung
 - § 28 - Ärztliche und zahnärztliche Behandlung
 - § 29 - Kieferorthopädische Behandlung
-- § 30
-- § 30a
+- § 30 - (weggefallen)
+- § 30a - (weggefallen)
 - § 31 - Arznei- und Verbandmittel, Verordnungsermächtigung
 - § 31a - Medikationsplan
 - § 31b - Referenzdatenbank für Fertigarzneimittel
@@ -164,7 +164,7 @@ Siebter Abschnitt - Zahnersatz
 - § 56 - Festsetzung der Regelversorgungen
 - § 57 - Beziehungen zu Zahnärzten und Zahntechnikern
 - § 58 - Beitrag für Zahnersatz
-- § 59
+- § 59 - (weggefallen)
 
 Achter Abschnitt - Fahrkosten
 - § 60 - Fahrkosten
@@ -172,7 +172,7 @@ Achter Abschnitt - Fahrkosten
 Neunter Abschnitt - Zuzahlungen, Belastungsgrenze
 - § 61 - Zuzahlungen
 - § 62 - Belastungsgrenze
-- § 62a
+- § 62a - (weggefallen)
 
 Zehnter Abschnitt - Weiterentwicklung der Versorgung
 - § 63 - Grundsätze
@@ -453,7 +453,7 @@ der Bundesregierung für die Belange der Patientinnen und Patienten
 
 Fünftes Kapitel - Sachverständigenrat zur Begutachtung der
 Entwicklung im Gesundheitswesen
-- § 141
+- § 141 - (weggefallen)
 - § 142 - Sachverständigenrat Gesundheit und Pflege
 
 Sechstes Kapitel - Organisation der Krankenkassen
@@ -1797,13 +1797,9 @@ Die Versicherte erhält Haushaltshilfe, soweit ihr wegen Schwangerschaft oder En
 
 (8) Die Kassenzahnärztlichen Vereinigungen überprüfen anlassbezogen die Einhaltung der Informations- und Aufklärungspflichten aus Absatz 7 Satz 1. Der behandelnde Zahnarzt ist verpflichtet, der zuständigen Kassenzahnärztlichen Vereinigung auf Verlangen die Vereinbarung nach Absatz 7 Satz 1 und die Erklärung nach Absatz 7 Satz 2 vorzulegen. Soweit es zur Nachvollziehbarkeit der vereinbarten Mehr- und Zusatzkosten erforderlich ist, kann die zuständige Kassenzahnärztliche Vereinigung auch behandlungs- und rechnungsbegründende Unterlagen von dem behandelnden Zahnarzt anfordern. Der behandelnde Zahnarzt ist in diesem Fall zur Übermittlung der behandlungs- und rechnungsbegründenden Unterlagen verpflichtet, wenn der Versicherte ihm gegenüber in die Übermittlung schriftlich oder elektronisch eingewilligt hat. Die Kassenzahnärztlichen Vereinigungen dürfen die in der Vereinbarung nach Absatz 7 Satz 1 und der Erklärung nach Absatz 7 Satz 2 enthaltenen Daten sowie die Daten, die in den ihnen übermittelten behandlungs- und rechnungsbegründenden Unterlagen enthalten sind, nur verarbeiten, soweit dies für die Prüfung nach Satz 1 erforderlich ist.
 
-### § 30
+### § 30 - (weggefallen)
 
-(weggefallen)
-
-### § 30a
-
-(weggefallen)
+### § 30a - (weggefallen)
 
 ### § 31 - Arznei- und Verbandmittel, Verordnungsermächtigung
 
@@ -2527,9 +2523,7 @@ Auf Leistungen besteht kein Anspruch, wenn sich Personen in den Geltungsbereich 
 
 (4) (weggefallen)
 
-### § 59
-
-(weggefallen)
+### § 59 - (weggefallen)
 
 
 ## Achter Abschnitt - Fahrkosten
@@ -2578,9 +2572,7 @@ Zuzahlungen, die Versicherte zu leisten haben, betragen 10 vom Hundert des Abgab
 
 (5) (weggefallen)
 
-### § 62a
-
-(weggefallen)
+### § 62a - (weggefallen)
 
 
 ## Zehnter Abschnitt - Weiterentwicklung der Versorgung
@@ -6404,9 +6396,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung m
 ## Fünftes Kapitel - Sachverständigenrat zur Begutachtung der
 Entwicklung im Gesundheitswesen
 
-### § 141
-
-(weggefallen)
+### § 141 - (weggefallen)
 
 ### § 142 - Sachverständigenrat Gesundheit und Pflege
 

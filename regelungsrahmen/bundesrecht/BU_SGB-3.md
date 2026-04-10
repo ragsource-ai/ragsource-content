@@ -7,7 +7,7 @@ geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 1997-03-24 (BGBl I 1997, 594, 595), zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 371"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/sgb_3/"
-beschreibung: "CLAUDE_FILL"
+beschreibung: "Das SGB III regelt die Arbeitsförderung in Deutschland, insbesondere Leistungen der Bundesagentur für Arbeit wie Berufsberatung, Arbeitsvermittlung, Förderung der Berufsausbildung und beruflichen Weiterbildung sowie Arbeitslosengeld und Kurzarbeitergeld."
 stand: "2025-12-22"
 status: published
 endpoints:
@@ -502,7 +502,7 @@ Elftes Kapitel - Organisation und Datenschutz
 Erster Abschnitt - Bundesagentur für Arbeit
 - § 367 - Bundesagentur für Arbeit
 - § 368 - Aufgaben der Bundesagentur
-- § 368a
+- § 368a - (weggefallen)
 - § 369 - Besonderheiten zum Gerichtsstand
 - § 370 - Beteiligung an Gesellschaften
 
@@ -586,8 +586,8 @@ und zeitweilige Aufgaben
 
 Dritter Abschnitt - Grundsätze bei Rechtsänderungen
 - § 422 - Leistungen der aktiven Arbeitsförderung
-- § 423
-- § 424
+- § 423 - (weggefallen)
+- § 424 - (weggefallen)
 
 Vierter Abschnitt - Sonderregelungen im Zusammenhang mit der Einordnung
 des Arbeitsförderungsrechts in das Sozialgesetzbuch
@@ -596,11 +596,11 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - § 427 - (weggefallen)
 - § 427a - Gleichstellung von Mutterschaftszeiten
 - § 428 - (weggefallen)
-- § 429
+- § 429 - (weggefallen)
 - § 430 - Sonstige Entgeltersatzleistungen
 - § 431 - (weggefallen)
 - § 432 - (weggefallen)
-- § 433
+- § 433 - (weggefallen)
 
 Fünfter Abschnitt - Übergangsregelungen auf Grund von Änderungsgesetzen
 - § 434 - Gesetz zur Reform der Renten wegen verminderter Erwerbsfähigkeit
@@ -3900,9 +3900,7 @@ Kann die Bundesagentur als Liquiditätshilfen geleistete Darlehen des Bundes bis
 
 (5) Die Agenturen für Arbeit können die Zusammenarbeit mit Kreisen und Gemeinden in Verwaltungsvereinbarungen regeln.
 
-### § 368a
-
-(weggefallen)
+### § 368a - (weggefallen)
 
 ### § 369 - Besonderheiten zum Gerichtsstand
 
@@ -4408,13 +4406,9 @@ Die Bundesagentur baut durch Zusammenwirken mit den Projektträgern des ESF Plus
 
 (2) Ist eine Leistung nur für einen begrenzten Zeitraum zuerkannt worden, richtet sich eine Verlängerung nach den zum Zeitpunkt der Entscheidung über die Verlängerung geltenden Vorschriften.
 
-### § 423
+### § 423 - (weggefallen)
 
-(weggefallen)
-
-### § 424
-
-(weggefallen)
+### § 424 - (weggefallen)
 
 
 ## Vierter Abschnitt - Sonderregelungen im Zusammenhang mit der Einordnung
@@ -4440,9 +4434,7 @@ b) über Ansprüche auf Arbeitslosengeld, über die wegen des Bezugs einer der i
 
 ### § 428 - (weggefallen)
 
-### § 429
-
-(weggefallen)
+### § 429 - (weggefallen)
 
 ### § 430 - Sonstige Entgeltersatzleistungen
 
@@ -4460,9 +4452,7 @@ b) über Ansprüche auf Arbeitslosengeld, über die wegen des Bezugs einer der i
 
 ### § 432 - (weggefallen)
 
-### § 433
-
-(weggefallen)
+### § 433 - (weggefallen)
 
 
 ## Fünfter Abschnitt - Übergangsregelungen auf Grund von Änderungsgesetzen
