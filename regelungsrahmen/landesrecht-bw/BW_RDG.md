@@ -1,95 +1,101 @@
 ---
-titel: Gesetz über den Rettungsdienst (RDG)
+titel: "Rettungsdienstgesetz Baden-Württemberg (RDG BW)"
 ebene: land
 saule: regelungsrahmen
+rechtsnatur: gesetz
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "2024-07-25"
-quelle: "Gesetz vom 25.07.2024 (GBl. 2024, Nr. 66)"
 gueltig_ab: 2024-08-02
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-RettDGBW2024rahmen"
-stand: "2024-07-25"
-status: published
+quelle: "GBl. 2024, Nr. 66"
 endpoints:
   - amtsschimmel
+  - brandmeister
+extensions:
+  - Gefahrenabwehrrecht
+  - Rettungsdienst
+stand: "2026-04-15"
+status: published
 ---
 
 ## Inhaltsverzeichnis
 
-- ERSTER ABSCHNITT - Aufgabe, Trägerschaft und Durchführung des Rettungsdienstes
-- § 1 - Aufgabe des Rettungsdienstes
-- § 2 - Begriffsbestimmungen
-- § 3 - Trägerschaft und Durchführung des bodengebundenen Rettungsdienstes und des Berg- und Wasser-Rettungsdienstes
-- § 4 - Trägerschaft und Durchführung des Luftrettungsdienstes
-- § 5 - Ärztliche Leitungen Rettungsdienst
-- ZWEITER ABSCHNITT - Organisation und Einrichtungen des Rettungsdienstes
-- § 6 - Planung
-- § 7 - Experimentierklausel
-- § 8 - Landesausschuss für den Rettungsdienst
-- § 9 - Zentrale Stelle für Qualitätssicherung
-- § 10 - Bereichsausschuss für den Rettungsdienst
-- § 11 - Integrierte Leitstelle, Aufgaben und Befugnisse
-- § 12 - Integrierte Leitstelle, Trägerschaft und personelle Ausstattung
-- § 13 - Integrierte Leitstelle, Zusammenarbeit mit anderen Stellen
-- § 14 - Rettungswache
-- § 15 - Rettungsmittel
-- § 16 - Besetzung von Rettungsfahrzeugen, Fortbildungspflichten, Kostenträgerschaft für die Ausbildung
-- § 17 - Ausnahmen von den Anforderungen hinsichtlich der Besetzung von Rettungsfahrzeugen und der jährlichen Fortbildungspflicht in besonderen Gesundheitslagen
-- § 18 - Ausnahmen von den Anforderungen hinsichtlich der Besetzung von Rettungsfahrzeugen bei einem Großschadensereignis
-- § 19 - Mitwirkung von Ärztinnen und Ärzten
-- § 20 - Eigenständige Durchführung heilkundlicher Maßnahmen und Ärztliche Verantwortliche im Rettungsdienst
-- § 21 - Notärztliche Standortleitungen
-- § 22 - Leitende Notärztinnen und Leitende Notärzte sowie Organisatorische Leitung Rettungsdienst
-- § 23 - Helfer-vor-Ort-System
-- § 24 - Smartphonebasiert alarmierte Ersthelferinnen und Ersthelfer
-- § 25 - Technische Hilfe
-- § 26 - Besondere Bestimmungen für den Rettungsdienst in kommunaler Trägerschaft
-- § 27 - Gegenseitige Unterstützung
-- § 28 - Grenzüberschreitender Rettungsdienst
-- DRITTER ABSCHNITT - Genehmigungsverfahren
-- § 29 - Genehmigungspflicht
-- § 30 - Genehmigungsvoraussetzungen
-- § 31 - Umfang der Genehmigung, Anzeige der Betriebsaufnahme und Anzeige der Betriebsaufgabe
-- § 32 - Betriebsbereich
-- § 33 - Anwendung des Personenbeförderungsgesetzes
-- § 34 - Nebenbestimmungen
-- § 35 - Rücknahme und Widerruf der Genehmigung
-- § 36 - Genehmigungsbehörde
-- VIERTER ABSCHNITT - Pflichten der Unternehmerin oder des Unternehmers
-- § 37 - Betriebspflicht
-- § 38 - Beförderungspflicht
-- § 39 - Anwendung der Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr
-- FÜNFTER ABSCHNITT - Finanzierung des Rettungsdienstes
-- § 40 - Öffentliche Förderung des Rettungsdienstes
-- § 41 - Öffentliche Förderung von Projekten zur technischen oder organisatorischen Weiterentwicklung des Rettungsdienstes
-- § 42 - Sicherung der Zweckbindung der öffentlichen Förderung
-- § 43 - Benutzungsentgelte
-- § 44 - Kostenerstattung in besonderen Fällen
-- SECHSTER ABSCHNITT - Luft-, Berg- und Wasser-Rettungsdienst
-- § 45 - Notfallrettung und Krankentransport mit Luftfahrzeugen
-- § 46 - Besondere Bestimmungen über die Finanzierung des Luft-, Berg- und Wasser-Rettungsdienstes
-- SIEBTER ABSCHNITT - Aufsicht, Datenschutz
-- § 47 - Rechtsaufsicht über die Bereichsausschüsse und über die Leistungsträger nach § 3 Absatz 1
-- § 48 - Fachaufsicht über den rettungsdienstlichen Teil der Integrierten Leitstellen
-- § 49 - Allgemeine Grundsätze für die Information über die Datenverarbeitung und für die Garantie zum Schutz personenbezogener Daten
-- § 50 - Datenverarbeitung durch die Leistungserbringer
-- § 51 - Datenverarbeitung bei der Einbindung von Helfer-vor-Ort-Systemen und bei der Einbindung von smartphonebasiert alarmierten Ersthelferinnen und Ersthelfern
-- § 52 - Datenverarbeitung durch die Notärztlichen Standortleitungen und die Notärztinnen und Notärzte
-- § 53 - Datenverarbeitung durch die Zentrale Stelle nach § 9
-- § 54 - Datenverarbeitung durch die Bereichsausschüsse
-- § 55 - Datenverarbeitung durch die Aufsichtsbehörden und Genehmigungsbehörden
-- § 56 - Datenverarbeitung durch die Integrierten Leitstellen
-- § 57 - Datenspeicherung durch die Integrierten Leitstellen
-- § 58 - Datenverarbeitung beim Betrieb des Online-Portals nach § 9 Absatz 1 Nummer 2
-- ACHTER ABSCHNITT - Ordnungswidrigkeiten, Schlussvorschriften
-- § 59 - Ordnungswidrigkeiten
-- § 60 - Umsetzungsfrist
-- § 61 - Inkrafttreten, Außerkrafttreten
+**ERSTER ABSCHNITT Aufgabe, Trägerschaft und Durchführung des Rettungsdienstes**
+- § 1 - Aufgabe des Rettungsdienstes
+- § 2 - Begriffsbestimmungen
+- § 3 - Trägerschaft und Durchführung des bodengebundenen Rettungsdienstes und des Berg- und
+- § 4 - Trägerschaft und Durchführung des Luftrettungsdienstes
+- § 5 - Ärztliche Leitungen Rettungsdienst
 
+**ZWEITER ABSCHNITT Organisation und Einrichtungen des Rettungsdienstes**
+- § 6 - Planung
+- § 7 - Experimentierklausel
+- § 8 - Landesausschuss für den Rettungsdienst
+- § 9 - Zentrale Stelle für Qualitätssicherung
+- § 10 - Bereichsausschuss für den Rettungsdienst
+- § 11 - Integrierte Leitstelle, Aufgaben und Befugnisse
+- § 12 - Integrierte Leitstelle, Trägerschaft und
+- § 13 - Integrierte Leitstelle, Zusammenarbeit
+- § 14 - Rettungswache
+- § 15 - Rettungsmittel
+- § 16 - Besetzung von Rettungsfahrzeugen,
+- § 17 - Ausnahmen von den Anforderungen hinsichtlich der Besetzung von Rettungsfahrzeugen und
+- § 18 - Ausnahmen von den Anforderungen hinsichtlich
+- § 19 - Mitwirkung von Ärztinnen und Ärzten
+- § 20 - Eigenständige Durchführung heilkundlicher
+- § 21 - Notärztliche Standortleitungen
+- § 22 - Leitende Notärztinnen und Leitende Notärzte
+- § 23 - Helfer-vor-Ort-System
+- § 24 - Smartphonebasiert alarmierte Ersthelferinnen und Ersthelfer
+- § 25 - Technische Hilfe
+- § 26 - Besondere Bestimmungen für den Rettungsdienst
+- § 27 - Gegenseitige Unterstützung
+- § 28 - Grenzüberschreitender Rettungsdienst
 
-## ERSTER ABSCHNITT - Aufgabe, Trägerschaft und Durchführung des Rettungsdienstes
+**DRITTER ABSCHNITT Genehmigungsverfahren**
+- § 29 - Genehmigungspflicht
+- § 30 - Genehmigungsvoraussetzungen
+- § 31 - Umfang der Genehmigung, Anzeige der Betriebsaufnahme
+- § 32 - Betriebsbereich
+- § 33 - Anwendung des Personenbeförderungsgesetzes
+- § 34 - Nebenbestimmungen
+- § 35 - Rücknahme und Widerruf der Genehmigung
+- § 36 - Genehmigungsbehörde
 
-### § 1 - Aufgabe des Rettungsdienstes
+**VIERTER ABSCHNITT Pflichten der Unternehmerin oder des Unternehmers**
+- § 37 - Betriebspflicht
+- § 38 - Beförderungspflicht
+- § 39 - Anwendung der Verordnung über den Betrieb von
+
+**FÜNFTER ABSCHNITT Finanzierung des Rettungsdienstes**
+- § 40 - Öffentliche Förderung des Rettungsdienstes
+- § 41 - Öffentliche Förderung von Projekten zur technischen oder organisatorischen
+- § 42 - Sicherung der Zweckbindung der öffentlichen Förderung
+- § 43 - Benutzungsentgelte
+- § 44 - Kostenerstattung in besonderen Fällen
+
+**SECHSTER ABSCHNITT Luft-, Berg- und Wasser-Rettungsdienst**
+- § 45 - Notfallrettung und Krankentransport mit Luftfahrzeugen
+- § 46 - Besondere Bestimmungen über die Finanzierung
+- § 47 - Rechtsaufsicht über die Bereichsausschüsse und
+- § 48 - Fachaufsicht über den rettungsdienstlichen Teil
+- § 49 - Allgemeine Grundsätze für die Information über
+- § 50 - Datenverarbeitung durch die Leistungserbringer
+- § 51 - Datenverarbeitung bei der Einbindung von Helfer-vor-Ort-Systemen
+- § 52 - Datenverarbeitung durch die Notärztlichen Standortleitungen
+- § 53 - Datenverarbeitung durch die Zentrale Stelle nach § 9
+- § 54 - Datenverarbeitung durch die Bereichsausschüsse
+- § 55 - Datenverarbeitung durch die Aufsichtsbehörden
+- § 56 - Datenverarbeitung durch die Integrierten Leitstellen
+- § 57 - Datenspeicherung durch die Integrierten Leitstellen
+- § 58 - Datenverarbeitung beim Betrieb des Online-Portals
+- § 59 - Ordnungswidrigkeiten
+- § 60 - Umsetzungsfrist
+- § 61 - Inkrafttreten, Außerkrafttreten
+
+## ERSTER ABSCHNITT Aufgabe, Trägerschaft und Durchführung des Rettungsdienstes
+
+### § 1 - Aufgabe des Rettungsdienstes
 
 (1) Aufgabe des Rettungsdienstes ist die Sicherstellung einer bedarfsgerechten Versorgung der Bevölkerung mit Leistungen der Notfallrettung und des Krankentransportes zu sozial tragbaren Benutzungsentgelten.
 
@@ -97,80 +103,45 @@ endpoints:
 
 (3) Gegenstand des Krankentransportes ist es, anderen Kranken, Verletzten oder sonst Hilfebedürftigen nötigenfalls Erste Hilfe zu leisten und sie unter fachgerechter Betreuung zu befördern. Nicht zum Krankentransport gehört die Beförderung von kranken Personen, die, in der Regel nach ärztlicher Beurteilung, während der Beförderung keiner medizinisch-fachlichen Betreuung bedürfen (Krankenfahrten).
 
-
-### § 2 - Begriffsbestimmungen
+### § 2 - Begriffsbestimmungen
 
 Im Sinne des Rettungsdienstgesetzes bezeichnen
 
-1. „Rettungsdienst“ sowohl die Aufgabe als auch die Institution Rettungsdienst;
+1. „Rettungsdienst" sowohl die Aufgabe als auch die Institution Rettungsdienst;
+2. „Einrichtungen des Rettungsdienstes" die technischen, baulichen und sonstigen stationären Anlagen sowie die Fahrzeuge des Rettungsdienstes samt deren personeller Besetzung, die für die Durchführung des Rettungsdienstes notwendig sind;
+3. „Kostenträger" die Trägerinnen und Träger der gesetzlichen und privaten Krankenversicherung sowie die Trägerinnen und Träger der gesetzlichen Unfallversicherung;
+4. „Leistungsträger" alle Organisationen und sonstigen Stellen, mit denen das Innenministerium auf Landesebene Vereinbarungen über die bedarfsgerechte Versorgung der Bevölkerung mit leistungsfähigen Einrichtungen des Rettungsdienstes geschlossen hat; sofern die Leistungsträger dazu ihrerseits innerhalb eines Rettungsdienstbereiches auf kommunaler Ebene Kooperationsvereinbarungen mit anderen Stellen schließen, werden diese anderen Stellen Leistungsträger innerhalb des jeweiligen Rettungsdienstbereiches;
+5. „Leistungserbringer" alle Leistungsträger nach Nummer 4 und alle Dienstleister, einschließlich der Unternehmen mit Genehmigungen zur Durchführung des Krankentransportes sowie der bestandsgeschützten privaten Unternehmen in der Notfallrettung nach Artikel 2 des Gesetzes zur Änderung des Rettungsdienstgesetzes vom 15. Juli 1998 (GBl. S. 413, 418), die Leistungen für die Versicherten erbringen nach dem Fünften Buch Sozialgesetzbuch, Gesetzliche Krankenversicherung, (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), das zuletzt durch Artikel 9 des Gesetzes vom 16. August 2023 (BGBl. 2023 I Nr. 217) geändert worden ist, in der jeweils geltenden Fassung;
+6. „Beteiligte am Rettungsdienst" alle Personen oder Stellen, die Aufgaben nach diesem Gesetz wahrnehmen, insbesondere Bereichsausschüsse, Kostenträger, Leistungsträger, die Integrierten Leitstellen, Leistungserbringer, Notärztinnen und Notärzte und deren Anstellungsträger sowie die Zentrale Stelle nach § 9;
+7. „bodengebundener Rettungsdienst" in Abgrenzung zum „Luftrettungsdienst" nach Nummer 8 und zu den „Sonderrettungsdiensten" nach Nummer 9 die Notfallrettung und den Krankentransport mithilfe der für den bodengebundenen Rettungsdienst festgelegten Kraftfahrzeuge;
+8. „Luftrettungsdienst" die Notfallrettung mithilfe der für die Luftrettung festgelegten Luftfahrzeuge;
+9. „Sonderrettungsdienste" den Berg- und den Wasser-Rettungsdienst;
+10. „Rettungsdienstpersonal" das gesamte haupt- und nebenberuflich sowie ehrenamtlich im Rettungsdienst tätige Personal, Rettungshelferinnen und Rettungshelfer, Rettungssanitäterinnen und Rettungssanitäter, Rettungsassistentinnen und Rettungsassistenten sowie Notfallsanitäterinnen und Notfallsanitäter, einschließlich der Notärztinnen und Notärzte sowie der Telenotärztinnen und Telenotärzte;
+11. „Notarztstandort" eine Einrichtung des Rettungsdienstes, an der das Notarzteinsatzfahrzeug und das nach § 16 Absatz 1 Satz 3 und 4 vorgeschriebene Personal zu den im Bereichsplan bestimmten Einsatzzeiten vorgehalten werden und von der aus sie gemeinsam ausrücken;
+12. „Qualitätssicherung" alle Maßnahmen und Vorgaben, die geeignet sind, die Qualität der rettungsdienstlichen Versorgung vom Eingang des Notrufs beziehungsweise Hilfeersuchens in der Integrierten Leitstelle über die Anfahrt des Rettungsmittels und die Patientenversorgung am Notfallort bis hin zur Ankunft und Übergabe zur weiteren Versorgung im Zielkrankenhaus anhand von definierten Datensätzen oder sonstigen Indikatoren sichtbar zu machen und die auf die Gewährleistung, Weiterentwicklung und stetige Verbesserung der rettungsdienstlichen Versorgung abzielen;
+13. „Trägerübergreifende Qualitätssicherung" die Qualitätssicherung im Sinne der Nummer 12, die durch die Zentrale Stelle nach § 9 im Hinblick auf die Beteiligten des Rettungsdienstes im Sinne der Nummer 6 erfolgt;
+14. „Digitaler Versorgungsnachweis" eine schnittstellenoffene digitale Plattform, über die Integrierte Leitstellen, Einsatzmittel des Rettungsdienstes und aufnehmende Krankenhäuser verknüpft sind und in der die aktuellen Versorgungskapazitäten der Krankenhäuser eingesehen sowie mit deren Hilfe die Patientinnen und Patienten durch den Rettungsdienst anhand der aktuellen Versorgungskapazitäten direkt der geeigneten medizinischen Versorgungseinrichtung zugewiesen, angemeldet und die für die Weiterbehandlung erforderlichen Daten der Patientinnen und Patienten übermittelt werden können;
+15. „Telenotärztliches System" die Gesamtheit aller technischen Komponenten, die zur Echtzeitübertragung von Vitalparametern, Sprache und Bildmaterial sowie für die Kommunikation zwischen der Telenotärztlichen Zentrale und dem Rettungsdienstpersonal vor Ort eingesetzt werden sowie die hieran beteiligten Telenotärztinnen und Telenotärzte, soweit dieser Einsatz darauf abzielt,  a) Ferndiagnostik und Fernbehandlung durch die Telenotärztinnen und Telenotärzte in der Telenotärztlichen Zentrale sowie die medizinische Beratung und Unterstützung des im Einsatz befindlichen Rettungsdienstpersonals vor Ort,
+  b) die Delegation heilkundlicher Maßnahmen an die vor Ort befindlichen Notfallsanitäterinnen und Notfallsanitäter,
+  c) die Verkürzung des arztfreien Intervalls bis zum Eintreffen einer Notärztin oder eines Notarztes vor Ort,
+  d) die Verkürzung der Bindezeiten und Verringerung der Einsatzzahlen notärztlich besetzter Rettungsmittel oder
+  e) die telemetrische sowie fernmündliche Begleitung von Primär- und Sekundäreinsätzen zu ermöglichen;
+16. „Telenotärztliche Zentralen" die Standorte der Arbeitsplätze der Telenotärztinnen und Telenotärzte an den durch den Landesausschuss für den Rettungsdienst festgelegten Integrierten Leitstellen;
+17. „Telenotärztinnen und Telenotärzte" Notärztinnen und Notärzte, die mittels telemedizinischer Arbeitsplätze gemäß § 11 Absatz 9 und deren Verbindung zu den telemedizinischen Einrichtungen der Rettungswagen gemäß § 15 Absatz 1 fernmündlich unter anderem Behandlungsanweisungen und Verordnungen aussprechen, Diagnosen stellen sowie Beratungen durchführen können;
+18. „Primäreinsatz" den Einsatz zur Versorgung von Patientinnen und Patienten am Notfallort, gegebenenfalls einschließlich des Transportes;
+19. „Sekundäreinsatz" den Einsatz zur Beförderung von bereits versorgten Patientinnen und Patienten von einer medizinischen Versorgungseinrichtung unter sachgerechter Betreuung, bei Bedarf auch notärztlich oder telenotärztlich begleitet, zu weiterführenden medizinischen Versorgungseinrichtungen oder zurück;
+20. „Versorgungsbereich" den einer Rettungswache oder einem Notarztstandort zugeordneten geografischen Planungsbereich; der Versorgungsbereich kann über die Grenzen eines Rettungsdienstbereiches hinausreichen;
+21. „Rettungsdienstbereich" die administrativ-normative Gliederung, der alle Einrichtungen des Rettungsdienstes, die sich auf einem durch die Verordnung nach § 6 Absatz 2 Satz 4 Nummer 5 festgelegten Gebiet befinden, zugeordnet sind.
 
-2. „Einrichtungen des Rettungsdienstes“ die technischen, baulichen und sonstigen stationären Anlagen sowie die Fahrzeuge des Rettungsdienstes samt deren personeller Besetzung, die für die Durchführung des Rettungsdienstes notwendig sind;
-
-3. „Kostenträger“ die Trägerinnen und Träger der gesetzlichen und privaten Krankenversicherung sowie die Trägerinnen und Träger der gesetzlichen Unfallversicherung;
-
-4. „Leistungsträger“ alle Organisationen und sonstigen Stellen, mit denen das Innenministerium auf Landesebene Vereinbarungen über die bedarfsgerechte Versorgung der Bevölkerung mit leistungsfähigen Einrichtungen des Rettungsdienstes geschlossen hat; sofern die Leistungsträger dazu ihrerseits innerhalb eines Rettungsdienstbereiches auf kommunaler Ebene Kooperationsvereinbarungen mit anderen Stellen schließen, werden diese anderen Stellen Leistungsträger innerhalb des jeweiligen Rettungsdienstbereiches;
-
-5. „Leistungserbringer“ alle Leistungsträger nach Nummer 4 und alle Dienstleister, einschließlich der Unternehmen mit Genehmigungen zur Durchführung des Krankentransportes sowie der bestandsgeschützten privaten Unternehmen in der Notfallrettung nach Artikel 2 des Gesetzes zur Änderung des Rettungsdienstgesetzes vom 15. Juli 1998 (GBl. S. 413, 418), die Leistungen für die Versicherten erbringen nach dem Fünften Buch Sozialgesetzbuch, Gesetzliche Krankenversicherung, (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), das zuletzt durch Artikel 9 des Gesetzes vom 16. August 2023 (BGBl. 2023 I Nr. 217) geändert worden ist, in der jeweils geltenden Fassung;
-
-6. „Beteiligte am Rettungsdienst“ alle Personen oder Stellen, die Aufgaben nach diesem Gesetz wahrnehmen, insbesondere Bereichsausschüsse, Kostenträger, Leistungsträger, die Integrierten Leitstellen, Leistungserbringer, Notärztinnen und Notärzte und deren Anstellungsträger sowie die Zentrale Stelle nach § 9;
-
-7. „bodengebundener Rettungsdienst“ in Abgrenzung zum „Luftrettungsdienst“ nach Nummer 8 und zu den „Sonderrettungsdiensten“ nach Nummer 9 die Notfallrettung und den Krankentransport mithilfe der für den bodengebundenen Rettungsdienst festgelegten Kraftfahrzeuge;
-
-8. „Luftrettungsdienst“ die Notfallrettung mithilfe der für die Luftrettung festgelegten Luftfahrzeuge;
-
-9. „Sonderrettungsdienste“ den Berg- und den Wasser-Rettungsdienst;
-
-10. „Rettungsdienstpersonal“ das gesamte haupt- und nebenberuflich sowie ehrenamtlich im Rettungsdienst tätige Personal, Rettungshelferinnen und Rettungshelfer, Rettungssanitäterinnen und Rettungssanitäter, Rettungsassistentinnen und Rettungsassistenten sowie Notfallsanitäterinnen und Notfallsanitäter, einschließlich der Notärztinnen und Notärzte sowie der Telenotärztinnen und Telenotärzte;
-
-11. „Notarztstandort“ eine Einrichtung des Rettungsdienstes, an der das Notarzteinsatzfahrzeug und das nach § 16 Absatz 1 Satz 3 und 4 vorgeschriebene Personal zu den im Bereichsplan bestimmten Einsatzzeiten vorgehalten werden und von der aus sie gemeinsam ausrücken;
-
-12. „Qualitätssicherung“ alle Maßnahmen und Vorgaben, die geeignet sind, die Qualität der rettungsdienstlichen Versorgung vom Eingang des Notrufs beziehungsweise Hilfeersuchens in der Integrierten Leitstelle über die Anfahrt des Rettungsmittels und die Patientenversorgung am Notfallort bis hin zur Ankunft und Übergabe zur weiteren Versorgung im Zielkrankenhaus anhand von definierten Datensätzen oder sonstigen Indikatoren sichtbar zu machen und die auf die Gewährleistung, Weiterentwicklung und stetige Verbesserung der rettungsdienstlichen Versorgung abzielen;
-
-13. „Trägerübergreifende Qualitätssicherung“ die Qualitätssicherung im Sinne der Nummer 12, die durch die Zentrale Stelle nach § 9 im Hinblick auf die Beteiligten des Rettungsdienstes im Sinne der Nummer 6 erfolgt;
-
-14. „Digitaler Versorgungsnachweis“ eine schnittstellenoffene digitale Plattform, über die Integrierte Leitstellen, Einsatzmittel des Rettungsdienstes und aufnehmende Krankenhäuser verknüpft sind und in der die aktuellen Versorgungskapazitäten der Krankenhäuser eingesehen sowie mit deren Hilfe die Patientinnen und Patienten durch den Rettungsdienst anhand der aktuellen Versorgungskapazitäten direkt der geeigneten medizinischen Versorgungseinrichtung zugewiesen, angemeldet und die für die Weiterbehandlung erforderlichen Daten der Patientinnen und Patienten übermittelt werden können;
-
-15. „Telenotärztliches System“ die Gesamtheit aller technischen Komponenten, die zur Echtzeitübertragung von Vitalparametern, Sprache und Bildmaterial sowie für die Kommunikation zwischen der Telenotärztlichen Zentrale und dem Rettungsdienstpersonal vor Ort eingesetzt werden sowie die hieran beteiligten Telenotärztinnen und Telenotärzte, soweit dieser Einsatz darauf abzielt,
-
-a) Ferndiagnostik und Fernbehandlung durch die Telenotärztinnen und Telenotärzte in der Telenotärztlichen Zentrale sowie die medizinische Beratung und Unterstützung des im Einsatz befindlichen Rettungsdienstpersonals vor Ort,
-
-b) die Delegation heilkundlicher Maßnahmen an die vor Ort befindlichen Notfallsanitäterinnen und Notfallsanitäter,
-
-c) die Verkürzung des arztfreien Intervalls bis zum Eintreffen einer Notärztin oder eines Notarztes vor Ort,
-
-d) die Verkürzung der Bindezeiten und Verringerung der Einsatzzahlen notärztlich besetzter Rettungsmittel oder
-
-e) die telemetrische sowie fernmündliche Begleitung von Primär- und Sekundäreinsätzen
-
-zu ermöglichen;
-
-16. „Telenotärztliche Zentralen“ die Standorte der Arbeitsplätze der Telenotärztinnen und Telenotärzte an den durch den Landesausschuss für den Rettungsdienst festgelegten Integrierten Leitstellen;
-
-17. „Telenotärztinnen und Telenotärzte“ Notärztinnen und Notärzte, die mittels telemedizinischer Arbeitsplätze gemäß § 11 Absatz 9 und deren Verbindung zu den telemedizinischen Einrichtungen der Rettungswagen gemäß § 15 Absatz 1 fernmündlich unter anderem Behandlungsanweisungen und Verordnungen aussprechen, Diagnosen stellen sowie Beratungen durchführen können;
-
-18. „Primäreinsatz“ den Einsatz zur Versorgung von Patientinnen und Patienten am Notfallort, gegebenenfalls einschließlich des Transportes;
-
-19. „Sekundäreinsatz“ den Einsatz zur Beförderung von bereits versorgten Patientinnen und Patienten von einer medizinischen Versorgungseinrichtung unter sachgerechter Betreuung, bei Bedarf auch notärztlich oder telenotärztlich begleitet, zu weiterführenden medizinischen Versorgungseinrichtungen oder zurück;
-
-20. „Versorgungsbereich“ den einer Rettungswache oder einem Notarztstandort zugeordneten geografischen Planungsbereich; der Versorgungsbereich kann über die Grenzen eines Rettungsdienstbereiches hinausreichen;
-
-21. „Rettungsdienstbereich“ die administrativ-normative Gliederung, der alle Einrichtungen des Rettungsdienstes, die sich auf einem durch die Verordnung nach § 6 Absatz 2 Satz 4 Nummer 5 festgelegten Gebiet befinden, zugeordnet sind.
-
-
-
-
-### § 3 - Trägerschaft und Durchführung des bodengebundenen Rettungsdienstes und des Berg- und Wasser-Rettungsdienstes
+### § 3 - Trägerschaft und Durchführung des bodengebundenen Rettungsdienstes und des Berg- und
 
 (1) Das Innenministerium schließt auf Landesebene mit dem Arbeiter-Samariter-Bund, dem Deutschen Roten Kreuz und seiner Bergwacht Württemberg, der Johanniter-Unfall-Hilfe und dem Malteser Hilfsdienst, ferner mit der Bergwacht Schwarzwald und der Deutschen Lebensrettungsgesellschaft Vereinbarungen über die bedarfsgerechte Versorgung der Bevölkerung mit leistungsfähigen Einrichtungen des Rettungsdienstes, soweit diese hierzu bereit und in der Lage sind.
 
 (2) Bei Bedarf kann das Innenministerium auf Landesebene mit weiteren Stellen Vereinbarungen über die bedarfsgerechte Versorgung der Bevölkerung mit leistungsfähigen Einrichtungen des Rettungsdienstes schließen, soweit diese Stellen hierzu bereit und in der Lage sind. Weitere Stellen im Sinne des Satzes 1 können juristische Personen des privaten oder des öffentlichen Rechts sein. Juristische Personen des privaten Rechts kommen als weitere Stelle im Sinne des Satzes 1 dabei nur dann in Betracht, wenn es sich um gemeinnützige Organisationen handelt, die
 
 1. einschließlich sämtlicher Eigentümerinnen und Eigentümer beziehungsweise Gesellschafterinnen und Gesellschafter als gemeinnützig anerkannt sind,
-
 2. landesweit in erheblichem Umfang im Katastrophenschutz mitwirken,
-
 3. über ehrenamtliche Strukturen erheblichen Ausmaßes verfügen und
-
 4. ihre Ressourcen im Sinne des § 1 Absatz 1 dieses Gesetzes einbringen.
 
 Bei der Auswahl und der Beauftragung weiterer Stellen mit der Wahrnehmung von Aufgaben der bodengebundenen Notfallrettung findet aufgrund § 107 Absatz 1 Nummer 4 des Gesetzes gegen Wettbewerbsbeschränkungen kein wettbewerbliches Vergabeverfahren statt.
@@ -181,8 +152,7 @@ Bei der Auswahl und der Beauftragung weiterer Stellen mit der Wahrnehmung von Au
 
 (5) Das Innenministerium stellt nach Anhörung der kommunalen Landesverbände fest, welche Landkreise und Stadtkreise, in denen die Durchführung des Rettungsdienstes nach Absatz 1 nicht sichergestellt ist, diese Aufgabe nach Absatz 4 wahrnehmen. Soweit durch die Übertragung der Aufgabe eine Ausgleichspflicht des Landes nach Artikel 71 Absatz 3 der Verfassung des Landes Baden-Württemberg begründet wird, schließt das Land eine Vereinbarung mit den Landkreisen und Stadtkreisen über einen angemessenen Ausgleich.
 
-
-### § 4 - Trägerschaft und Durchführung des Luftrettungsdienstes
+### § 4 - Trägerschaft und Durchführung des Luftrettungsdienstes
 
 (1) Träger der Luftrettung ist das Land.
 
@@ -190,8 +160,7 @@ Bei der Auswahl und der Beauftragung weiterer Stellen mit der Wahrnehmung von Au
 
 (3) Das Land kann dem mit der Durchführung der Luftrettung beauftragten Unternehmen die erforderliche Infrastruktur ganz oder teilweise zur Verfügung stellen. Das Land kann sich am Bau eines Standortes zur Durchführung der Luftrettung finanziell beteiligen.
 
-
-### § 5 - Ärztliche Leitungen Rettungsdienst
+### § 5 - Ärztliche Leitungen Rettungsdienst
 
 (1) In jedem Regierungspräsidium als oberer Rechtsaufsichtsbehörde wird eine hauptamtliche Ärztliche Leitung Rettungsdienst mit dem Umfang mindestens eines Vollzeitäquivalents eingerichtet. Ein Regierungspräsidium richtet nach Festlegung des Innenministeriums zusätzlich eine hauptamtliche Ärztliche Leitung Rettungsdienst Koordination Baden-Württemberg im Umfang mindestens eines halben Vollzeitäquivalents mit einer landesweiten Vor-Ort-Zuständigkeit ein. Zur Ärztlichen Leitung Rettungsdienst nach Satz 1 und 2 kann nur bestellt werden, wer das Studium der Humanmedizin absolviert hat und eine ärztliche Approbation sowie eine abgeschlossene Facharztausbildung auf dem Gebiet der Anästhesiologie, der Inneren Medizin, der Chirurgie oder des Öffentlichen Gesundheitswesens sowie die Zusatzweiterbildung Notfallmedizin besitzt.
 
@@ -203,15 +172,13 @@ Bei der Auswahl und der Beauftragung weiterer Stellen mit der Wahrnehmung von Au
 
 (5) Sofern es zur Qualitätssicherung oder im Interesse der Sicherstellung der Versorgung der Notfallpatientinnen und Notfallpatienten erforderlich ist, erhalten die Ärztlichen Leitungen Rettungsdienst nach Absatz 1 Satz 1 und 2 in begründeten Fällen Einblick in die Einsatzdokumentation. Die Einsichtnahme und ihre Gründe sind zu dokumentieren.
 
+## ZWEITER ABSCHNITT Organisation und Einrichtungen des Rettungsdienstes
 
-## ZWEITER ABSCHNITT - Organisation und Einrichtungen des Rettungsdienstes
-
-### § 6 - Planung
+### § 6 - Planung
 
 (1) In der Notfallrettung ist für bestimmte Notfallkategorien bei der Planung der bedarfsgerechten und wirtschaftlichen Vorhaltungsstrukturen die Zeit
 
 1. vom Einsatzannahmeende bis zum Eintreffen des ersten Rettungsmittels am Notfallort an Straßen (Eintreffzeit) oder
-
 2. vom Eingang der Notrufmeldung in der Leitstelle bis zur Ankunft der Patientin oder des Patienten in der nächstgelegenen für die Versorgung geeigneten Einrichtung (Prähospitalzeit)
 
 maßgebend.
@@ -219,7 +186,6 @@ maßgebend.
 (2) Der Rettungsdienstplan nach Absatz 4 bestimmt, für welche Notfallkategorien und welches Rettungsmittel die Eintreff- oder Prähospitalzeit maßgebend ist. Als Zielerreichung ist planerisch für Einsätze, bei denen akut höchste Eile geboten ist, um Menschenleben zu retten oder schwere gesundheitliche Schäden abzuwenden
 
 1. eine Eintreffzeit von nicht mehr als zwölf Minuten in 95 Prozent oder
-
 2. für bestimmte Notfalleinsätze eine Prähospitalzeit von nicht mehr als 60 Minuten in 80 Prozent
 
 jeweils bezogen auf ein Kalenderjahr im jeweiligen Rettungsdienstbereich anzusetzen. Planungsrelevantes ersteintreffendes Rettungsmittel im Sinne von Absatz 1 ist der Rettungswagen. Das Eintreffen von Notarzteinsatzfahrzeug oder des Luftrettungsdienstes vor dem Rettungswagen am Notfallort beendet die Eintreffzeit. Zur Planung der bedarfsgerechten und wirtschaftlichen Vorhaltungsstrukturen notärztlich besetzter bodengebundener Rettungsmittel und für weitere versorgungsrelevante Einsatzkategorien können im Rettungsdienstplan nach Absatz 4 abweichend zu Satz 2 andere Zeitdauern und Zielerreichungsgrade festgelegt werden.
@@ -229,33 +195,19 @@ jeweils bezogen auf ein Kalenderjahr im jeweiligen Rettungsdienstbereich anzuset
 (4) Das Innenministerium wird ermächtigt, durch Rechtsverordnung einen Rettungsdienstplan zu erlassen. Dieser wird im Benehmen mit dem Landesausschuss für den Rettungsdienst erstellt. Er legt die Grundzüge einer bedarfsgerechten und wirtschaftlichen Versorgung der Bevölkerung mit leistungsfähigen Einrichtungen des Rettungsdienstes fest. Im Rettungsdienstplan werden insbesondere konkretisierende Regelungen getroffen
 
 1. zur Festlegung von Notfall- und Einsatzkategorien und den dabei jeweils anzustrebenden Zielen nach Absatz 1 und 2 für die bodengebundene Notfallrettung,
-
 2. zur Berechnung und Erhebung der Frist nach Absatz 2 einschließlich der zugrunde zu legenden Berechnungsschemata,
-
 3. zur Festlegung der Planungskriterien für das Notarzteinsatzfahrzeug und weiterer Rettungsmittelvorhaltungen in der bodengebundenen Notfallrettung, einschließlich der zugrunde zu legenden Berechnungsschemata,
-
 4. zur Bedarfsbemessung der Sekundäreinsätze und der Transportvorhaltungen für Notfallpatientinnen und Notfallpatienten mit besonderen Anforderungen,
-
 5. zur Einteilung des Landes in Rettungsdienstbereiche,
-
 6. zu den Anforderungen an die Rettungsmittel und zu deren personeller Besetzung,
-
 7. zur Bestimmung weiterer Rettungsmittel und zu deren personeller Besetzung und Ausstattung sowie zur Bestimmung weiterer rettungsdienstlicher Versorgungskonzepte,
-
 8. zur Einsatzindikation und Einsatzdisposition der Rettungsmittel sowie zur Einsatzdokumentation durch die Leistungserbringer, die Integrierten Leitstellen, die Notarztstandorte und die Telenotärztlichen Zentralen,
-
 9. zur Organisation und zur personellen Ausstattung der sonstigen Einrichtungen des Rettungsdienstes auf Landesebene und auf Bereichsebene, einschließlich der rettungsdienstlichen Gremien, des rettungsdienstlichen Teils der Integrierten Leitstellen, der Leitstellen mit besonderen Aufgaben, der telenotärztlichen Einrichtungen, der Rettungswachen, der Standorte des Luftrettungsdienstes und der Einrichtungen der Sonderrettungsdienste,
-
 10. zur trägerübergreifenden Qualitätssicherung einschließlich der dafür notwendigen Mitarbeit und der Beiträge der Leistungserbringer und Integrierten Leitstellen sowie der weiteren Beteiligten am Rettungsdienst, soweit sie zur Qualitätssicherung beitragen,
-
 11. zu den Grundsätzen für Maßnahmen und Einsatzorganisation zur Bewältigung eines Großschadensereignisses,
-
 12. zum bereichs- und grenzüberschreitenden Rettungsdienst,
-
 13. zu den Qualifikationen und zur Fortbildung des im Rettungsdienst eingesetzten Personals,
-
 14. zum Genehmigungsverfahren für die Notfallrettung und den Krankentransport im Hinblick auf die Anforderungen an die Zuverlässigkeit und fachliche Eignung der antragstellenden Person als Unternehmerin oder Unternehmer beziehungsweise der geschäftsführenden Person sowie der Sicherheit und Leistungsfähigkeit des Betriebes sowie
-
 15. zu Art und Umfang der Kooperation des Rettungsdienstes mit anderen akutmedizinischen Versorgungssektoren.
 
 (5) Die Verordnungsermächtigungen der § 16 Absatz 2 Satz 2, § 23 Absatz 2, § 29 Absatz 6 und § 30 Absatz 2 Satz 2 bleiben unberührt.
@@ -266,8 +218,7 @@ jeweils bezogen auf ein Kalenderjahr im jeweiligen Rettungsdienstbereich anzuset
 
 (8) Die Standorte der Luftrettungsstationen werden landesweit durch das Innenministerium festgelegt.
 
-
-### § 7 - Experimentierklausel
+### § 7 - Experimentierklausel
 
 (1) Zur Erprobung neuer Versorgungskonzepte, die der Erhaltung oder Verbesserung der Leistungsfähigkeit, der Qualitätsverbesserung oder der Wirtschaftlichkeit des Rettungsdienstes dienen, kann das Innenministerium im Benehmen mit dem Landesausschuss für den Rettungsdienst unter Beachtung der datenschutzrechtlichen Regelungen der §§ 49 bis 58 auf Antrag insbesondere Ausnahmen von den Vorgaben der § 14 Absatz 1, § 15 Absatz 1 bis 3, § 16 Absatz 1 bis 3 und § 45 Absatz 1, soweit dieser auf § 16 Absatz 2 verweist, sowie von den Vorgaben der nach § 6 Absatz 4 und der nach § 23 Absatz 2 erlassenen Verordnungen zulassen, wenn die grundsätzliche Erfüllung des gesetzlichen Auftrages nach § 1 sichergestellt ist. Wenn die Ausnahmen Auswirkungen auf die Ausbildung der Notfallsanitäterinnen und Notfallsanitäter haben, ist das Einvernehmen mit dem Sozialministerium herzustellen.
 
@@ -277,8 +228,7 @@ jeweils bezogen auf ein Kalenderjahr im jeweiligen Rettungsdienstbereich anzuset
 
 (4) Hat das Innenministerium eine Zulassung erteilt, hat die oder der Antragstellende die Durchführung des Erprobungsvorhabens aufgrund der Grundlage der durch den Landesausschuss für das Rettungswesen abgestimmten Kriterien zu dokumentieren und zu evaluieren. Über das Ergebnis ist im Landesausschuss für den Rettungsdienst zu berichten.
 
-
-### § 8 - Landesausschuss für den Rettungsdienst
+### § 8 - Landesausschuss für den Rettungsdienst
 
 (1) Es wird ein Landesausschuss für den Rettungsdienst gebildet. Ihm gehören eine Vertreterin oder ein Vertreter des Innenministeriums und zehn Vertreterinnen oder Vertreter der Leistungsträger im Sinne des § 3 Absatz 1 oder § 4 sowie zehn Vertreterinnen oder Vertreter der Kostenträger an, wobei jeder Leistungsträger im Sinne des § 3 Absatz 1 mindestens ein Stimmrecht erhält. Die Aufteilung der weiteren Stimmrechte der Leistungsträger hat sich an der Verteilung der Vorhaltungen zu orientieren. Die Vertreterinnen und Vertreter der Leistungsträger und der Kostenträger werden auf Vorschlag ihrer Landesverbände vom Innenministerium berufen. Darüber hinaus gehören dem Landesausschuss für den Rettungsdienst mit beratender Stimme eine Vertreterin oder ein Vertreter des Sozialministeriums, der Baden-Württembergischen Krankenhausgesellschaft, der Landesärztekammer Baden-Württemberg, der Zentralen Stelle nach § 9, der kommunalen Landesverbände sowie die oder der Landes-Behindertenbeauftragte an. Der Landesausschuss für den Rettungsdienst oder das Innenministerium kann weitere sachkundige Personen als beratende Mitglieder berufen.
 
@@ -286,17 +236,13 @@ jeweils bezogen auf ein Kalenderjahr im jeweiligen Rettungsdienstbereich anzuset
 
 (3) Der Landesausschuss für den Rettungsdienst gibt sich eine Geschäftsordnung. Den Vorsitz hat die Vertreterin oder der Vertreter des Innenministeriums. Die oder der Vorsitzende muss Beschlüssen des Landesausschusses für den Rettungsdienst widersprechen, wenn sie oder er der Auffassung ist, dass sie rechtswidrig sind. Der Widerspruch muss unverzüglich, spätestens jedoch binnen einer Woche nach Beschlussfassung gegenüber den Mitgliedern des Landesausschusses für den Rettungsdienst ausgesprochen werden. Der Widerspruch hat aufschiebende Wirkung. Der Widerspruch ist gegenüber den Mitgliedern des Landesausschusses für den Rettungsdienst innerhalb eines Monats schriftlich oder elektronisch zu begründen und zu übermitteln. Der Beschluss ist endgültig gescheitert, sobald allen Mitgliedern des Landesausschusses für den Rettungsdienst die schriftliche oder elektronische Begründung zugegangen ist. Für den Zugang gilt § 41 des Landesverwaltungsverfahrensgesetzes entsprechend.
 
-
-### § 9 - Zentrale Stelle für Qualitätssicherung
+### § 9 - Zentrale Stelle für Qualitätssicherung
 
 (1) Der Landesausschuss für den Rettungsdienst bestimmt eine zentrale Stelle für die trägerübergreifende Qualitätssicherung. Um die trägerübergreifende Qualitätssicherung zu gewährleisten, nimmt sie insbesondere folgende Aufgaben wahr:
 
 1. regelmäßige Analyse der Struktur-, Prozess- sowie der Ergebnisqualität einschließlich der Indikationsqualität des Rettungsdienstes anhand standardisiert übermittelter Datensätze,
-
 2. Einrichtung und Betrieb eines Online-Portals, in das die Analyseergebnisse eingestellt werden,
-
 3. Erstellung eines jährlichen Qualitätsberichtes und
-
 4. Sonderauswertungen zu rettungsdienstlichen Fragestellungen nach Abstimmung mit dem Beirat der Zentralen Stelle nach Satz 1, dem Landesausschuss für den Rettungsdienst oder einer seiner Arbeitsgruppen.
 
 Weitere Aufgaben im Hinblick auf Mitwirkung und Beratung bei der landesweiten Planung sowie der dafür zugrundeliegenden Prozesse und die hierfür erforderliche Beauftragung durch den Landesausschuss für den Rettungsdienst werden in der Verordnung nach § 6 Absatz 4 festgelegt.
@@ -306,23 +252,14 @@ Weitere Aufgaben im Hinblick auf Mitwirkung und Beratung bei der landesweiten Pl
 (3) Auf die über das Online-Portal nach Absatz 1 Nummer 2 bereitgestellten Analyseergebnisse dürfen im jeweils zur Aufgabenerfüllung erforderlichen Umfang gemäß § 58 zugreifen
 
 1. das Innenministerium, die Regierungspräsidien, die Landratsämter und Bürgermeisterämter der Stadtkreise im Rahmen ihrer Aufsichtstätigkeit,
-
 2. die Ärztlichen Leitungen Rettungsdienst bei den Regierungspräsidien nach § 5 Absatz 2 Satz 1 und 2,
-
 3. die Bereichsausschüsse,
-
 4. die Landesverbände der Leistungsträger sowie die bestandsgeschützten privaten Unternehmen in der Notfallrettung nach Artikel 2 des Gesetzes zur Änderung des Rettungsdienstgesetzes vom 15. Juli 1998 (GBl. S. 413, 418), soweit sie Aufgaben des Rettungsdienstes wahrnehmen,
-
 5. die Untergliederungen der Leistungsträger nach § 3 Absatz 1, soweit sie Aufgaben des Rettungsdienstes wahrnehmen und weitere Stellen nach § 3 Absatz 2, mit denen das Innenministerium Vereinbarungen über die bedarfsgerechte Versorgung der Bevölkerung mit Leistungen des Rettungsdienstes geschlossen hat,
-
 6. die Mitglieder des Beirats der Zentralen Stelle nach Absatz 1,
-
 7. die Leitungen des rettungsdienstlichen Teils der Integrierten Leitstellen,
-
 8. die Leitenden Notarztärztinnen und Notärzte der Rettungsdienstbereiche im Sinne des § 10 Absatz 1 Satz 4,
-
 9. die Notärztlichen Standortleitungen und
-
 10. die Ärztlichen Verantwortlichen im Rettungsdienst.
 
 Die Zentrale Stelle nach Absatz 1 stellt sicher, dass die Zugriffe auf das Online-Portal protokolliert werden.
@@ -330,15 +267,10 @@ Die Zentrale Stelle nach Absatz 1 stellt sicher, dass die Zugriffe auf das Onlin
 (4) Die am Rettungsdienst Beteiligten sind verpflichtet, an der Qualitätssicherung im Rettungsdienst mitzuwirken. Insbesondere sind
 
 1. die Durchführung der Einsätze im Rettungsdienst und deren Abwicklung vollständig zu dokumentieren und in dem von der Zentralen Stelle nach Absatz 1 in Abstimmung mit dem Landesausschuss für den Rettungsdienst vorgegebenen landeseinheitlichen Format in der in der Rechtsverordnung nach § 6 Absatz 4 vorgegebenen Frist elektronisch an die Zentrale Stelle nach Absatz 1 zur Datenverarbeitung gemäß § 53 zu übermitteln,
-
 2. die am Rettungsdienst Beteiligten gegenüber der Zentralen Stelle nach Absatz 1 auskunftspflichtig, soweit dies für die Erfüllung der in Absatz 1 genannten Aufgaben erforderlich ist und
-
 3. die am Rettungsdienst Beteiligten verpflichtet, an vorgegebenen Qualitätssicherungsverfahren teilzunehmen.
 
-
-
-
-### § 10 - Bereichsausschuss für den Rettungsdienst
+### § 10 - Bereichsausschuss für den Rettungsdienst
 
 (1) Im Rettungsdienstbereich wird ein Bereichsausschuss für den Rettungsdienst (Bereichsausschuss) gebildet. Ihm gehören eine gleiche Zahl von stimmberechtigten Vertreterinnen oder Vertretern der Leistungsträger und der Kostenträger im Rettungsdienstbereich, höchstens je sieben Vertreterinnen oder Vertreter, an. Ferner haben die Leistungsträger im Rettungsdienstbereich, die nicht mit stimmberechtigten Mitgliedern vertreten sind, das Recht, mit einer Vertreterin oder einem Vertreter an den Sitzungen des Bereichsausschusses beratend teilzunehmen. Darüber hinaus sollen dem Bereichsausschuss mit beratender Stimme eine Vertreterin oder ein Vertreter des Stadt- oder Landkreises, eine Ärztliche Leitung Rettungsdienst des zuständigen Regierungspräsidiums, eine Vertreterin oder ein Vertreter der Feuerwehr, eine Notärztliche Standortleitung sowie eine Leitende Notärztin oder ein Leitender Notarzt des Rettungsdienstbereiches, eine Vertreterin oder ein Vertreter der Kassenärztlichen Vereinigung sowie eine Vertreterin oder ein Vertreter der Krankenhäuser angehören. Bei Bedarf können weitere sachverständige Personen auf Beschluss des Bereichsausschusses zu den Beratungen hinzugezogen werden.
 
@@ -354,10 +286,9 @@ Die Zentrale Stelle nach Absatz 1 stellt sicher, dass die Zugriffe auf das Onlin
 
 (7) Die Kosten des Bereichsausschusses sind Kosten des Rettungsdienstes.
 
+### § 11 - Integrierte Leitstelle, Aufgaben und Befugnisse
 
-### § 11 - Integrierte Leitstelle, Aufgaben und Befugnisse
-
-(1) Die Integrierten Leitstellen haben die Aufgabe, alle Notrufe, Notfallmeldungen, Krankentransportanforderungen, sonstige Hilfeersuchen und Informationen zum Rettungsdienst in ihrem Zuständigkeitsbereich entgegenzunehmen und zu bearbeiten. Notrufe für Feuerwehr und Rettungsdienst werden über die Notrufnummer 112 und über das bundesweite Notruf-App-System „nora“ entgegengenommen und auf Basis einer landesweit einheitlichen Systematik abgefragt. Die Integrierten Leitstellen unterstützen die Hilfesuchenden bei der Durchführung von Erstmaßnahmen einschließlich von Erste-Hilfe-Maßnahmen, insbesondere Reanimation und Selbsthilfemaßnahmen.
+(1) Die Integrierten Leitstellen haben die Aufgabe, alle Notrufe, Notfallmeldungen, Krankentransportanforderungen, sonstige Hilfeersuchen und Informationen zum Rettungsdienst in ihrem Zuständigkeitsbereich entgegenzunehmen und zu bearbeiten. Notrufe für Feuerwehr und Rettungsdienst werden über die Notrufnummer 112 und über das bundesweite Notruf-App-System „nora" entgegengenommen und auf Basis einer landesweit einheitlichen Systematik abgefragt. Die Integrierten Leitstellen unterstützen die Hilfesuchenden bei der Durchführung von Erstmaßnahmen einschließlich von Erste-Hilfe-Maßnahmen, insbesondere Reanimation und Selbsthilfemaßnahmen.
 
 (2) Spätestens ab dem 28. Juni 2027 ist für die Beantwortung eingehender Notrufe an die Notrufnummer 112 derselbe Kommunikationsweg wie für den Eingang zu verwenden.
 
@@ -375,27 +306,23 @@ Die Zentrale Stelle nach Absatz 1 stellt sicher, dass die Zugriffe auf das Onlin
 
 (9) Für überregionale oder spezielle Aufgaben kann das Innenministerium die Einrichtung besonderer Leitstellen festlegen oder diese Aufgaben auf bestehende Integrierte Leitstellen übertragen. Hierzu gehört auch die Einrichtung von Telenotärztlichen Zentralen und den darin enthaltenen telemedizinischen Arbeitsplätzen. Das Innenministerium wird ermächtigt, Einzelheiten zur Zuständigkeit, Aufgabenstellung und zu den Befugnissen besonderer Leitstellen und der Übertragung von überregionalen oder speziellen Aufgaben auf bestehende Integrierte Leitstellen durch Rechtsverordnung zu regeln.
 
-
-### § 12 - Integrierte Leitstelle, Trägerschaft und personelle Ausstattung
+### § 12 - Integrierte Leitstelle, Trägerschaft und
 
 (1) Leitstellen sind für Feuerwehr und Rettungsdienst als Integrierte Leitstellen in gemeinsamer Trägerschaft so einzurichten und so zu betreiben, dass die Aufgabenerfüllung jederzeit gewährleistet ist. In einer gemeinsamen vertraglichen Vereinbarung der Leitstellenträger sind insbesondere Standort, Kostenaufteilung und Leistungsumfang festzulegen. Die Vereinbarung nach Satz 2 bedarf der Zustimmung des Bereichsausschusses im Rettungsdienstbereich.
 
 (2) Die Integrierten Leitstellen müssen während ihrer Betriebszeit jederzeit einsatzbereit und bedarfsgerecht mit qualifiziertem Personal ausgestattet sein. Die Bedarfsgerechtigkeit der Personalausstattung der Integrierten Leitstellen ist alle zwei Jahre zu überprüfen und bei Bedarf anzupassen. Das Ergebnis der Prüfung und die daraus folgenden Änderungen sind der zuständigen Fachaufsichtsbehörde mitzuteilen.
 
-
-### § 13 - Integrierte Leitstelle, Zusammenarbeit mit anderen Stellen
+### § 13 - Integrierte Leitstelle, Zusammenarbeit
 
 Die Integrierten Leitstellen arbeiten zur Erfüllung ihrer Aufgaben mit benachbarten Integrierten Leitstellen, den besonderen und den mit überregionalen oder speziellen Aufgaben beauftragten bestehenden Integrierten Leitstellen nach § 11 Absatz 8, den Feuerwehren, den Leistungserbringern und den im Bevölkerungsschutz tätigen Hilfsorganisationen, der Polizei, dem öffentlichen Gesundheitsdienst, den Krankenhäusern, der Kassenärztlichen Vereinigung Baden-Württemberg, den Katastrophenschutzbehörden, den Einrichtungen des Digitalfunks BOS, den weiteren Behörden und Organisationen mit Sicherheitsaufgaben sowie mit sonstigen in der Notfall- und Akutversorgung tätigen Stellen und Kräften zusammen. Die Zusammenarbeit mit der Kassenärztlichen Vereinigung Baden-Württemberg sollte auch mittels einer wechselseitigen digitalen Fallübergabe auf Basis eines abgestimmten Ersteinschätzungsverfahrens erfolgen.
 
-
-### § 14 - Rettungswache
+### § 14 - Rettungswache
 
 (1) Die Rettungswache hält die nach dem Bereichsplan erforderlichen Rettungsmittel und das notwendige Personal einsatzbereit.
 
 (2) Die Krankenhausträger sind auf Verlangen derjenigen, die den Rettungsdienst durchführen, verpflichtet, vor dem Neu- oder Erweiterungsbau von Krankenhäusern zu prüfen, ob feste Einrichtungen des Rettungsdienstes vorgesehen werden können.
 
-
-### § 15 - Rettungsmittel
+### § 15 - Rettungsmittel
 
 (1) Für die Notfallrettung und den Krankentransport sind Krankenkraftwagen und Notarzteinsatzfahrzeuge als Rettungsfahrzeuge einzusetzen. Krankenkraftwagen sind Fahrzeuge, die für Notfallrettung (Rettungswagen mit und ohne telemedizinische Ausstattung) oder Krankentransport (Krankentransportwagen) besonders eingerichtet und nach dem Fahrzeugschein als Krankenkraftwagen anerkannt sind. Notarzteinsatzfahrzeuge sind Fahrzeuge, die der schnellen Heranführung der Notärztin oder des Notarztes dienen, dafür besonders eingerichtet und im Fahrzeugschein als Notarzteinsatzfahrzeuge anerkannt sind. Die Bestimmungen der §§ 45 und 46 bleiben unberührt.
 
@@ -405,8 +332,7 @@ Die Integrierten Leitstellen arbeiten zur Erfüllung ihrer Aufgaben mit benachba
 
 (4) Die Rettungsmittel müssen den jeweils anerkannten Regeln der Technik und dem Stand der Notfallmedizin entsprechen.
 
-
-### § 16 - Besetzung von Rettungsfahrzeugen, Fortbildungspflichten, Kostenträgerschaft für die Ausbildung
+### § 16 - Besetzung von Rettungsfahrzeugen,
 
 (1) Krankenkraftwagen und Notarzteinsatzfahrzeuge sind im Einsatz mit mindestens zwei geeigneten Personen zu besetzen. Rettungswagen sind mit einer Notfallsanitäterin oder einem Notfallsanitäter zur Betreuung und Versorgung der Patientinnen und Patienten zu besetzen; als Fahrerin oder Fahrer und zweite Person fachlich geeignet ist, wer mindestens als Rettungssanitäterin oder Rettungssanitäter ausgebildet worden ist. Bei Vorliegen besonderer Gründe ist im Einzelfall die Besetzung des Rettungswagens mit einer Rettungsassistentin oder einem Rettungsassistenten bis zum 31. Dezember 2025 zulässig. Notarzteinsatzfahrzeuge sind mit einer Ärztin oder einem Arzt mit der Zusatzweiterbildung Notfallmedizin der Landesärztekammer Baden-Württemberg oder einer von der Landesärztekammer Baden-Württemberg anerkannten vergleichbaren Qualifikation (Notärztin oder Notarzt) zu besetzen. Die zweite Person muss Rettungsassistentin oder Rettungsassistent oder Notfallsanitäterin oder Notfallsanitäter sein. Rettungstransporthubschrauber sind neben dem fliegerischen Personal entsprechend Satz 4 und 5 zu besetzen. Das mitfliegende medizinische Personal muss in die relevanten flugtechnischen Vorschriften eingewiesen sein.
 
@@ -416,17 +342,13 @@ Die Integrierten Leitstellen arbeiten zur Erfüllung ihrer Aufgaben mit benachba
 
 (4) Die Kosten der Ausbildung und der weiteren Ausbildung nach dem Notfallsanitätergesetz sowie der Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter sind Kosten des Rettungsdienstes. Der voraussichtliche Bedarf an Ausbildungsplätzen ist durch den Landesausschuss für den Rettungsdienst regelmäßig an das Regierungspräsidium Karlsruhe zu übermitteln.
 
-
-### § 17 - Ausnahmen von den Anforderungen hinsichtlich der Besetzung von Rettungsfahrzeugen und der jährlichen Fortbildungspflicht in besonderen Gesundheitslagen
+### § 17 - Ausnahmen von den Anforderungen hinsichtlich der Besetzung von Rettungsfahrzeugen und
 
 (1) Sofern in besonderen Gesundheitslagen, wie insbesondere in einer Pandemie, mit erheblichen Personalausfällen zu rechnen und zu befürchten ist, dass durch diese erheblichen Personalausfälle die Einsatzfähigkeit des Rettungsdienstes gefährdet wird, kann das Innenministerium auf Antrag von mindestens zwei Leistungsträgern nach § 2 Absatz 1 oder bestandsgeschützten privaten Unternehmen in der Notfallrettung nach Artikel 2 des Gesetzes zur Änderung des Rettungsdienstgesetzes vom 15. Juli 1998 (GBl. S. 413, 418) insbesondere folgende Ausnahmen von den in § 16 genannten Anforderungen an die Qualifikation des Personals und von der in § 16 Absatz 3 genannten jährlichen Fortbildungspflicht zulassen:
 
 1. In Abweichung zu § 16 Absatz 1 Satz 5 kann zugelassen werden, Notarzteinsatzfahrzeuge kurzfristig im Einzelfall mit erfahrenen Rettungssanitäterinnen oder Rettungssanitätern als Fahrerinnen oder Fahrern zu besetzen; als Fahrerinnen oder Fahrer können auch sich in der Ausbildung befindliche Notfallsanitäterinnen oder Notfallsanitäter ab dem zweiten Ausbildungsjahr zugelassen werden, sofern sie über eine abgeschlossene Ausbildung zur Rettungssanitäterin oder zum Rettungssanitäter oder zur Rettungshelferin oder zum Rettungshelfer verfügen, der Einsatz freiwillig erfolgt und das für die Ausbildung zuständige Referat des Regierungspräsidiums Karlsruhe zustimmt;
-
 2. in Abweichung zu § 16 Absatz 1 Satz 3 kann zugelassen werden, Rettungsassistentinnen oder Rettungsassistenten auch ohne das Vorliegen besonderer Gründe als verantwortliche Person zur Betreuung und Versorgung der Patientinnen und Patienten auf dem Rettungswagen einzusetzen;
-
 3. es kann bestimmt werden, dass die in Nummer 1 und 2 genannten Anforderungen an die Qualifikation und Eignung auch dann als erfüllt gelten, wenn es sich bei dem eingesetzten Personal um ehrenamtliche oder ehemalige Mitarbeitende handelt, sofern für sie ein Versicherungsschutz gewährleistet ist und ihre letzte Fortbildung nach § 16 Absatz 3 nicht länger als zwei Jahre zurückliegt;
-
 4. in Abweichung zu § 16 Absatz 3 kann eine Reduzierung oder Aussetzung der jährlichen Fortbildungspflicht zugelassen werden.
 
 (2) Der Antrag ist schriftlich oder elektronisch zu stellen und zu begründen.
@@ -437,13 +359,11 @@ Die Integrierten Leitstellen arbeiten zur Erfüllung ihrer Aufgaben mit benachba
 
 (5) Innerhalb der Geltungszeit der zugelassenen Ausnahmen melden die Leistungserbringer auf Landesebene dem Innenministerium monatlich und rettungsdienstbereichsbezogen, in welchem Umfang von den Ausnahmen Gebrauch gemacht wurde. Die Meldung ist zwei Wochen nach dem Ende des jeweiligen Monats zu übermitteln.
 
-
-### § 18 - Ausnahmen von den Anforderungen hinsichtlich der Besetzung von Rettungsfahrzeugen bei einem Großschadensereignis
+### § 18 - Ausnahmen von den Anforderungen hinsichtlich
 
 Bei einem Großschadensereignis gelten die in § 17 Absatz 1 Nummer 1 bis 4 genannten Ausnahmen automatisch, ohne dass es einer vorherigen Genehmigung bedarf. § 17 Absatz 5 Satz 1 gilt entsprechend. Die Meldung ist binnen eines Monats nach dem Abschluss des Notfalls zu übermitteln.
 
-
-### § 19 - Mitwirkung von Ärztinnen und Ärzten
+### § 19 - Mitwirkung von Ärztinnen und Ärzten
 
 (1) Im Rettungsdienst wirken geeignete Ärztinnen und Ärzte mit. Die Eignungsvoraussetzungen werden durch Satzung der Landesärztekammer festgelegt. Die Krankenhausträger sind verpflichtet, Ärztinnen und Ärzte gegen Kostenausgleich zur Verfügung zu stellen; der Bereichsausschuss kann hierzu unbeschadet der Regelungen in Absatz 4 durch Verwaltungsakt Anordnungen treffen. Widerspruch und Anfechtungsklage haben keine aufschiebende Wirkung. Der Kostenausgleich umfasst auch die Kosten der erforderlichen Fort- und Weiterbildung des ärztlichen Personals der Krankenhäuser für den Notarztdienst. Für die Vollstreckung gilt das Landesverwaltungsvollstreckungsgesetz. Die niedergelassenen Ärztinnen und Ärzte wirken im Rettungsdienst mit.
 
@@ -453,93 +373,74 @@ Bei einem Großschadensereignis gelten die in § 17 Absatz 1 Nummer 1 bis 4 gena
 
 (4) Der dem Krankenhausträger nach Absatz 1 Satz 3 Halbsatz 1 zustehende Kostenausgleich wird mit den Kostenträgern nach § 10 Absatz 1 Satz 2 einheitlich und gemeinsam vereinbart. Soweit eine solche Vereinbarung nicht zustande kommt, kann eine Schiedsstelle angerufen werden. § 43 Absatz 5 Satz 2 bis 8 gilt entsprechend. Die Schiedsstelle wird vom Regierungspräsidium für dessen Bezirk gebildet und setzt sich zusammen aus einer Vertreterin oder einem Vertreter der Baden-Württembergischen Krankenhausgesellschaft, zwei Vertreterinnen oder Vertretern des Krankenhausträgers, drei Vertreterinnen oder Vertretern der Landesverbände der Kostenträger und einer oder einem von der Baden-Württembergischen Krankenhausgesellschaft und den Landesverbänden der Kostenträger einvernehmlich bestimmten unparteiischen Vorsitzenden. Die Vertreterinnen oder Vertreter der Kostenträger werden von den Landesverbänden der Kostenträger benannt. § 43 Absatz 6 Satz 2 und 4 sowie Absatz 7 gilt entsprechend.
 
+### § 20 - Eigenständige Durchführung heilkundlicher
 
-### § 20 - Eigenständige Durchführung heilkundlicher Maßnahmen und Ärztliche Verantwortliche im Rettungsdienst
-
-(1) Die nach § 3 Absatz 1 beauftragten Leistungsträger der bodengebundenen Notfallrettung legen für bestimmte notfallmedizinische Zustandsbilder und -situationen landesweit und trägerübergreifend einheitliche „Standardarbeitsanweisungen und Behandlungspfade im Rettungsdienst Baden-Württemberg“ für die eigenständige Durchführung heilkundlicher Maßnahmen nach § 4 Absatz 2 Nummer 2 Buchstabe c Notfallsanitätergesetz. Das Land stellt den Leistungsträgern hierfür regelhaft ein geeignetes Muster als Grundlage zur Verfügung.
+(1) Die nach § 3 Absatz 1 beauftragten Leistungsträger der bodengebundenen Notfallrettung legen für bestimmte notfallmedizinische Zustandsbilder und -situationen landesweit und trägerübergreifend einheitliche „Standardarbeitsanweisungen und Behandlungspfade im Rettungsdienst Baden-Württemberg" für die eigenständige Durchführung heilkundlicher Maßnahmen nach § 4 Absatz 2 Nummer 2 Buchstabe c Notfallsanitätergesetz. Das Land stellt den Leistungsträgern hierfür regelhaft ein geeignetes Muster als Grundlage zur Verfügung.
 
 (2) Die nach § 3 Absatz 1 und 2 beauftragten Leistungsträger sowie die bestandsgeschützten privaten Unternehmen in der Notfallrettung nach Artikel 2 des Gesetzes zur Änderung des Rettungsdienstgesetzes vom 15. Juli 1998 (GBl. S. 413, 418) haben für die Rettungsdienstbereiche, in denen sie die bodengebundene Notfallrettung wahrnehmen, eine bedarfsgerechte Anzahl von Ärztlichen Verantwortlichen im Rettungsdienst zu bestimmen. Der Zuständigkeitsbereich der Ärztlichen Verantwortlichen im Rettungsdienst ist durch den jeweiligen Leistungsträger beziehungsweise das jeweilige bestandsgeschützte private Unternehmen festzulegen und kann Teile eines Rettungsdienstbereichs, den gesamten Rettungsdienstbereich oder mehrere Rettungsdienstbereiche umfassen.
 
-(3) Die Ärztlichen Verantwortlichen im Rettungsdienst geben den in ihrem Zuständigkeitsbereich tätigen Notfallsanitäterinnen und Notfallsanitätern heilkundliche Maßnahmen zur eigenständigen Durchführung auf Basis der „Standardarbeitsanweisungen und Behandlungspfade im Rettungsdienst Baden-Württemberg“ vor, soweit diese Maßnahmen eine persönliche ärztliche Kenntnis der Patientinnen und Patienten nicht erfordern. Die Ärztlichen Verantwortlichen im Rettungsdienst überprüfen und verantworten diese Vorgaben. Im Einzelfall können sie von ihr ganz oder teilweise absehen oder bereits erfolgte Vorgaben ganz oder teilweise zurücknehmen, wenn die fachliche Eignung der jeweiligen Notfallsanitäterin oder des jeweiligen Notfallsanitäters nicht gegeben ist. Die Ärztlichen Verantwortlichen im Rettungsdienst führen eine einzelfallbezogene Dokumentation über ihre Entscheidungen.
+(3) Die Ärztlichen Verantwortlichen im Rettungsdienst geben den in ihrem Zuständigkeitsbereich tätigen Notfallsanitäterinnen und Notfallsanitätern heilkundliche Maßnahmen zur eigenständigen Durchführung auf Basis der „Standardarbeitsanweisungen und Behandlungspfade im Rettungsdienst Baden-Württemberg" vor, soweit diese Maßnahmen eine persönliche ärztliche Kenntnis der Patientinnen und Patienten nicht erfordern. Die Ärztlichen Verantwortlichen im Rettungsdienst überprüfen und verantworten diese Vorgaben. Im Einzelfall können sie von ihr ganz oder teilweise absehen oder bereits erfolgte Vorgaben ganz oder teilweise zurücknehmen, wenn die fachliche Eignung der jeweiligen Notfallsanitäterin oder des jeweiligen Notfallsanitäters nicht gegeben ist. Die Ärztlichen Verantwortlichen im Rettungsdienst führen eine einzelfallbezogene Dokumentation über ihre Entscheidungen.
 
-(4) Die in Absatz 2 genannten Leistungsträger und Unternehmen unterziehen die fachliche Eignung der Notfallsanitäterinnen und Notfallsanitäter zur eigenständigen Durchführung von heilkundlichen Maßnahmen nach den „Standardarbeitsanweisungen und Behandlungspfaden im Rettungsdienst Baden-Württemberg“ einer jährlichen Kontrolle und dokumentieren deren Ergebnis. Die Kontrolle erfolgt unter Beteiligung der Ärztlichen Verantwortlichen im Rettungsdienst und kann im Rahmen der Fortbildung nach § 16 Absatz 3 durchgeführt werden.
+(4) Die in Absatz 2 genannten Leistungsträger und Unternehmen unterziehen die fachliche Eignung der Notfallsanitäterinnen und Notfallsanitäter zur eigenständigen Durchführung von heilkundlichen Maßnahmen nach den „Standardarbeitsanweisungen und Behandlungspfaden im Rettungsdienst Baden-Württemberg" einer jährlichen Kontrolle und dokumentieren deren Ergebnis. Die Kontrolle erfolgt unter Beteiligung der Ärztlichen Verantwortlichen im Rettungsdienst und kann im Rahmen der Fortbildung nach § 16 Absatz 3 durchgeführt werden.
 
 (5) Die Durchführung einer nach Absatz 3 vorgegebenen Maßnahme ist durch die Notfallsanitäterinnen und Notfallsanitäter zu dokumentieren. Die Leistungsträger und bestandsgeschützten privaten Unternehmen haben unter Beteiligung der Ärztlichen Verantwortlichen im Rettungsdienst ein geeignetes Qualitätsmanagement sicherzustellen. Die Zentrale Stelle nach § 9 unterstützt die Leistungsträger mit einer trägerübergreifenden Qualitätssicherung. Dazu stellen die Leistungsträger und Unternehmen die erforderlichen Daten nach Spezifikation der Zentralen Stelle nach § 9 zur Verfügung.
 
-
-### § 21 - Notärztliche Standortleitungen
+### § 21 - Notärztliche Standortleitungen
 
 (1) Für jeden Notarztstandort wird von der Trägerin oder dem Träger der Notarztgestellung eine Person bestimmt, die die Notärztliche Standortleitung übernimmt. Zur Notärztlichen Standortleitung kann nur bestimmt werden, wer die Voraussetzungen nach § 19 Absatz 1 Satz 1 und 2 erfüllt. Die Notärztlichen Standortleitungen sind gegenüber den am Notarztstandort eingesetzten Notärztinnen und Notärzten im Hinblick auf die Qualitätssicherung weisungsbefugt.
 
 (2) Zu den Aufgaben der Notärztlichen Standortleitungen gehört insbesondere,
 
-1. dafür Sorge zu tragen, dass
-
-a) alle am Standort tätigen Notärztinnen und Notärzte in die organisatorischen Regelungen zur Qualitätssicherung eingewiesen werden und an allen Maßnahmen der Qualitätssicherung mitwirken können,
-
-b) die Vorgaben zur Qualitätssicherung und die damit zusammenhängenden Dokumentationspflichten erfüllt werden sowie
-
-c) den jeweiligen Notärztinnen und Notärzten sowie der Trägerin oder dem Träger der Notarztgestellung die standortbezogenen Ergebnisse der Qualitätssicherung mitgeteilt werden, dies gilt insbesondere für Qualitätssicherungsmängel;
-
+1. dafür Sorge zu tragen, dass  a) alle am Standort tätigen Notärztinnen und Notärzte in die organisatorischen Regelungen zur Qualitätssicherung eingewiesen werden und an allen Maßnahmen der Qualitätssicherung mitwirken können,
+  b) die Vorgaben zur Qualitätssicherung und die damit zusammenhängenden Dokumentationspflichten erfüllt werden sowie
+  c) den jeweiligen Notärztinnen und Notärzten sowie der Trägerin oder dem Träger der Notarztgestellung die standortbezogenen Ergebnisse der Qualitätssicherung mitgeteilt werden, dies gilt insbesondere für Qualitätssicherungsmängel; 
 2. als Ansprechperson für die Zentrale Stelle nach § 9 zur Verfügung zu stehen und für den Fall, dass Qualitätsdefizite festgestellt werden, konkrete Maßnahmen gegenüber den betroffenen Notärztinnen und Notärzten am Notarztstandort sowie gegebenenfalls den Trägerinnen und Trägern der Notarztgestellung einzufordern.
 
 (3) Zum Zwecke der Aufgabenerfüllung nach Absatz 2 Nummer 1 dürfen die Notärztlichen Standortleitungen stichprobenartig oder anlassbezogen Einsicht in die Einsatzdokumentationen nehmen. Die Einsichtnahme ist zu dokumentieren. Die stichprobenartige Kontrolle ist auf höchstens 25 Prozent der Einsätze begrenzt.
 
-
-### § 22 - Leitende Notärztinnen und Leitende Notärzte sowie Organisatorische Leitung Rettungsdienst
+### § 22 - Leitende Notärztinnen und Leitende Notärzte
 
 (1) Bei Großschadensereignissen ist die medizinische Versorgung durch eine Leitende Notärztin oder einen Leitenden Notarzt zu koordinieren. Die operativtaktischen Leitungs- und Koordinierungsaufgaben übernimmt die Organisatorische Leitung Rettungsdienst. Leitende Notärztin oder Leitender Notarzt und Organisatorische Leitung Rettungsdienst unterstützen sich gegenseitig.
 
 (2) Aufgaben, Tätigkeit und Bestellung der Leitenden Notärztin oder des Leitenden Notarztes sowie Aufgaben und Tätigkeit der Organisatorischen Leitung Rettungsdienst werden in der Verordnung nach § 6 Absatz 4 und durch den Landesausschuss für den Rettungsdienst nach § 8 Absatz 2 festgelegt. Die durch die Bereitstellung und den Einsatz der Leitenden Notärztin oder des Leitenden Notarztes und der Organisatorischen Leitung Rettungsdienst entstehenden Kosten sind Kosten des Rettungsdienstes.
 
-
-### § 23 - Helfer-vor-Ort-System
+### § 23 - Helfer-vor-Ort-System
 
 (1) Ergänzend zur Notfallrettung können ehrenamtlich tätige Helferinnen und Helfer vor Ort als Organisierte Erste Hilfe mitwirken. Organisierte Erste Hilfe ist die planmäßig und auf Dauer angelegte, von einer im Katastrophenschutz mitwirkenden Organisation und Einrichtung auf Anforderung der Integrierten Leitstelle geleistete Notfallhilfe am Einsatzort bis zum Eintreffen des Rettungsdienstes. Sie ist weder Bestandteil des Rettungsdienstes noch dessen Ersatz. Organisierte Erste Hilfe unterliegt nicht dem Sicherstellungsauftrag der Leistungserbringer des Rettungsdienstes.
 
 (2) Das Innenministerium wird ermächtigt, Einzelheiten zur Organisation, Ausstattung, Ausbildung, Eignung und Dokumentation sowie zu den Einsatzkriterien durch Rechtsverordnung zu regeln.
 
-
-### § 24 - Smartphonebasiert alarmierte Ersthelferinnen und Ersthelfer
+### § 24 - Smartphonebasiert alarmierte Ersthelferinnen und Ersthelfer
 
 (1) Smartphonebasiert alarmierte Ersthelferinnen und Ersthelfer sind geeignete Ehrenamtliche, die über ein App-Alarmierungssystem durch die Integrierte Leitstelle alarmiert werden können und ergänzend zur Notfallrettung des Rettungsdienstes Notfallhilfe am Einsatzort bis zum Eintreffen des Rettungsdienstes erbringen. Diese sind weder Bestandteil des Rettungsdienstes noch dessen Ersatz. Ihr Einsatz unterliegt nicht dem Sicherstellungsauftrag der Leistungserbringer des Rettungsdienstes. Die durch die Einrichtung und den Betrieb eines App-Alarmierungssystems entstehenden Kosten können in den Benutzungsentgelten nach § 43 Absatz 3 entsprechend berücksichtigt werden.
 
 (2) Die Integrierten Leitstellen übernehmen die Alarmierung von Ersthelferinnen und Ersthelfern durch ein App-Alarmierungssystem als weitere Aufgabe, soweit dies im Rettungsdienstbereich angebunden ist. Die Einzelheiten zu Eignung, Einsatzindikation, Einsatzdisposition und Alarmierung sowie zur Dokumentation können in der Verordnung nach § 6 Absatz 4 festgelegt werden. Die Kosten für die Alarmierung können bei der Berechnung des Leitstellentgeltes nach § 11 Absatz 5 berücksichtigt werden.
 
-
-### § 25 - Technische Hilfe
+### § 25 - Technische Hilfe
 
 (1) Soweit technische Hilfe notwendig ist, haben die bei der Durchführung des Rettungsdienstes Tätigen die Feuerwehr anzufordern.
 
 (2) In besonderen Lagen können andere technische Hilfsorganisationen angefordert werden.
 
-
-### § 26 - Besondere Bestimmungen für den Rettungsdienst in kommunaler Trägerschaft
+### § 26 - Besondere Bestimmungen für den Rettungsdienst
 
 Wird der Rettungsdienst in einem Rettungsdienstbereich nach § 3 Absatz 4 durchgeführt, gilt Folgendes:
 
 1. im Landesausschuss für den Rettungsdienst erhöht sich die Zahl der Vertreterinnen und Vertreter der Leistungsträger um je eine Vertreterin oder einen Vertreter der betroffenen kommunalen Landesverbände; die Zahl der Vertreterinnen und Vertreter der Kostenträger erhöht sich entsprechend;
-
 2. Vorsitzende oder Vorsitzender des Bereichsausschusses ist eine Vertreterin oder ein Vertreter des kommunalen Aufgabenträgers; für diesen verbindliche Festlegungen des Bereichsausschusses können nicht gegen die Stimme der oder des Vorsitzenden getroffen werden; bedienen sich die Landkreise und Stadtkreise zur Erfüllung ihrer Aufgabe freiwilliger Hilfsorganisationen, so ist diesen auf der Seite der Leistungsträger eine angemessene Beteiligung einzuräumen;
-
 3. die Schiedsstelle nach § 43 Absatz 5 wird um eine Vertreterin oder einen Vertreter der betroffenen kommunalen Landesverbände und um eine weitere Vertreterin oder einen weiteren Vertreter der Landesverbände der Kostenträger erweitert.
 
-
-
-
-### § 27 - Gegenseitige Unterstützung
+### § 27 - Gegenseitige Unterstützung
 
 Die Trägerinnen und Träger des Rettungsdienstes in benachbarten Rettungsdienstbereichen haben sich auf Anforderung der Integrierten Leitstellen gegenseitig zu unterstützen, sofern dadurch die Wahrnehmung der Aufgaben im eigenen Rettungsdienstbereich nicht wesentlich beeinträchtigt wird.
 
-
-### § 28 - Grenzüberschreitender Rettungsdienst
+### § 28 - Grenzüberschreitender Rettungsdienst
 
 Das Innenministerium trifft mit anderen Ländern, mit Trägerinnen und Trägern des Rettungsdienstes oder sonstigen Stellen außerhalb von Baden-Württemberg Vereinbarungen, wenn dies zur Gewährleistung einer wirksamen Durchführung des Rettungsdienstes zweckmäßig ist. Die Befugnis kann auf nachgeordnete Behörden übertragen werden.
 
+## DRITTER ABSCHNITT Genehmigungsverfahren
 
-## DRITTER ABSCHNITT - Genehmigungsverfahren
-
-### § 29 - Genehmigungspflicht
+### § 29 - Genehmigungspflicht
 
 (1) Die Leistungsträger nach § 3 Absatz 1 bedürfen für die Wahrnehmung der Notfallrettung keiner Genehmigung. Sie haben die Aufnahme des Betriebs der Notfallrettung der nach § 36 zuständigen Behörde anzuzeigen. Dabei sind die Festlegungen des Bereichsplans nach § 6 Absatz 6 einzuhalten. Absatz 4 Satz 2 gilt entsprechend.
 
@@ -552,32 +453,26 @@ Das Innenministerium trifft mit anderen Ländern, mit Trägerinnen und Trägern 
 (5) Ausgenommen von der Beschränkung der Notfallrettung auf gesetzliche Leistungsträger nach § 3 Absatz 3 Satz 1 und von der Genehmigungspflicht nach Absatz 2 für Krankentransport ist der Rettungsdienst
 
 1. durch Hoheitsträger in Wahrnehmung eigener Aufgaben oder
-
 2. mit Fahrzeugen, die ausschließlich für Katastrophen oder für Schadensereignisse mit einer Vielzahl von Verletzten vorgehalten werden.
 
 Die Genehmigungsfreiheit entbindet nicht von der Verpflichtung zur Einhaltung der Anforderungen dieses Gesetzes.
 
 (6) Das Innenministerium kann durch Rechtsverordnung Ausnahmen von der Genehmigungspflicht für den Krankentransport zulassen, wenn die ordnungsgemäße Durchführung gewährleistet ist.
 
-
-### § 30 - Genehmigungsvoraussetzungen
+### § 30 - Genehmigungsvoraussetzungen
 
 (1) Die Genehmigung zum Betrieb von Krankentransport darf nur erteilt werden, wenn
 
 1. die Sicherheit und Leistungsfähigkeit des Betriebes gewährleistet sind,
-
 2. keine Tatsachen vorliegen, die die Unzuverlässigkeit der antragstellenden Person als Unternehmerin oder Unternehmer oder der zur Führung der Geschäfte bestellten Person dartun,
-
 3. die Antragstellerin oder der Antragsteller als Unternehmerin oder Unternehmer oder die zur Führung der Geschäfte bestellte Person fachlich geeignet ist und
-
 4. eine unterzeichnete Teilnahmevereinbarung für den Digitalfunk vorgelegt wird.
 
 (2) Die fachliche Eignung wird durch Ablegen entsprechender Prüfungen oder durch angemessene Tätigkeiten in Unternehmen nachgewiesen, die die beantragte Art der Tätigkeit zum Gegenstand haben. Das Innenministerium wird ermächtigt, die Einzelheiten zu den Voraussetzungen und den zum Nachweis der fachlichen Eignung erforderlichen Unterlagen und Kriterien durch Rechtsverordnung zu regeln.
 
 (3) Voraussetzung für die Genehmigung ist ferner die Einhaltung der Bestimmungen über Rettungsfahrzeuge nach § 15 und deren Besetzung nach § 16 sowie der Festlegungen des Rettungsdienstplanes nach § 6 Absatz 1, 2 und 4. Bei Neugenehmigungen ist die Einhaltung der Vorgaben zur Besetzung der Rettungsfahrzeuge der Genehmigungsbehörde spätestens vier Wochen vor der geplanten Betriebsaufnahme nachzuweisen. Sofern die zur Prüfung erforderlichen Nachweise nicht vorgelegt oder die gesetzlichen Vorgaben nicht eingehalten werden, setzt die Genehmigungsbehörde eine Nachfrist für die Erfüllung der Vorgaben, die zwei Wochen nicht überschreiten soll. Kommt das Unternehmen seinen Verpflichtungen innerhalb dieser Nachfrist nicht nach, erlischt die Genehmigung automatisch.
 
-
-### § 31 - Umfang der Genehmigung, Anzeige der Betriebsaufnahme und Anzeige der Betriebsaufgabe
+### § 31 - Umfang der Genehmigung, Anzeige der Betriebsaufnahme
 
 (1) Die Genehmigung für die Ausübung von Krankentransport wird dem Unternehmen erteilt. Die Genehmigung wird für das einzelne Fahrzeug erteilt und muss neben dem Betriebsbereich das amtliche Kennzeichen und die Adresse der Einrichtung des Rettungsdienstes enthalten, an der der Krankentransportwagen und das nach § 16 Absatz 2 Satz 1 vorgeschriebene Personal vorgehalten werden und von der aus sie gemeinsam ausrücken. Die Genehmigung berechtigt das Unternehmen zur Ausübung des Krankentransportes im Geltungsbereich dieses Gesetzes.
 
@@ -585,8 +480,7 @@ Die Genehmigungsfreiheit entbindet nicht von der Verpflichtung zur Einhaltung de
 
 (3) Das Unternehmen ist verpflichtet, der Genehmigungsbehörde die Aufgabe des Betriebs unverzüglich anzuzeigen.
 
-
-### § 32 - Betriebsbereich
+### § 32 - Betriebsbereich
 
 (1) Betriebsbereich im Sinne dieses Gesetzes ist der in der Genehmigungsurkunde festgesetzte Rettungsdienstbereich, innerhalb dessen das Unternehmen verpflichtet ist, Krankentransport zu betreiben.
 
@@ -598,8 +492,7 @@ Die Genehmigungsfreiheit entbindet nicht von der Verpflichtung zur Einhaltung de
 
 (5) Außerhalb des Betriebsbereiches dürfen Beförderungen durch Vermittlung der im Ausgangsort der Beförderung örtlich zuständigen Integrierten Leitstelle mit Zustimmung der für den in der Genehmigungsurkunde festgelegten Betriebsbereich zuständigen Integrierten Leitstelle durchgeführt werden. Eine Beförderungspflicht besteht für diesen Fall nicht.
 
-
-### § 33 - Anwendung des Personenbeförderungsgesetzes
+### § 33 - Anwendung des Personenbeförderungsgesetzes
 
 (1) Soweit die Vorschriften dieses Gesetzes nichts anderes bestimmen, gelten für das Verfahren, den Inhalt der Genehmigung, die Genehmigungsurkunde, die Haftung, die Rechtsfolgen beim Tod der Unternehmerin oder des Unternehmers sowie die Aufsicht über die Unternehmerin oder den Unternehmer die §§ 12, 14, 15, 17, 19, 23, 54 Absatz 1 Satz 1 und Absatz 2 und § 54a Absatz 1 des Personenbeförderungsgesetzes entsprechend.
 
@@ -607,48 +500,39 @@ Die Genehmigungsfreiheit entbindet nicht von der Verpflichtung zur Einhaltung de
 
 (3) Absatz 1 gilt entsprechend für die Anzeige der Aufnahme des Betriebs der Notfallrettung.
 
-
-### § 34 - Nebenbestimmungen
+### § 34 - Nebenbestimmungen
 
 (1) Die Genehmigung zum Betrieb von Krankentransport ist mit Nebenbestimmungen zu versehen, die
 
 1. die dem Unternehmen obliegende Betriebs- und Beförderungspflicht einschließlich der Betriebszeiten näher bestimmen,
-
 2. ordnungsgemäße hygienische Verhältnisse einschließlich einer sachgerechten Desinfektion und Dekontamination im Betrieb zum Ziel haben,
-
 3. die Lenkung aller Einsätze des Rettungsdienstes durch die Integrierte Leitstelle sowie die Weiterleitung der bei dem zuständigen Kostenträger abgerechneten Leitstellenvermittlungsentgelte an die empfangsberechtigte Integrierte Leitstelle regeln, sowie
-
 4. den Abschluss einer Vereinbarung mit den Kostenträgern gemäß § 133 des Fünften Buches Sozialgesetzbuch als Voraussetzung für das Wirksamwerden der Genehmigung vorsehen.
 
 (2) Die Genehmigung kann mit Nebenbestimmungen versehen werden, die
 
 1. die Zusammenarbeit der Unternehmen untereinander und mit dem Bereichsausschuss (§ 10) regeln und
-
 2. die Unternehmen verpflichten, die Beförderungsaufträge und deren Abwicklung aufzuzeichnen und die Aufzeichnungen eine bestimmte Zeit aufzubewahren.
 
 (3) Die Genehmigung ist dem Unternehmen für die Dauer von höchstens vier Jahren zu erteilen.
 
-
-### § 35 - Rücknahme und Widerruf der Genehmigung
+### § 35 - Rücknahme und Widerruf der Genehmigung
 
 (1) Die Genehmigung ist zurückzunehmen, wenn bei ihrer Erteilung eine der Voraussetzungen nach § 30 nicht vorgelegen hat.
 
 (2) Die Genehmigung ist zu widerrufen, wenn die Voraussetzungen nach § 30 nicht mehr gegeben sind. Die Zuverlässigkeit der Unternehmerin oder des Unternehmers oder der zur Führung der Geschäfte berufenen Person ist insbesondere nicht mehr gegeben, wenn in ihrem oder seinem Betrieb trotz schriftlicher oder elektronischer Mahnung der Genehmigungsbehörde
 
 1. die im Interesse der öffentlichen Sicherheit erlassenen Vorschriften nicht befolgt werden oder
-
 2. den Verpflichtungen zuwidergehandelt wird, die der Unternehmerin, dem Unternehmer oder der zur Führung der Geschäfte berufenen Person oder dem Unternehmen nach diesem Gesetz oder nach den aufgrund dieses Gesetzes erlassenen Rechtsvorschriften obliegen.
 
 (3) Die Genehmigung kann widerrufen werden, wenn
 
 1. gegen Auflagen verstoßen wird, oder
-
 2. die arbeitsschutzrechtlichen, sozialrechtlichen oder steuerrechtlichen Verpflichtungen wiederholt nicht erfüllt werden.
 
 (4) Im Übrigen gelten die Vorschriften des Landesverwaltungsverfahrensgesetzes über die Rücknahme und den Widerruf von Verwaltungsakten.
 
-
-### § 36 - Genehmigungsbehörde
+### § 36 - Genehmigungsbehörde
 
 (1) Die Genehmigung für den Krankentransport erteilen die Landratsämter und die Stadtkreise als untere Verwaltungsbehörden. Dies gilt auch für die Rücknahme und den Widerruf der Genehmigung. Die Genehmigungsbehörde teilt ihre Entscheidung dem Bereichsausschuss mit.
 
@@ -656,10 +540,9 @@ Die Genehmigungsfreiheit entbindet nicht von der Verpflichtung zur Einhaltung de
 
 (3) Erstreckt sich der Betriebsbereich über mehrere Stadt- und Landkreise, so ist das Regierungspräsidium, in dessen Bezirk sich der Betriebsbereich befindet, oder die von ihm bestimmte Behörde zuständig. Bevor das Regierungspräsidium die zuständige Behörde bestimmt, sind die betroffenen Landkreise und Stadtkreise anzuhören; ein gemeinsamer Vorschlag dieser ist zu berücksichtigen. Erstreckt sich der Betriebsbereich über mehrere Regierungsbezirke hinaus, bestimmt das Innenministerium die Genehmigungsbehörde. Satz 2 gilt entsprechend.
 
+## VIERTER ABSCHNITT Pflichten der Unternehmerin oder des Unternehmers
 
-## VIERTER ABSCHNITT - Pflichten der Unternehmerin oder des Unternehmers
-
-### § 37 - Betriebspflicht
+### § 37 - Betriebspflicht
 
 (1) Das Unternehmen ist verpflichtet, den Betrieb ordnungsgemäß einzurichten und der Genehmigung entsprechend aufrechtzuerhalten.
 
@@ -667,13 +550,11 @@ Die Genehmigungsfreiheit entbindet nicht von der Verpflichtung zur Einhaltung de
 
 (3) Das Unternehmen hat die Erreichbarkeit und Einsatzbereitschaft des Betriebs während der festgesetzten Betriebszeiten sicherzustellen.
 
-
-### § 38 - Beförderungspflicht
+### § 38 - Beförderungspflicht
 
 (1) Das Unternehmen ist im Rahmen der ihm erteilten Genehmigung zum Krankentransport verpflichtet, wenn
 
 1. sich der Ausgangsort der Beförderung innerhalb seines Betriebsbereiches befindet und
-
 2. die Beförderung nicht durch Umstände verhindert wird, die das Unternehmen nicht zu vertreten hat.
 
 Die Verpflichtung beschränkt sich auf die Beförderung in die nächste, für die weitere Versorgung geeignete und aufnahmebereite Einrichtung.
@@ -682,17 +563,15 @@ Die Verpflichtung beschränkt sich auf die Beförderung in die nächste, für di
 
 (3) Die Beförderung darf nicht deshalb abgelehnt werden, weil ein rechtswirksamer Beförderungsvertrag nicht vorliegt oder die Entrichtung des Entgelts nicht gesichert ist.
 
-
-### § 39 - Anwendung der Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr
+### § 39 - Anwendung der Verordnung über den Betrieb von
 
 (1) Für den Betrieb des Unternehmens, die Ausrüstung und Beschaffenheit sowie die Untersuchung der Fahrzeuge gelten die §§ 2 bis 8, 11, 16 bis 19 und 41 bis 43 der Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr (BOKraft) vom 21. Juni 1975 (BGBl. I S. 1573), die zuletzt durch Artikel 5 des Gesetzes vom 16. April 2021 (BGBl. I S. 822, 831) geändert worden ist, in der jeweils geltenden Fassung entsprechend. § 9 BOKraft gilt mit der Maßgabe, dass auf Krankenkraftwagen eingesetzte Personen auch dann ihre Tätigkeit nicht ausüben dürfen, wenn sie oder Angehörige ihrer häuslichen Gemeinschaft krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider im Sinne von § 2 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), das zuletzt durch Artikel 8v des Gesetzes vom 12. Dezember 2023 (BGBl. I Nr. 359) geändert worden ist, in der jeweils geltenden Fassung sind.
 
 (2) Die Pflichten nach § 3 BOKraft erstrecken sich auf die Einhaltung der Anforderungen dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen sowie hierzu ergangener behördlicher Anordnungen.
 
+## FÜNFTER ABSCHNITT Finanzierung des Rettungsdienstes
 
-## FÜNFTER ABSCHNITT - Finanzierung des Rettungsdienstes
-
-### § 40 - Öffentliche Förderung des Rettungsdienstes
+### § 40 - Öffentliche Förderung des Rettungsdienstes
 
 (1) Wer den bodengebundenen Rettungsdienst oder die Sonderrettungsdienste als Leistungsträger aufgrund von Vereinbarungen mit dem Innenministerium nach § 3 Absatz 1 durchführt, kann vom Land im Rahmen der jeweils im Staatshaushaltsplan zur Verfügung stehenden Mittel öffentliche Fördermittel in Höhe von 90 Prozent der förderungsfähigen Kosten erhalten. 10 Prozent der förderungsfähigen Kosten sind als Eigenbeteiligung zu erbringen. Der Prozentsatz der förderungsfähigen Kosten bezieht sich auf die Kostenkalkulation zum Zeitpunkt der Antragstellung. Die Förderung erfolgt durch Festbetrag. Dieser kann aufgrund pauschaler Kostenwerte festgelegt werden. Über die 90 Prozent hinausgehende Kosten sowie nicht förderungsfähige Kosten für die notwendige Errichtung und den Betrieb von Rettungswachen sind Kosten des Rettungsdienstes.
 
@@ -703,27 +582,16 @@ Die Verpflichtung beschränkt sich auf die Beförderung in die nächste, für di
 (4) Das Innenministerium wird ermächtigt, durch Rechtsverordnung weitere Einzelheiten zu den förderungsfähigen Kosten und zur Ausgestaltung des Förderverfahrens zu regeln. Hierzu gehören insbesondere Regelungen
 
 1. bis zu welcher Höhe in den Fällen der Absätze 1 und 2 die Kosten bei Anwendung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit unter angemessener Berücksichtigung von Nachhaltigkeitsaspekten gerechtfertigt sind, wobei in der Rechtsverordnung für diese Bewertung auch pauschale Flächenwerte und Raumkonzepte festgelegt werden können,
-
 2. ob und bis zu welchem Anteil in den Fällen der Absätze 1 und 2 auch die Kosten für die Erstausstattung mit den hierzu gehörenden Wirtschaftsgütern des Anlagevermögens (Anlagegüter) förderungsfähig sind,
-
 3. ob und bis zu welchem Anteil die Kosten des Erwerbs von Grundstücken und der Grundstückserschließung sowie ihrer Finanzierung ausnahmsweise gefördert werden,
-
 4. ob und bis zu welchem Anteil Kosten gefördert werden können, die dadurch entstehen, dass Anforderungen erfüllt werden, deren Einhaltung aus Gründen des Klimaschutzes aufgrund bundes- oder landesrechtlicher Vorgaben zwingende Voraussetzung für die Gewährung staatlicher Zuwendungen oder Zuschüsse ist,
-
 5. zum Antragsverfahren,
-
 6. zum Verfahren der Anmeldung der beantragten Vorhaben in das Jahresförderprogramm einschließlich der Festlegung der zu beteiligenden Stellen,
-
 7. zur Zweckbindungsdauer sowie zur Sicherung der Zweckbindung der öffentlichen Förderung im Sinne des § 42,
-
 8. zur Anwendung vergaberechtlicher Vorschriften durch die Fördermittelempfängerin oder den Fördermittelempfänger bei der Beauftragung von Leistungen sowie
-
 9. zur Prüfung der ordnungsgemäßen Verwendung der Fördermittel und den Nachweispflichten der Fördermittelempfängerin oder des Fördermittelempfängers.
 
-
-
-
-### § 41 - Öffentliche Förderung von Projekten zur technischen oder organisatorischen Weiterentwicklung des Rettungsdienstes
+### § 41 - Öffentliche Förderung von Projekten zur technischen oder organisatorischen
 
 (1) Projekte zur technischen oder organisatorischen Weiterentwicklung des Rettungsdienstes von landesweiter Bedeutung können auf Antrag, im Rahmen der jeweils im Staatshaushaltsplan zur Verfügung stehenden Mittel, mit öffentlichen Fördermitteln in Höhe von maximal 50 Prozent der Gesamtkosten gefördert werden. Der Prozentsatz bezieht sich auf die Kostenkalkulation zum Zeitpunkt der Antragstellung.
 
@@ -732,21 +600,13 @@ Die Verpflichtung beschränkt sich auf die Beförderung in die nächste, für di
 (3) Das Innenministerium wird ermächtigt, durch Rechtsverordnung weitere Einzelheiten zu den förderungsfähigen Kosten und zur Ausgestaltung des Förderverfahrens zu regeln. Hierzu gehören insbesondere Regelungen
 
 1. bis zu welcher Höhe in den Fällen des Absatz 1 die Kosten bei Anwendung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit unter angemessener Berücksichtigung von Nachhaltigkeitsaspekten gerechtfertigt sind,
-
 2. zum Antragsverfahren,
-
 3. zum Verfahren der Anmeldung des Projektes nach Absatz 1 für die Förderung aus den zur Verfügung stehenden Haushaltsmitteln einschließlich der Festlegung der zu beteiligenden Stellen,
-
 4. zur Zweckbindungsdauer sowie zur Sicherung der Zweckbindung der öffentlichen Förderung im Sinne des § 42,
-
 5. zur Anwendung vergaberechtlicher Vorschriften durch die Fördermittelempfängerin oder den Fördermittelempfänger bei der Beauftragung von Leistungen sowie
-
 6. zur Prüfung der ordnungsgemäßen Verwendung der Fördermittel und den Nachweispflichten der Fördermittelempfängerin oder des Fördermittelempfängers.
 
-
-
-
-### § 42 - Sicherung der Zweckbindung der öffentlichen Förderung
+### § 42 - Sicherung der Zweckbindung der öffentlichen Förderung
 
 (1) Wer den Rettungsdienst durchführt, muss die Fördermittel zurückerstatten, sofern und soweit die Aufgaben nicht mehr wahrgenommen werden. Soweit mit den Fördermitteln Anlagegüter beschafft worden sind, mindert sich die Verpflichtung zur Erstattung der Fördermittel entsprechend der abgelaufenen regelmäßigen Nutzungsdauer dieser Anlagegüter. Die Verpflichtung zur Erstattung der Fördermittel besteht jedoch nur bis zur Höhe des Liquidationswertes der Anlagegüter, wenn der oder dem Begünstigten aus einem von ihr oder ihm nicht zu vertretenden Grund die Erfüllung ihrer oder seiner Aufgaben unmöglich wird; bei teilweiser Förderung ist die Verpflichtung entsprechend anteilig begrenzt.
 
@@ -754,8 +614,7 @@ Die Verpflichtung beschränkt sich auf die Beförderung in die nächste, für di
 
 (3) Im Übrigen gelten die §§ 49 und 49a des Landesverwaltungsverfahrensgesetzes entsprechend.
 
-
-### § 43 - Benutzungsentgelte
+### § 43 - Benutzungsentgelte
 
 (1) Für die Durchführung eines nach §§ 71 und 133 des Fünften Buches Sozialgesetzbuch medizinisch notwendigen, bedarfsgerechten, leistungsfähigen und wirtschaftlichen Rettungsdienstes erheben die Leistungsträger Benutzungsentgelte, die zusammen mit der Landesförderung sowie etwaigen sonstigen Zahlungen des Landes und der dabei vorgesehenen Eigenbeteiligung den Rettungsdienst finanzieren. Zur Erhaltung der Liquidität der Leistungsträger sind von den Kostenträgern rechtzeitig angemessene Abschlagszahlungen zu leisten.
 
@@ -771,17 +630,15 @@ Die Verpflichtung beschränkt sich auf die Beförderung in die nächste, für di
 
 (7) Die vereinbarten oder festgesetzten Benutzungsentgelte sind für alle Benutzerinnen oder Benutzer verbindlich.
 
-
-### § 44 - Kostenerstattung in besonderen Fällen
+### § 44 - Kostenerstattung in besonderen Fällen
 
 (1) Ist der Rettungsdiensteinsatz durch das vorsätzliche oder grob fahrlässige Verhalten einer dritten Person entsprechend den Bestimmungen des Bürgerlichen Gesetzbuches über unerlaubte Handlungen notwendig geworden und die Erhebung des Benutzungsentgelts bei der Benutzerin oder dem Benutzer nicht möglich oder unzumutbar, kann der jeweilige Leistungserbringer von der verursachenden Person Kostenersatz bis zur Höhe des Benutzungsentgelts verlangen.
 
 (2) Ist der Rettungsdiensteinsatz wider besseren Wissens oder infolge grob fahrlässiger Unkenntnis der Tatsachen veranlasst worden, kann der jeweilige Leistungserbringer von der veranlassenden Person des Einsatzes Kostenersatz bis zur Höhe des Benutzungsentgelts verlangen.
 
+## SECHSTER ABSCHNITT Luft-, Berg- und Wasser-Rettungsdienst
 
-## SECHSTER ABSCHNITT - Luft-, Berg- und Wasser-Rettungsdienst
-
-### § 45 - Notfallrettung und Krankentransport mit Luftfahrzeugen
+### § 45 - Notfallrettung und Krankentransport mit Luftfahrzeugen
 
 (1) Für die Durchführung von Notfallrettung und Krankentransport mit Luftfahrzeugen gelten die Vorschriften der § 16 Absatz 1, §§ 29 bis 31, 33 bis 35, 37, 38und 39 Absatz 1 Satz 2 entsprechend. Die luftverkehrsrechtliche Zulassung und Genehmigung bleiben unberührt.
 
@@ -791,40 +648,32 @@ Die Verpflichtung beschränkt sich auf die Beförderung in die nächste, für di
 
 (4) Die Einsätze des Luftrettungsdienstes werden ungeachtet der Grenzen der Rettungsdienstbereiche von der Integrierten Leitstelle gelenkt, die in den Vereinbarungen nach § 3 Absatz 1 oder im Rettungsdienstplan dafür festgelegt ist.
 
-
-### § 46 - Besondere Bestimmungen über die Finanzierung des Luft-, Berg- und Wasser-Rettungsdienstes
+### § 46 - Besondere Bestimmungen über die Finanzierung
 
 (1) Förderungsfähige Kosten im Sinne von § 40 sind bei der Durchführung des Berg- und Wasser-Rettungsdienstes auch
 
 1. die Kosten der Beschaffung der dafür erforderlichen Rettungsmittel, bei deren Wiederbeschaffung und Ergänzungsbeschaffung nur, wenn sie für das einzelne Anlagegut 1 500 Euro ohne Umsatzsteuer übersteigen, sowie
-
 2. die Kosten der Erhaltung und der Wiederherstellung von dafür notwendigen baulichen Anlagen und Anlagegütern, wenn die Kosten der einzelnen Maßnahme 5 000 Euro ohne Umsatzsteuer übersteigen.
 
 (2) Die Benutzungsentgelte werden abweichend von § 43 Absatz 4 Satz 1 und 4 zwischen den Landesverbänden der Kostenträger mit Wirkung für ihre Mitglieder und denjenigen, die den Luft-, Berg- oder Wasser-Rettungsdienst durchführen, vereinbart. Abweichend von § 43 Absatz 6 wird vom Regierungspräsidium Stuttgart eine Schiedsstelle für das gesamte Land gebildet. Diese setzt sich aus je zwei Vertreterinnen oder Vertretern der Landesverbände der Kostenträger und zwei Vertreterinnen oder Vertretern der jeweils berührten Leistungsträger zusammen. Im Übrigen gilt § 43 entsprechend.
 
-
-## SIEBTER ABSCHNITT - Aufsicht, Datenschutz
-
-### § 47 - Rechtsaufsicht über die Bereichsausschüsse und über die Leistungsträger nach § 3 Absatz 1
+### § 47 - Rechtsaufsicht über die Bereichsausschüsse und
 
 (1) Rechtsaufsichtsbehörde über den Bereichsausschuss ist das Landratsamt oder das Bürgermeisteramt des Stadtkreises als untere Verwaltungsbehörde. Obere Rechtsaufsichtsbehörde ist das Regierungspräsidium. Oberste Rechtsaufsichtsbehörde ist das Innenministerium. Erstreckt sich der Rettungsdienstbereich über mehrere Landkreise oder Stadtkreise, ist das Regierungspräsidium oder die von ihm bestimmte Behörde Rechtsaufsichtsbehörde. Die betroffenen Landkreise und Stadtkreise sind vorher anzuhören; ein gemeinsamer Vorschlag dieser ist zu berücksichtigen. Erstreckt sich der Rettungsdienstbereich über einen Regierungsbezirk hinaus, bestimmt das Innenministerium die Rechtsaufsichtsbehörde und das als obere Rechtsaufsichtsbehörde zuständige Regierungspräsidium; das Innenministerium kann Rechtsaufsichtsbehörde sein. Satz 5 gilt entsprechend.
 
 (2) Soweit das Innenministerium nach § 3 Absatz 1 mit einem Leistungsträger eine Vereinbarung über die bedarfsgerechte Versorgung der Bevölkerung mit leistungsfähigen Einrichtungen des Rettungsdienstes geschlossen hat, beaufsichtigt das Regierungspräsidium, in dessen Bezirk der Leistungsträger seinen Sitz hat, die Erfüllung der Verpflichtungen des Leistungsträgers. Für den Fall, dass der Leistungsträger keinen Sitz in Baden-Württemberg hat, gilt diejenige Stelle als Sitz, von der aus der Leistungsträger seine Geschäfte in Baden-Württemberg wahrnimmt.
 
-
-### § 48 - Fachaufsicht über den rettungsdienstlichen Teil der Integrierten Leitstellen
+### § 48 - Fachaufsicht über den rettungsdienstlichen Teil
 
 (1) Die Fachaufsicht über den rettungsdienstlichen Teil der Integrierten Leitstellen obliegt dem Regierungspräsidium, in dessen Bezirk sich die Integrierte Leitstelle befindet.
 
 (2) Oberste Fachaufsichtsbehörde ist das Innenministerium.
 
-
-### § 49 - Allgemeine Grundsätze für die Information über die Datenverarbeitung und für die Garantie zum Schutz personenbezogener Daten
+### § 49 - Allgemeine Grundsätze für die Information über
 
 (1) Die gemäß §§ 50 bis 56 jeweils datenschutzrechtlich verantwortliche Person oder Stelle kann von der Informationspflicht über die Erhebung personenbezogener Daten nach Artikel 13 und Artikel 14 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4. Mai 2016, S. 1, zuletzt ber. ABl. L 074 vom 4. März 2021, S. 35) zum Zeitpunkt der Erhebung absehen, sofern die Erhebung und die weitere Verarbeitung für Zwecke der Durchführung der Notfallrettung erfolgt und sofern ansonsten das Wohl der Patientinnen und Patienten gefährdet wäre. Unterbleibt eine Information nach Satz 1, muss die datenschutzrechtlich verantwortliche Person oder Stelle die Mitteilung über die erhobenen und gegebenenfalls weiterverwendeten Daten nachholen, sobald und sofern
 
 1. eine Abrechnung des Leistungsentgeltes mit der betroffenen Person oder deren Krankenkasse erfolgt oder
-
 2. die datenschutzrechtlich verantwortliche Person oder Stelle zu einem späteren Zeitpunkt im Zusammenhang mit der Abwicklung der rettungsdienstlichen Maßnahmen mit der betroffenen Person in Kontakt tritt.
 
 Zusätzlich veröffentlicht die datenschutzrechtlich verantwortliche Person oder Stelle die Informationen nach Artikel 30 Absatz 1 Buchstabe a bis f der Verordnung (EU) 2016/679 in präziser, transparenter, verständlicher und leicht zugänglicher Form auf ihrer Internetseite.
@@ -832,36 +681,22 @@ Zusätzlich veröffentlicht die datenschutzrechtlich verantwortliche Person oder
 (2) Werden personenbezogene Daten verarbeitet, sind von der datenschutzrechtlich verantwortlichen Person oder Stelle Maßnahmen zur Wahrung der Grundrechte und Interessen der betroffenen Personen vorzusehen. Unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und des Zwecks der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere der mit der Verarbeitung verbundenen Risiken für die Rechte und Freiheiten natürlicher Personen können dazu insbesondere gehören:
 
 1. technische und organisatorische Maßnahmen, um sicherzustellen, dass die Verarbeitung gemäß der Verordnung (EU) 2016/679 erfolgt,
-
 2. Maßnahmen, die gewährleisten, dass nachträglich überprüft und festgestellt werden kann, ob und von wem personenbezogene Daten eingegeben, verändert oder entfernt worden sind,
-
 3. die Sensibilisierung der an Verarbeitungsvorgängen Beteiligten,
-
 4. die Beschränkung des Zugangs zu den personenbezogenen Daten innerhalb der verantwortlichen Stelle und von Auftragsverarbeitern,
-
 5. die Anonymisierung und, wenn sie nicht möglich ist, die Pseudonymisierung personenbezogener Daten,
-
 6. die Verschlüsselung personenbezogener Daten,
-
 7. die Sicherstellung der Vertraulichkeit, Integrität, Verfügbarkeit und Belastbarkeit der Systeme und Dienste im Zusammenhang mit der Verarbeitung personenbezogener Daten einschließlich der unverzüglichen Wiederherstellung der Verfügbarkeit und des Zugangs bei einem physischen oder technischen Zwischenfall,
-
 8. die Einrichtung eines Verfahrens zur regelmäßigen Überprüfung, Bewertung und Evaluierung der Wirksamkeit der technischen und organisatorischen Maßnahmen zur Gewährleistung der Sicherheit der Verarbeitung und
-
 9. spezifische Verfahrensregelungen, die im Falle einer Übermittlung oder Verarbeitung für andere Zwecke die Einhaltung der Vorgaben dieses Gesetzes sowie der Verordnung (EU) 2016/679 sicherstellen.
 
-
-
-
-### § 50 - Datenverarbeitung durch die Leistungserbringer
+### § 50 - Datenverarbeitung durch die Leistungserbringer
 
 (1) Die Leistungserbringer und ihre Mitarbeitenden dürfen personenbezogene Daten, insbesondere Daten über die Gesundheit nach Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 nur erheben, erfassen, organisieren, ordnen, speichern, anpassen, auslesen, verändern, abfragen oder verwenden, soweit dies erforderlich ist
 
 1. zur Durchführung von Notfallrettung oder Krankentransport, einschließlich der anschließenden Versorgung der Patientinnen und Patienten mitsamt der Zuweisung und Anmeldung in einer geeigneten medizinischen Versorgungseinrichtung über den digitalen Versorgungsnachweis,
-
 2. zum Nachweis der ordnungsgemäßen Ausführung des Einsatzauftrages gegenüber der Integrierten Leitstelle und den Patientinnen und Patienten oder ihren Angehörigen,
-
 3. zur verwaltungsmäßigen Abwicklung des Einsatzauftrages, insbesondere der Abrechnung der erbrachten Leistungen, oder
-
 4. zur Wahrnehmung der Aufsicht durch die zuständigen Behörden gemäß §§ 47 und 48 über die Einhaltung der Vorschriften dieses Gesetzes zur Notfallrettung und zum Krankentransport durch die Leistungserbringer und die Integrierten Leitstellen.
 
 Bei der Durchführung der Notfallrettung im Sinne der Nummer 1 dürfen personenbezogene Daten einschließlich der Gesundheitsdaten durch die Leistungserbringer auch mittels telemedizinischer Ausstattungen, die mit einer Telenotärztlichen Zentrale vernetzt sind, erhoben, erfasst, organisiert, geordnet, gespeichert, angepasst, ausgelesen, verändert oder abgefragt werden. Dies kann auch erfolgen in Form von Bild- und Tonaufzeichnungen mittels körpernah getragener oder mobiler Aufnahmegeräte und wenn Dritte unvermeidbar betroffen sind. In Wohnungen ist eine Maßnahme nach Satz 3 nur zur Abwehr einer dringenden Gesundheitsgefahr für eine Person zulässig. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
@@ -869,25 +704,16 @@ Bei der Durchführung der Notfallrettung im Sinne der Nummer 1 dürfen personenb
 (2) Die nach Absatz 1 verarbeiteten Daten dürfen von den Leistungserbringern und ihren Mitarbeitenden zudem erfasst, organisiert, geordnet, gespeichert, angepasst, verändert, ausgelesen oder verwendet werden
 
 1. zur Qualitätssicherung im Rettungsdienst,
-
 2. zur Ausbildung, Fortbildung und Weiterbildung des in der Notfallrettung und im Krankentransport eingesetzten Personals, oder
-
 3. zur Weiterentwicklung von Projekten im Sinne des § 7.
 
 (3) Die nach Absatz 1 verarbeiteten personenbezogenen Daten dürfen von den Leistungserbringern und ihren Mitarbeitenden zudem an außenstehende Personen und Stellen übermittelt werden, soweit dies erforderlich ist
 
 1. zur Erfüllung der in Absatz 1 und Absatz 2 Nummer 1 sowie Nummer 3 genannten Zwecke und für die weiteren Aufgaben der Zentralen Stelle nach § 9 im Hinblick auf die Mitwirkung und Beratung bei der landesweiten Planung nach § 9 Absatz 1,
-
-2. im Versorgungsinteresse der Patientinnen und Patienten
-
-a) durch Unterrichtung der Einrichtung, die Ziel des Beförderungsvorganges ist oder
-
-b) durch Unterrichtung von Verwandten ersten und zweiten Grades, Ehepartnerinnen oder Ehepartnern, eingetragenen Lebenspartnerinnen oder Lebenspartnern, Vorsorgebevollmächtigten sowie Betreuerinnen oder Betreuern,
-
+2. im Versorgungsinteresse der Patientinnen und Patienten  a) durch Unterrichtung der Einrichtung, die Ziel des Beförderungsvorganges ist oder
+  b) durch Unterrichtung von Verwandten ersten und zweiten Grades, Ehepartnerinnen oder Ehepartnern, eingetragenen Lebenspartnerinnen oder Lebenspartnern, Vorsorgebevollmächtigten sowie Betreuerinnen oder Betreuern, 
 3. für eine Rechnungsprüfung, Organisations- oder Wirtschaftlichkeitsprüfung,
-
 4. zur Geltendmachung oder Verteidigung rechtlicher Ansprüche, zur Anforderung von Kostenersatz sowie zur Verfolgung von Straftaten oder Ordnungswidrigkeiten, die gegenüber dem Leistungserbringer oder seinen Mitarbeitenden begangen wurden, oder zur Verteidigung im Falle der Verfolgung von Mitarbeitenden des Leistungserbringers wegen Straftaten oder Ordnungswidrigkeiten oder
-
 5. zur Abwehr einer Gefahr für Leben, Gesundheit oder persönliche Freiheit der Patientin oder des Patienten oder einer dritten Person, wenn die Gefährdung dieser Rechtsgüter das Geheimhaltungsinteresse der betroffenen Person überwiegt und die Gefahr in vertretbarer Weise nicht anders beseitigt werden kann.
 
 In den Fällen des Absatzes 1 Satz 2 ist die Übermittlung von digitalen personenbezogenen Daten einschließlich der Gesundheitsdaten sowie die Bild- und Tonübertragung an die Telenotärztliche Zentrale mittels telemedizinischer Ausstattungen zulässig. Absatz 1 Satz 3, 4 und 5 gelten entsprechend. Personenbezogene Daten, die der Geheimhaltungspflicht im Sinne von § 203 des Strafgesetzbuches unterliegen, dürfen auch dann übermittelt werden, wenn das Patientengeheimnis nach dieser Vorschrift nicht unbefugt offenbart würde.
@@ -900,22 +726,17 @@ In den Fällen des Absatzes 1 Satz 2 ist die Übermittlung von digitalen persone
 
 (7) Die Daten sind auf Speichermedien aufzuzeichnen. Die Aufzeichnungen müssen zum Zwecke der Geltendmachung oder Verteidigung rechtlicher Ansprüche, zur Anforderung von Kostenersatz sowie zur Verfolgung von Straftaten, die gegenüber den Mitarbeitenden der Leistungserbringer begangen wurden, oder zur Verteidigung im Falle der Verfolgung von Mitarbeitenden der Leistungserbringer wegen Straftaten oder Ordnungswidrigkeiten zehn Jahre gespeichert werden. Sie sind zehn Jahre nach der Aufzeichnung zu löschen, es sei denn, dass im Einzelfall Anhaltspunkte bestehen, dass die weitere Speicherung für in Satz 2 genannte Zwecke erforderlich ist.
 
-
-### § 51 - Datenverarbeitung bei der Einbindung von Helfer-vor-Ort-Systemen und bei der Einbindung von smartphonebasiert alarmierten Ersthelferinnen und Ersthelfern
+### § 51 - Datenverarbeitung bei der Einbindung von Helfer-vor-Ort-Systemen
 
 Für die Datenverarbeitung bei der Einbindung von Helfer-vor-Ort-Systemen im Sinne von § 23 und bei der Einbindung von smartphonebasiert alarmierten Ersthelferinnen und Ersthelfern im Sinne des § 24 gilt § 50 entsprechend.
 
-
-### § 52 - Datenverarbeitung durch die Notärztlichen Standortleitungen und die Notärztinnen und Notärzte
+### § 52 - Datenverarbeitung durch die Notärztlichen Standortleitungen
 
 (1) Die Notärztlichen Standortleitungen und die Notärztinnen und Notärzte dürfen personenbezogene Daten, insbesondere Daten über die Gesundheit nach Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 nur erheben, erfassen, organisieren, ordnen, speichern, anpassen, auslesen, verändern, abfragen oder verwenden, soweit dies erforderlich ist
 
 1. zur Durchführung des Notarzteinsatzes einschließlich der anschließenden Versorgung der Patientinnen und Patienten mitsamt der Zuweisung und Anmeldung in einer geeigneten medizinischen Versorgungseinrichtung über den digitalen Versorgungsnachweis,
-
 2. zum Nachweis der ordnungsgemäßen Ausführung des Einsatzauftrages gegenüber der Integrierten Leitstelle und den Patientinnen und Patienten,
-
 3. zur verwaltungsmäßigen Abwicklung des Einsatzauftrages, insbesondere der Abrechnung der erbrachten Leistungen oder
-
 4. zur Wahrnehmung der Aufsicht durch die zuständigen Behörden gemäß §§ 47 und 48 über die Einhaltung der Vorschriften dieses Gesetzes zur Notfallrettung und zum Krankentransport durch die Leistungserbringer und die Integrierten Leitstellen.
 
 Bei der Durchführung der Notfallrettung im Sinne der Nummer 1 dürfen personenbezogene Daten einschließlich der Gesundheitsdaten durch die Notärztlichen Standortleitungen und die Notärztinnen und Notärzte auch mittels telemedizinischer Ausstattungen, die mit einer Telenotärztlichen Zentrale vernetzt sind, erhoben, erfasst, organisiert, geordnet, gespeichert, angepasst, ausgelesen, verändert oder abgefragt werden. Dies kann auch erfolgen in Form von Bild- und Tonaufzeichnungen mittels körpernah getragener oder mobiler Aufnahmegeräte und wenn Dritte unvermeidbar betroffen sind. In Wohnungen ist eine Maßnahme nach Satz 3 nur zur Abwehr einer dringenden Gesundheitsgefahr für eine Person zulässig. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
@@ -923,25 +744,16 @@ Bei der Durchführung der Notfallrettung im Sinne der Nummer 1 dürfen personenb
 (2) Die nach Absatz 1 erhobenen Daten dürfen von den Notärztlichen Standortleitungen und Notärztinnen und Notärzten zudem erfasst, organisiert, geordnet, gespeichert, angepasst, verändert, verwendet oder ausgelesen werden
 
 1. zur Qualitätssicherung im Rettungsdienst,
-
 2. zur Ausbildung, Fortbildung und Weiterbildung des in der Notfallrettung eingesetzten Personals oder
-
 3. zur Weiterentwicklung von Projekten im Sinne des § 7.
 
 (3) Die nach Absatz 1 verarbeiteten personenbezogenen Daten dürfen von den Notärztlichen Standortleitungen und den Notärztinnen und Notärzten zudem an außenstehende Personen und Stellen übermittelt werden, soweit dies erforderlich ist
 
 1. zur Erfüllung der in Absatz 1 und Absatz 2 Nummer 1 sowie Nummer 3 genannten Zwecke und für die weiteren Aufgaben der Zentralen Stelle nach § 9 im Hinblick auf die Mitwirkung und Beratung bei der landesweiten Planung nach § 9 Absatz 1,
-
-2. im Versorgungsinteresse der Patientinnen und Patienten
-
-a) durch Unterrichtung der Einrichtung, die Ziel des Beförderungsvorganges ist oder
-
-b) durch Unterrichtung von Verwandten ersten und zweiten Grades, Ehepartnerinnen oder Ehepartnern, eingetragenen Lebenspartnerinnen oder Lebenspartnern, Vorsorgebevollmächtigten sowie Betreuerinnen oder Betreuern,
-
+2. im Versorgungsinteresse der Patientinnen und Patienten  a) durch Unterrichtung der Einrichtung, die Ziel des Beförderungsvorganges ist oder
+  b) durch Unterrichtung von Verwandten ersten und zweiten Grades, Ehepartnerinnen oder Ehepartnern, eingetragenen Lebenspartnerinnen oder Lebenspartnern, Vorsorgebevollmächtigten sowie Betreuerinnen oder Betreuern, 
 3. für eine Rechnungsprüfung, Organisations- oder Wirtschaftlichkeitsprüfung,
-
 4. zur Geltendmachung oder Verteidigung rechtlicher Ansprüche, zur Anforderung von Kostenersatz sowie zur Verfolgung von Straftaten, die gegenüber den Notärztlichen Standortleitungen oder in deren Verantwortungsbereich tätigen Notärztinnen und Notärzten begangen wurden, oder zur Verteidigung im Falle der Verfolgung dieser Personen wegen Straftaten oder Ordnungswidrigkeiten oder
-
 5. zur Abwehr einer Gefahr für Leben, Gesundheit oder persönliche Freiheit der Patientin oder des Patienten oder eines Dritten, wenn die Gefährdung dieser Rechtsgüter das Geheimhaltungsinteresse der betroffenen Person überwiegt und die Gefahr in vertretbarer Weise nicht anders beseitigt werden kann.
 
 In den Fällen des Absatzes 1 Satz 2 ist die Übermittlung von digitalen personenbezogenen Daten einschließlich der Gesundheitsdaten sowie die Bild- und Tonübertragung an die Telenotärztliche Zentrale mittels telemedizinischer Ausstattungen zulässig. Absatz 1 Satz 3, 4 und 5 gelten entsprechend. Personenbezogene Daten, die der Geheimhaltungspflicht im Sinne von § 203 des Strafgesetzbuches unterliegen, dürfen auch dann übermittelt werden, wenn das Patientengeheimnis nach dieser Vorschrift nicht unbefugt offenbart würde.
@@ -954,8 +766,7 @@ In den Fällen des Absatzes 1 Satz 2 ist die Übermittlung von digitalen persone
 
 (7) Die Daten sind auf Speichermedien aufzuzeichnen. Die Aufzeichnungen müssen zum Zwecke der Geltendmachung oder Verteidigung rechtlicher Ansprüche, zur Anforderung von Kostenersatz sowie zur Verfolgung von Straftaten, die gegenüber den Notärztlichen Standortleitungen oder den Notärztinnen und Notärzten begangen wurden, oder zur Verteidigung im Falle der Verfolgung von Notärztlichen Standortleitungen oder von Notärztinnen und Notärzten wegen Straftaten oder Ordnungswidrigkeiten zehn Jahre gespeichert werden. Sie sind zehn Jahre nach der Aufzeichnung zu löschen, es sei denn, dass im Einzelfall Anhaltspunkte bestehen, dass die weitere Speicherung für in Satz 2 genannte Zwecke erforderlich ist.
 
-
-### § 53 - Datenverarbeitung durch die Zentrale Stelle nach § 9
+### § 53 - Datenverarbeitung durch die Zentrale Stelle nach § 9
 
 (1) Die Zentrale Stelle nach § 9 ist befugt, die zur Erfüllung ihrer Aufgaben in der Qualitätssicherung nach § 9 Absatz 1 bis 3 erforderlichen Daten im Sinne des § 50 Absatz 1 Nummer 1 bis 2, Absatz 2 Nummer 1 und 3, § 52 Absatz 1 Nummer 1 bis 2 und Absatz 2 Nummer 1 und Nummer 3 und § 56 Absatz 1 Nummer 1 bis 2 und Absatz 2 Nummer 1 und Nummer 3 bei den Leistungserbringern, den Notärztlichen Standortleitungen, den Integrierten Leitstellen und den Telenotärztlichen Zentralen an den Integrierten Leitstellen zu erheben, diese Daten zu erfassen, miteinander zu verknüpfen, zu organisieren, zu ordnen, zu speichern, anzupassen, auszulesen, zu verändern oder abzufragen.
 
@@ -966,17 +777,14 @@ In den Fällen des Absatzes 1 Satz 2 ist die Übermittlung von digitalen persone
 (4) Die Zentrale Stelle nach § 9 ist befugt, die nach Absatz 1 erhobenen und verarbeiteten Daten weiter zu verarbeiten und an außenstehende Personen und Stellen übermitteln, wenn
 
 1. sie durch den Landesausschuss für den Rettungsdienst dazu aufgefordert wurde und dies für die Weiterentwicklung des Rettungsdienstes oder aus Gründen der Qualitätssicherung erforderlich ist,
-
 2. sie vom Innenministerium dazu aufgefordert wurde und dies der Wahrung parlamentarischer Kontrollrechte dient oder
-
 3. dies für Zwecke der Wissenschaft und Forschung erforderlich ist.
 
 (5) Die Zentrale Stelle nach § 9 ist für die durch sie verarbeiteten personenbezogenen Daten datenschutzrechtlich verantwortlich.
 
 (6) Die personenbezogenen Daten sind auf Speichermedien aufzuzeichnen. Die Aufzeichnungen müssen zum Zweck der Erfüllung der Aufgaben im Zusammenhang mit der Qualitätssicherung nach § 9 15 Jahre gespeichert werden. Sie sind 15 Jahre nach Ende des Geschäftsjahres der Aufzeichnung zu löschen, es sei denn, dass im Einzelfall Anhaltspunkte bestehen, dass die weitere Speicherung für den in Satz 2 genannten Zweck erforderlich ist.
 
-
-### § 54 - Datenverarbeitung durch die Bereichsausschüsse
+### § 54 - Datenverarbeitung durch die Bereichsausschüsse
 
 (1) Die Bereichsausschüsse sind befugt, die zu ihrer Aufgabenerfüllung nach § 6 Absatz 6 erforderlichen Daten im Sinne des § 50 Absatz 1 Nummer 1 bis 4 und Absatz 2 Nummer 3 vorrangig bei den Integrierten Leitstellen und im Bedarfsfall bei den Leistungserbringern zu erheben, zu erfassen, zu organisieren, zu ordnen, zu speichern, anzupassen, auszulesen, zu verändern oder abzufragen.
 
@@ -984,15 +792,12 @@ In den Fällen des Absatzes 1 Satz 2 ist die Übermittlung von digitalen persone
 
 (3) Die Daten sind auf Speichermedien aufzuzeichnen. Die Aufzeichnungen müssen zum Zwecke der Erfüllung der in § 6 Absatz 6 genannten Aufgaben drei Jahre gespeichert werden. Sie sind drei Jahre nach der Aufzeichnung zu löschen, es sei denn, dass im Einzelfall Anhaltspunkte bestehen, dass die weitere Speicherung für den in Satz 2 genannten Zweck erforderlich ist.
 
-
-### § 55 - Datenverarbeitung durch die Aufsichtsbehörden und Genehmigungsbehörden
+### § 55 - Datenverarbeitung durch die Aufsichtsbehörden
 
 (1) Die zuständigen Behörden nach § 47 und § 48 sind befugt
 
 1. die zur Wahrnehmung der Aufsicht erforderlichen Daten im Sinne des § 50 Absatz 1 Nummer 1 bis 4 bei den Leistungserbringern,
-
 2. die zur Wahrnehmung der Aufsicht erforderlichen Daten im Sinne des § 52 Absatz 1 Nummer 1 bis 4 bei den Notärztlichen Standortleitungen und
-
 3. die zur Wahrnehmung der Aufsicht erforderlichen Daten im Sinne des § 56 Absatz 1 Nummer 1 bis 4 bei den Integrierten Leitstellen
 
 zu erheben, zu erfassen, zu organisieren, zu ordnen, zu speichern, anzupassen, auszulesen, zu verändern oder abzufragen.
@@ -1005,17 +810,13 @@ zu erheben, zu erfassen, zu organisieren, zu ordnen, zu speichern, anzupassen, a
 
 (5) Die Daten sind auf Speichermedien aufzuzeichnen. Die Aufzeichnungen hinsichtlich der Daten nach Absatz 1 müssen für die dort genannten Zwecke ein Jahr gespeichert werden. Die Aufzeichnungen hinsichtlich der Daten nach Absatz 3 müssen für die dort genannten Zwecke fünf Jahre gespeichert werden. Die Daten sind ein beziehungsweise fünf Jahre nach der Aufzeichnung zu löschen, es sei denn, dass im Einzelfall Anhaltspunkte bestehen, dass die weitere Speicherung für die in Absatz 1 beziehungsweise Absatz 3 genannten Zwecke erforderlich ist.
 
-
-### § 56 - Datenverarbeitung durch die Integrierten Leitstellen
+### § 56 - Datenverarbeitung durch die Integrierten Leitstellen
 
 (1) Die Integrierten Leitstellen dürfen personenbezogene Daten, insbesondere Daten über die Gesundheit nur erheben, erfassen, organisieren, ordnen, speichern, anpassen, auslesen, verändern oder abfragen, soweit dies erforderlich ist
 
 1. zur Durchführung von Notfallrettung oder Krankentransport, einschließlich der anschließenden Versorgung der Patientinnen oder Patienten mitsamt der Zuweisung und Anmeldung in einer geeigneten medizinischen Versorgungseinrichtung über den digitalen Versorgungsnachweis,
-
 2. zum Nachweis der ordnungsgemäßen Ausführung des Einsatzauftrages gegenüber den Patientinnen oder Patienten oder ihren Angehörigen,
-
 3. zur verwaltungsmäßigen Abwicklung des Einsatzauftrages, insbesondere der Abrechnung der erbrachten Leistungen, oder
-
 4. zur Wahrnehmung der Aufsicht durch die zuständigen Behörden gemäß §§ 47 und 48 über die Einhaltung der Vorschriften dieses Gesetzes zur Notfallrettung und zum Krankentransport durch die Leistungserbringer und die Integrierten Leitstellen.
 
 Bei der Durchführung der Notfallrettung im Sinne der Nummer 1 dürfen personenbezogene Daten einschließlich der Gesundheitsdaten auch mittels telemedizinischer Ausstattungen, die mit einer Telenotärztlichen Zentrale vernetzt sind, erhoben, erfasst, organisiert, geordnet, gespeichert, angepasst, ausgelesen, verändert oder abgefragt werden. Dies kann auch erfolgen in Form von Bild- und Tonaufzeichnungen mittels körpernah getragener oder mobiler Aufnahmegeräte und wenn Dritte unvermeidbar betroffen sind. In Wohnungen ist eine Maßnahme nach Satz 3 nur zur Abwehr einer dringenden Gesundheitsgefahr für eine Person zulässig. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
@@ -1023,25 +824,16 @@ Bei der Durchführung der Notfallrettung im Sinne der Nummer 1 dürfen personenb
 (2) Die nach Absatz 1 erhobenen Daten dürfen von der Integrierten Leitstelle zudem organisiert, geordnet, gespeichert, angepasst, verändert oder ausgelesen werden
 
 1. zur Qualitätssicherung in der Integrierten Leitstelle und im Rettungsdienst,
-
 2. zur Ausbildung, Fortbildung und Weiterbildung des in der Integrierten Leitstelle und im Rettungsdienst eingesetzten Personals, oder
-
 3. zur Weiterentwicklung von Projekten im Sinne des § 7.
 
 (3) Die nach Absatz 1 erhobenen personenbezogenen Daten dürfen von der Integrierten Leitstelle zudem an außenstehende Personen und Stellen übermittelt werden, soweit dies erforderlich ist
 
 1. zur Erfüllung der in Absatz 1 und Absatz 2 Nummer 1 sowie Nummer 3 genannten Zwecke und für die weiteren Aufgaben der Zentralen Stelle nach § 9 im Hinblick auf die Mitwirkung und Beratung bei der landesweiten Planung gemäß § 9 Absatz 1,
-
-2. im Versorgungsinteresse der Patientinnen oder Patienten
-
-a) durch Unterrichtung der Einrichtung, die Ziel des Beförderungsvorganges ist oder
-
-b) durch Unterrichtung von Verwandten ersten und zweiten Grades, Ehepartnerinnen oder Ehepartnern, eingetragenen Lebenspartnerinnen oder Lebenspartnern, Vorsorgebevollmächtigten sowie Betreuerinnen oder Betreuern,
-
+2. im Versorgungsinteresse der Patientinnen oder Patienten  a) durch Unterrichtung der Einrichtung, die Ziel des Beförderungsvorganges ist oder
+  b) durch Unterrichtung von Verwandten ersten und zweiten Grades, Ehepartnerinnen oder Ehepartnern, eingetragenen Lebenspartnerinnen oder Lebenspartnern, Vorsorgebevollmächtigten sowie Betreuerinnen oder Betreuern, 
 3. zu einer Rechnungsprüfung, Organisations- oder Wirtschaftlichkeitsprüfung und zum Nachweis einer gleichberechtigten Disponierung im Rahmen des Krankentransportes,
-
 4. zur Geltendmachung oder Verteidigung rechtlicher Ansprüche, zur Anforderung von Kostenersatz, sowie zur Verfolgung von Straftaten, die gegenüber der Integrierten Leitstelle oder ihren Mitarbeitenden begangen wurden, oder zur Verteidigung im Falle der Verfolgung von Mitarbeitenden der Integrierten Leitstelle wegen Straftaten oder Ordnungswidrigkeiten oder
-
 5. zur Abwehr einer Gefahr für Leben, Gesundheit oder persönliche Freiheit der Patientin oder des Patienten oder einer dritten Person, wenn die Gefährdung dieser Rechtsgüter das Geheimhaltungsinteresse der oder des Betroffenen überwiegt und die Gefahr in vertretbarer Weise nicht anders beseitigt werden kann.
 
 In den Fällen des Absatzes 1 Satz 2 ist die Übermittlung von personenbezogenen Daten einschließlich der Gesundheitsdaten sowie die Bild- und Tonübertragung an die Leistungserbringer mittels telemedizinischer Ausstattungen zulässig. Absatz 1 Satz 3, 4 und 5 gelten entsprechend. Personenbezogene Daten, die der Geheimhaltungspflicht im Sinne von § 203 des Strafgesetzbuches unterliegen, dürfen auch dann übermittelt werden, wenn das Patientengeheimnis nach dieser Vorschrift nicht unbefugt offenbart würde.
@@ -1054,115 +846,70 @@ In den Fällen des Absatzes 1 Satz 2 ist die Übermittlung von personenbezogenen
 
 (7) Die Daten sind auf Speichermedien aufzuzeichnen. Die Aufzeichnungen müssen zum Zwecke der Geltendmachung oder Verteidigung rechtlicher Ansprüche, zur Anforderung von Kostenersatz, sowie zur Verfolgung von Straftaten, die gegenüber den Mitarbeitenden der Integrierten Leitstelle begangen wurden, oder zur Verteidigung im Falle der Verfolgung von Mitarbeitenden der Integrierten Leitstelle wegen Straftaten oder Ordnungswidrigkeiten zehn Jahre gespeichert werden. Sie sind zehn Jahre nach der Aufzeichnung zu löschen, es sei denn, dass im Einzelfall Anhaltspunkte bestehen, dass die weitere Speicherung für in Satz 2 genannte Zwecke erforderlich ist.
 
-
-### § 57 - Datenspeicherung durch die Integrierten Leitstellen
+### § 57 - Datenspeicherung durch die Integrierten Leitstellen
 
 (1) Die Integrierten Leitstellen dürfen Daten, die den Inhalt von Telekommunikationsvorgängen betreffen, sowie Standort- und Verkehrsdaten von Telekommunikationsvorgängen im Sinne von § 3 Nummer 56 und 70 des Telekommunikationsgesetzes vom 23. Juni 2021 (BGBl. I S. 1858), das zuletzt durch Artikel 5 des Gesetzes vom 14. März 2023 (BGBl. I Nr. 71) geändert worden ist, in der jeweils geltenden Fassung zu den in § 56 Absatz 1 bis 3 genannten Zwecken erheben, erfassen, organisieren, ordnen, speichern, anpassen, auslesen, verändern oder abfragen. Die Anrufenden und andere von der Datenverarbeitung betroffene Personen sind bei der Datenerhebung durch geeignete Maßnahmen darauf hinzuweisen, dass eine Datenverarbeitung im Sinne von Satz 1 erfolgt. Geeignete Maßnahmen können beispielsweise eine Bandansage oder Hinweise auf der Internetseite sein.
 
-(2) Sofern Telekommunikationsvorgänge über die Notrufnummer 112, das Notruf-App-System „nora“, nach Maßgabe des § 11 Absatz 2 oder sonstige Notrufeinrichtungen eingehen, darf die Verarbeitung von Daten im Sinne des Absatzes 1 zu den in § 56 Absatz 1 bis 3 genannten Zwecken auch erfolgen, ohne dass die Anrufenden und von der Datenverarbeitung betroffenen Personen zum Zeitpunkt der Datenerhebung hiervon Kenntnis haben oder darüber informiert werden. Satz 1 gilt entsprechend bei Telekommunikationsvorgängen mit den in § 13 genannten Stellen, sofern die Datenverarbeitung diesen bekannt oder mit diesen vereinbart ist.
+(2) Sofern Telekommunikationsvorgänge über die Notrufnummer 112, das Notruf-App-System „nora", nach Maßgabe des § 11 Absatz 2 oder sonstige Notrufeinrichtungen eingehen, darf die Verarbeitung von Daten im Sinne des Absatzes 1 zu den in § 56 Absatz 1 bis 3 genannten Zwecken auch erfolgen, ohne dass die Anrufenden und von der Datenverarbeitung betroffenen Personen zum Zeitpunkt der Datenerhebung hiervon Kenntnis haben oder darüber informiert werden. Satz 1 gilt entsprechend bei Telekommunikationsvorgängen mit den in § 13 genannten Stellen, sofern die Datenverarbeitung diesen bekannt oder mit diesen vereinbart ist.
 
 (3) Die nach Absatz 1 verarbeiteten Daten sind unverzüglich zu löschen, wenn die Telekommunikationsvorgänge nicht im Zusammenhang mit einem Einsatz stehen. Im Übrigen sind die Daten auf Speichermedien aufzuzeichnen. Die Aufzeichnungen müssen zum Zwecke der Geltendmachung oder Verteidigung rechtlicher Ansprüche, zur Anforderung von Kostenersatz, sowie zur Verfolgung von Straftaten, die gegenüber den Mitarbeitenden der Integrierten Leitstelle begangen wurden, oder zur Verteidigung im Falle der Verfolgung von Mitarbeitenden der Integrierten Leitstelle wegen Straftaten oder Ordnungswidrigkeiten zehn Jahre gespeichert werden. Sie sind zehn Jahre nach der Aufzeichnung zu löschen, es sei denn, dass im Einzelfall Anhaltspunkte bestehen, dass die weitere Speicherung für in Satz 2 genannte Zwecke erforderlich ist.
 
-
-### § 58 - Datenverarbeitung beim Betrieb des Online-Portals nach § 9 Absatz 1 Nummer 2
+### § 58 - Datenverarbeitung beim Betrieb des Online-Portals
 
 (1) Die Einstellung personenbezogener Daten in das Online-Portal ist nur für die in Nummer 1 bis 9 genannten Zwecke zulässig. Personenbezogene Daten sind dabei grundsätzlich zu pseudonymisieren. Die in § 9 Absatz 3 genannten zugriffsberechtigten Personen dürfen personenbezogene Daten aus dem Online-Portal nach Maßgabe folgender Bestimmungen erheben, erfassen, organisieren, ordnen, speichern, anpassen, auslesen, verändern oder abfragen, verwenden, übermitteln, verknüpfen, einschränken, löschen oder vernichten:
 
 1. das Innenministerium, die Regierungspräsidien, die Landratsämter und die Stadtkreise nur, soweit dies für den Zweck der Ausübung der aufsichtsrechtlichen Aufgaben erforderlich ist,
-
 2. die Ärztlichen Leitungen Rettungsdienst bei den Regierungspräsidien nach § 5 Absatz 2 Satz 1 und 2 nur, soweit dies für den Zweck der Mitwirkung an der Ausübung aufsichtsrechtlicher Aufgaben oder zur Überprüfung der Qualitätssicherung oder im Interesse der Sicherheit der Patientinnen und Patienten erforderlich ist,
-
 3. die Bereichsausschüsse nur, soweit dies für den Zweck der Erstellung des Bereichsplans und der Festlegung der bedarfsgerechten Vorhaltungen sowie der Beobachtung und Beratung der Angelegenheiten im Rettungsdienstbereich erforderlich ist,
-
 4. die Landesverbände der Leistungsträger sowie die Kreis- oder Regionalverbände der Leistungsträger nur, soweit sie Aufgaben des Rettungsdienstes wahrnehmen und nur soweit dies zum Zwecke der Erfüllung dieser Aufgaben erforderlich ist,
-
 5. die Mitglieder des Beirats der Zentralen Stelle nach § 9 Absatz 1 nur, soweit dies zum Zwecke der Ausübung der Beratungs- und Unterstützungsfunktion für die Zentrale Stelle nach § 9 Absatz 1 erforderlich ist,
-
 6. die Leitungen des rettungsdienstlichen Teils der Integrierten Leitstellen nur, soweit dies zum Zwecke der Lenkung aller Einsätze des Rettungsdienstes im Rettungsdienstbereich und der Sicherstellung der Gleichbehandlung der Leistungsträger beim Krankentransport erforderlich ist,
-
 7. die Leitenden Notärztinnen und Notärzte der Rettungsdienstbereiche im Sinne des § 10 Absatz 1 Satz 4 nur, soweit dies zum Zwecke der Koordination bei Schadensereignissen mit einer Vielzahl von Verletzten oder Erkrankten oder bei der Mitwirkung bei der Qualitätssicherung im Rettungsdienst erforderlich ist,
-
 8. die Notärztlichen Standortleitungen nur, soweit dies zum Zwecke der Dokumentation, der Datenanalyse und der Qualitätssicherung am Standort sowie zur Umsetzung der auf Ebene des Rettungsdienstbereichs beschlossenen Maßnahmen und Verfahren erforderlich ist sowie
-
 9. die Ärztlichen Verantwortlichen im Rettungsdienst nur, soweit dies zum Zwecke der Überwachung der Übertragung heilkundlicher Maßnahmen an Notfallsanitäterinnen und Notfallsanitäter erforderlich ist.
 
 (2) Die datenschutzrechtliche Verantwortlichkeit für die Verarbeitung nach Absatz 1 liegt bei der Stelle, bei der die abrufende Person angestellt ist oder bei der Stelle, die die abrufende Person mit einer bestimmten Funktion betraut oder zur Vertreterin oder zum Vertreter in einem Gremium bestimmt hat.
 
 (3) Die Daten sind auf Speichermedien aufzuzeichnen. Die Aufzeichnungen müssen zu den in Absatz 1 genannten Zwecken sechs Jahre gespeichert werden. Sie sind sechs Jahre nach Ende des Geschäftsjahres der Aufzeichnung zu löschen, es sei denn, dass im Einzelfall Anhaltspunkte bestehen, dass die weitere Speicherung für die in Absatz 1 genannten Zwecke erforderlich ist.
 
-
-## ACHTER ABSCHNITT - Ordnungswidrigkeiten, Schlussvorschriften
-
-### § 59 - Ordnungswidrigkeiten
+### § 59 - Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer entgegen der Vorschriften dieses Gesetzes über die Mitwirkung an der Qualitätssicherung vorsätzlich oder grob fahrlässig
 
-1. der Zentralen Stelle nach § 9 die Durchführung der Einsätze wiederholt oder dauerhaft
-
-a) innerhalb der im Rettungsdienstplan festgelegten Frist nicht oder nicht vollständig dokumentiert übermittelt oder
-
-b) innerhalb der im Rettungsdienstplan festgelegten Frist nicht in der vorgegebenen Form übermittelt,
-
+1. der Zentralen Stelle nach § 9 die Durchführung der Einsätze wiederholt oder dauerhaft  a) innerhalb der im Rettungsdienstplan festgelegten Frist nicht oder nicht vollständig dokumentiert übermittelt oder
+  b) innerhalb der im Rettungsdienstplan festgelegten Frist nicht in der vorgegebenen Form übermittelt, 
 2. seiner Auskunftspflicht gegenüber der Zentralen Stelle nach § 9 nicht nachkommt oder
-
 3. seiner Verpflichtung an der Teilnahme am vorgegebenen Qualitätssicherungsverfahren nicht nachkommt.
 
 (2) Ordnungswidrig handelt, wer als Unternehmerin oder Unternehmer vorsätzlich oder fahrlässig
 
 1. Krankentransport ohne Genehmigung nach § 29 Absatz 4 betreibt,
-
 2. Notfallrettung ohne Anzeige nach § 29 Absatz 1 Satz 2 oder ohne Genehmigung nach Artikel 2 des Gesetzes zur Änderung des Rettungsdienstgesetzes vom 15. Juli 1998 (GBl. S. 413, 418) betreibt,
-
 3. einer vollziehbaren Auflage nach § 34 zuwiderhandelt,
-
-4. den Vorschriften dieses Gesetzes über
-
-a) die einzusetzenden Fahrzeuge, ihre Ausstattung und Besetzung (§§ 15, 16 und 45) oder
-
-b) die Betriebspflicht, die Einsatzbereitschaft und die Beförderungspflicht (§§ 37 und 38)
-
-zuwiderhandelt,
-
+4. den Vorschriften dieses Gesetzes über  a) die einzusetzenden Fahrzeuge, ihre Ausstattung und Besetzung (§§ 15, 16 und 45) oder
+  b) die Betriebspflicht, die Einsatzbereitschaft und die Beförderungspflicht (§§ 37 und 38) zuwiderhandelt,
 5. entgegen § 33 Absatz 1 in Verbindung mit § 54a PBefG die Auskunft nicht, unrichtig, nicht vollständig oder nicht fristgemäß erteilt, die Bücher oder Geschäftspapiere nicht vollständig oder nicht fristgemäß vorlegt oder die Duldung von Prüfungen verweigert,
-
-6. entgegen § 39 Absatz 1 und 2 in Verbindung mit
-
-a) § 3 Absatz 1 Satz 2 BOKraft die Instandhaltungspflicht verletzt,
-
-b) § 3 Absatz 1 Satz 3 BOKraft den Betrieb des Unternehmens anordnet,
-
-c) § 4 Absatz 1 Satz 3 bis 5 und § 5 Absatz 1 BOKraft eine vollziehbare schriftliche oder elektronische Anordnung der Genehmigungsbehörde zur Bestellung einer Betriebsleiterin oder eines Betriebsleiters oder einer Vertreterin oder eines Vertreters nicht oder nicht innerhalb der von der Genehmigungsbehörde gesetzten Frist befolgt, oder
-
-d) § 6 Nummer 2 BOKraft Unfälle nicht meldet oder
-
-7. einen Krankenkraftwagen unter Verstoß gegen § 39 Absatz 1 in Verbindung mit folgenden Vorschriften einsetzt:
-
-a) § 18 BOKraft über das Mitführen der vorgeschriebenen Ausrüstung,
-
-b) § 19 BOKraft über die Beschaffenheit und Anbringung von Zeichen und Ausrüstungsgegenständen,
-
-c) § 41 Absatz 2 BOKraft über die Vorlage einer Ausfertigung des Untersuchungsberichtes oder des Prüfbuches oder
-
-d) § 42 Absatz 1 BOKraft über die Vorlage des Nachweises,
-
+6. entgegen § 39 Absatz 1 und 2 in Verbindung mit  a) § 3 Absatz 1 Satz 2 BOKraft die Instandhaltungspflicht verletzt,
+  b) § 3 Absatz 1 Satz 3 BOKraft den Betrieb des Unternehmens anordnet,
+  c) § 4 Absatz 1 Satz 3 bis 5 und § 5 Absatz 1 BOKraft eine vollziehbare schriftliche oder elektronische Anordnung der Genehmigungsbehörde zur Bestellung einer Betriebsleiterin oder eines Betriebsleiters oder einer Vertreterin oder eines Vertreters nicht oder nicht innerhalb der von der Genehmigungsbehörde gesetzten Frist befolgt, oder
+  d) § 6 Nummer 2 BOKraft Unfälle nicht meldet oder 
+7. einen Krankenkraftwagen unter Verstoß gegen § 39 Absatz 1 in Verbindung mit folgenden Vorschriften einsetzt:  a) § 18 BOKraft über das Mitführen der vorgeschriebenen Ausrüstung,
+  b) § 19 BOKraft über die Beschaffenheit und Anbringung von Zeichen und Ausrüstungsgegenständen,
+  c) § 41 Absatz 2 BOKraft über die Vorlage einer Ausfertigung des Untersuchungsberichtes oder des Prüfbuches oder
+  d) § 42 Absatz 1 BOKraft über die Vorlage des Nachweises, 
 8. das vereinbarte Leitstellenvermittlungsentgelt innerhalb der in § 11 Absatz 5 genannten Frist nicht oder nur teilweise an die empfangsberechtigte Integrierte Leitstelle abführt.
 
 (3) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig
 
-1. als Mitglied des im Fahrdienst eingesetzten Personals entgegen
-
-a) § 39 Absatz 1 in Verbindung mit § 8 Absatz 3 und 5 BOKraft während des Dienstes oder der Dienstbereitschaft alkoholische Getränke oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu sich nimmt oder die Fahrt antritt, obwohl sie oder er unter der Wirkung solcher Getränke oder Mittel steht,
-
-b) § 39 Absatz 1 in Verbindung mit § 9 Absatz 1 BOKraft seine Tätigkeit ausübt oder entgegen § 39 Absatz 1 in Verbindung mit § 9 Absatz 3 BOKraft eine Erkrankung nicht anzeigt oder
-
+1. als Mitglied des im Fahrdienst eingesetzten Personals entgegen  a) § 39 Absatz 1 in Verbindung mit § 8 Absatz 3 und 5 BOKraft während des Dienstes oder der Dienstbereitschaft alkoholische Getränke oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu sich nimmt oder die Fahrt antritt, obwohl sie oder er unter der Wirkung solcher Getränke oder Mittel steht,
+  b) § 39 Absatz 1 in Verbindung mit § 9 Absatz 1 BOKraft seine Tätigkeit ausübt oder entgegen § 39 Absatz 1 in Verbindung mit § 9 Absatz 3 BOKraft eine Erkrankung nicht anzeigt oder 
 2. als Fahrzeugführerin oder Fahrzeugführer entgegen § 39 Absatz 1 in Verbindung mit § 9 Absatz 2 BOKraft Fahrten ausführt, obwohl sie oder er durch Krankheit in der Eignung beeinträchtigt ist, ein Fahrzeug sicher im Verkehr zu führen.
 
 (4) Die Ordnungswidrigkeiten in den Absätzen 1 bis 3 können mit einer Geldbuße bis zu 5 000 Euro geahndet werden.
 
 (5) Für die örtliche und sachliche Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 gelten die §§ 47 und 48 entsprechend. Für die Ahndung und Verfolgung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 ist die Genehmigungsbehörde zuständig.
 
-
-### § 60 - Umsetzungsfrist
+### § 60 - Umsetzungsfrist
 
 (1) Zur Umsetzung der Vorgaben in § 6 Absatz 1 und 2 sowie zur Umsetzung der Vorgaben im Rettungsdienstplan veranlasst der Landesausschuss für den Rettungsdienst eine landesweite Begutachtung nach § 8 Absatz 2 Satz 4. Aufgrund der Ergebnisse der Begutachtung legt er einen landesweit verbindlichen Umsetzungsplan fest, der im jeweiligen Rettungsdienstbereich Bestandteil des Bereichsplanes nach § 6 Absatz 6 wird. Die Umsetzung soll bis zum 31. Dezember 2030 abgeschlossen sein. Die Aufgaben der Bereichsausschüsse nach §§ 6 Absatz 6 und 7 und 10 Absatz 3 bleiben bis zur landesweiten Begutachtung unberührt.
 
@@ -1170,7 +917,6 @@ b) § 39 Absatz 1 in Verbindung mit § 9 Absatz 1 BOKraft seine Tätigkeit ausü
 
 (3) Das Telenotärztliche System ist in den Telenotärztlichen Zentralen Freiburg und Ludwigsburg sowie in den Rettungsdienstbereichen Stadt- und Landkreis Heilbronn, Landkreis Hohenlohekreis, Landkreis Ludwigsburg und Landkreis Schwäbisch Hall sowie Landkreis Emmendingen, Landkreis Tuttlingen, Landkreis Waldshut und Landkreis Breisgau-Hochschwarzwald und Stadtkreis Freiburg bis zum 31. Dezember 2025 vollständig betriebsbereit vorzuhalten. Der Landesausschuss für den Rettungsdienst beschließt für die übrigen Rettungsdienstbereiche und für die durch das Innenministerium nach § 11 Absatz 9 Satz 2 zu bestimmenden Integrierten Leitstellen einen landesweiten Umsetzungsplan. Die Umsetzung soll bis zum 31. Dezember 2030 abgeschlossen sein.
 
-
-### § 61 - Inkrafttreten, Außerkrafttreten
+### § 61 - Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft. Gleichzeitig tritt das Rettungsdienstgesetz in der Fassung vom 8. Februar 2010 (GBl. S. 285), das zuletzt durch Artikel 10 des Gesetzes vom 12. Juni 2018 (GBl. S. 173, 187) geändert worden ist, außer Kraft.

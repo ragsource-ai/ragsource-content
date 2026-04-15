@@ -1,63 +1,82 @@
 ---
-titel: Feuerwehrgesetz Baden-Württemberg (FwG BW)
+titel: "Feuerwehrgesetz Baden-Württemberg (FwG BW)"
 ebene: land
 saule: regelungsrahmen
-land_ars: 08
+rechtsnatur: gesetz
+land_ars: "08"
 land: Baden-Württemberg
-quelle: Gesetz neugefasst am 02.03.2010 (GBl. 2010, 333), zuletzt geändert durch Artikel 1 des Gesetzes vom 25.02.2025 (GBl. 2025 Nr. 14)
-gueltig_ab: 2009-11-19
-status: published
+gueltig_ab: 2026-02-10
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-FeuerwGBW2010rahmen"
+quelle: "GBl. 2010, 333"
 endpoints:
   - amtsschimmel
   - brandmeister
+extensions:
+  - Gefahrenabwehrrecht
+  - Feuerwehr
+stand: "2026-04-15"
+status: published
 ---
 
 ## Inhaltsverzeichnis
 
-- § 1 - Begriff der Feuerwehr
-- § 2 - Aufgaben der Feuerwehr
-- § 3 - Aufgaben der Gemeinden
-- § 4 - Aufgaben der Landkreise
-- § 5 - Aufgaben des Landes
-- § 6 - Organisation der Gemeindefeuerwehr
-- § 7 - Angehörige der Gemeindefeuerwehr
-- § 8 - Leitung der Gemeindefeuerwehr
-- § 9 - Aufgaben des Feuerwehrkommandanten
-- § 10 - Feuerwehrausschuss, Abteilungsausschüsse
-- § 11 - Aufnahme der ehrenamtlich Tätigen in die Gemeindefeuerwehr
-- § 12 - Heranziehung zum Dienst in der Gemeindefeuerwehr
-- § 13 - Beendigung des ehrenamtlichen Feuerwehrdienstes
-- § 14 - Dienstpflichten
-- § 15 - Freistellung, Entgeltfortzahlung
-- § 16 - Entschädigung
-- § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
-- § 18 - Sondervermögen für die Kameradschaftspflege
-- § 19 - Werkfeuerwehren
-- § 20 - [red. Landesfeuerwehrschule]
-- § 21 - [red. Feuerwehrverbände]
-- § 22 - Aufsichtsbehörden
-- § 23 - Feuerwehrtechnische Beamte
-- § 24 - Aufgaben der feuerwehrtechnischen Beamten
-- § 25 - Landesfeuerwehrbeirat
-- § 26 - Überlandhilfe der Feuerwehren
-- § 27 - Leitung des Einsatzes
-- § 28 - Einsatz der Werkfeuerwehren
-- § 29 - Gefahrmeldung
-- § 30 - Heranziehung zur Hilfeleistung
-- § 31 - Duldungspflichten der Grundstückseigentümer und -besitzer
-- § 32 - Rechtsweg
-- § 33 - Feuerschutzsteuer
-- § 34 - Kostenersatz
-- § 35 - Verarbeitung personenbezogener Daten
-- § 36 - Einschränkung von Grundrechten
-- § 37 - Zuständigkeit anderer Behörden
-- § 38 - Ordnungswidrigkeiten
-- § 39 - Übergangsbestimmung
-- § 40 - Inkrafttreten
+**ERSTER TEIL Allgemeines**
+- § 1 - Begriff der Feuerwehr
+- § 2 - Aufgaben der Feuerwehr
 
-## ERSTER TEIL - Allgemeines
+**ZWEITER TEIL Aufgaben der Träger**
+- § 3 - Aufgaben der Gemeinden
+- § 4 - Aufgaben der Landkreise
+- § 5 - Aufgaben des Landes
 
-### § 1 - Begriff der Feuerwehr
+**DRITTER TEIL Die Feuerwehren**
+- § 6 - Organisation der Gemeindefeuerwehr
+- § 7 - Angehörige der Gemeindefeuerwehr
+- § 8 - Leitung der Gemeindefeuerwehr
+- § 9 - Aufgaben des Feuerwehrkommandanten
+- § 10 - Feuerwehrausschuss, Abteilungsausschüsse
+- § 11 - Aufnahme der ehrenamtlich Tätigen in die Gemeindefeuerwehr
+- § 12 - Heranziehung zum Dienst in der Gemeindefeuerwehr
+- § 13 - Beendigung des ehrenamtlichen Feuerwehrdienstes
+- § 14 - Dienstpflichten
+- § 15 - Freistellung, Entgeltfortzahlung
+- § 16 - Entschädigung
+- § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
+- § 18 - Sondervermögen für die Kameradschaftspflege
+- § 19 - Werkfeuerwehren
+- § 20 (Red. Landesfeuerwehrschule)
+- § 21 (Red. Feuerwehrverbände)
+
+**VIERTER TEIL Aufsicht**
+- § 22 - Aufsichtsbehörden
+- § 23 - Feuerwehrtechnische Beamte
+- § 24 - Aufgaben der feuerwehrtechnischen Beamten
+- § 25 - Landesfeuerwehrbeirat
+
+**FÜNFTER TEIL Einsatz der Feuerwehren**
+- § 26 - Überlandhilfe der Feuerwehren
+- § 27 - Leitung des Einsatzes
+- § 28 - Einsatz der Werkfeuerwehren
+
+**SECHSTER TEIL Pflichten Dritter**
+- § 29 - Gefahrmeldung
+- § 30 - Heranziehung zur Hilfeleistung
+- § 31 - Duldungspflichten der Grundstückseigentümer und -besitzer
+- § 32 - Rechtsweg
+- § 33 - Feuerschutzsteuer
+- § 34 - Kostenersatz
+
+**ACHTER TEIL Schlussbestimmungen**
+- § 35 - Verarbeitung personenbezogener Daten
+- § 36 - Einschränkung von Grundrechten
+- § 37 - Zuständigkeit anderer Behörden
+- § 38 - Ordnungswidrigkeiten
+- § 39 - Übergangsbestimmung
+- § 40 - *
+
+## ERSTER TEIL Allgemeines
+
+### § 1 - Begriff der Feuerwehr
 
 (1) Die Feuerwehr ist eine gemeinnützige, der Nächstenhilfe dienende Einrichtung der Gemeinde ohne eigene Rechtspersönlichkeit. Sie ist in ihrer Einrichtung von der Polizei unabhängig.
 
@@ -65,7 +84,7 @@ endpoints:
 
 (3) Die Gemeinden und Landkreise erfüllen ihre Aufgaben nach diesem Gesetz als weisungsfreie Pflichtaufgaben. Sie haben bei der Erfüllung ihrer Aufgaben nach diesem Gesetz die Behörden und sonstigen Stellen ihres jeweiligen Bereichs, deren Belange berührt werden, zu beteiligen.
 
-### § 2 - Aufgaben der Feuerwehr
+### § 2 - Aufgaben der Feuerwehr
 
 (1) Die Feuerwehr hat
 
@@ -81,11 +100,9 @@ Ein öffentlicher Notstand ist ein durch ein Naturereignis, einen Unglücksfall 
 
 (3) Rechtsansprüche einzelner Personen werden durch die vorstehenden Bestimmungen nicht begründet.
 
----
+## ZWEITER TEIL Aufgaben der Träger
 
-## ZWEITER TEIL - Aufgaben der Träger
-
-### § 3 - Aufgaben der Gemeinden
+### § 3 - Aufgaben der Gemeinden
 
 (1) Jede Gemeinde hat auf ihre Kosten eine den örtlichen Verhältnissen entsprechende leistungsfähige Feuerwehr aufzustellen, auszurüsten und zu unterhalten. Sie hat insbesondere
 
@@ -108,13 +125,13 @@ Andere gesetzliche Verpflichtungen bleiben unberührt.
 
 (4) Zur Erfüllung ihrer Aufgaben nach diesem Gesetz können die Gemeinden die Möglichkeiten der kommunalen Zusammenarbeit nutzen. Insbesondere können sie zur Zusammenarbeit der Feuerwehren im Einsatz gemeinsame Alarm- und Ausrückeordnungen sowie Kostenregelungen vereinbaren.
 
-### § 4 - Aufgaben der Landkreise
+### § 4 - Aufgaben der Landkreise
 
 (1) Die Landkreise haben Leitstellen zu schaffen und zu betreiben. Leitstellen sind für die Feuerwehr und für den Rettungsdienst als Integrierte Leitstellen in gemeinsamer Trägerschaft zu betreiben. Die Landkreise können mit Gemeinden, Verwaltungsgemeinschaften, anderen Landkreisen oder dem Träger einer Rettungsleitstelle vereinbaren, dass diese die Aufgaben nach Satz 1 für den Landkreis erledigen. Mehrere Landkreise und Stadtkreise können gemeinsam eine Leitstelle im Sinne von Satz 2 (Bereichsübergreifende Integrierte Leitstellen) betreiben. In einer Vereinbarung sind die Trägerschaft, die Kostenaufteilung und der Leistungsumfang festzulegen.
 
 (2) Die Träger der Leitstellen stellen sicher, dass unter der einheitlichen europäischen Notrufnummer 112 eingehende Notrufe entgegengenommen und bearbeitet werden können. Die unverzügliche Weiterleitung an die zuständige Leitstelle der Feuerwehr, des Rettungsdienstes oder der Polizei ist zu gewährleisten.
 
-(3) Die Landkreise haben zur Alarmierung der Gemeindefeuerwehren geeignete Kommunikationsnetze zu errichten und zu betreiben, sofern nicht solche des Landes hierfür verwendet werden können.
+(3) Die Landkreise haben zur Alarmierung der Gemeindefeuerwehren geeignete Kommunikationsnetze zu errichten und zu betreiben.
 
 (4) Die Landkreise sollen die Gemeinden unterstützen bei der
 
@@ -124,7 +141,7 @@ Andere gesetzliche Verpflichtungen bleiben unberührt.
 
 (5) Die Landkreise können Personen mit besonderen Fähigkeiten und Kenntnissen als ehrenamtlich Tätige nach der Landkreisordnung oder als Ehrenbeamte bestellen.
 
-### § 5 - Aufgaben des Landes
+### § 5 - Aufgaben des Landes
 
 Dem Land obliegt
 
@@ -133,13 +150,9 @@ Dem Land obliegt
 3. die Gewährung von Zuwendungen für die Überlandhilfe,
 4. die Gewährung von Zuwendungen für Schadensersatzleistungen, zu denen die Gemeinde nach § 17 Abs. 1 und 2 verpflichtet ist.
 
----
+## DRITTER TEIL Die Feuerwehren
 
-## DRITTER TEIL - Die Feuerwehren
-
-## 1. ABSCHNITT - Gemeindefeuerwehr
-
-### § 6 - Organisation der Gemeindefeuerwehr
+### § 6 - Organisation der Gemeindefeuerwehr
 
 (1) Die Gemeindefeuerwehr besteht aus mindestens einer Einsatzabteilung der Freiwilligen Feuerwehr. Sie kann daneben auch eine Einsatzabteilung mit Angehörigen der Berufsfeuerwehr oder hauptamtlichen Kräften sowie eine Jugendfeuerwehr, Altersabteilungen und Musikabteilungen aufstellen. Gliederung und Verwaltung der Gemeindefeuerwehr sind durch Satzung zu regeln. Die Gemeindefeuerwehr führt die Bezeichnung „Freiwillige Feuerwehr". Ist eine Einsatzabteilung der Berufsfeuerwehr oder eine Einsatzabteilung mit hauptamtlichen Kräften eingerichtet, führt sie die Bezeichnung „Feuerwehr".
 
@@ -147,7 +160,7 @@ Dem Land obliegt
 
 (3) Angehörige der Musikabteilung sind beim aktiven Wahlrecht nach § 10 und bei staatlichen Ehrungen Angehörigen einer Einsatzabteilung der Freiwilligen Feuerwehr gleichgestellt, wenn sie an einer feuerwehrspezifischen Grundausbildung erfolgreich teilgenommen haben, nach Maßgabe der Satzung regelmäßigen Übungsdienst leisten und für Einsätze zur Verfügung stehen.
 
-### § 7 - Angehörige der Gemeindefeuerwehr
+### § 7 - Angehörige der Gemeindefeuerwehr
 
 (1) Die Rechte und Pflichten der Angehörigen der Gemeindefeuerwehr sind durch Satzung zu regeln, soweit sie sich nicht aus dem Gesetz ergeben. Die Angehörigen der Gemeindefeuerwehr werden bei der Ausübung ihres Dienstes stets im Auftrag der Gemeinde tätig, deren Feuerwehr sie angehören.
 
@@ -155,7 +168,7 @@ Dem Land obliegt
 
 (3) Angehörige einer Gemeindefeuerwehr können einer weiteren Gemeindefeuerwehr oder einer Werkfeuerwehr angehören, soweit dies im Interesse der Feuerwehren liegt. Dies gilt auch für die Mitgliedschaft in mehreren Einsatzabteilungen der Gemeindefeuerwehr.
 
-### § 8 - Leitung der Gemeindefeuerwehr
+### § 8 - Leitung der Gemeindefeuerwehr
 
 (1) Die Gemeindefeuerwehr wird von einem Feuerwehrkommandanten geleitet. Bei Gemeindefeuerwehren mit mehreren Einsatzabteilungen werden die einzelnen Einsatzabteilungen der Freiwilligen Feuerwehr von Abteilungskommandanten geleitet. Besteht eine Einsatzabteilung der Berufsfeuerwehr, ist deren Leiter der Feuerwehrkommandant.
 
@@ -169,7 +182,7 @@ Dem Land obliegt
 
 (6) Gegen eine Wahl nach Absatz 2 kann binnen einer Woche nach der Wahl von jedem Wahlberechtigten Einspruch bei der Gemeinde erhoben werden. Nach Ablauf der Einspruchsfrist können weitere Einspruchsgründe nicht mehr geltend gemacht werden. Gegen die Entscheidung über den Einspruch können der Wahlberechtigte, der Einspruch erhoben hat, und der durch die Entscheidung betroffene Bewerber unmittelbar Anfechtungs- oder Verpflichtungsklage erheben.
 
-### § 9 - Aufgaben des Feuerwehrkommandanten
+### § 9 - Aufgaben des Feuerwehrkommandanten
 
 (1) Der Feuerwehrkommandant ist für die Leistungsfähigkeit der Gemeindefeuerwehr verantwortlich. Er hat insbesondere
 
@@ -182,7 +195,7 @@ Die Gemeinde hat ihn bei der Durchführung seiner Aufgaben angemessen zu unterst
 
 (2) Der Feuerwehrkommandant hat den Bürgermeister und den Gemeinderat in allen feuerwehrtechnischen Angelegenheiten zu beraten. Er soll zu den Beratungen der Gemeindeorgane über Angelegenheiten der Feuerwehr mit beratender Stimme zugezogen werden.
 
-### § 10 - Feuerwehrausschuss, Abteilungsausschüsse
+### § 10 - Feuerwehrausschuss, Abteilungsausschüsse
 
 (1) Die Angehörigen der Einsatzabteilungen der Freiwilligen Feuerwehr wählen aus ihrer Mitte einen Feuerwehrausschuss für die Dauer von fünf Jahren. Vorsitzender des Feuerwehrausschusses ist der Feuerwehrkommandant.
 
@@ -192,7 +205,7 @@ Die Gemeinde hat ihn bei der Durchführung seiner Aufgaben angemessen zu unterst
 
 (4) Der Feuerwehrausschuss hat den Feuerwehrkommandanten, die Abteilungsausschüsse haben die Abteilungskommandanten zu beraten und zu unterstützen. Vor allgemeinen örtlichen Regelungen, die die Gemeindefeuerwehr berühren, ist der Feuerwehrausschuss zu hören.
 
-### § 11 - Aufnahme der ehrenamtlich Tätigen in die Gemeindefeuerwehr
+### § 11 - Aufnahme der ehrenamtlich Tätigen in die Gemeindefeuerwehr
 
 (1) In die Einsatzabteilungen der Gemeindefeuerwehr können auf Grund freiwilliger Meldung Personen als ehrenamtlich Tätige aufgenommen werden, die
 
@@ -206,20 +219,20 @@ Die Gemeinde hat ihn bei der Durchführung seiner Aufgaben angemessen zu unterst
 
 (2) Die Aufnahme in eine Einsatzabteilung der Freiwilligen Feuerwehr erfolgt für die ersten zwölf Monate auf Probe. Innerhalb der Probezeit soll der Feuerwehrangehörige erfolgreich an einem Grundausbildungslehrgang teilnehmen. Aus begründetem Anlass kann die Probezeit verlängert werden. Auf eine Probezeit kann verzichtet oder sie kann abgekürzt werden, wenn Angehörige einer Jugendfeuerwehr oder einer Musikabteilung in eine Einsatzabteilung übertreten oder eine Person eintritt, die bereits einer anderen Gemeindefeuerwehr oder einer Werkfeuerwehr angehört oder angehört hat.
 
-(3) Über die Aufnahme auf Probe, die Verkürzung oder Verlängerung der Probezeit und die endgültige Aufnahme entscheidet der Feuerwehrausschuss. Besteht ein Abteilungsausschuss, ist dieser vom Feuerwehrausschuss vor dessen Entscheidung anzuhören. Ein Rechtsanspruch auf Aufnahme besteht nicht. Eine Ablehnung ist dem Antragsteller schriftlich mitzuteilen.
+(3) Über die Aufnahme auf Probe, die Verkürzung oder Verlängerung der Probezeit und die endgültige Aufnahme entscheidet der Feuerwehrausschuss. Besteht ein Abteilungsausschuss, ist dieser vom Feuerwehrausschuss vor dessen Entscheidung anzuhören. Ein Rechtsanspruch auf Aufnahme besteht nicht. Eine Ablehnung ist dem Antragsteller schriftlich oder elektronisch mitzuteilen.
 
 (4) In die Gemeindefeuerwehr können Personen mit besonderen Fähigkeiten und Kenntnissen als Fachberater aufgenommen werden. Dienstpflichten, Aufnahme und Beendigung des Feuerwehrdienstes können im Einzelfall abweichend von den Absätzen 1 und 2, § 13 Abs. 1 Nr. 5 und § 14 geregelt werden.
 
-### § 12 - Heranziehung zum Dienst in der Gemeindefeuerwehr
+### § 12 - Heranziehung zum Dienst in der Gemeindefeuerwehr
 
 (1) Die Gemeinden können durch Satzung Gemeindeeinwohner zwischen dem vollendeten 18. und dem vollendeten 50. Lebensjahr zum Dienst in der Gemeindefeuerwehr verpflichten. Wer in mehreren Gemeinden wohnt, darf nur in der Gemeinde zum Feuerwehrdienst verpflichtet werden, in der die Hauptwohnung liegt. Das Nähere, insbesondere Ausnahmen von der Feuerwehrdienstpflicht, Umfang und Dauer der Dienstverpflichtung sowie Rechte und Pflichten der Dienstverpflichteten, regelt die Satzung.
 
-(2) Die Dienstpflichtigen werden nach Maßgabe der Satzung durch schriftlichen Verpflichtungsbescheid für eine bestimmte Zeit zur Dienstleistung herangezogen. Nicht herangezogen werden sollen Feuerwehrdienstpflichtige,
+(2) Die Dienstpflichtigen werden nach Maßgabe der Satzung durch schriftlichen oder elektronischen Verpflichtungsbescheid für eine bestimmte Zeit zur Dienstleistung herangezogen. Nicht herangezogen werden sollen Feuerwehrdienstpflichtige,
 
 1. bei denen die Voraussetzungen für eine Aufnahme in die Einsatzabteilung nach § 11 Abs. 1 Nr. 1 bis 3 und 5 bis 7 nicht vorliegen oder
 2. die nach § 16 Abs. 1 der Gemeindeordnung aus wichtigen Gründen eine ehrenamtliche Tätigkeit ablehnen können.
 
-### § 13 - Beendigung des ehrenamtlichen Feuerwehrdienstes
+### § 13 - Beendigung des ehrenamtlichen Feuerwehrdienstes
 
 (1) Der Feuerwehrdienst in einer Einsatzabteilung endet, wenn der ehrenamtlich tätige Angehörige der Gemeindefeuerwehr
 
@@ -248,9 +261,9 @@ In den Fällen der Nummern 3 und 4 kann der Feuerwehrangehörige nach Anhörung 
 3. bei erheblicher schuldhafter Schädigung des Ansehens der Feuerwehr oder
 4. wenn sein Verhalten eine erhebliche und andauernde Störung des Zusammenlebens in der Gemeindefeuerwehr verursacht hat oder befürchten lässt.
 
-Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des ehrenamtlichen Feuerwehrdienstes durch schriftlichen Bescheid festzustellen.
+Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des ehrenamtlichen Feuerwehrdienstes durch schriftlichen oder elektronischen Bescheid festzustellen.
 
-### § 14 - Dienstpflichten
+### § 14 - Dienstpflichten
 
 (1) Die ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr sind verpflichtet,
 
@@ -270,13 +283,13 @@ Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des 
 
 (5) Verletzt ein ehrenamtlich tätiger Angehöriger der Gemeindefeuerwehr schuldhaft die ihm obliegenden Dienstpflichten, kann ihm der Feuerwehrkommandant einen Verweis erteilen. Grobe Verstöße kann der Bürgermeister auf Antrag des Feuerwehrkommandanten mit einer Geldbuße bis zu 1000 Euro ahnden. Der Bürgermeister kann zur Vorbereitung eines Beschlusses des Gemeinderats auf Beendigung des Feuerwehrdienstes nach § 13 Abs. 3 den ehrenamtlich tätigen Feuerwehrangehörigen auch vorläufig des Dienstes entheben, wenn andernfalls der Dienstbetrieb oder die Ermittlungen beeinträchtigt würden. Der Betroffene ist vor einer Entscheidung nach den Sätzen 1 bis 3 anzuhören.
 
-### § 15 - Freistellung, Entgeltfortzahlung
+### § 15 - Freistellung, Entgeltfortzahlung
 
 (1) Nehmen ehrenamtlich tätige Angehörige der Gemeindefeuerwehr während der Arbeits- oder Dienstzeit an Einsätzen oder an der Aus- und Fortbildung teil, sind sie für die Dauer der Teilnahme von der Arbeits- oder Dienstleistung freigestellt. Dies gilt auch für eine angemessene Ruhezeit nach Einsätzen. Die Teilnahme an Aus- und Fortbildungslehrgängen ist dem Arbeitgeber oder Dienstherrn rechtzeitig mitzuteilen. Eine Kündigung oder Entlassung aus einem Dienst- oder Arbeitsverhältnis, eine Versetzung an einen anderen Beschäftigungsort und jede sonstige berufliche Benachteiligung aus diesem Grund sind unzulässig.
 
 (2) Die Gemeinde hat dem privaten Arbeitgeber auf Antrag seine auf Grund gesetzlicher oder vertraglicher Verpflichtung erbrachten Entgeltfortzahlungsleistungen zu erstatten, wenn die Arbeitsunfähigkeit des Arbeitnehmers durch den Feuerwehrdienst verursacht wurde. Ein bestehender Erstattungsanspruch des privaten Arbeitgebers geht auf die Gemeinde über.
 
-### § 16 - Entschädigung
+### § 16 - Entschädigung
 
 (1) Die ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr erhalten auf Antrag die durch die Ausübung des Dienstes einschließlich der Teilnahme an der Aus- und Fortbildung entstehenden notwendigen Auslagen und den nachgewiesenen Verdienstausfall ersetzt. Anstelle der Entschädigung nach Satz 1 kann die Entschädigung durch Satzung geregelt werden; dabei können einheitliche und getrennte und nach Art des Feuerwehrdienstes unterschiedlich hohe Durchschnittssätze sowie Höchstbeträge festgesetzt werden. Bei Personen, die keinen Verdienst haben und den Haushalt führen, gilt als Verdienstausfall das entstandene Zeitversäumnis; durch Satzung ist hierfür ein bestimmter Stundensatz festzusetzen. Dauert ein Einsatz über vier Stunden, hat die Gemeinde des Einsatzortes einen Erfrischungszuschuss zu leisten.
 
@@ -292,7 +305,7 @@ Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des 
 
 (7) Die Gemeinden haben die Möglichkeit, den Angehörigen der Gemeindefeuerwehr finanzielle Unterstützung insbesondere zur Erholung, Aufrechterhaltung und Wiederherstellung ihrer persönlichen Leistungsfähigkeit zu gewähren.
 
-### § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
+### § 17 - Ersatz von Sachschäden und bestimmten Vermögensschäden
 
 (1) Erleiden ehrenamtlich tätige Angehörige der Gemeindefeuerwehr in Ausübung oder infolge des Dienstes einschließlich der Aus- und Fortbildung einen Sachschaden, so hat ihnen die Gemeinde diesen auf Antrag zu ersetzen, wenn sie den Schaden weder vorsätzlich noch grob fahrlässig verursacht haben. Satz 1 gilt entsprechend für die vermögenswerten Versicherungsnachteile, die ehrenamtlich tätige Angehörige der Gemeindefeuerwehr als Eigentümer oder Halter eines eingesetzten Kraftfahrzeuges erleiden. Die Höhe der zu ersetzenden vermögenswerten Versicherungsnachteile bemisst sich nach den Verhältnissen zum Zeitpunkt der Entscheidung über den Antrag.
 
@@ -300,7 +313,7 @@ Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des 
 
 (3) Leistet die Gemeinde den Geschädigten Ersatz und haben diese einen Ersatzanspruch gegen einen Dritten, so geht der Ersatzanspruch auf die Gemeinde in Höhe des von ihr geleisteten Ersatzes über. Der Übergang kann nicht zum Nachteil der Geschädigten geltend gemacht werden.
 
-### § 18 - Sondervermögen für die Kameradschaftspflege
+### § 18 - Sondervermögen für die Kameradschaftspflege
 
 (1) Die Gemeinden können durch Satzung für die Gemeindefeuerwehr, für deren Einsatzabteilungen und für die Jugendfeuerwehr Sondervermögen für die Kameradschaftspflege und die Durchführung von Veranstaltungen bilden. Die Vorschriften über die Gemeindewirtschaft sind auf die Sondervermögen nicht anzuwenden.
 
@@ -320,9 +333,7 @@ Der Betroffene ist vorher anzuhören. Der Bürgermeister hat die Beendigung des 
 
 wird durch Satzung geregelt.
 
-## 2. ABSCHNITT - Werkfeuerwehren
-
-### § 19 - Werkfeuerwehren
+### § 19 - Werkfeuerwehren
 
 (1) Werkfeuerwehren sind Feuerwehren zum Schutz von Betrieben, Einrichtungen und Verwaltungen. Die Verpflichtung der Gemeindefeuerwehr zur Hilfeleistung bleibt durch die Einrichtung einer Werkfeuerwehr unberührt. Die Kosten einer Werkfeuerwehr hat der Betrieb, die Einrichtung oder die Verwaltung zu tragen.
 
@@ -340,25 +351,19 @@ wird durch Satzung geregelt.
 
 (8) Die Aufsichtsbehörde kann einer Werkfeuerwehr die Aufgaben der Gemeindefeuerwehr für eine Gemeinde oder einen Gemeindeteil, zu denen der Betrieb, die Einrichtung oder die Verwaltung gehört, mit Zustimmung der Gemeinde und nach Anhörung der Leitung des Betriebs, der Einrichtung oder der Verwaltung übertragen, wenn ein ausreichender öffentlicher Brandschutz durch die Feuerwehr der Gemeinde nicht gewährleistet ist. Bei der Übertragung sind der Einsatzbereich, die Alarmierung und die Kostentragung zu regeln.
 
-## 3. ABSCHNITT - Landesfeuerwehrschule
-
-### § 20 - [red. Landesfeuerwehrschule]
+### § 20 (Red. Landesfeuerwehrschule)
 
 Die Landesfeuerwehrschule ist eine Einrichtung des Landes zur Aus- und Fortbildung der Angehörigen der Feuerwehren. Sie untersteht dem Innenministerium.
 
-## 4. ABSCHNITT - Feuerwehrverbände
-
-### § 21 - [red. Feuerwehrverbände]
+### § 21 (Red. Feuerwehrverbände)
 
 (1) Die Feuerwehren können sich insbesondere zur Vertretung der Interessen der Feuerwehrangehörigen, zur Stärkung des Ehrenamtes bei der Feuerwehr und zur Förderung des Feuerwehrgedankens zu gemeinnützigen Feuerwehrverbänden des Privatrechts zusammenschließen.
 
 (2) Die Behörden haben die für ihren Bereich gebildeten Landes-, Stadt- und Kreisfeuerwehrverbände vor allgemeinen Regelungen, welche die Feuerwehren berühren, rechtzeitig zu hören.
 
----
+## VIERTER TEIL Aufsicht
 
-## VIERTER TEIL - Aufsicht
-
-### § 22 - Aufsichtsbehörden
+### § 22 - Aufsichtsbehörden
 
 (1) Die Aufsicht über das Feuerwehrwesen obliegt
 
@@ -382,7 +387,7 @@ jederzeit über den Leistungsstand und die Einsatzbereitschaft der Feuerwehren u
 
 (6) Die Aufsichtsbehörden können bei Einsätzen nach § 2 Absätze 1 und 2 Nummer 1 unmittelbar Weisungen erteilen und die organisatorische Oberleitung übernehmen. Sie können ferner für die Überlandhilfe (§ 26) im Einvernehmen mit den Gemeinden Einsatzgebiete sowie Alarm- und Ausrückeordnungen festlegen.
 
-### § 23 - Feuerwehrtechnische Beamte
+### § 23 - Feuerwehrtechnische Beamte
 
 (1) Jeder Landkreis bestellt einen hauptamtlichen Kreisbrandmeister und einen oder mehrere Stellvertreter. Die Stellvertreter sind für die Dauer von fünf Jahren als Ehrenbeamte zu berufen. Vor der Bestellung des Kreisbrandmeisters und seiner Stellvertreter sind die Feuerwehrkommandanten der Gemeindefeuerwehren und die Werkfeuerwehrkommandanten im Landkreis anzuhören. Der Beschluss über die Bestellung ist dem Regierungspräsidium anzuzeigen.
 
@@ -394,11 +399,11 @@ jederzeit über den Leistungsstand und die Einsatzbereitschaft der Feuerwehren u
 
 (5) Den feuerwehrtechnischen Beamten können neben den Aufgaben nach diesem Gesetz weitere Aufgaben übertragen werden.
 
-### § 24 - Aufgaben der feuerwehrtechnischen Beamten
+### § 24 - Aufgaben der feuerwehrtechnischen Beamten
 
 Die Kreisbrandmeister, die Bezirksbrandmeister und der Landesbranddirektor bearbeiten die feuerwehrtechnischen Angelegenheiten der jeweiligen Aufsichtsbehörde. Sie können bei Übungen und Einsätzen im Rahmen der örtlichen Zuständigkeit der Aufsichtsbehörde die Technische Einsatzleitung übernehmen. In diesem Fall haben sie gegenüber den Angehörigen der Feuerwehr die gleichen Befugnisse wie der Feuerwehrkommandant.
 
-### § 25 - Landesfeuerwehrbeirat
+### § 25 - Landesfeuerwehrbeirat
 
 (1) Zur Beratung des Innenministeriums in allen Angelegenheiten von allgemeiner Bedeutung, welche die Feuerwehren berühren, wird ein Landesfeuerwehrbeirat gebildet, dessen Kosten das Land zu tragen hat.
 
@@ -408,17 +413,15 @@ Die Kreisbrandmeister, die Bezirksbrandmeister und der Landesbranddirektor bearb
 
 (4) Das Nähere bestimmt eine Geschäftsordnung, die das Innenministerium erlässt.
 
----
+## FÜNFTER TEIL Einsatz der Feuerwehren
 
-## FÜNFTER TEIL - Einsatz der Feuerwehren
-
-### § 26 - Überlandhilfe der Feuerwehren
+### § 26 - Überlandhilfe der Feuerwehren
 
 (1) Die Gemeindefeuerwehren haben sich gegenseitig auf Anforderung Hilfe zu leisten, sofern die Sicherheit in der eigenen Gemeinde dadurch nicht wesentlich gefährdet wird. Der Bürgermeister der Hilfe bedürftigen Gemeinde oder bei Gefahr im Verzug der Technische Einsatzleiter fordert diese bei der um Hilfe zu ersuchenden Gemeinde an. Die Anforderung können auch der zuständige feuerwehrtechnische Beamte (§ 23) und bei Gefahr im Verzug die Leitstelle veranlassen.
 
 (2) Die Kosten der Überlandhilfe hat der Träger der Gemeindefeuerwehr zu tragen, dem Hilfe geleistet worden ist. § 34 Absätze 4 bis 8 gelten entsprechend. Abweichend von Satz 1 kann die Hilfe leistende Gemeinde die Kosten des Einsatzes nach § 34 unmittelbar beim Kostenersatzpflichtigen erheben, wenn die Überlandhilfe aufgrund einer Vereinbarung mit der Hilfe empfangenden Gemeinde oder der Festlegung eines Einsatzgebiets für die Überlandhilfe nach § 22 Absatz 6 Satz 2 geleistet wurde. Die Gemeinden können Vereinbarungen über die Kosten der Überlandhilfe abschließen.
 
-### § 27 - Leitung des Einsatzes
+### § 27 - Leitung des Einsatzes
 
 (1) Technischer Einsatzleiter ist der Feuerwehrkommandant des Einsatzortes. Der Technische Einsatzleiter hat bei der Bekämpfung von Schadensfällen, die eine besondere berufliche Vorbildung und technisches Können erfordern, geeignete Personen zur Beratung heranzuziehen. Werden im Rahmen der Aufgabenerfüllung nach § 2 Personen eingesetzt, die nicht auf Grund einer gesetzlichen Verpflichtung tätig werden, unterstehen diese dem Technischen Einsatzleiter.
 
@@ -430,7 +433,7 @@ Die Kreisbrandmeister, die Bezirksbrandmeister und der Landesbranddirektor bearb
 
 (5) Liegt eine Einrichtung oder Anlage im Gebiet mehrerer Gemeinden, und können die Aufgaben des Technischen Einsatzleiters sowie der organisatorischen Oberleitung zweckmäßig nur einheitlich wahrgenommen werden, so gehen diese Aufgaben auf die in der Bekanntmachung nach Satz 2 genannte leistungsfähigere Gemeinde über, wenn die nächsthöhere gemeinsame Aufsichtsbehörde feststellt, dass die Voraussetzungen erfüllt sind. Die Aufsichtsbehörde macht den Übergang der Aufgaben öffentlich bekannt. Die Aufgaben gehen mit Beginn des übernächsten Monats nach der Bekanntmachung über.
 
-### § 28 - Einsatz der Werkfeuerwehren
+### § 28 - Einsatz der Werkfeuerwehren
 
 (1) Wird eine Gemeindefeuerwehr in einem Betrieb, einer Einrichtung oder einer Verwaltung mit Werkfeuerwehr eingesetzt, ist der Leiter der Werkfeuerwehr Technischer Einsatzleiter, soweit bei der Verpflichtung oder Anerkennung der Werkfeuerwehr nichts anderes bestimmt ist. § 27 Abs. 1 Satz 2 und 3 und Abs. 3 gilt entsprechend.
 
@@ -438,17 +441,15 @@ Die Kreisbrandmeister, die Bezirksbrandmeister und der Landesbranddirektor bearb
 
 (3) Die Verpflichtungen und Befugnisse des Leiters des Betriebs, der Einrichtung oder der Verwaltung, die zu einer wirksamen Notstandsbekämpfung erforderlichen betriebstechnischen Maßnahmen anzuordnen und durchzuführen, bleiben unberührt.
 
----
+## SECHSTER TEIL Pflichten Dritter
 
-## SECHSTER TEIL - Pflichten Dritter
-
-### § 29 - Gefahrmeldung
+### § 29 - Gefahrmeldung
 
 (1) Wer einen Brand, Unfall oder ein anderes Ereignis, durch das Menschen oder erhebliche Sachwerte gefährdet sind, bemerkt, ist verpflichtet, unverzüglich die Feuerwehr oder eine Polizeidienststelle zu benachrichtigen, sofern er die Gefahr nicht selbst beseitigt oder beseitigen kann; bei einem Waldbrand genügt auch eine Benachrichtigung der nächsten Forstdienststelle.
 
 (2) Bei einer Gefahrenlage nach Absatz 1 in einem Betrieb, einer Einrichtung oder einer Verwaltung mit Werkfeuerwehr sind der Leiter des Betriebs, der Einrichtung oder der Verwaltung, ihre Beauftragten oder der Werkfeuerwehrkommandant verpflichtet, unverzüglich die Gemeindefeuerwehr zu alarmieren, sofern die Gefahr nicht mit eigenen Kräften oder Mitteln beseitigt werden kann.
 
-### § 30 - Heranziehung zur Hilfeleistung
+### § 30 - Heranziehung zur Hilfeleistung
 
 (1) Wer einen Brand bemerkt, hat unbeschadet der Anzeigepflicht nach § 29 bis zum Eintreffen der Feuerwehr alle in seiner Kraft stehenden Maßnahmen zur Rettung von Menschen und zur Brandbekämpfung zu ergreifen.
 
@@ -458,7 +459,7 @@ Die Kreisbrandmeister, die Bezirksbrandmeister und der Landesbranddirektor bearb
 
 (4) Personen, die nach Absatz 2 zur Hilfeleistung herangezogen werden oder unaufgefordert Hilfe leisten, werden hierbei im Auftrag der Gemeinde tätig, in deren Bereich sie Hilfe leisten. Die durch die Hilfeleistung entstandenen Sachschäden sowie die vermögenswerten Versicherungsnachteile, die diese Personen als Eigentümer oder Halter eingesetzter Kraftfahrzeuge erlitten haben, werden ihnen auf Antrag von der Gemeinde ersetzt; das Gleiche gilt für den hierdurch entstandenen Verdienstausfall, wenn die unentgeltliche Hilfeleistung nicht zugemutet werden kann. § 17 Abs. 1 Satz 3 gilt entsprechend.
 
-### § 31 - Duldungspflichten der Grundstückseigentümer und -besitzer
+### § 31 - Duldungspflichten der Grundstückseigentümer und -besitzer
 
 (1) Die Eigentümer und Besitzer der von einem Schadensereignis nach § 2 Absätze 1 und 2 Nummer 1 betroffenen Grundstücke, baulichen Anlagen und Schiffe sind verpflichtet, den Angehörigen der Feuerwehr und den auf Weisung des Technischen Einsatzleiters beim Einsatz tätigen Angehörigen anderer Einrichtungen und Organisationen sowie sonstigen beim Einsatz dienstlich tätigen Personen den Zutritt zu ihren Grundstücken, baulichen Anlagen und Schiffen und deren Benutzung für Lösch- und Rettungsarbeiten zu gestatten sowie Wasservorräte, die sich in ihrem Besitz befinden oder auf ihren Grundstücken oder in ihren baulichen Anlagen gewonnen werden können, auf Anforderung für die Lösch- und Rettungsarbeiten zur Verfügung zu stellen und ihre hierfür verwendbaren Geräte zur Benutzung zu überlassen. Sie haben ferner die vom Technischen Einsatzleiter im Interesse geeigneter Entfaltung der Lösch- und Rettungsarbeiten und zur Verhütung weiteren Umsichgreifens eines Brandes angeordneten Maßnahmen wie Räumung von Grundstücken und baulichen Anlagen, Beseitigung von Pflanzen, Fahrzeugen, Maschinen, Einfriedungen, Gebäudeteilen und Gebäuden zu dulden.
 
@@ -466,19 +467,15 @@ Die Kreisbrandmeister, die Bezirksbrandmeister und der Landesbranddirektor bearb
 
 (3) Die Eigentümer und Besitzer von Grundstücken und baulichen Anlagen haben die Anbringung der zur Aufgabenerfüllung der Feuerwehr notwendigen Einrichtungen zur Kommunikation, insbesondere zur Alarmierung, ohne Entschädigung zu dulden, wenn dies zu keiner unverhältnismäßigen Belastung des Eigentümers oder Besitzers führt.
 
-### § 32 - Rechtsweg
+### § 32 - Rechtsweg
 
 Über die Ansprüche nach § 17 Abs. 1, § 30 Abs. 4 Satz 2 und § 31 Abs. 2 Satz 2 entscheiden die ordentlichen Gerichte.
 
----
-
-## SIEBTER TEIL - Aufbringung der Mittel
-
-### § 33 - Feuerschutzsteuer
+### § 33 - Feuerschutzsteuer
 
 Das Aufkommen aus der Feuerschutzsteuer ist für Zwecke der Feuerwehr und des vorbeugenden Brandschutzes zu verwenden.
 
-### § 34 - Kostenersatz
+### § 34 - Kostenersatz
 
 (1) Einsätze der Gemeindefeuerwehr nach § 2 Absatz 1 sind unentgeltlich, soweit nicht in Satz 2 etwas anderes bestimmt ist. Die Träger der Gemeindefeuerwehr verlangen Kostenersatz
 
@@ -519,29 +516,22 @@ In den Fällen der Nummern 1 und 5 gelten § 6 Absätze 2 und 3 des Polizeigeset
 
 (10) Leistet eine Gemeindefeuerwehr dem Bund Amtshilfe, gelten für den Kostenersatz die Absätze 4 bis 8 entsprechend.
 
----
+## ACHTER TEIL Schlussbestimmungen
 
-## ACHTER TEIL - Schlussbestimmungen
-
-### § 35 - Verarbeitung personenbezogener Daten
+### § 35 - Verarbeitung personenbezogener Daten
 
 (1) Die Gemeinden, Gemeindeverbände, Verwaltungsgemeinschaften und Zweckverbände dürfen bei den Baurechtsbehörden, den Forstbehörden, Forst Baden-Württemberg, den Wasserbehörden sowie den für die Ausführung des Atomgesetzes, des Bundesimmissionsschutzgesetzes und des Katastrophenschutzgesetzes zuständigen Behörden die zur Erfüllung ihrer Aufgaben erforderlichen Daten erheben, insbesondere
 
-1. für bauliche Anlagen und andere Anlagen zur Gewinnung, Lagerung und Verarbeitung von Stoffen, von deren Beschaffenheit oder Handhabung Brand-, Explosionsgefahren oder andere Gefahren ausgehen können,
-
-a) den Ort und die Lage,
-b) die Namen und Anschriften der Eigentümer, Besitzer und Betreiber,
-c) die Lagerung, Art, Beschaffenheit und Menge vorhandener oder möglicherweise entstehender Stoffe, von denen Gefahren ausgehen können,
-d) das Ausbreitungs- und Wirkungsverhalten der vorhandenen oder möglicherweise entstehenden Stoffe,
-e) die Bewertung der Gefahren für die Anlagen und ihre Umgebung und
-f) die vorhandenen und möglichen Vorkehrungen zum Schutz gegen Gefahren sowie die möglichen Maßnahmen zur Bekämpfung von Schäden,
-
-2. für nicht unter Nummer 1 fallende Grundstücke und bauliche Anlagen, von denen im Falle eines gefahrbringenden Ereignisses Gefahren für das Leben oder die Gesundheit einer größeren Anzahl von Menschen, Gefahren für erhebliche Sachwerte oder akute Umweltgefahren ausgehen können oder bei denen eine Schadensabwehr nur unter besonders erschwerten Umständen möglich ist, sowie für abgelegene Gebäude
-
-a) den Ort und die Lage,
-b) die Namen und Anschriften der Eigentümer und Besitzer,
-c) die Bewertung der Gefahren für die Liegenschaften und ihre Umgebung und
-d) die vorhandenen und möglichen Vorkehrungen zum Schutz gegen Gefahren sowie die möglichen Maßnahmen zur Bekämpfung von Schäden.
+1. für bauliche Anlagen und andere Anlagen zur Gewinnung, Lagerung und Verarbeitung von Stoffen, von deren Beschaffenheit oder Handhabung Brand-, Explosionsgefahren oder andere Gefahren ausgehen können,  a) den Ort und die Lage,
+  b) die Namen und Anschriften der Eigentümer, Besitzer und Betreiber,
+  c) die Lagerung, Art, Beschaffenheit und Menge vorhandener oder möglicherweise entstehender Stoffe, von denen Gefahren ausgehen können,
+  d) das Ausbreitungs- und Wirkungsverhalten der vorhandenen oder möglicherweise entstehenden Stoffe,
+  e) die Bewertung der Gefahren für die Anlagen und ihre Umgebung und
+  f) die vorhandenen und möglichen Vorkehrungen zum Schutz gegen Gefahren sowie die möglichen Maßnahmen zur Bekämpfung von Schäden,
+2. für nicht unter Nummer 1 fallende Grundstücke und bauliche Anlagen, von denen im Falle eines gefahrbringenden Ereignisses Gefahren für das Leben oder die Gesundheit einer größeren Anzahl von Menschen, Gefahren für erhebliche Sachwerte oder akute Umweltgefahren ausgehen können oder bei denen eine Schadensabwehr nur unter besonders erschwerten Umständen möglich ist, sowie für abgelegene Gebäude  a) den Ort und die Lage,
+  b) die Namen und Anschriften der Eigentümer und Besitzer,
+  c) die Bewertung der Gefahren für die Liegenschaften und ihre Umgebung und
+  d) die vorhandenen und möglichen Vorkehrungen zum Schutz gegen Gefahren sowie die möglichen Maßnahmen zur Bekämpfung von Schäden.
 
 (2) Die in Absatz 1 genannten Behörden übermitteln den Gemeinden, Verwaltungsgemeinschaften und Zweckverbänden auf Anforderung die dort genannten Daten, soweit ihnen diese im Rahmen ihrer Aufgabenerfüllung bekannt geworden sind. Sie dürfen die Daten im Einzelfall auch ohne Anforderung übermitteln, wenn dies zur Erfüllung der Aufgaben der Feuerwehr erforderlich ist.
 
@@ -564,15 +554,16 @@ genutzt werden, soweit diese Zwecke nicht mit anonymisierten Daten erreicht werd
 
 (6) Die nach Absatz 4 aufgezeichneten Daten sind spätestens nach sechs Monaten zu löschen, es sei denn, dass die weitere Speicherung für die in Absatz 5 genannten Zwecke erforderlich ist.
 
-### § 36 - Einschränkung von Grundrechten
+### § 36 - Einschränkung von Grundrechten
 
-Zur Erfüllung der Aufgaben der Feuerwehr können auf Grund dieses Gesetzes die Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), die Berufsfreiheit (Artikel 12 Abs. 1 des Grundgesetzes), die Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) und das Eigentum (Artikel 14 des Grundgesetzes) eingeschränkt werden.
+Zur Erfüllung der Aufgaben der Feuerwehr können auf Grund dieses Gesetzes die Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), die Berufsfreiheit (Artikel 12 Abs. 1 des Grundgesetzes), die Unverletzlichkeit der Wohnung (Artikel 13 des
+Grundgesetzes) und das Eigentum (Artikel 14 des Grundgesetzes) eingeschränkt werden.
 
-### § 37 - Zuständigkeit anderer Behörden
+### § 37 - Zuständigkeit anderer Behörden
 
 Die Zuständigkeit anderer Behörden hinsichtlich des Brandschutzes sowie der Hilfeleistung bei Unglücksfällen und öffentlichen Notständen bleibt unberührt.
 
-### § 38 - Ordnungswidrigkeiten
+### § 38 - Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig die Pflicht
 
@@ -587,23 +578,10 @@ nicht erfüllt.
 
 (4) Verwaltungsbehörden im Sinne von § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind die Gemeinden.
 
-### § 39 - Übergangsbestimmung
+### § 39 - Übergangsbestimmung
 
 § 23 Abs. 1 Satz 1 gilt für Kreisbrandmeister, die nach dem Inkrafttreten dieses Gesetzes erstmals bestellt werden. Landkreise, die in diesem Zeitpunkt mehr als einen Kreisbrandmeister bestellt haben, können diese, wenn sie gleichzeitig hauptamtlich beim Landkreis beschäftigt sind, abweichend von § 23 Abs. 1 Satz 1 bis zu ihrem Ausscheiden aus dem Hauptamt erneut zum Kreisbrandmeister bestellen.
 
-### § 40 - Inkrafttreten
+### § 40 - *
 
 Dieses Gesetz tritt am 1. April 1956 in Kraft.
-
----
-
-**Fußnoten:**
-
-Diese Vorschrift betrifft das Inkrafttreten des Gesetzes in der ursprünglichen Fassung vom 6. Februar 1956 (GBl. S. 19).
-
----
-
-**Zuletzt aktualisiert:** 2025-03  
-**Modul:** Regelungsrahmen  
-**Kategorie:** Regelungsrahmen  
-**Rechtsgrundlage:** FwG BW
