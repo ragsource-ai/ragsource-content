@@ -1,120 +1,142 @@
 ---
-titel: Landesbauordnung Baden-Württemberg (LBO BW)
+titel: "Landesbauordnung Baden-Württemberg (LBO BW)"
 ebene: land
 saule: regelungsrahmen
-land_ars: 08
+rechtsnatur: gesetz
+land_ars: "08"
 land: Baden-Württemberg
-quelle: Gesetz neugefasst am 05.03.2010, zuletzt geändert durch Artikel 1 des Gesetzes vom 18.03.2025 (GBl. 2025 Nr. 25)
-gueltig_ab: 2010-03-01
-status: published
+gueltig_ab: 2026-02-10
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BauOBW2010rahmen"
+quelle: "GBl. 2010, 357, 358, ber. S. 416"
 endpoints:
   - amtsschimmel
+  - brandmeister
+extensions:
+  - Baurecht
+stand: "2026-04-14"
+status: published
 ---
 
 ## Inhaltsverzeichnis
 
-- § 1 - Anwendungsbereich
-- § 2 - Begriffe
-- § 3 - Allgemeine Anforderungen
-- § 4 - Bebauung der Grundstücke
-- § 5 - Abstandsflächen
-- § 6 - Abstandsflächen in Sonderfällen
-- § 7 - Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke
-- § 8 - Teilung von Grundstücken
-- § 9 - Nichtüberbaute Flächen der bebauten Grundstücke, Kinderspielplätze
-- § 10 - Höhenlage des Grundstücks
-- § 11 - Gestaltung
-- § 12 - Baustelle
-- § 13 - Standsicherheit
-- § 14 - Schutz baulicher Anlagen
-- § 15 - Brandschutz
-- § 16 - Verkehrssicherheit
-- § 16a - Bauarten
-- § 16b - Allgemeine Anforderungen für die Verwendung von Bauprodukten
-- § 16c - Anforderungen für die Verwendung von CE-gekennzeichneten Bauprodukten
-- § 17 - Verwendbarkeitsnachweise
-- § 18 - Allgemeine bauaufsichtliche Zulassung
-- § 19 - Allgemeines bauaufsichtliches Prüfzeugnis
-- § 20 - Nachweis der Verwendbarkeit von Bauprodukten im Einzelfall
-- § 21 - Übereinstimmungsbestätigung
-- § 22 - Übereinstimmungserklärung des Herstellers
-- § 23 - Zertifizierung
-- § 24 - Prüf-, Zertifizierungs- und Überwachungsstellen
-- § 25 - Besondere Sachkunde- und Sorgfaltsanforderungen
-- § 26 - Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen
-- § 27 - Tragende Wände und Stützen
-- § 27a - Außenwände
-- § 27b - Trennwände
-- § 27c - Brandwände
-- § 27d - Decken
-- § 27e - Dächer
-- § 27f - Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und Dachgeschossausbauten oder Aufstockungen zu Wohnzwecken
-- § 28 - Treppen
-- § 28a - Notwendige Treppenräume, Ausgänge
-- § 28b - Notwendige Flure, offene Gänge
-- § 28c - Fenster, sonstige Öffnungen
-- § 28d - Nutzungsänderungen und bauliche Änderungen im Bestand bei Bauteilen in Rettungswegen
-- § 29 - Aufzugsanlagen
-- § 30 - Lüftungsanlagen
-- § 31 - Leitungsanlagen
-- § 32 - Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung
-- § 33 - Wasserversorgungs- und Wasserentsorgungsanlagen, Anlagen für Abfallstoffe und Reststoffe
-- § 34 - Aufenthaltsräume
-- § 35 - Wohnungen
-- § 36 - Toilettenräume und Bäder
-- § 37 - Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen
-- § 38 - Sonderbauten
-- § 39 - Barrierefreie Anlagen
-- § 40 - Gemeinschaftsanlagen
-- § 41 - Grundsatz
-- § 42 - Bauherr
-- § 43 - Entwurfsverfasser
-- § 44 - Unternehmer
-- § 45 - Bauleiter
-- § 46 - Aufbau und Besetzung der Baurechtsbehörden
-- § 47 - Aufgaben und Befugnisse der Baurechtsbehörden
-- § 48 - Sachliche Zuständigkeit
-- § 49 - Genehmigungspflichtige Vorhaben
-- § 50 - Verfahrensfreie Vorhaben
-- § 51 - Kenntnisgabeverfahren
-- § 52 - Vereinfachtes Baugenehmigungsverfahren
-- § 53 - Bauvorlagen und Bauantrag
-- § 54 - Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen
-- § 55 - Benachrichtigung der Nachbarn und Beteiligung der Öffentlichkeit
-- § 56 - Abweichungen, Ausnahmen und Befreiungen
-- § 57 - Bauvorbescheid
-- § 58 - Baugenehmigung
-- § 59 - Baubeginn
-- § 60 - Sicherheitsleistung
-- § 61 - Baulasten
-- § 62 - Geltungsdauer der Baugenehmigung
-- § 63 - Bautechnische Nachweise
-- § 64 - Prüfsachverständige und Prüfstellen
-- § 65 - Baueinstellung
-- § 66 - Bauüberwachung
-- § 67 - Bauabnahmen
-- § 68 - Beseitigung von Anlagen, Wiederherstellung des früheren Zustands
-- § 69 - Fliegende Bauten
-- § 70 - Anlagen zur Abfallentsorgung
-- § 71 - Geothermische Anlagen
-- § 72 - Aufschüttungen und Abgrabungen
-- § 73 - Verordnungsermächtigungen für technische Baubestimmungen
-- § 73a - Technische Baubestimmungen
-- § 74 - Weitere Verordnungsermächtigungen
-- § 75 - Ordnungswidrigkeiten
-- § 76 - Bestandsschutz, Fortbestand von Genehmigungen
-- § 77 - Einvernehmen der Gemeinde
-- § 78 - Übergangsvorschriften
-- § 79 - Inkrafttreten, Außerkrafttreten
+**ERSTER TEIL Allgemeine Vorschriften**
+- § 1 - Anwendungsbereich
+- § 2 - Begriffe
+- § 3 - Allgemeine Anforderungen
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
+**ZWEITER TEIL Das Grundstück und seine Bebauung**
+- § 4 - Bebauung der Grundstücke
+- § 5 - Abstandsflächen
+- § 6 - Abstandsflächen in Sonderfällen
+- § 7 - Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke
+- § 8 - Teilung von Grundstücken
+- § 9 - Nichtüberbaute Flächen der bebauten Grundstücke, Kinderspielplätze
+- § 10 - Höhenlage des Grundstücks
 
----
-## ERSTER TEIL - Allgemeine Vorschriften
+**DRITTER TEIL Allgemeine Anforderungen an die Bauausführung**
+- § 11 - Gestaltung
+- § 12 - Baustelle
+- § 13 - Standsicherheit
+- § 14 - Schutz baulicher Anlagen
+- § 15 - Brandschutz
+- § 16 - Verkehrssicherheit
+- § 16a - Bauarten
 
-### § 1 - Anwendungsbereich
+**VIERTER TEIL Bauprodukte**
+- § 16b - Allgemeine Anforderungen für die
+- § 16c - Anforderungen für die Verwendung von
+- § 17 - Verwendbarkeitsnachweise
+- § 18 - Allgemeine bauaufsichtliche Zulassung
+- § 19 - Allgemeines bauaufsichtliches Prüfzeugnis
+- § 20 - Nachweis der Verwendbarkeit von Bauprodukten im Einzelfall
+- § 21 - Übereinstimmungsbestätigung
+- § 22 - Übereinstimmungserklärung des Herstellers
+- § 23 - Zertifizierung
+- § 24 - Prüf-, Zertifizierungs- und Überwachungsstellen
+- § 25 - Besondere Sachkunde- und Sorgfaltsanforderungen
+
+**FÜNFTER TEIL Der Bau und seine Teile**
+- § 26 - Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen
+- § 27 - Tragende Wände und Stützen
+- § 27a - Außenwände
+- § 27b - Trennwände
+- § 27c - Brandwände
+- § 27d - Decken
+- § 27e - Dächer
+- § 27f - Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und Dachgeschossausbauten oder Aufstockungen zu Wohnzwecken
+- § 28 - Treppen
+- § 28a - Notwendige Treppenräume, Ausgänge
+- § 28b - Notwendige Flure, offene Gänge
+- § 28c - Fenster, sonstige Öffnungen
+- § 28d - Nutzungsänderungen und bauliche Änderungen im Bestand bei Bauteilen in Rettungswegen
+- § 29 - Aufzugsanlagen
+- § 30 - Lüftungsanlagen
+- § 31 - Leitungsanlagen
+- § 32 - Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung
+- § 33 - Wasserversorgungs- und Wasserentsorgungsanlagen, Anlagen für Abfallstoffe und Reststoffe
+
+**SECHSTER TEIL Einzelne Räume, Wohnungen und besondere Anlagen**
+- § 34 - Aufenthaltsräume
+- § 35 - Wohnungen
+- § 36 - Toilettenräume und Bäder
+- § 37 - Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen
+- § 38 - Sonderbauten
+- § 39 - Barrierefreie Anlagen
+- § 40 - Gemeinschaftsanlagen
+
+**SIEBENTER TEIL Am Bau Beteiligte, Baurechtsbehörden**
+- § 41 - Grundsatz
+- § 42 - Bauherr
+- § 43 - Entwurfsverfasser
+- § 44 - Unternehmer
+- § 45 - Bauleiter
+- § 46 - Aufbau und Besetzung der Baurechtsbehörden
+- § 47 - Aufgaben und Befugnisse der Baurechtsbehörden
+- § 48 - Sachliche Zuständigkeit
+
+**ACHTER TEIL Verwaltungsverfahren, Baulasten**
+- § 49 - Genehmigungspflichtige Vorhaben
+- § 50 - Verfahrensfreie Vorhaben
+- § 51 - Kenntnisgabeverfahren
+- § 52 - Vereinfachtes Baugenehmigungsverfahren
+- § 53 - Bauvorlagen und Bauantrag
+- § 54 - Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen
+- § 55 - Benachrichtigung der Nachbarn und Beteiligung der Öffentlichkeit
+- § 56 - Abweichungen, Ausnahmen und Befreiungen
+- § 57 - Bauvorbescheid
+- § 58 - Baugenehmigung
+- § 59 - Baubeginn
+- § 60 - Sicherheitsleistung
+- § 61 - Teilbaugenehmigung
+- § 62 - Geltungsdauer der Baugenehmigung
+- § 63 - Bauvorlageberechtigung
+- § 63a - Voraussetzung für die Eintragung in die Liste nach § 63 Absatz 2 Nummer 2
+- § 63b - Eintragungsverfahren für Antragstellende nach § 63a Absatz 3
+- § 63c - Ausgleichsmaßnahmen
+- § 63d - Vorübergehende und gelegentliche Dienstleistungserbringung von bauvorlageberechtigten Ingenieuren, Anzeigeverfahren
+- § 64 - Einstellung von Arbeiten
+- § 65 - Abbruchsanordnung und Nutzungsuntersagung
+- § 66 - Bauüberwachung
+- § 67 - Bauabnahmen, Inbetriebnahme der Feuerungsanlagen
+- § 68 - Typengenehmigung, Typenprüfung
+- § 69 - Fliegende Bauten
+- § 70 - Zustimmungsverfahren, Vorhaben der Landesverteidigung
+- § 71 - Übernahme von Baulasten
+- § 72 - Baulastenverzeichnis
+
+**NEUNTER TEIL Rechtsvorschriften, Ordnungswidrigkeiten, Übergangs- und Schlussvorschriften**
+- § 73 - Rechtsverordnungen
+- § 73a - Technische Baubestimmungen
+- § 74 - Örtliche Bauvorschriften
+- § 75 - Ordnungswidrigkeiten
+- § 76 - Bestehende bauliche Anlagen
+- § 77 - Übergangsvorschriften
+- § 78 - Außerkrafttreten bisherigen Rechts
+- § 79 - Inkrafttreten
+
+## ERSTER TEIL Allgemeine Vorschriften
+
+### § 1 - Anwendungsbereich
 
 (1) Dieses Gesetz gilt für bauliche Anlagen und Bauprodukte. Es gilt auch für Grundstücke, andere Anlagen und Einrichtungen, an die in diesem Gesetz oder in Vorschriften auf Grund dieses Gesetzes Anforderungen gestellt werden. Es gilt ferner für Anlagen nach Absatz 2, soweit an sie Anforderungen auf Grund von § 74 gestellt werden.
 
@@ -128,7 +150,7 @@ endpoints:
 
 Es gilt nicht für Kräne und Krananlagen mit Ausnahme ihrer Bahnen und Unterstützungen, wenn diese mit einer baulichen Anlage verbunden sind.
 
-### § 2 - Begriffe
+### § 2 - Begriffe
 
 (1) Bauliche Anlagen sind unmittelbar mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Als bauliche Anlagen gelten auch
 
@@ -178,9 +200,7 @@ Hohlräume zwischen der obersten Decke und dem Dach, deren lichte Höhe geringer
 (10) Bauprodukte sind
 
 1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5, ber. ABl. L 103 vom 12.4.2013, S. 10), die zuletzt durch Delegierte Verordnung (EU) Nr. 574/2014 (ABl. L 159 vom 28.5.2014, S. 41) geändert worden ist, die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,
-2. aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden,
-
-und deren Verwendung sich auf die Anforderungen nach § 3 Absatz 1 Satz 1 auswirken kann.
+2. aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden,und deren Verwendung sich auf die Anforderungen nach § 3 Absatz 1 Satz 1 auswirken kann.
 
 (11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.
 
@@ -193,7 +213,7 @@ und deren Verwendung sich auf die Anforderungen nach § 3 Absatz 1 Satz 1 auswir
 
 (14) Maßgebend sind in den Absätzen 4, 5 und 6 Satz 1 und 3 die Rohbaumaße.
 
-### § 3 - Allgemeine Anforderungen
+### § 3 - Allgemeine Anforderungen
 
 (1) Bauliche Anlagen sowie Grundstücke, andere Anlagen und Einrichtungen im Sinne von § 1 Abs. 1 Satz 2 sind so anzuordnen und zu errichten, dass die öffentliche Sicherheit oder Ordnung, insbesondere Leben, Gesundheit oder die natürlichen Lebensgrundlagen, nicht bedroht werden und dass sie ihrem Zweck entsprechend ohne Missstände benutzbar sind; dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Für den Abbruch baulicher Anlagen gilt dies entsprechend.
 
@@ -201,16 +221,9 @@ und deren Verwendung sich auf die Anforderungen nach § 3 Absatz 1 Satz 1 auswir
 
 (3) In die Planung von Gebäuden sind die Belange von Personen mit kleinen Kindern, Menschen mit Behinderung und alten Menschen nach Möglichkeit einzubeziehen.
 
----
+## ZWEITER TEIL Das Grundstück und seine Bebauung
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
-
----
-## ZWEITER TEIL - Das Grundstück und seine Bebauung
-
-### § 4 - Bebauung der Grundstücke
+### § 4 - Bebauung der Grundstücke
 
 (1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat; bei Wohnwegen kann auf die Befahrbarkeit verzichtet werden, wenn keine Bedenken wegen des Brandschutzes bestehen.
 
@@ -218,7 +231,7 @@ und deren Verwendung sich auf die Anforderungen nach § 3 Absatz 1 Satz 1 auswir
 
 (3) Bauliche Anlagen mit Feuerstätten müssen von Wäldern, Mooren und Heiden mindestens 30 m entfernt sein; die gleiche Entfernung ist mit Gebäuden von Wäldern sowie mit Wäldern von Gebäuden einzuhalten. Dies gilt nicht für Gebäude, die nach den Festsetzungen des Bebauungsplans mit einem geringeren Abstand als nach Satz 1 zulässig sind, sowie für bauliche Änderungen und Nutzungsänderungen rechtmäßig bestehender baulicher Anlagen. Ausnahmen können zugelassen werden. Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist.
 
-### § 5 - Abstandsflächen
+### § 5 - Abstandsflächen
 
 (1) Vor den Außenwänden von baulichen Anlagen müssen Abstandsflächen liegen, die von oberirdischen baulichen Anlagen freizuhalten sind. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden an Grundstücksgrenzen, wenn nach planungsrechtlichen Vorschriften
 
@@ -260,7 +273,7 @@ und von Nachbargrenzen mindestens 2 m entfernt bleiben. Außerdem bleibt die nac
 
 Sie darf jedoch 2,5 m, bei Wänden bis 5 m Breite 2 m nicht unterschreiten.
 
-### § 6 - Abstandsflächen in Sonderfällen
+### § 6 - Abstandsflächen in Sonderfällen
 
 (1) In den Abstandsflächen baulicher Anlagen sowie ohne eigene Abstandsflächen sind zulässig:
 
@@ -280,33 +293,33 @@ Für die Ermittlung der Wandhöhe nach Satz 1 Nr. 2 ist der höchste Punkt der G
 
 In den Fällen der Nummer 1 können geringere Tiefen der Abstandsflächen auch verlangt werden.
 
-### § 7 - Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke
+### § 7 - Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke
 
 Soweit nach diesem Gesetz oder nach Vorschriften auf Grund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, dürfen sie sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie nicht überbaut werden und auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden. Vorschriften, nach denen in den Abstandsflächen bauliche Anlagen zulässig sind oder ausnahmsweise zugelassen werden können, bleiben unberührt.
 
-### § 8 - Teilung von Grundstücken
+### § 8 - Teilung von Grundstücken
 
 (1) Durch die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist, dürfen keine Verhältnisse geschaffen werden, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes widersprechen.
 
 (2) Die geplante Teilung eines Grundstücks nach Absatz 1 ist der unteren Baurechtsbehörde zwei Wochen vorher anzuzeigen; § 19 Absatz 1 BauGB gilt entsprechend. Soll bei der Teilung von Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes abgewichen werden, ist § 56 entsprechend anzuwenden.
 
-### § 9 - Nichtüberbaute Flächen der bebauten Grundstücke, Kinderspielplätze
+### § 9 - Nichtüberbaute Flächen der bebauten Grundstücke, Kinderspielplätze
 
 (1) Die nichtüberbauten Flächen der bebauten Grundstücke müssen Grünflächen sein, soweit diese Flächen nicht für eine andere zulässige Verwendung benötigt werden. Ist eine Begrünung oder Bepflanzung der Grundstücke nicht oder nur sehr eingeschränkt möglich, so sind die baulichen Anlagen zu begrünen, soweit ihre Beschaffenheit, Konstruktion und Gestaltung es zulassen und die Maßnahme wirtschaftlich zumutbar ist.
 
 (2) Bei der Errichtung von Gebäuden mit mehr als drei Wohnungen, die jeweils mindestens zwei Aufenthaltsräume haben, ist auf dem Baugrundstück oder in unmittelbarer Nähe auf einem anderen geeigneten Grundstück, dessen dauerhafte Nutzung für diesen Zweck öffentlich-rechtlich gesichert sein muss, ein ausreichend großer Spielplatz für Kleinkinder anzulegen. Kinderspielplätze müssen in geeigneter Lage und von anderen Anlagen, von denen Gefahren oder erhebliche Störungen ausgehen können, ausreichend entfernt oder gegen sie abgeschirmt sein; sie müssen für Kinder gefahrlos zu erreichen sein. Die Art, Größe und Ausstattung der Kinderspielplätze bestimmt sich nach der Zahl und Größe der Wohnungen auf dem Grundstück. Es genügt auch, eine öffentlich-rechtlich gesicherte, ausreichend große Grundstücksfläche von baulichen Anlagen, Bepflanzung und sonstiger Nutzung freizuhalten, die bei Bedarf mit festen oder mobilen Spielgeräten für Kleinkinder belegt werden kann. Die Sätze 1 bis 4 gelten nicht, wenn die Art der Wohnungen einen Kinderspielplatz nicht erfordert.
 
-(3) Die nutzbare Fläche der nach Absatz 2 erforderlichen Kinderspielplätze muss mindestens 30 m² betragen. Diese Fläche erhöht sich
+(3) Die nutzbare Fläche der nach Absatz 2 erforderlichen Kinderspielplätze muss mindestens 30 m betragen. Diese Fläche erhöht sich
 
-1. ab der 11. bis zur 20. Wohnung um 2 m²,
-2. ab der 21. bis zur 30. Wohnung um 1,5 m² und
-3. ab der 31. Wohnung um 1 m²
+1. ab der 11. bis zur 20. Wohnung um 2 m,
+2. ab der 21. bis zur 30. Wohnung um 1,5 m und
+3. ab der 31. Wohnung um 1 m
 
 je weiterer Wohnung. Diese Spielplätze müssen für Kinder bis zu sechs Jahren geeignet und entsprechend dem Spielbedürfnis dieser Altersgruppe angelegt und ausgestattet sein.
 
 (4) Der Bauherr kann zur Erfüllung seiner Verpflichtung nach Absatz 2 einen Geldbetrag an die Gemeinde zahlen. Die Baurechtsbehörde legt im Benehmen mit der Gemeinde die Höhe des Geldbetrages fest. Dieser Geldbetrag soll vorrangig für die Errichtung und den Ausbau kommunaler Kinderspielplätze verwendet werden. Ausnahmsweise kann der Geldbetrag auch für die Instandhaltung kommunaler Kinderspielplätze verwendet werden.
 
-### § 10 - Höhenlage des Grundstücks
+### § 10 - Höhenlage des Grundstücks
 
 Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks erhalten oder ihre Höhenlage verändert wird, um
 
@@ -314,16 +327,9 @@ Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche 
 2. die Oberfläche des Grundstücks der Höhe der Verkehrsfläche oder der Höhe der Nachbargrundstücke anzugleichen oder
 3. überschüssigen Bodenaushub zu vermeiden.
 
----
+## DRITTER TEIL Allgemeine Anforderungen an die Bauausführung
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
-
----
-## DRITTER TEIL - Allgemeine Anforderungen an die Bauausführung
-
-### § 11 - Gestaltung
+### § 11 - Gestaltung
 
 (1) Bauliche Anlagen sind mit ihrer Umgebung so in Einklang zu bringen, dass sie das Straßen-, Orts- oder Landschaftsbild nicht verunstalten oder deren beabsichtigte Gestaltung nicht beeinträchtigen. Auf Kultur- und Naturdenkmale und auf erhaltenswerte Eigenarten der Umgebung ist Rücksicht zu nehmen.
 
@@ -337,7 +343,7 @@ Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche 
 
 (4) In reinen Wohngebieten, allgemeinen Wohngebieten, Dorfgebieten und Kleinsiedlungsgebieten sind nur für Anschläge bestimmte Werbeanlagen sowie Werbeanlagen an der Stätte der Leistung zulässig.
 
-### § 12 - Baustelle
+### § 12 - Baustelle
 
 (1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet oder abgebrochen werden können und Gefahren oder vermeidbare erhebliche Belästigungen nicht entstehen.
 
@@ -351,13 +357,13 @@ Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche 
 
 (4) Bäume, Hecken und sonstige Bepflanzungen, die auf Grund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden.
 
-### § 13 - Standsicherheit
+### § 13 - Standsicherheit
 
 (1) Bauliche Anlagen müssen sowohl im ganzen als auch in ihren einzelnen Teilen sowie für sich allein standsicher sein. Die Standsicherheit muss auch während der Errichtung sowie bei der Durchführung von Abbrucharbeiten gewährleistet sein. Die Standsicherheit anderer baulicher Anlagen und die Tragfähigkeit des Baugrundes der Nachbargrundstücke dürfen nicht gefährdet werden.
 
 (2) Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen ist zulässig, wenn durch Baulast und technisch gesichert ist, dass die gemeinsamen Bauteile beim Abbruch einer der aneinanderstoßenden baulichen Anlagen stehen bleiben können.
 
-### § 14 - Schutz baulicher Anlagen
+### § 14 - Schutz baulicher Anlagen
 
 (1) Geräusche, Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in einer baulichen Anlage ausgehen, sind so zu dämmen, dass Gefahren sowie erhebliche Nachteile oder Belästigungen nicht entstehen. Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben.
 
@@ -365,7 +371,7 @@ Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche 
 
 (3) Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Wärmeschutz haben.
 
-### § 15 - Brandschutz
+### § 15 - Brandschutz
 
 (1) Bauliche Anlagen sind so anzuordnen und zu errichten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.
 
@@ -387,7 +393,7 @@ Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche 
 
 (10) Gebäude zur Haltung von Tieren müssen über angemessene Einrichtungen zur Rettung der Tiere im Brandfall verfügen.
 
-### § 16 - Verkehrssicherheit
+### § 16 - Verkehrssicherheit
 
 (1) Bauliche Anlagen sowie die dem Verkehr dienenden, nichtüberbauten Flächen von bebauten Grundstücken müssen verkehrssicher sein.
 
@@ -423,7 +429,7 @@ Der Abstand dieser Umwehrungen von der zu sichernden Fläche darf senkrecht geme
 
 (10) Glastüren und andere Glasflächen, die bis zum Fußboden allgemein zugänglicher Verkehrsflächen herabreichen, sind so zu kennzeichnen, dass sie leicht erkannt werden können. Weitere Schutzmaßnahmen sind für größere Glasflächen vorzusehen, wenn dies die Verkehrssicherheit erfordert.
 
-### § 16a - Bauarten
+### § 16a - Bauarten
 
 (1) Bauarten dürfen nur angewendet werden, wenn bei ihrer Anwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erfüllen und für ihren Anwendungszweck tauglich sind.
 
@@ -444,26 +450,19 @@ erteilt worden ist. § 18 Absatz 2 bis 5 gilt entsprechend.
 
 (7) Für Bauarten, die einer außergewöhnlichen Sorgfalt bei Ausführung oder Instandhaltung bedürfen, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Baurechtsbehörde die Überwachung dieser Tätigkeiten durch eine Überwachungsstelle nach § 24 Satz 1 Nummer 5 vorgeschrieben werden.
 
----
+## VIERTER TEIL Bauprodukte
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
-
----
-## VIERTER TEIL - Bauprodukte
-
-### § 16b - Allgemeine Anforderungen für die Verwendung von Bauprodukten
+### § 16b - Allgemeine Anforderungen für die
 
 (1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erfüllen und gebrauchstauglich sind.
 
 (2) Bauprodukte, die den in Vorschriften eines anderen Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz oder der Türkei genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Absatz 1 Satz 1 gleichermaßen dauerhaft erreicht wird.
 
-### § 16c - Anforderungen für die Verwendung von CE-gekennzeichneten Bauprodukten
+### § 16c - Anforderungen für die Verwendung von
 
 Ein Bauprodukt, das die CE-Kennzeichnung trägt, darf verwendet werden, wenn die erklärten Leistungen den in diesem Gesetz oder auf Grund dieses Gesetzes festgelegten Anforderungen für diese Verwendung entsprechen. Die §§ 17 bis 25 Absatz 1 gelten nicht für Bauprodukte, die die CE-Kennzeichnung auf Grund der Verordnung (EU) Nr. 305/2011 tragen.
 
-### § 17 - Verwendbarkeitsnachweise
+### § 17 - Verwendbarkeitsnachweise
 
 (1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn
 
@@ -478,7 +477,7 @@ Ein Bauprodukt, das die CE-Kennzeichnung trägt, darf verwendet werden, wenn die
 
 (3) Die Technischen Baubestimmungen nach § 73a enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen.
 
-### § 18 - Allgemeine bauaufsichtliche Zulassung
+### § 18 - Allgemeine bauaufsichtliche Zulassung
 
 (1) Das Deutsche Institut für Bautechnik erteilt unter den Voraussetzungen des § 17 Absatz 1 eine allgemeine bauaufsichtliche Zulassung für Bauprodukte, wenn deren Verwendbarkeit im Sinne des § 16b Absatz 1 nachgewiesen ist.
 
@@ -490,17 +489,17 @@ Ein Bauprodukt, das die CE-Kennzeichnung trägt, darf verwendet werden, wenn die
 
 (5) Die Zulassung wird unbeschadet der Rechte Dritter erteilt. Das Deutsche Institut für Bautechnik macht die von ihm erteilten allgemeinen bauaufsichtlichen Zulassungen nach Gegenstand und wesentlichem Inhalt öffentlich bekannt. Allgemeine bauaufsichtliche Zulassungen nach dem Recht anderer Bundesländer gelten auch im Land Baden-Württemberg.
 
-### § 19 - Allgemeines bauaufsichtliches Prüfzeugnis
+### § 19 - Allgemeines bauaufsichtliches Prüfzeugnis
 
 (1) Bauprodukte, die nach allgemein anerkannten Prüfverfahren beurteilt werden, bedürfen anstelle einer allgemeinen bauaufsichtlichen Zulassung nur eines allgemeinen bauaufsichtlichen Prüfzeugnisses. Dies wird mit der Angabe der maßgebenden technischen Regeln in den Technischen Baubestimmungen nach § 73a bekanntgemacht.
 
 (2) Ein allgemeines bauaufsichtliches Prüfzeugnis wird von einer Prüfstelle nach § 24 Satz 1 Nummer 1 für Bauprodukte nach Absatz 1 erteilt, wenn deren Verwendbarkeit im Sinne des § 16b Absatz 1 nachgewiesen ist. § 18 Absatz 2, 4 und 5 gilt entsprechend. Die Anerkennungsbehörde für Stellen nach § 24 Satz 1 Nummer 1 sowie § 73 Absatz 6 Satz 1 Nummer 2 und Satz 2 kann allgemeine bauaufsichtliche Prüfzeugnisse zurücknehmen oder widerrufen; §§ 48 und 49 des Landesverwaltungsverfahrensgesetzes finden Anwendung.
 
-### § 20 - Nachweis der Verwendbarkeit von Bauprodukten im Einzelfall
+### § 20 - Nachweis der Verwendbarkeit von Bauprodukten im Einzelfall
 
 Mit Zustimmung der obersten Baurechtsbehörde dürfen unter den Voraussetzungen des § 17 Absatz 1 im Einzelfall Bauprodukte verwendet werden, wenn ihre Verwendbarkeit im Sinne des § 16b Absatz 1 nachgewiesen ist. Die Zustimmung kann auch für mehrere vergleichbare Fälle erteilt werden. Wenn Gefahren im Sinne des § 3 Absatz 1 Satz 1 nicht zu erwarten sind, kann die oberste Baurechtsbehörde im Einzelfall oder allgemein erklären, dass ihre Zustimmung nicht erforderlich ist.
 
-### § 21 - Übereinstimmungsbestätigung
+### § 21 - Übereinstimmungsbestätigung
 
 (1) Bauprodukte bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 73a Absatz 2, den allgemeinen bauaufsichtlichen Zulassungen, den allgemeinen bauaufsichtlichen Prüfzeugnissen oder den Zustimmungen im Einzelfall; als Übereinstimmung gilt auch eine Abweichung, die nicht wesentlich ist.
 
@@ -512,7 +511,7 @@ Mit Zustimmung der obersten Baurechtsbehörde dürfen unter den Voraussetzungen 
 
 (5) Ü-Zeichen aus anderen Bundesländern und aus anderen Staaten gelten auch im Land Baden-Württemberg.
 
-### § 22 - Übereinstimmungserklärung des Herstellers
+### § 22 - Übereinstimmungserklärung des Herstellers
 
 (1) Der Hersteller darf eine Übereinstimmungserklärung nur abgeben, wenn er durch werkseigene Produktionskontrolle sichergestellt hat, dass das von ihm hergestellte Bauprodukt den maßgebenden technischen Regeln, der allgemeinen bauaufsichtlichen Zulassung, dem allgemeinen bauaufsichtlichen Prüfzeugnis oder der Zustimmung im Einzelfall entspricht.
 
@@ -522,7 +521,7 @@ Mit Zustimmung der obersten Baurechtsbehörde dürfen unter den Voraussetzungen 
 
 (4) Bauprodukte, die nicht in Serie hergestellt werden, bedürfen nur einer Übereinstimmungserklärung nach Absatz 1, sofern nichts anderes bestimmt ist.
 
-### § 23 - Zertifizierung
+### § 23 - Zertifizierung
 
 (1) Dem Hersteller ist ein Übereinstimmungszertifikat von einer Zertifizierungsstelle nach § 24 Satz 1 Nummer 3 zu erteilen, wenn das Bauprodukt
 
@@ -531,7 +530,7 @@ Mit Zustimmung der obersten Baurechtsbehörde dürfen unter den Voraussetzungen 
 
 (2) Die Fremdüberwachung ist von Überwachungsstellen nach § 24 Satz 1 Nummer 4 durchzuführen. Die Fremdüberwachung hat regelmäßig zu überprüfen, ob das Bauprodukt den Technischen Baubestimmungen nach § 73a Absatz 2, der allgemeinen bauaufsichtlichen Zulassung, dem allgemeinen bauaufsichtlichen Prüfzeugnis oder der Zustimmung im Einzelfall entspricht.
 
-### § 24 - Prüf-, Zertifizierungs- und Überwachungsstellen
+### § 24 - Prüf-, Zertifizierungs- und Überwachungsstellen
 
 Die oberste Baurechtsbehörde kann eine natürliche oder juristische Person als
 
@@ -544,22 +543,15 @@ Die oberste Baurechtsbehörde kann eine natürliche oder juristische Person als
 
 anerkennen, wenn sie oder die bei ihr Beschäftigten nach ihrer Ausbildung, Fachkenntnis, persönlichen Zuverlässigkeit, ihrer Unparteilichkeit und ihren Leistungen die Gewähr dafür bieten, dass diese Aufgaben den öffentlich-rechtlichen Vorschriften entsprechend wahrgenommen werden, und wenn sie über die erforderlichen Vorrichtungen verfügen. Satz 1 ist entsprechend auf Behörden anzuwenden, wenn sie ausreichend mit geeigneten Fachkräften besetzt und mit den erforderlichen Vorrichtungen ausgestattet sind. Die Anerkennung von Prüf-, Zertifizierungs- und Überwachungsstellen anderer Bundesländer gilt auch im Land Baden-Württemberg.
 
-### § 25 - Besondere Sachkunde- und Sorgfaltsanforderungen
+### § 25 - Besondere Sachkunde- und Sorgfaltsanforderungen
 
 (1) Bei Bauprodukten, deren Herstellung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der allgemeinen bauaufsichtlichen Zulassung, in der Zustimmung im Einzelfall oder durch Rechtsverordnung der obersten Baurechtsbehörde bestimmt werden, dass der Hersteller über solche Fachkräfte und Vorrichtungen verfügt und den Nachweis hierüber gegenüber einer Prüfstelle nach § 24 Satz 1 Nummer 6 zu erbringen hat. In der Rechtsverordnung können Mindestanforderungen an die Ausbildung, die durch Prüfung nachzuweisende Befähigung und die Ausbildungsstätten einschließlich der Anerkennungsvoraussetzungen gestellt werden.
 
 (2) Für Bauprodukte, die wegen ihrer besonderen Eigenschaften oder ihres besonderen Verwendungszwecks einer außergewöhnlichen Sorgfalt bei Einbau, Transport, Instandhaltung oder Reinigung bedürfen, kann in der allgemeinen bauaufsichtlichen Zulassung, in der Zustimmung im Einzelfall oder durch Rechtsverordnung der obersten Baurechtsbehörde die Überwachung dieser Tätigkeiten durch eine Überwachungsstelle nach § 24 Satz 1 Nummer 5 vorgeschrieben werden, soweit diese Tätigkeiten nicht bereits durch die Verordnung (EU) Nr. 305/2011 erfasst sind.
 
----
+## FÜNFTER TEIL Der Bau und seine Teile
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
-
----
-## FÜNFTER TEIL - Der Bau und seine Teile
-
-### § 26 - Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen
+### § 26 - Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen
 
 (1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in
 
@@ -591,7 +583,7 @@ entsprechen.
 
 (3) Abweichend von Absatz 2 Satz 3 sind tragende oder aussteifende sowie raumabschließende Bauteile, die hochfeuerhemmend oder feuerbeständig sein müssen, aus brennbaren Baustoffen zulässig, wenn die hinsichtlich der Standsicherheit und des Raumabschlusses geforderte Feuerwiderstandsfähigkeit nachgewiesen und die Bauteile und ihre Anschlüsse ausreichend lang widerstandsfähig gegen die Brandausbreitung sind.
 
-### § 27 - Tragende Wände und Stützen
+### § 27 - Tragende Wände und Stützen
 
 (1) Tragende und aussteifende Wände und Stützen müssen im Brandfall ausreichend lang standsicher sein. Sie müssen
 
@@ -611,7 +603,7 @@ sein. Satz 2 gilt
 
 sein.
 
-### § 27a - Außenwände
+### § 27a - Außenwände
 
 (1) Außenwände und Außenwandteile wie Brüstungen und Schürzen sind so auszubilden, dass eine Brandausbreitung auf und in diesen Bauteilen ausreichend lang begrenzt ist.
 
@@ -623,7 +615,7 @@ sein.
 
 (5) Die Absätze 2, 3 und 4 Satz 1 gelten nicht für Gebäude der Gebäudeklassen 1 bis 3; Absatz 4 Satz 2 gilt nicht für Gebäude der Gebäudeklassen 1 und 2. Abweichend von Absatz 3 sind hinterlüftete Außenwandbekleidungen, die den Technischen Baubestimmungen nach § 73a entsprechen, mit Ausnahme der Dämmstoffe, aus normalentflammbaren Baustoffen zulässig.
 
-### § 27b - Trennwände
+### § 27b - Trennwände
 
 (1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.
 
@@ -641,7 +633,7 @@ sein.
 
 (6) Die Absätze 2 bis 5 gelten nicht für Wohngebäude der Gebäudeklassen 1 und 2.
 
-### § 27c - Brandwände
+### § 27c - Brandwände
 
 (1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.
 
@@ -649,7 +641,7 @@ sein.
 
 1. als Gebäudeabschlusswand, wenn diese Abschlusswände an oder mit einem Abstand von weniger als 2,5 m gegenüber der Grundstücksgrenze oder mit einem Abstand von weniger als 5 m zu bestehenden Gebäuden auf demselben Grundstück errichtet werden,
 2. als innere Brandwand zur Unterteilung ausgedehnter Gebäude in Abständen von nicht mehr als 40 m,
-3. als innere Brandwand zur Unterteilung landwirtschaftlich genutzter Gebäude in Brandabschnitte von nicht mehr als 10 000 m³ Brutto-Rauminhalt, wobei größere Brandabschnitte mit Brandwandabständen bis 60 m möglich sind, wenn die Nutzung des Gebäudes dies erfordert und keine Bedenken wegen des Brandschutzes bestehen,
+3. als innere Brandwand zur Unterteilung landwirtschaftlich genutzter Gebäude in Brandabschnitte von nicht mehr als 10 000 m Brutto-Rauminhalt, wobei größere Brandabschnitte mit Brandwandabständen bis 60 m möglich sind, wenn die Nutzung des Gebäudes dies erfordert und keine Bedenken wegen des Brandschutzes bestehen,
 4. als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten landwirtschaftlich genutzten Gebäuden sowie als innere Brandwand zwischen dem Wohnteil und dem landwirtschaftlich genutzten Teil eines Gebäudes.
 
 (3) Absatz 2 Nummer 1 gilt nicht für
@@ -667,7 +659,7 @@ sein.
 1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sind,
 2. für Gebäude der Gebäudeklassen 1 bis 3 hochfeuerhemmende Wände,
 3. für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände ohne Öffnungen, die von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmender Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben,
-4. in den Fällen des Absatzes 2 Nummer 4 feuerbeständige Wände, wenn der umbaute Raum des landwirtschaftlich genutzten Gebäudes oder Gebäudeteils nicht größer als 2 000 m³ ist.
+4. in den Fällen des Absatzes 2 Nummer 4 feuerbeständige Wände, wenn der umbaute Raum des landwirtschaftlich genutzten Gebäudes oder Gebäudeteils nicht größer als 2 000 m ist.
 
 In Wänden nach Satz 2 müssen Baustoffe in geschossübergreifenden Fugen nichtbrennbar sein.
 
@@ -693,7 +685,7 @@ Für Wände nach Satz 2 gelten die Absätze 6 bis 10 entsprechend.
 
 (11) Die Absätze 5 bis 10 gelten entsprechend auch für Wände, die nach Absatz 4 Satz 2 anstelle von Brandwänden zulässig sind.
 
-### § 27d - Decken
+### § 27d - Decken
 
 (1) Decken und ihre Anschlüsse müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein.
 
@@ -721,11 +713,11 @@ sein. Decken müssen feuerbeständig sein
 (4) Öffnungen in Decken, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, sind nur zulässig
 
 1. in Gebäuden der Gebäudeklassen 1 und 2,
-2. innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 400 m² in nicht mehr als zwei Geschossen,
+2. innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 400 m in nicht mehr als zwei Geschossen,
 
 im Übrigen, wenn sie auf die für die Nutzung erforderliche Zahl und Größe beschränkt sind und Abschlüsse mit der Feuerwiderstandsfähigkeit der Decke haben.
 
-### § 27e - Dächer
+### § 27e - Dächer
 
 (1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).
 
@@ -734,7 +726,7 @@ im Übrigen, wenn sie auf die für die Nutzung erforderliche Zahl und Größe be
 1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,
 2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m,
 3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von mindestens 24 m und
-4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ Brutto-Rauminhalt einen Abstand von mindestens 5 m
+4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m Brutto-Rauminhalt einen Abstand von mindestens 5 m
 
 einhalten. Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen
 
@@ -744,7 +736,7 @@ einhalten. Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohng
 
 (3) Die Absätze 1 und 2 gelten nicht für
 
-1. Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ Brutto-Rauminhalt,
+1. Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m Brutto-Rauminhalt,
 2. lichtdurchlässige Bedachungen aus nichtbrennbaren Baustoffen; brennbare Fugendichtungen und brennbare Dämmstoffe in nichtbrennbaren Profilen sind zulässig,
 3. Lichtkuppeln und Oberlichte von Wohngebäuden,
 4. Eingangsüberdachungen und Vordächer aus nichtbrennbaren Baustoffen,
@@ -773,7 +765,7 @@ Anlagen zur photovoltaischen oder thermischen Solarnutzung sind keine ähnlichen
 
 (9) Für vom Dach aus vorzunehmende Arbeiten sind sicher benutzbare Vorrichtungen anzubringen.
 
-### § 27f - Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und Dachgeschossausbauten oder Aufstockungen zu Wohnzwecken
+### § 27f - Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und Dachgeschossausbauten oder Aufstockungen zu Wohnzwecken
 
 (1) Nutzungsänderungen von rechtmäßig bestehenden Gebäuden oder Nutzungseinheiten sowie bauliche Änderungen innerhalb dieser Gebäude führen nicht zu höheren brandschutzbezogenen Anforderungen an tragende, aussteifende und raumabschließende Bauteile, soweit für die neue Nutzung oder bauliche Änderung nicht § 38 gilt und die Anforderungen nach § 3 Absatz 1 Satz 1 eingehalten werden; dies ist insbesondere dann der Fall, wenn die bauzeitlich erforderlichen Brandschutzanforderungen an Gebäude mit Wohnnutzung gewahrt werden und Belange der Standsicherheit ausreichend berücksichtigt werden. § 58 Absatz 6 und § 76 Absatz 2 bleiben unberührt.
 
@@ -791,7 +783,7 @@ Beträgt die Aufstockung nicht mehr als ein Geschoss, so sind für dieses Gescho
 1. die Höhe von 13 m nach § 2 Absatz 4 Satz 2 nicht überschritten wird und die Bauteile nach Absatz 2 Satz 1 und 2 die Anforderungen an die tragenden und aussteifenden sowie raumabschließenden Bauteile der Gebäudeklasse 3 erfüllen oder
 2. die Höhe von 18 m nach § 2 Absatz 4 Satz 2 nicht überschritten wird und die Bauteile nach Absatz 2 Satz 1 und 2 die Anforderung an tragende und aussteifende sowie raumabschließende Bauteile der Gebäudeklasse 4 erfüllen. Weitergehend können bestehende Türen unabhängig von den Anforderungen an die neuen Türen selbstschließend gefordert werden, sofern dies aus Brandschutzgründen erforderlich ist.
 
-### § 28 - Treppen
+### § 28 - Treppen
 
 (1) Jedes nicht zur ebenen Erde liegende Geschoss und der benutzbare Dachraum eines Gebäudes müssen über mindestens eine Treppe zugänglich sein (notwendige Treppe). Statt notwendiger Treppen sind Rampen mit flacher Neigung zulässig. Einschiebbare Treppen und Rolltreppen sind als notwendige Treppen unzulässig. In Gebäuden der Gebäudeklassen 1 und 2 sind einschiebbare Treppen und Leitern als Zugang zu einem Dachraum ohne Aufenthaltsraum zulässig. Die nutzbare Breite der Treppenläufe und Treppenabsätze notwendiger Treppen muss für den größten zu erwartenden Verkehr ausreichen.
 
@@ -819,12 +811,12 @@ sein. Tragende Teile von Außentreppen nach § 28a Absatz 1 Satz 3 Nummer 3 für
 
 (6) Treppenstufen dürfen nicht unmittelbar hinter einer Tür beginnen, die in Richtung der Treppe aufschlägt. Zwischen Treppe und Tür ist in diesen Fällen ein Treppenabsatz anzuordnen, der mindestens so tief sein muss, wie die Tür breit ist.
 
-### § 28a - Notwendige Treppenräume, Ausgänge
+### § 28a - Notwendige Treppenräume, Ausgänge
 
 (1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung der notwendigen Treppen im Brandfall ausreichend lang möglich ist. Notwendige Treppen sind ohne eigenen Treppenraum zulässig
 
 1. in Gebäuden der Gebäudeklassen 1 und 2,
-2. für die Verbindung von höchstens zwei Geschossen innerhalb derselben Nutzungseinheit von insgesamt nicht mehr als 200 m², wenn in jedem Geschoss ein anderer Rettungsweg erreicht werden kann,
+2. für die Verbindung von höchstens zwei Geschossen innerhalb derselben Nutzungseinheit von insgesamt nicht mehr als 200 m, wenn in jedem Geschoss ein anderer Rettungsweg erreicht werden kann,
 3. als Außentreppe, wenn ihre Nutzung ausreichend sicher ist und im Brandfall nicht gefährdet werden kann.
 
 (2) Von jeder Stelle eines Aufenthaltsraumes sowie eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Treppenraum oder ins Freie in höchstens 35 m Entfernung erreichbar sein. Übereinanderliegende Kellergeschosse müssen jeweils mindestens zwei Ausgänge in notwendige Treppenräume oder ins Freie haben. Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.
@@ -852,7 +844,7 @@ Dies ist nicht erforderlich für Außenwände von Treppenräumen, die aus nichtb
 
 (6) In notwendigen Treppenräumen müssen Öffnungen
 
-1. zu Räumen und Nutzungseinheiten mit einer Fläche von mehr als 200 m², ausgenommen Wohnungen, zu Kellergeschossen, zu nicht ausgebauten Dachräumen, Werkstätten, Läden, Lagerräumen und ähnlichen Räumen mindestens feuerhemmende, rauchdichte und selbstschließende Abschlüsse,
+1. zu Räumen und Nutzungseinheiten mit einer Fläche von mehr als 200 m, ausgenommen Wohnungen, zu Kellergeschossen, zu nicht ausgebauten Dachräumen, Werkstätten, Läden, Lagerräumen und ähnlichen Räumen mindestens feuerhemmende, rauchdichte und selbstschließende Abschlüsse,
 2. zu notwendigen Fluren rauchdichte und selbstschließende Abschlüsse,
 3. zu sonstigen Räumen und Nutzungseinheiten, ausgenommen Wohnungen, mindestens dicht- und selbstschließende Abschlüsse und
 4. zu Wohnungen mindestens dichtschließende Abschlüsse
@@ -861,7 +853,7 @@ haben. Die Feuerschutz- und Rauchschutzabschlüsse dürfen lichtdurchlässige Se
 
 (7) Notwendige Treppenräume müssen zu beleuchten sein. Notwendige Treppenräume ohne Fenster müssen in Gebäuden mit einer Höhe nach § 2 Absatz 4 Satz 2 von mehr als 13 m eine Sicherheitsbeleuchtung haben.
 
-(8) Notwendige Treppenräume müssen belüftet und entraucht werden können. Für an der Außenwand liegende notwendige Treppenräume sind dafür in jedem oberirdischen Geschoss unmittelbar ins Freie führende Fenster mit einem freien Querschnitt von mindestens 0,5 m² erforderlich, die geöffnet werden können. Für notwendige Treppenräume ohne Fenster und notwendige Treppenräume in Gebäuden mit einer Höhe nach § 2 Absatz 4 Satz 2 von mehr als 13 m ist an der obersten Stelle eine Öffnung zur Rauchableitung mit einem freien Querschnitt von mindestens 1 m² erforderlich; sie muss vom Erdgeschoss sowie vom obersten Treppenabsatz aus geöffnet werden können.
+(8) Notwendige Treppenräume müssen belüftet und entraucht werden können. Für an der Außenwand liegende notwendige Treppenräume sind dafür in jedem oberirdischen Geschoss unmittelbar ins Freie führende Fenster mit einem freien Querschnitt von mindestens 0,5 m erforderlich, die geöffnet werden können. Für notwendige Treppenräume ohne Fenster und notwendige Treppenräume in Gebäuden mit einer Höhe nach § 2 Absatz 4 Satz 2 von mehr als 13 m ist an der obersten Stelle eine Öffnung zur Rauchableitung mit einem freien Querschnitt von mindestens 1 m erforderlich; sie muss vom Erdgeschoss sowie vom obersten Treppenabsatz aus geöffnet werden können.
 
 (9) Sicherheitstreppenräume nach § 15 Absatz 5 Satz 2 müssen folgenden Anforderungen genügen:
 
@@ -873,7 +865,7 @@ haben. Die Feuerschutz- und Rauchschutzabschlüsse dürfen lichtdurchlässige Se
 
 Innenliegende Sicherheitstreppenräume sind zulässig, wenn durch andere Maßnahmen sichergestellt ist, dass sie ebenso sicher sind wie Sicherheitstreppenräume nach Satz 1.
 
-### § 28b - Notwendige Flure, offene Gänge
+### § 28b - Notwendige Flure, offene Gänge
 
 (1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist.
 
@@ -881,8 +873,8 @@ Innenliegende Sicherheitstreppenräume sind zulässig, wenn durch andere Maßnah
 
 1. in Wohngebäuden der Gebäudeklassen 1 und 2,
 2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,
-3. innerhalb von Wohnungen oder innerhalb von Nutzungseinheiten mit nicht mehr als 200 m²,
-4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m²; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m² sind, Trennwände nach § 27b Absatz 2 Nummer 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 15 Absatz 3 hat.
+3. innerhalb von Wohnungen oder innerhalb von Nutzungseinheiten mit nicht mehr als 200 m,
+4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m sind, Trennwände nach § 27b Absatz 2 Nummer 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 15 Absatz 3 hat.
 
 (3) Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen, mindestens jedoch 1,25 m. In den Fluren ist eine Folge von weniger als drei Stufen unzulässig. Rampen mit einer Neigung bis zu 6 Prozent sind zulässig.
 
@@ -900,17 +892,17 @@ Innenliegende Sicherheitstreppenräume sind zulässig, wenn durch andere Maßnah
 
 Einbauten, Bekleidungen, Unterdecken und Dämmstoffe können aus schwerentflammbaren Baustoffen zugelassen werden, wenn keine Bedenken wegen des Brandschutzes bestehen.
 
-### § 28c - Fenster, sonstige Öffnungen
+### § 28c - Fenster, sonstige Öffnungen
 
 (1) Jedes Kellergeschoss ohne Fenster muss mindestens eine Öffnung ins Freie haben, um eine Rauchableitung zu ermöglichen. Gemeinsame Kellerlichtschächte für übereinanderliegende Kellergeschosse sind unzulässig.
 
 (2) Fenster, die als Rettungswege nach § 15 Absatz 5 Satz 1 dienen, müssen im Lichten mindestens 0,9 m breit und 1,2 m hoch sein und nicht höher als 1,2 m über der Fußbodenoberkante angeordnet sein; eine Unterschreitung dieser Maße bis minimal 0,6 m Breite im Lichten und 0,9 m Höhe im Lichten ist im Benehmen mit der für den Brandschutz zuständigen Dienststelle dann möglich, wenn das Rettungsgerät der Feuerwehr die betreffende Öffnung nicht einschränkt. Sie müssen von innen ohne Hilfsmittel vollständig zu öffnen sein. Liegen diese Fenster in Dachschrägen oder Dachaufbauten, so darf ihre Unterkante oder ein davor liegender Austritt von der Traufkante horizontal gemessen nicht mehr als 1 m entfernt sein.
 
-### § 28d - Nutzungsänderungen und bauliche Änderungen im Bestand bei Bauteilen in Rettungswegen
+### § 28d - Nutzungsänderungen und bauliche Änderungen im Bestand bei Bauteilen in Rettungswegen
 
 Für die Anforderungen an den Feuerwiderstand der Bauteile in Rettungswegen gilt § 27f entsprechend.
 
-### § 29 - Aufzugsanlagen
+### § 29 - Aufzugsanlagen
 
 (1) Aufzugsanlagen müssen betriebssicher und brandsicher sein. Sie sind so zu errichten und anzuordnen, dass die Brandweiterleitung ausreichend lange verhindert wird und bei ihrer Benutzung Gefahren oder unzumutbare Belästigungen nicht entstehen.
 
@@ -933,7 +925,7 @@ Sie müssen sicher umkleidet sein.
 
 sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bekleidung aus nichtbrennbaren Baustoffen in ausreichender Dicke haben. Fahrschachttüren und andere Öffnungen in Fahrschachtwänden mit erforderlicher Feuerwiderstandsfähigkeit sind so herzustellen, dass die Anforderungen nach Absatz 3 Satz 1 nicht beeinträchtigt werden.
 
-(5) Fahrschächte müssen zu lüften sein und eine Öffnung zur Rauchableitung mit einem freien Querschnitt von mindestens 2,5 Prozent der Fahrschachtgrundfläche, mindestens jedoch 0,1 m² haben. Die Lage der Rauchaustrittsöffnungen muss so gewählt werden, dass der Rauchaustritt durch Windeinfluss nicht beeinträchtigt wird.
+(5) Fahrschächte müssen zu lüften sein und eine Öffnung zur Rauchableitung mit einem freien Querschnitt von mindestens 2,5 Prozent der Fahrschachtgrundfläche, mindestens jedoch 0,1 m haben. Die Lage der Rauchaustrittsöffnungen muss so gewählt werden, dass der Rauchaustritt durch Windeinfluss nicht beeinträchtigt wird.
 
 (6) Fahrkörbe zur Aufnahme einer Krankentrage müssen eine nutzbare Grundfläche von mindestens 1,1 m Breite und 2,1 m Tiefe, zur Aufnahme eines Rollstuhls von mindestens 1,1 m Breite und 1,4 m Tiefe haben; Türen müssen eine lichte Durchgangsbreite von mindestens 0,9 m haben. In einem Aufzug für Rollstühle und Krankentragen darf der für Rollstühle nicht erforderliche Teil der Fahrkorbgrundfläche durch eine verschließbare Tür abgesperrt werden. Vor den Aufzügen muss eine ausreichende Bewegungsfläche vorhanden sein.
 
@@ -943,7 +935,7 @@ sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bek
 
 (9) Soweit durch die in Absatz 8 genannten betriebssicherheitsrechtlichen Vorschriften Zuständigkeitsregelungen berührt sind, entscheiden bei Anlagen im Anwendungsbereich der Landesbauordnung die Baurechtsbehörden im Benehmen mit den Gewerbeaufsichtsbehörden.
 
-### § 30 - Lüftungsanlagen
+### § 30 - Lüftungsanlagen
 
 (1) Lüftungsanlagen, raumlufttechnische Anlagen und Warmluftheizungen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.
 
@@ -957,11 +949,11 @@ sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bek
 
 1. für Gebäude der Gebäudeklassen 1 und 2,
 2. innerhalb von Wohnungen,
-3. innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 400 m² in nicht mehr als zwei Geschossen.
+3. innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 400 m in nicht mehr als zwei Geschossen.
 
 (6) Für raumlufttechnische Anlagen und Warmluftheizungen gelten die Absätze 2 bis 5 entsprechend.
 
-### § 31 - Leitungsanlagen
+### § 31 - Leitungsanlagen
 
 (1) Leitungen, Installationsschächte und -kanäle müssen brandsicher sein. Sie sind so zu errichten und anzuordnen, dass die Brandweiterleitung ausreichend lange verhindert wird.
 
@@ -969,13 +961,13 @@ sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bek
 
 1. für Gebäude der Gebäudeklassen 1 und 2,
 2. innerhalb von Wohnungen,
-3. innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 400 m² in nicht mehr als zwei Geschossen.
+3. innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 400 m in nicht mehr als zwei Geschossen.
 
 (3) In notwendigen Treppenräumen, in Räumen nach § 28a Absatz 3 Satz 4 und in notwendigen Fluren sind Leitungsanlagen nur zulässig, wenn eine Nutzung als Rettungsweg im Brandfall ausreichend lang möglich ist.
 
 (4) Für Installationsschächte und -kanäle gilt § 30 Absatz 2 Satz 1 und Absatz 3 entsprechend.
 
-### § 32 - Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung
+### § 32 - Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung
 
 (1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.
 
@@ -987,7 +979,7 @@ sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bek
 
 (5) Für ortsfeste Verbrennungsmotoren, Blockheizkraftwerke, Brennstoffzellen, Verdichter und Wasserstoff-Elektrolyseure sowie die Ableitung ihrer Prozessgase gelten die Absätze 1 bis 3 entsprechend.
 
-### § 33 - Wasserversorgungs- und Wasserentsorgungsanlagen, Anlagen für Abfallstoffe und Reststoffe
+### § 33 - Wasserversorgungs- und Wasserentsorgungsanlagen, Anlagen für Abfallstoffe und Reststoffe
 
 (1) Bauliche Anlagen dürfen nur errichtet werden, wenn die ordnungsgemäße Beseitigung des Abwassers und des Niederschlagswassers dauernd gesichert ist. Das Abwasser ist entsprechend den §§ 55 und 56 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, und § 46 des Wassergesetzes für Baden-Württemberg vom 3. Dezember 2013 (GBl. S. 389), das zuletzt durch Artikel 9 des Gesetzes vom 7. Februar 2023 (GBl. S. 26, 43) geändert worden ist, in der jeweils geltenden Fassung, zu entsorgen.
 
@@ -1004,16 +996,9 @@ sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bek
 3. unmittelbar vom Freien entleert werden können und
 4. eine ständig wirksame Lüftung haben.
 
----
+## SECHSTER TEIL Einzelne Räume, Wohnungen und besondere Anlagen
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
-
----
-## SECHSTER TEIL - Einzelne Räume, Wohnungen und besondere Anlagen
-
-### § 34 - Aufenthaltsräume
+### § 34 - Aufenthaltsräume
 
 (1) Die lichte Höhe von Aufenthaltsräumen muss mindestens betragen:
 
@@ -1028,7 +1013,7 @@ sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bek
 
 (5) Bei Aufenthaltsräumen, die nicht dem Wohnen dienen, sind Abweichungen von den Anforderungen der Absätze 2 und 3 zuzulassen, wenn Nachteile nicht zu befürchten sind oder durch besondere Einrichtungen ausgeglichen werden können.
 
-### § 35 - Wohnungen
+### § 35 - Wohnungen
 
 (1) In Gebäuden mit mehr als zwei Wohnungen müssen insgesamt Wohnungen mit einer Brutto-Grundfläche barrierefrei erreichbar sein, die mindestens der Brutto-Grundfläche des Erdgeschosses abzüglich der Netto-Grundflächen von notwendigen Treppenräumen und Fluren entspricht. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad und die Küche oder Kochnische barrierefrei nutzbar und mit dem Rollstuhl zugänglich sein. Die Sätze 1 und 2 gelten nicht, soweit die Anforderungen insbesondere wegen schwieriger Geländeverhältnisse, wegen des Einbaus eines sonst nicht erforderlichen Aufzugs oder wegen ungünstiger vorhandener Bebauung nur mit unverhältnismäßigem Mehraufwand erfüllt werden können. Die Sätze 1 bis 3 gelten nicht bei der Teilung von Wohnungen sowie bei Vorhaben zur Schaffung von zusätzlichem Wohnraum durch Ausbau, Anbau, Nutzungsänderung, Aufstockung oder Änderung des Daches, wenn die Baugenehmigung oder Kenntnisgabe für das Gebäude mindestens fünf Jahre zurückliegen.
 
@@ -1038,13 +1023,13 @@ sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bek
 
 (4) In Gebäuden mit mehr als zwei Wohnungen müssen zur gemeinschaftlichen Benutzung möglichst ebenerdig zugängliche oder durch Rampen oder Aufzüge leicht erreichbare Flächen zum Abstellen von Kinderwagen und Gehhilfen zur Verfügung stehen.
 
-### § 36 - Toilettenräume und Bäder
+### § 36 - Toilettenräume und Bäder
 
 (1) Jede Nutzungseinheit muss mindestens eine Toilette haben.
 
 (2) Toilettenräume und Bäder müssen eine ausreichende Lüftung haben.
 
-### § 37 - Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen
+### § 37 - Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen
 
 (1) Bei der Errichtung von Gebäuden mit Wohnungen ist für jede Wohnung ein geeigneter Stellplatz für Kraftfahrzeuge herzustellen (notwendiger Kfz-Stellplatz). Bei der Errichtung sonstiger baulicher Anlagen und anderer Anlagen, bei denen ein Zu- und Abfahrtsverkehr zu erwarten ist, sind notwendige Kfz-Stellplätze in solcher Zahl herzustellen, dass sie für die ordnungsgemäße Nutzung der Anlagen unter Berücksichtigung des öffentlichen Personennahverkehrs ausreichen. Statt notwendiger Kfz-Stellplätze ist die Herstellung notwendiger Garagen zulässig; nach Maßgabe des Absatzes 8 können Garagen auch verlangt werden. Bis zu einem Viertel der notwendigen Kfz-Stellplätze nach Satz 2 kann durch die Schaffung von Fahrradstellplätzen ersetzt werden. Dabei sind für einen Kfz-Stellplatz vier Fahrradstellplätze herzustellen; eine Anrechnung der so geschaffenen Fahrradstellplätze auf die Verpflichtung nach Absatz 2 erfolgt nicht.
 
@@ -1080,7 +1065,7 @@ Die Gemeinde legt die Höhe des Geldbetrages fest.
 
 (9) Das Abstellen von Wohnwagen und anderen Kraftfahrzeuganhängern in Garagen ist zulässig.
 
-### § 38 - Sonderbauten
+### § 38 - Sonderbauten
 
 (1) An Sonderbauten können zur Verwirklichung der allgemeinen Anforderungen nach § 3 Abs. 1 besondere Anforderungen im Einzelfall gestellt werden; Erleichterungen können zugelassen werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die besonderen Anforderungen und Erleichterungen können insbesondere betreffen
 
@@ -1128,7 +1113,7 @@ Die Gemeinde legt die Höhe des Geldbetrages fest.
 
 (3) Als Nachweis dafür, dass diese Anforderungen erfüllt sind, können Bescheinigungen verlangt werden, die bei den Abnahmen vorzulegen sind; ferner können Nachprüfungen und deren Wiederholung in bestimmten Zeitabständen verlangt werden.
 
-### § 39 - Barrierefreie Anlagen
+### § 39 - Barrierefreie Anlagen
 
 (1) Bauliche Anlagen sowie andere Anlagen, die überwiegend von Menschen mit Behinderung oder alten Menschen genutzt werden, wie
 
@@ -1162,26 +1147,19 @@ sind so herzustellen, dass sie von diesen Personen zweckentsprechend ohne fremde
 
 (3) Bei Anlagen nach Absatz 2 können im Einzelfall Ausnahmen zugelassen werden, soweit die Anforderungen nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können. Bei Schulen und Kindertageseinrichtungen dürfen Ausnahmen nach Satz 1 nur bei Nutzungsänderungen und baulichen Änderungen zugelassen werden.
 
-### § 40 - Gemeinschaftsanlagen
+### § 40 - Gemeinschaftsanlagen
 
 (1) Die Herstellung, die Instandhaltung und die Verwaltung von Gemeinschaftsanlagen, für die in einem Bebauungsplan Flächen festgesetzt sind, obliegen den Eigentümern oder Erbbauberechtigten der Grundstücke, für die diese Anlagen bestimmt sind, sowie den Bauherrn.
 
 (2) Die Gemeinschaftsanlage muss hergestellt werden, sobald und soweit dies erforderlich ist. Die Baurechtsbehörde kann durch Anordnung in Textform den Zeitpunkt für die Herstellung bestimmen.
 
----
+## SIEBENTER TEIL Am Bau Beteiligte, Baurechtsbehörden
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
-
----
-## SIEBENTER TEIL - Am Bau Beteiligte, Baurechtsbehörden
-
-### § 41 - Grundsatz
+### § 41 - Grundsatz
 
 Bei der Errichtung oder dem Abbruch einer baulichen Anlage sind der Bauherr und im Rahmen ihres Wirkungskreises die anderen nach den §§ 43 bis 45 am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften und die auf Grund dieser Vorschriften erlassenen Anordnungen eingehalten werden.
 
-### § 42 - Bauherr
+### § 42 - Bauherr
 
 (1) Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines genehmigungspflichtigen oder kenntnisgabepflichtigen Bauvorhabens einen geeigneten Entwurfsverfasser, geeignete Unternehmer und nach Maßgabe des Absatzes 3 einen geeigneten Bauleiter zu bestellen. Dem Bauherrn obliegen die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anzeigen an die Baurechtsbehörde. Er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten.
 
@@ -1197,7 +1175,7 @@ Bei der Errichtung oder dem Abbruch einer baulichen Anlage sind der Bauherr und 
 
 (7) Treten bei einem Vorhaben mehrere Personen als Bauherr auf, so müssen sie auf Verlangen der Baurechtsbehörde einen Vertreter bestellen, der ihr gegenüber die dem Bauherrn nach den öffentlich-rechtlichen Vorschriften obliegenden Verpflichtungen zu erfüllen hat. § 18 Abs. 1 Sätze 2 und 3 und Abs. 2 des Landesverwaltungsverfahrensgesetzes findet Anwendung.
 
-### § 43 - Entwurfsverfasser
+### § 43 - Entwurfsverfasser
 
 (1) Der Entwurfsverfasser ist dafür verantwortlich, dass sein Entwurf den öffentlich-rechtlichen Vorschriften entspricht. Zum Entwurf gehören die Bauvorlagen und die Ausführungsplanung; der Bauherr kann mit der Ausführungsplanung einen anderen Entwurfsverfasser beauftragen.
 
@@ -1205,7 +1183,7 @@ Bei der Errichtung oder dem Abbruch einer baulichen Anlage sind der Bauherr und 
 
 (3) Die oberste Baurechtsbehörde kann Entwurfsverfassern und Fachplanern nach Absatz 2 das Verfassen von Bauvorlagen ganz oder teilweise untersagen, wenn diese wiederholt und unter grober Verletzung ihrer Pflichten nach Absatz 1 und 2 bei der Erstellung von Bauvorlagen bauplanungsrechtliche oder bauordnungsrechtliche Vorschriften nicht beachtet haben.
 
-### § 44 - Unternehmer
+### § 44 - Unternehmer
 
 (1) Jeder Unternehmer ist dafür verantwortlich, dass seine Arbeiten den öffentlich-rechtlichen Vorschriften entsprechend ausgeführt und insoweit auf die Arbeiten anderer Unternehmer abgestimmt werden. Er hat insoweit für die ordnungsgemäße Einrichtung und den sicheren Betrieb der Baustelle, insbesondere die Tauglichkeit und Betriebssicherheit der Gerüste, Geräte und der anderen Baustelleneinrichtungen sowie die Einhaltung der Arbeitsschutzbestimmungen zu sorgen. Er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten zu erbringen und auf der Baustelle bereitzuhalten. Bei Bauprodukten, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten.
 
@@ -1213,13 +1191,13 @@ Bei der Errichtung oder dem Abbruch einer baulichen Anlage sind der Bauherr und 
 
 (3) Der Unternehmer und die Fachkräfte nach Absatz 2 haben auf Verlangen der Baurechtsbehörde für Bauarbeiten, bei denen die Sicherheit der baulichen Anlagen in außergewöhnlichem Maße von einer besonderen Sachkenntnis und Erfahrung oder von einer Ausstattung mit besonderen Einrichtungen abhängt, nachzuweisen, dass sie für diese Bauarbeiten geeignet sind und über die erforderlichen Einrichtungen verfügen.
 
-### § 45 - Bauleiter
+### § 45 - Bauleiter
 
 (1) Der Bauleiter hat darüber zu wachen, dass die Bauausführung den öffentlich-rechtlichen Vorschriften und den Entwürfen des Entwurfsverfassers entspricht. Er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmer zu achten; die Verantwortlichkeit der Unternehmer bleibt unberührt. Verstöße, denen nicht abgeholfen wird, hat er unverzüglich der Baurechtsbehörde mitzuteilen.
 
 (2) Hat der Bauleiter nicht für alle ihm obliegenden Aufgaben die erforderliche Sachkunde und Erfahrung, hat er den Bauherrn zu veranlassen, geeignete Fachbauleiter zu bestellen. Diese treten insoweit an die Stelle des Bauleiters. Der Bauleiter bleibt für das ordnungsgemäße Ineinandergreifen seiner Tätigkeiten mit denen der Fachbauleiter verantwortlich.
 
-### § 46 - Aufbau und Besetzung der Baurechtsbehörden
+### § 46 - Aufbau und Besetzung der Baurechtsbehörden
 
 (1) Baurechtsbehörden sind
 
@@ -1238,7 +1216,7 @@ werden, wenn sie die Voraussetzungen des Absatzes 4 erfüllen und die oberste Ba
 
 (4) Die Baurechtsbehörden sind für ihre Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen. Jeder unteren Baurechtsbehörde muss mindestens ein Bauverständiger angehören, der das Studium der Fachrichtung Architektur oder Bauingenieurwesen an einer deutschen Universität oder Fachhochschule oder eine gleichwertige Ausbildung an einer ausländischen Hochschule oder gleichrangigen Lehreinrichtung erfolgreich abgeschlossen hat; die höhere Baurechtsbehörde kann von der Anforderung an die Ausbildung Ausnahmen zulassen. Die Fachkräfte zur Beratung und Unterstützung der Landratsämter als Baurechtsbehörden sind vom Landkreis zu stellen.
 
-### § 47 - Aufgaben und Befugnisse der Baurechtsbehörden
+### § 47 - Aufgaben und Befugnisse der Baurechtsbehörden
 
 (1) Die Baurechtsbehörden haben darauf zu achten, dass die baurechtlichen Vorschriften sowie die anderen öffentlich-rechtlichen Vorschriften über die Errichtung und den Abbruch von Anlagen und Einrichtungen im Sinne des § 1 eingehalten und die auf Grund dieser Vorschriften erlassenen Anordnungen befolgt werden. Sie haben zur Wahrnehmung dieser Aufgaben diejenigen Maßnahmen zu treffen, die nach pflichtgemäßem Ermessen erforderlich sind.
 
@@ -1250,7 +1228,7 @@ werden, wenn sie die Voraussetzungen des Absatzes 4 erfüllen und die oberste Ba
 
 (5) Die für die Fachaufsicht zuständigen Behörden können den nachgeordneten Baurechtsbehörden unbeschränkt Weisungen erteilen. Leistet eine Baurechtsbehörde einer ihr erteilten Weisung innerhalb der gesetzten Frist keine Folge, so kann an ihrer Stelle jede Fachaufsichtsbehörde die erforderlichen Maßnahmen auf Kosten des Kostenträgers der Baurechtsbehörde treffen. § 129 Abs. 5 der Gemeindeordnung gilt entsprechend.
 
-### § 48 - Sachliche Zuständigkeit
+### § 48 - Sachliche Zuständigkeit
 
 (1) Sachlich zuständig ist die untere Baurechtsbehörde, soweit nichts anderes bestimmt ist.
 
@@ -1260,20 +1238,13 @@ werden, wenn sie die Voraussetzungen des Absatzes 4 erfüllen und die oberste Ba
 
 (4) Bei Anlagen nach § 7 des Atomgesetzes schließt die atomrechtliche Genehmigung eine Genehmigung oder Zustimmung nach diesem Gesetz ein. Im Übrigen ist die oberste Baurechtsbehörde sachlich zuständig für alle baulichen Anlagen auf dem Betriebsgelände, soweit sie nicht im Einzelfall die Zuständigkeit einer nachgeordneten Baurechtsbehörde überträgt.
 
----
+## ACHTER TEIL Verwaltungsverfahren, Baulasten
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
-
----
-## ACHTER TEIL - Verwaltungsverfahren, Baulasten
-
-### § 49 - Genehmigungspflichtige Vorhaben
+### § 49 - Genehmigungspflichtige Vorhaben
 
 Die Errichtung und der Abbruch baulicher Anlagen sowie der in § 50 aufgeführten anderen Anlagen und Einrichtungen bedürfen der Baugenehmigung, soweit in §§ 50, 51, 69 oder 70 nichts anderes bestimmt ist.
 
-### § 50 - Verfahrensfreie Vorhaben
+### § 50 - Verfahrensfreie Vorhaben
 
 (1) Die Errichtung der Anlagen und Einrichtungen, die im Anhang aufgeführt sind, ist verfahrensfrei.
 
@@ -1292,7 +1263,7 @@ Die Errichtung und der Abbruch baulicher Anlagen sowie der in § 50 aufgeführte
 
 (5) Verfahrensfreie Vorhaben müssen ebenso wie genehmigungspflichtige Vorhaben den öffentlich-rechtlichen Vorschriften entsprechen. § 57 findet entsprechende Anwendung.
 
-### § 51 - Kenntnisgabeverfahren
+### § 51 - Kenntnisgabeverfahren
 
 (1) Das Kenntnisgabeverfahren kann durchgeführt werden bei der Errichtung von
 
@@ -1319,7 +1290,7 @@ Sie dürfen den Festsetzungen des Bebauungsplans nicht widersprechen.
 
 (4) Kenntnisgabepflichtige Vorhaben müssen ebenso wie genehmigungspflichtige Vorhaben den öffentlich-rechtlichen Vorschriften entsprechen.
 
-### § 52 - Vereinfachtes Baugenehmigungsverfahren
+### § 52 - Vereinfachtes Baugenehmigungsverfahren
 
 (1) Neben dem Kenntnisgabeverfahren kann der Bauherr beantragen, dass ein Baugenehmigungsverfahren durchzuführen ist. Bei Bauvorhaben, mit Ausnahme der Sonderbauten, kann ein vereinfachtes Baugenehmigungsverfahren durchgeführt werden. Bei Wohngebäuden der Gebäudeklasse 1 bis 4 sowie deren Nebengebäude und Nebenanlagen ist neben dem Kenntnisgabeverfahren nur das vereinfachte Baugenehmigungsverfahren eröffnet.
 
@@ -1327,13 +1298,14 @@ Sie dürfen den Festsetzungen des Bebauungsplans nicht widersprechen.
 
 1. die Übereinstimmung mit den Vorschriften über die Zulässigkeit der baulichen Anlagen nach den §§ 14 und 29 bis 38 BauGB,
 2. die Übereinstimmung mit den §§ 5 bis 7,
-3. andere öffentlich-rechtliche Vorschriften außerhalb dieses Gesetzes und außerhalb von Vorschriften auf Grund dieses Gesetzes, a) soweit in diesen Anforderungen an eine Baugenehmigung gestellt werden oder b) soweit es sich um Vorhaben im Außenbereich handelt, im Umfang des § 58 Abs. 1 Satz 2.
+3. andere öffentlich-rechtliche Vorschriften außerhalb dieses Gesetzes und außerhalb von Vorschriften auf Grund dieses Gesetzes,  a) soweit in diesen Anforderungen an eine Baugenehmigung gestellt werden oder
+  b) soweit es sich um Vorhaben im Außenbereich handelt, im Umfang des § 58 Abs. 1 Satz 2.
 
 (3) Auch soweit Absatz 2 keine Prüfung vorsieht, müssen Bauvorhaben im vereinfachten Verfahren den öffentlich-rechtlichen Vorschriften entsprechen.
 
 (4) Über Abweichungen, Ausnahmen und Befreiungen von Vorschriften nach diesem Gesetz oder auf Grund dieses Gesetzes, die nach Absatz 2 nicht geprüft werden, entscheidet die Baurechtsbehörde auf besonderen Antrag im Rahmen des vereinfachten Baugenehmigungsverfahrens.
 
-### § 53 - Bauvorlagen und Bauantrag
+### § 53 - Bauvorlagen und Bauantrag
 
 (1) Alle für die Durchführung des Baugenehmigungsverfahrens oder des Kenntnisgabeverfahrens erforderlichen Unterlagen (Bauvorlagen) und Anträge auf Abweichungen, Ausnahmen und Befreiungen sind bei der Baurechtsbehörde einzureichen. Bei genehmigungspflichtigen Vorhaben ist zusammen mit den Bauvorlagen der Antrag auf Baugenehmigung (Bauantrag) einzureichen. Abweichungen, Ausnahmen und Befreiungen sind gesondert zu beantragen. Die Baurechtsbehörde stellt die nach Satz 1 bis 3 eingereichten Anträge und Bauvorlagen unverzüglich der betroffenen Gemeinde bereit.
 
@@ -1354,7 +1326,7 @@ Sie dürfen den Festsetzungen des Bebauungsplans nicht widersprechen.
 
 Die Baurechtsbehörde hat dies dem Bauherrn innerhalb von fünf Arbeitstagen mitzuteilen. Die Gemeinde teilt der Baurechtsbehörde unverzüglich mit, ob ein Grund nach Satz 1 Nummer 2 bis 4 vorliegt.
 
-### § 54 - Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen
+### § 54 - Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen
 
 (1) Die Baurechtsbehörde hat innerhalb von zehn Arbeitstagen nach Eingang den Bauantrag und die Bauvorlagen auf Vollständigkeit zu überprüfen. Sind sie unvollständig oder entsprechen sie nicht den Formanforderungen, hat die Baurechtsbehörde dem Bauherrn unverzüglich mitzuteilen, welche Ergänzungen erforderlich sind und dass ohne Behebung der Mängel innerhalb der dem Bauherrn gesetzten, angemessenen Frist der Bauantrag zurückgewiesen werden kann. Stellt sich heraus, dass der Bauantrag gemäß den eingereichten Bauvorlagen nicht genehmigungsfähig ist, aber die notwendigen Änderungen oder Ergänzungen keinen neuen Bauantrag erfordern, soll dem Bauherrn die Gelegenheit zur Nachbesserung gegeben werden; bis zum Eingang der nachgebesserten Bauvorlagen bei der Baurechtsbehörde sind alle Fristabläufe gehemmt.
 
@@ -1367,11 +1339,11 @@ Die Baurechtsbehörde hat dies dem Bauherrn innerhalb von fünf Arbeitstagen mit
 
 (4) Hat eine Gemeinde ihr nach § 14 Abs. 2 Satz 2, § 22 Abs. 5 Satz 1, § 36 Abs. 1 Satz 1 und 2 BauGB erforderliches Einvernehmen rechtswidrig versagt, hat die zuständige Genehmigungsbehörde das fehlende Einvernehmen nach Maßgabe der Sätze 2 bis 7 zu ersetzen. § 121 der Gemeindeordnung findet keine Anwendung. Die Genehmigung gilt zugleich als Ersatzvornahme. Sie ist insoweit zu begründen. Widerspruch und Anfechtungsklage haben auch insoweit keine aufschiebende Wirkung, als die Genehmigung als Ersatzvornahme gilt. Die Gemeinde ist vor der Erteilung der Genehmigung anzuhören. Dabei ist ihr Gelegenheit zu geben, binnen angemessener Frist erneut über das gemeindliche Einvernehmen zu entscheiden.
 
-(5) Die Baurechtsbehörde hat über den Bauantrag innerhalb von zwei Monaten, im vereinfachten Baugenehmigungsverfahren und in den Fällen des § 56 Abs. 6 sowie des § 57 Abs. 1 innerhalb eines Monats zu entscheiden. Die Frist nach Satz 1 beginnt, sobald die vollständigen Bauvorlagen und alle für die Entscheidung notwendigen Stellungnahmen und Mitwirkungen vorliegen, spätestens jedoch nach Ablauf der Fristen nach Absatz 3 und nach § 36 Abs. 2 Satz 2 BauGB sowie nach § 12 Absatz 2 Sätze 2 und 3 des Luftverkehrsgesetzes.
+(5) Die Baurechtsbehörde hat über den Bauantrag innerhalb von zwei Monaten, im vereinfachten Baugenehmigungsverfahren und in den Fällen des § 56 Abs. 6 sowie des § 57 Abs. 1 innerhalb eines Monats zu entscheiden. Die Frist nach Satz 1 beginnt, sobald die vollständigen Bauvorlagen und alle für die Entscheidung notwendigen Stellungnahmen und Mitwirkungen vorliegen, spätestens jedoch nach Ablauf der Fristen nach Absatz 3 und nach den §§ 36 Absatz 2 Satz 2, 36a Absatz 1 Satz 4, Absatz 2 Satz 2 BauGB sowie nach § 12 Absatz 2 Sätze 2 und 3 des Luftverkehrsgesetzes.
 
 (6) Die Fristen nach Absatz 3 dürfen nur ausnahmsweise bis zu einem Monat verlängert werden, im vereinfachten Baugenehmigungsverfahren jedoch nur, wenn das Einvernehmen der Gemeinde nach § 36 Absatz 1 Sätze 1 und 2 BauGB erforderlich ist.
 
-### § 55 - Benachrichtigung der Nachbarn und Beteiligung der Öffentlichkeit
+### § 55 - Benachrichtigung der Nachbarn und Beteiligung der Öffentlichkeit
 
 (1) Soll eine Abweichung, Ausnahme oder Befreiung von Vorschriften des öffentlichen Baurechts, die auch dem Schutz des Nachbarn dienen, erteilt werden, benachrichtigt die Gemeinde auf Veranlassung und nach Maßgabe der Baurechtsbehörde die Eigentümer angrenzender Grundstücke (Angrenzer) innerhalb von fünf Arbeitstagen ab dem Eingang der vollständigen Bauvorlagen über das Bauvorhaben. Die Benachrichtigung ist nicht erforderlich bei Angrenzern, die
 
@@ -1384,13 +1356,13 @@ Bei Eigentümergemeinschaften nach dem Wohnungseigentumsgesetz genügt die Benac
 
 (3) Bei der Errichtung von
 
-1. einem oder mehreren Gebäuden, wenn die Größe der dem Wohnen dienenden Nutzungseinheiten insgesamt mehr als 5.000 m² Brutto-Grundfläche beträgt,
+1. einem oder mehreren Gebäuden, wenn die Größe der dem Wohnen dienenden Nutzungseinheiten insgesamt mehr als 5.000 m Brutto-Grundfläche beträgt,
 2. baulichen Anlagen, die öffentlich zugänglich sind, wenn dadurch erstmals oder zusätzlich die gleichzeitige Nutzung durch mehr als 100 Personen zu erwarten ist, und
 3. Sonderbauten nach § 38 Absatz 2 Nummer 5, 6, 8, 12, 14 und 17
 
 ist eine Öffentlichkeitsbeteiligung nach § 23b Absatz 2 BImSchG durchzuführen, wenn die Bauvorhaben innerhalb des angemessenen Sicherheitsabstands gemäß § 3 Absatz 5c BImSchG eines Betriebsbereichs im Sinne von § 3 Absatz 5a BImSchG liegen und dem Gebot, einen angemessenen Sicherheitsabstand zu wahren, nicht bereits auf der Ebene der Bauleitplanung in einem öffentlichen Verfahren Rechnung getragen wurde.
 
-### § 56 - Abweichungen, Ausnahmen und Befreiungen
+### § 56 - Abweichungen, Ausnahmen und Befreiungen
 
 (1) Abweichungen von technischen Bauvorschriften sind zuzulassen, wenn auf andere Weise dem Zweck dieser Vorschriften nachweislich entsprochen wird.
 
@@ -1400,7 +1372,9 @@ ist eine Öffentlichkeitsbeteiligung nach § 23b Absatz 2 BImSchG durchzuführen
 2. zur Erhaltung und weiteren Nutzung von Kulturdenkmalen,
 3. zur Verwirklichung von Vorhaben zur Energieeinsparung und zur Nutzung erneuerbarer Energien,
 4. zur praktischen Erprobung neuer Bau- und Wohnformen im Wohnungsbau,
-5. zur Ersetzung eines rechtmäßig errichteten Gebäudes an gleicher Stelle durch ein Gebäude höchstens gleicher Abmessung in Bezug auf Abweichungen von den Anforderungen des § 5, wenn die Abweichungen mit den öffentlichen Belangen vereinbar sind.
+5. zur Ersetzung eines rechtmäßig errichteten Gebäudes an gleicher Stelle durch ein Gebäude höchstens gleicher Abmessung in Bezug auf Abweichungen von den Anforderungen des § 5,
+
+wenn die Abweichungen mit den öffentlichen Belangen vereinbar sind.
 
 (3) Ausnahmen, die in diesem Gesetz oder in Vorschriften auf Grund dieses Gesetzes vorgesehen sind, können zugelassen werden, wenn sie mit den öffentlichen Belangen vereinbar sind und die für die Ausnahmen festgelegten Voraussetzungen vorliegen.
 
@@ -1420,13 +1394,13 @@ und die Abweichung auch unter Würdigung nachbarlicher Interessen mit den öffen
 
 (6) Ist für verfahrensfreie Vorhaben eine Abweichung, Ausnahme oder Befreiung erforderlich, so ist diese elektronisch in Textform besonders zu beantragen. § 54 Absatz 4, § 55 Absatz 1 und 2, § 58 Absatz 1, 2 und 3, § 62 Absatz 1 und 2 gelten entsprechend.
 
-### § 57 - Bauvorbescheid
+### § 57 - Bauvorbescheid
 
 (1) Vor Einreichen des Bauantrags kann der Bauherr elektronisch in Textform beantragen, dass ein Bescheid zu einzelnen Fragen des Vorhabens elektronisch in Textform erteilt wird (Bauvorbescheid). Der Bauvorbescheid gilt drei Jahre.
 
 (2) § 53 Absatz 1 bis 4, § 54, § 55 Absatz 1 und 2, § 58 Absatz 1, 2 und 3 sowie § 62 Absatz 1 und 2 gelten entsprechend.
 
-### § 58 - Baugenehmigung
+### § 58 - Baugenehmigung
 
 (1) Die Baugenehmigung ist zu erteilen, wenn dem genehmigungspflichtigen Vorhaben keine von der Baurechtsbehörde zu prüfenden öffentlich-rechtlichen Vorschriften entgegenstehen. Soweit nicht § 52 Anwendung findet, sind alle öffentlich-rechtlichen Vorschriften zu prüfen, die Anforderungen an das Bauvorhaben enthalten und über deren Einhaltung nicht eine andere Behörde in einem gesonderten Verfahren durch Verwaltungsakt entscheidet. Die Baugenehmigung wird in Schriftform oder elektronisch in Textform nach § 126b des Bürgerlichen Gesetzbuchs erteilt. Erleichterungen, Abweichungen, Ausnahmen und Befreiungen sind ausdrücklich auszusprechen. Die Baugenehmigung ist nur insoweit zu begründen, als sie Abweichungen, Ausnahmen oder Befreiungen von nachbarschützenden Vorschriften enthält und der Angrenzer Einwendungen erhoben hat. Die mit Genehmigungsvermerk versehenen Bauvorlagen sind dem Antragsteller mit der Baugenehmigung zuzustellen oder nach Maßgabe des § 9 Absatz 1 des Onlinezugangsgesetzes bekanntzugeben. Die Baugenehmigung ist auch Angrenzern zuzustellen oder nach Maßgabe des § 9 Absatz 1 des Onlinezugangsgesetzes bekanntzugeben, deren Einwendungen gegen das Vorhaben nicht entsprochen wird oder deren öffentlich-rechtlich geschützte nachbarliche Belange durch das Vorhaben berührt sein können; die Baugenehmigung soll sonstigen Nachbarn zugestellt oder nach Maßgabe des § 9 Absatz 1 des Onlinezugangsgesetzes bekanntgegeben werden, wenn deren öffentlich-rechtlich geschützte nachbarliche Belange durch das Vorhaben berührt sein können. Bei Eigentümergemeinschaften nach dem Wohnungseigentumsgesetz genügt die Zustellung oder Bekanntgabe an den Verwalter, soweit es sich um Gemeinschaftseigentum handelt. Auszunehmen sind solche Angaben, die wegen berechtigter Interessen der Beteiligten geheimzuhalten sind.
 
@@ -1449,7 +1423,7 @@ Satz 1 findet keine Anwendung, wenn der Antragsteller vor Ablauf der Entscheidun
 
 (6) Auch nach Erteilung der Baugenehmigung können Anforderungen gestellt werden, um Gefahren für Leben oder Gesundheit oder bei der Genehmigung nicht voraussehbare Gefahren oder erhebliche Nachteile oder Belästigungen von der Allgemeinheit oder den Benutzern der baulichen Anlagen abzuwenden. Bei Gefahr im Verzug kann bis zur Erfüllung dieser Anforderungen die Benutzung der baulichen Anlage eingeschränkt oder untersagt werden.
 
-### § 59 - Baubeginn
+### § 59 - Baubeginn
 
 (1) Mit der Ausführung genehmigungspflichtiger Vorhaben darf erst nach Erteilung des Baufreigabescheins begonnen werden. Der Baufreigabeschein ist zu erteilen, wenn die in der Baugenehmigung für den Baubeginn enthaltenen Auflagen und Bedingungen erfüllt sind. Enthält die Baugenehmigung keine solchen Auflagen oder Bedingungen, so ist der Baufreigabeschein mit der Baugenehmigung zu erteilen. Der Baufreigabeschein muss die Bezeichnung des Bauvorhabens und die Namen und Anschriften des Entwurfsverfassers und des Bauleiters enthalten und ist dem Bauherrn bekanntzugeben.
 
@@ -1467,273 +1441,441 @@ Satz 1 findet keine Anwendung, wenn der Antragsteller vor Ablauf der Entscheidun
 
 (6) Bei Vorhaben im Kenntnisgabeverfahren innerhalb eines förmlich festgelegten Sanierungsgebietes im Sinne des § 142 BauGB, eines förmlich festgelegten städtebaulichen Entwicklungsbereiches im Sinne des § 165 BauGB oder eines förmlich festgelegten Gebiets im Sinne des § 171 d oder § 172 BauGB müssen vor Baubeginn die hierfür erforderlichen Genehmigungen vorliegen.
 
-### § 60 - Sicherheitsleistung
+### § 60 - Sicherheitsleistung
 
 (1) Die Baurechtsbehörde kann die Leistung einer Sicherheit verlangen, soweit sie erforderlich ist, um die Erfüllung von Auflagen oder sonstigen Verpflichtungen zu sichern.
 
 (2) Auf Sicherheitsleistungen sind die §§ 232, 234 bis 240 des Bürgerlichen Gesetzbuchs anzuwenden.
 
+### § 61 - Teilbaugenehmigung
 
-### § 61 - Baulasten
+(1) Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf elektronisch in Textform gestellten Antrag schon vor Erteilung der Baugenehmigung schriftlich oder elektronisch in Textform zugelassen werden, wenn nach dem Stand der Prüfung des Bauantrags gegen die Teilausführung keine Bedenken bestehen (Teilbaugenehmigung). §§ 54, 58 Abs. 1 bis 5 sowie § 59 Abs. 1 bis 3 gelten entsprechend.
 
-(1) Zur Sicherung der Einhaltung öffentlich-rechtlicher Vorschriften über die Bebauung von Grundstücken können sich Eigentümer oder Erbbauberechtigte gegenüber der Baurechtsbehörde schriftlich verpflichten, bestimmte das Grundstück betreffende Maßnahmen durchzuführen oder bestimmte ihr Grundstück betreffende Nutzungen oder Bebauungen zu unterlassen (Baulast). Die Baulast ist in ein bei der Baurechtsbehörde zu führendes Verzeichnis (Baulastenverzeichnis) einzutragen; sie wird mit der Eintragung wirksam.
+(2) In der Baugenehmigung können für die bereits genehmigten Teile des Vorhabens, auch wenn sie schon ausgeführt sind, zusätzliche Anforderungen gestellt werden, wenn sich bei der weiteren Prüfung der Bauvorlagen ergibt, dass die zusätzlichen Anforderungen nach § 3 Abs. 1 Satz 1 erforderlich sind.
 
-(2) Zur Übernahme einer Baulast ist der Eigentümer oder der Erbbauberechtigte nur verpflichtet, wenn dies gesetzlich oder durch eine auf Gesetz beruhende Verpflichtung vorgeschrieben ist. Im Übrigen ist die Übernahme einer Baulast freiwillig.
+### § 62 - Geltungsdauer der Baugenehmigung
 
-(3) Die Baulast kann auch zugunsten oder zulasten künftiger Eigentümer oder Erbbauberechtigter begründet werden. Sie geht auf die Rechtsnachfolger über.
+(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn nicht innerhalb von drei Jahren nach Erteilung der Genehmigung mit der Bauausführung begonnen oder wenn sie nach diesem Zeitraum ein Jahr unterbrochen worden ist.
 
-(4) Die Löschung einer Baulast erfolgt auf Antrag des Eigentümers oder Erbbauberechtigten, wenn die Baurechtsbehörde feststellt, dass die Einhaltung der durch die Baulast gesicherten Verpflichtung nicht mehr erforderlich ist. Die Löschung erfolgt ferner auf Antrag des Eigentümers oder Erbbauberechtigten mit Zustimmung der Baurechtsbehörde, wenn an der Aufrechterhaltung der Baulast kein öffentliches Interesse mehr besteht.
+(2) Die Frist nach Absatz 1 kann auf elektronisch in Textform gestellten Antrag jeweils bis zu drei Jahre schriftlich oder elektronisch in Textform verlängert werden. Die Frist kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Baurechtsbehörde eingegangen ist.
 
-(5) Baulasten nach dem Recht anderer Bundesländer stehen Baulasten nach dieser Vorschrift gleich.
+(3) Wird die Nutzung einer Tierhaltungsanlage im Sinne des Anhangs 7 der Technischen Anleitung zur Reinhaltung der Luft innerhalb eines im Zusammenhang bebauten Ortsteils während eines Zeitraums von mehr als sechs Jahren durchgehend unterbrochen, erlischt die Baugenehmigung für die unterbrochene Nutzung. Wer ein berechtigtes Interesse an der Feststellung hat, kann beantragen, dass die Baurechtsbehörde das Erlöschen der Baugenehmigung feststellt.
 
-### § 62 - Geltungsdauer der Baugenehmigung
+### § 63 - Bauvorlageberechtigung
 
-(1) Die Baugenehmigung erlischt, wenn nicht innerhalb von drei Jahren nach ihrer Erteilung mit der Bauausführung begonnen oder wenn die Bauausführung länger als ein Jahr unterbrochen wird; nach Ablauf der Frist darf mit der Bauausführung nicht begonnen oder fortgefahren werden.
+(1) Bauvorlagen für die nicht verfahrensfreie Errichtung und Änderung von Gebäuden müssen von einem Entwurfsverfasser erstellt sein, der bauvorlageberechtigt ist. Dies gilt nicht für
 
-(2) Für die Geltungsdauer einer Baugenehmigung kann auf Antrag des Bauherrn eine längere Frist bestimmt oder die Frist verlängert werden. Eine Verlängerung darf nur erteilt werden, wenn die Baugenehmigung den zum Zeitpunkt der Verlängerung geltenden öffentlich-rechtlichen Vorschriften entspricht. Bei Vorhaben, die nach § 35 des Baugesetzbuchs (BauGB) zu beurteilen sind, können die Fristen nach Absatz 1 um jeweils höchstens zwei Jahre verlängert werden.
+1. Garagen bis zu 100 m Nutzfläche, Behelfsbauten, untergeordnete Gebäude und sonstige geringfügige oder technisch einfache Bauvorhaben,
+2. Vorhaben, die nur aufgrund örtlicher Bauvorschriften kenntnisgabepflichtig sind.
 
-(3) Die Frist nach Absatz 1 wird gehemmt, solange die Bauausführung durch ein auf Grund eines Antrags oder einer Klage gegen die Baugenehmigung erlassenes vorläufiges gerichtliches Verbot verhindert wird oder solange der Antragsteller oder Kläger gegen die Baugenehmigung durch eine einstweilige Anordnung begünstigt ist.
+(2) Bauvorlageberechtigt ist, wer
 
-### § 63 - Bautechnische Nachweise
+1. die Berufsbezeichnung „Architekt" führen darf,
+2. in die von der Ingenieurkammer Baden-Württemberg geführte Liste der Bauvorlageberechtigten eingetragen ist oder, ohne eine solche Listeneintragung, gemäß § 63d bauvorlageberechtigt ist.
 
-(1) Die bautechnischen Nachweise sind vom Entwurfsverfasser oder von Fachplanern, die vom Entwurfsverfasser beauftragt worden sind, zu erstellen; dies gilt auch für die Nachweise über die Standsicherheit der baulichen Anlagen.
+(3) Bauvorlageberechtigt sind ferner,
 
-(2) Die bautechnischen Nachweise sind bei genehmigungspflichtigen Vorhaben von einem Prüfsachverständigen oder einer Prüfstelle für Standsicherheit zu prüfen, wenn die bauliche Anlage Sonderbau ist.
+1. Berufsangehörige, welche über die in § 63a genannten Hochschulabschlüsse verfügen, Berufsangehörige der Fachrichtung Architektur und Innenarchitektur, die an einer Hochschule, Fachhochschule oder gleichrangigen Bildungseinrichtung das Studium erfolgreich abgeschlossen haben, staatlich geprüfte Technikerinnen oder Techniker der Fachrichtung Bautechnik, Personen, die die Meisterprüfung des Maurer-, Betonbauer-, Stahlbetonbauer- oder Zimmererhandwerks abgelegt haben und Personen, die diesen, mit Ausnahme von § 7b der Handwerksordnung, handwerksrechtlich gleichgestellt sind, sowie Personen, die in einem anderen Mitgliedstaat der Europäischen Union oder einem nach dem Recht der Europäischen Union gleichgestellten Staat eine gleichwertige Ausbildung abgeschlossen haben, für:  a) freistehende oder nur einseitig angebaute oder anbaubare Wohngebäude der Gebäudeklassen 1 bis 3 mit nicht mehr als drei Wohnungen,
+  b) eingeschossige gewerblich genutzte Gebäude, die keine Sonderbauten sind,
+  c) land- und forstwirtschaftlich genutzte Gebäude, die keine Sonderbauten sind, 
+2. Berufsangehörige, welche die Berufsbezeichnung „Innenarchitekt" führen dürfen, für die mit der Berufsaufgabe des Innenarchitekten verbundenen baulichen Änderungen von Gebäuden sowie
+3. Berufsangehörige, welche einen berufsqualifizierenden Hochschulabschluss eines Studiums der Fachrichtung Bauingenieurwesen gemäß den in Anhang 2 geregelten Leitlinien oder der Fachrichtung Architektur nachweisen können, danach mindestens zwei Jahre auf dem Gebiet der Entwurfsplanung von Gebäuden praktisch tätig gewesen und Bedienstete einer juristischen Person des öffentlichen Rechts sind, für die dienstliche Tätigkeit.
 
-(3) Bei allen anderen genehmigungspflichtigen Vorhaben hat der Entwurfsverfasser zu bestätigen, dass die bautechnischen Nachweise den anerkannten Regeln der Technik entsprechen. Diese Bestätigung ersetzt die Prüfung nach Absatz 2.
+### § 63a - Voraussetzung für die Eintragung in die Liste nach § 63 Absatz 2 Nummer 2
 
-(4) Bei Vorhaben im Kenntnisgabeverfahren sind die bautechnischen Nachweise vor Baubeginn von einem Prüfsachverständigen oder einer Prüfstelle für Standsicherheit zu prüfen. Absatz 3 Satz 2 gilt entsprechend.
+(1) In die Liste der Bauvorlageberechtigten ist auf Antrag von der Ingenieurkammer Baden-Württemberg einzutragen, wer
 
-(5) Die oberste Baurechtsbehörde kann Ausnahmen von den Absätzen 2 und 4 zulassen.
+1. einen berufsqualifizierenden Hochschulabschluss eines Studiums der Fachrichtung Bauingenieurwesen gemäß den in Anhang 2 geregelten Leitlinien an einer deutschen Hochschule nachweist und
+2. danach mindestens zwei Jahre auf dem Gebiet der Entwurfsplanung von Gebäuden praktisch tätig gewesen ist.
 
-### § 64 - Prüfsachverständige und Prüfstellen
+(2) Auf Antrag ist in die Liste der Bauvorlageberechtigten einzutragen, wer über einen auswärtigen Hochschulabschluss verfügt, der den in Absatz 1 Nummer 1 genannten Anforderungen gleichwertig ist, und die Anforderung des Absatzes 1 Nummer 2 erfüllt.
 
-(1) Als Prüfsachverständige oder Prüfstellen nach diesem Gesetz können von der obersten Baurechtsbehörde anerkannt werden:
+(3) Ein Antragsteller wird in die Liste nach Absatz 1 auch eingetragen, wenn
 
-1. für die Prüfung der Standsicherheit: Personen, die nach ihrer Ausbildung und beruflichen Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet der Standsicherheit verfügen;
-2. für die Prüfung des Brandschutzes: Personen, die nach ihrer Ausbildung und beruflichen Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet des Brandschutzes verfügen;
-3. für die Prüfung des Schallschutzes: Personen, die nach ihrer Ausbildung und beruflichen Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet des Schallschutzes verfügen;
-4. für die Prüfung des Wärmeschutzes: Personen, die nach ihrer Ausbildung und beruflichen Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet des Wärmeschutzes verfügen.
+1. er in Bezug auf die Studienanforderungen einen Ausbildungsnachweis nach Artikel 11 der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, zuletzt ber. ABl. L 095 vom 9.4.2016, S. 20), die zuletzt durch delegierten Beschluss (EU) 2024/1395 der Kommission (ABl. L 2024/1395, 31.5.2024) geändert worden ist, in der jeweils geltenden Fassung besitzt, soweit dieser in einem Mitgliedstaat der Europäischen Union oder einem diesem durch Abkommen gleichgestellten Staat erforderlich ist, um in dessen Hoheitsgebiet die Erlaubnis zur Aufnahme und Ausübung dieses Berufes zu erhalten,
+2. der Ausbildungsnachweis den Anforderungen nach Artikel 13 Absatz 2 Satz 2 der Richtlinie (EG) 2005/36 genügt und
+3. die berufspraktische Tätigkeit mit den Anforderungen nach Absatz 1 Nummer 2 vergleichbar ist.
 
-(2) Die Anerkennung kann mit Auflagen verbunden und befristet werden. Sie ist zu widerrufen, wenn die Voraussetzungen für die Anerkennung nicht mehr vorliegen. Sie kann widerrufen werden, wenn gegen Auflagen verstoßen wird.
+Satz 1 gilt auch für einen Antragsteller, der nachweist, dass er
 
-(3) Die Anerkennung von Prüfsachverständigen und Prüfstellen nach dem Recht anderer Bundesländer gilt auch im Land Baden-Württemberg.
+1. diesen Beruf ein Jahr lang vollzeitbeschäftigt oder während einer entsprechenden Gesamtdauer in Teilzeit während der vorhergehenden zehn Jahre in Mitgliedstaaten der Europäischen Union oder einem gleichgestellten Staat ausgeübt hat, sofern der Beruf im Niederlassungsmitgliedstaat nicht reglementiert ist,
+2. im Besitz eines Befähigungs- oder Ausbildungsnachweises ist, der den Anforderungen nach Artikel 13 Absatz 2 Satz 2 der Richtlinie (EG) 2005/36 genügt und
+3. keine wesentlichen Unterschiede in Bezug auf die Studienanforderungen nach Absatz 1 Nummer 1 bestehen.
 
-### § 65 - Baueinstellung
+(4) Dem Antrag nach Absatz 1 oder 2 sind die zur Beurteilung erforderlichen Unterlagen beizulegen. Die Ingenieurkammer Baden-Württemberg bestätigt unverzüglich den Eingang der Unterlagen und teilt gegebenenfalls mit, welche Unterlagen fehlen. § 42a des Landesverwaltungsverfahrensgesetzes gilt entsprechend mit der Maßgabe, dass die Frist nur einmalig um bis zu einem Monat verlängert werden kann.
 
-(1) Die Baurechtsbehörde kann die Einstellung der Arbeiten anordnen, wenn
+(5) Einer Eintragung nach Absatz 1 oder 2 bedarf es nicht, wenn der Antragsteller aufgrund einer Regelung eines anderen Landes bauvorlageberechtigt ist.
 
-1. ohne erforderliche Baugenehmigung, erforderliche Zustimmung, erforderlichen Bauvorbescheid, erforderliche Abweichung, erforderliche Ausnahme oder erforderliche Befreiung gebaut wird,
-2. die Bauausführung von der Baugenehmigung, vom Bauvorbescheid oder von Vorschriften, von denen keine Abweichung zugelassen worden ist, abweicht,
-3. die Bauausführung von Auflagen oder Bedingungen in der Baugenehmigung oder im Bauvorbescheid abweicht oder
-4. Tatsachen bekannt werden, welche die Versagung der Baugenehmigung oder des Bauvorbescheids gerechtfertigt hätten.
+(6) § 16 des Berufsqualifikationsfeststellungsgesetzes Baden-Württemberg (BQFG-BW) vom 19. Dezember 2013 (GBl. 2014, S. 1), das zuletzt durch Artikel 1 des Gesetzes vom 17. Dezember 2020 (GBl. S. 1250, ber. 2021 S. 246) geändert worden ist, in der jeweils geltenden Fassung gilt entsprechend.
 
-(2) Eine Baueinstellung kann auch angeordnet werden, wenn Anlass zu der Annahme besteht, dass die bauliche Anlage oder ihre Teile einsturzgefährdet sind oder die Standsicherheit anderer baulicher Anlagen gefährden.
+### § 63b - Eintragungsverfahren für Antragstellende nach § 63a Absatz 3
 
-### § 66 - Bauüberwachung
+(1) Antragsteller haben Unterlagen nach Artikel 50 Absatz 1 der Richtlinie (EG) 2005/36 in Verbindung mit deren Anhang VII Nummer 1 Buchstabe a und b Satz 1 sowie auf Anforderung nach Anhang VII Nummer 1 Buchstabe b Satz 2 der Richtlinie (EG) 2005/36 vorzulegen. Gibt der Antragsteller an, hierzu nicht in der Lage zu sein, wendet sich die Ingenieurkammer Baden-Württemberg zur Beschaffung der erforderlichen Unterlagen an das Beratungszentrum nach Artikel 57b der Richtlinie (EG) 2005/36, die zuständige Behörde oder eine Ausbildungsstelle des Herkunftsstaates. Bei Ausbildungsnachweisen gemäß Artikel 50 Absatz 3 der Richtlinie (EG) 2005/36 kann die Ingenieurkammer Baden-Württemberg bei berechtigten Zweifeln von der zuständigen Stelle des Ausstellungsstaates die Überprüfung der Kriterien gemäß Artikel 50 Absatz 3 Buchstaben a bis c der Richtlinie (EG) 2005/36 verlangen. War der Antragsteller bereits in einem anderen Mitgliedstaat der Europäischen Union oder einem gleichgestellten Staat tätig, kann die Ingenieurkammer Baden-Württemberg im Fall berechtigter Zweifel von der im Herkunftsstaat zuständigen Behörde eine Bestätigung der Tatsache verlangen, dass die Ausübung dieses Berufes durch den Antragsteller nicht aufgrund schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen untersagt worden ist. Im Übrigen finden die Vorschriften des Artikels 50 Absatz 1 der Richtlinie (EG) 2005/36 in Verbindung mit deren Anhang VII Nummer 1 Buchstaben d bis g Anwendung. Die auf Verlangen übermittelten Unterlagen und Bescheinigungen dürfen bei ihrer Vorlage nicht älter als drei Monate sein. Der Informationsaustausch erfolgt über das Binnenmarkt-Informationssystem (IMI).
 
-(1) Die Baurechtsbehörde kann die Bauausführung überwachen. Sie hat die Einhaltung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Vorschriften sowie die Erfüllung von Auflagen und Bedingungen in der Baugenehmigung zu überprüfen.
+(2) Im Übrigen gelten für die Form des Antrags auf Eintragung, die einzureichenden Unterlagen sowie das diesbezügliche Verfahren die §§ 12 und 13 BQFG-BW entsprechend.
 
-(2) Der Bauherr, der Entwurfsverfasser, der Bauleiter und der Unternehmer haben der Baurechtsbehörde auf Verlangen die für die Bauüberwachung erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen.
+(3) Über die Eintragung in die Liste nach § 63a Absatz 1 ist eine Bescheinigung auszustellen. Die Liste enthält folgende Angaben:
 
-(3) Die mit der Bauüberwachung beauftragten Personen sind berechtigt, Grundstücke und bauliche Anlagen zu betreten, zu besichtigen und zu prüfen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist. Sie dürfen dabei von Sachverständigen begleitet werden. Der Bauherr, der Entwurfsverfasser, der Bauleiter und der Unternehmer haben die notwendigen Vorkehrungen zu treffen und die erforderliche Hilfe zu leisten.
+1. Zeitpunkt der Eintragung,
+2. Familienname, Geburtsname und Vornamen,
+3. Geburtsdatum, Geburtsort und Geschlecht,
+4. akademische Grade und Titel,
+5. ladungsfähige Adresse.
 
-### § 67 - Bauabnahmen
+Die Liste enthält darüber hinaus Angaben über die Staatsangehörigkeit des Antragstellers und den Staat, in dem er seine Berufsqualifikation erworben hat. Wesentliche Änderungen gegenüber der nach Satz 2 bescheinigten Situation hat der Antragsteller der Ingenieurkammer Baden-Württemberg unverzüglich mitzuteilen. Die für die Löschung aus Listen geltenden Regelungen der Ingenieurkammer Baden-Württemberg gelten auch für diese Liste.
 
-(1) Nach Fertigstellung einer baulichen Anlage oder von Teilen einer baulichen Anlage können Abnahmen durch die Baurechtsbehörde vorgenommen werden.
+(4) Kann eine Eintragung in die Liste nicht erfolgen, weil der Antragsteller die Voraussetzungen des § 63a Absatz 3 nicht erfüllt, ist dies durch Bescheid nach § 10 BQFG-BW festzustellen.
 
-(2) Abnahmen können insbesondere dazu dienen festzustellen, ob
+### § 63c - Ausgleichsmaßnahmen
 
-1. die bauliche Anlage oder Teile davon den öffentlich-rechtlichen Vorschriften entsprechen,
-2. die mit der Baugenehmigung verbundenen Auflagen und Bedingungen erfüllt worden sind,
-3. die bauliche Anlage oder Teile davon den genehmigten Bauvorlagen entsprechen.
+(1) Antragsteller, die nicht in die Liste nach § 63a Absatz 2 und 3 eingetragen werden können, weil sie aufgrund von wesentlichen Unterschieden nicht über eine gleichwertige Berufsqualifikation verfügen und die über einen Ausbildungsnachweis verfügen, der dem Berufsqualifikationsniveau nach Artikel 11 Buchstaben b, c, d oder e der Richtlinie (EG) 2005/36 entspricht, können einen höchstens dreijährigen Anpassungslehrgang absolvieren oder eine Eignungsprüfung ablegen. Beantragt ein Inhaber einer Berufsqualifikation gemäß Artikel 11 Buchstabe a der Richtlinie (EG) 2005/36 die Anerkennung seiner Berufsqualifikationen und ist die erforderliche Berufsqualifikation unter Artikel 11 Buchstabe d der Richtlinie (EG) 2005/36 eingestuft, so kann die Ingenieurkammer Baden-Württemberg sowohl einen Anpassungslehrgang als auch eine Eignungsprüfung vorschreiben.
 
-(3) Der Bauherr hat der Baurechtsbehörde die Fertigstellung der baulichen Anlage oder von Teilen der baulichen Anlage rechtzeitig mitzuteilen.
+(2) Die Einzelheiten zur Durchführung von Ausgleichsmaßnahmen werden durch Satzung der Ingenieurkammer Baden-Württemberg festgelegt. Die Satzung bedarf der Genehmigung durch die oberste Baurechtsbehörde.
 
-(4) Die Baurechtsbehörde kann von Amts wegen oder auf Antrag eine Gebrauchsabnahme vornehmen. Die Gebrauchsabnahme kann auch teilweise erfolgen.
+(3) Die Ingenieurkammer Baden-Württemberg kann mit anderen zuständigen Stellen innerhalb der Bundesrepublik Deutschland landesübergreifende Vereinbarungen zur Durchführung von Ausgleichsmaßnahmen schließen. Die Vereinbarung bedarf der Genehmigung durch die oberste Baurechtsbehörde.
 
-### § 68 - Beseitigung von Anlagen, Wiederherstellung des früheren Zustands
+### § 63d - Vorübergehende und gelegentliche Dienstleistungserbringung von bauvorlageberechtigten Ingenieuren, Anzeigeverfahren
 
-(1) Die Baurechtsbehörde kann die Beseitigung von Anlagen anordnen, die
+(1) Dienstleister, die zur vorübergehenden und gelegentlichen Erstellung von Bauvorlagen berechtigt sind, sind in ein entsprechendes Verzeichnis bei der Ingenieurkammer Baden-Württemberg einzutragen.
 
-1. im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beibehalten werden oder
-2. ohne die erforderliche Genehmigung, Zustimmung, Abweichung, Ausnahme oder Befreiung errichtet, geändert oder beibehalten werden.
+(2) Ein Dienstleister nach Absatz 1 hat das erstmalige Erbringen von Dienstleistungen zuvor der Ingenieurkammer Baden-Württemberg in Textform anzuzeigen. Einer Anzeige nach Satz 1 bedarf es nicht, wenn der Dienstleister bereits aufgrund einer Regelung eines anderen Landes zur Dienstleistungserbringung berechtigt ist. Zusammen mit der Anzeige sind folgende Unterlagen vorzulegen:
 
-(2) Anstelle der Beseitigung kann die Baurechtsbehörde die Wiederherstellung des früheren Zustands oder die Herstellung eines Zustands anordnen, der den öffentlich-rechtlichen Vorschriften entspricht, wenn dies ausreichend und für den Betroffenen zumutbar ist.
+1. ein Identitätsnachweis,
+2. eine Bescheinigung, dass er in einem Mitgliedstaat der Europäischen Union oder einem diesem durch Abkommen gleichgestellten Staat rechtmäßig zur Ausübung der betreffenden Tätigkeit niedergelassen ist und ihm die Ausübung dieser Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist,
+3. ein Berufsqualifikationsnachweis,
+4. in den in § 63a Absatz 3 Satz 2 genannten Fällen ein Nachweis in beliebiger Form darüber, dass der Dienstleister die betreffende Tätigkeit mindestens ein Jahr während der vorhergehenden zehn Jahre ausgeübt hat, sofern der Beruf im Niederlassungsmitgliedstaat nicht reglementiert ist,
+5. ein Nachweis über den Versicherungsschutz.
 
-(3) Von einer Beseitigungsanordnung kann abgesehen werden, wenn
+Die §§ 12 und 13 BQFG-BW gelten entsprechend.
 
-1. die Anlage nachträglich genehmigt werden kann und
-2. der Bauherr die Genehmigung beantragt.
+(3) Die Vorlage der Meldung nach Absatz 2 berechtigt den Dienstleister zur Erstellung von Bauvorlagen. Der Ingenieurkammer Baden-Württemberg steht es frei, die Unterlagen nach Absatz 2 Satz 3 nachzuprüfen. Die Erstellung von Bauvorlagen ist dem Dienstleister zu untersagen, wenn der Dienstleister nicht zur Ausübung desselben Berufs rechtmäßig in einem Mitgliedstaat niedergelassen ist, ihm die Ausübung dieser Tätigkeit nach der Anzeige untersagt wird oder er die Voraussetzungen des § 63a Absatz 3 Satz 2 nicht erfüllt. In diesem Fall ist dem Dienstleister die Möglichkeit einzuräumen, fehlende Kenntnisse, Fähigkeiten und Kompetenzen durch einen Anpassungslehrgang zu erwerben oder durch eine Eignungsprüfung nachzuweisen. Ist der Dienstleister zur Ausübung desselben Berufs rechtmäßig in einem Mitgliedstaat niedergelassen oder erfüllt er die Voraussetzungen des § 63a Absatz 3 Satz 2, so darf ihm die Erstellung von Bauvorlagen nicht aufgrund seiner Berufsqualifikation beschränkt werden. Für die Bestimmung desselben Berufs im Sinne dieses Absatzes gilt das gestufte System des § 63.
 
-(4) Die Anordnung nach Absatz 1 oder 2 ist schriftlich zu erteilen und zu begründen. Sie muss dem Bauherrn und dem Eigentümer bekannt gegeben werden. Die Anordnung kann mit Nebenbestimmungen versehen werden.
+(4) Das Recht zur Führung der Berufsbezeichnung des Niederlassungsstaats nach Artikel 7 Absatz 3 der Richtlinie (EG) 2005/36 bleibt unberührt. Die Berufsbezeichnung ist dann so zu führen, dass keine Verwechslung mit einer inländischen Berufsbezeichnung möglich ist.
 
----
+(5) Auswärtige bauvorlageberechtigte Ingenieure haben die Berufspflichten zu beachten. Sie sind hierfür wie Mitglieder der Ingenieurkammer Baden-Württemberg zu behandeln. Die Ingenieurkammer stellt über die Eintragung in das Verzeichnis nach Absatz 1 Satz 1 eine auf fünf Jahre befristete Bescheinigung aus, die auf Antrag in Textform verlängert werden kann.
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
+(6) § 16 BQFG-BW gilt entsprechend.
 
----
-## NEUNTER TEIL - Sondervorschriften
+### § 64 - Einstellung von Arbeiten
 
-### § 69 - Fliegende Bauten
+(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder abgebrochen, so kann die Baurechtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt insbesondere, wenn
 
-(1) Fliegende Bauten sind bauliche Anlagen, die geeignet und bestimmt sind, an wechselnden Orten wiederholt aufgestellt und zerlegt zu werden. Fliegende Bauten sind insbesondere Verkaufsstände und Verkaufsbuden, Zelte, Tribünen, Bühnen und Schaubuden.
+1. die Ausführung eines Vorhabens entgegen § 59 begonnen wurde,
+2. das Vorhaben ohne die erforderlichen Bauabnahmen (§ 67) oder Nachweise (§ 66 Abs. 2 und 4) oder über die Teilbaugenehmigung (§ 61) hinaus fortgesetzt wurde,
+3. bei der Ausführung eines Vorhabens   a) von der erteilten Baugenehmigung oder Zustimmung,
+  b) im Kenntnisgabeverfahren von den eingereichten Bauvorlagen abgewichen wird, es sei denn die Abweichung ist nach § 50 verfahrensfrei,
+4. Bauprodukte verwendet werden, die entgegen der Verordnung (EU) Nr. 305/2011 keine CE-Kennzeichnung oder entgegen § 21 kein Ü-Zeichen tragen oder unberechtigt damit gekennzeichnet sind.
 
-(2) Wer einen Fliegenden Bau aufstellen will, bedarf der Erlaubnis der Baurechtsbehörde. Die Erlaubnis kann mit Nebenbestimmungen versehen und befristet werden.
+Widerspruch und Anfechtungsklage gegen die Anordnung der Einstellung der Arbeiten haben keine aufschiebende Wirkung.
 
-(3) Die Erlaubnis ist zu versagen, wenn
+(2) Werden Arbeiten trotz schriftlich oder mündlich verfügter Einstellung fortgesetzt, so kann die Baurechtsbehörde die Baustelle versiegeln und die an der Baustelle vorhandenen Baustoffe, Bauteile, Baugeräte, Baumaschinen und Bauhilfsmittel in amtlichen Gewahrsam nehmen.
 
-1. der Fliegende Bau an dem vorgesehenen Standort öffentlich-rechtlichen Vorschriften widerspricht,
-2. von dem Fliegenden Bau Gefahren für Leben, Gesundheit oder die öffentliche Sicherheit ausgehen,
-3. die nach Absatz 4 erforderliche Prüfung nicht vorliegt oder
-4. die Standsicherheit, die Verkehrssicherheit oder der Brandschutz nicht gewährleistet sind.
+### § 65 - Abbruchsanordnung und Nutzungsuntersagung
 
-(4) Fliegende Bauten, bei denen auf Grund ihrer Bauart oder ihres Betriebs in besonderem Maße Gefahren für Leben oder Gesundheit entstehen können, bedürfen vor ihrer ersten Inbetriebnahme und danach wiederkehrend einer Prüfung durch einen Prüfsachverständigen. Die Fristen für die wiederkehrenden Prüfungen werden von der Baurechtsbehörde festgelegt.
+(1) Der teilweise oder vollständige Abbruch einer Anlage, die im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet wurde, kann angeordnet werden, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden.
 
-### § 70 - Anlagen zur Abfallentsorgung
+(2) Soweit bauliche Anlagen nicht genutzt werden und im Verfall begriffen sind, kann die Baurechtsbehörde die Grundstückseigentümer und Erbbauberechtigten verpflichten, die Anlage abzubrechen oder zu beseitigen; die Bestimmungen des Denkmalschutzgesetzes bleiben unberührt.
 
-(1) Die Errichtung und der Betrieb von Anlagen zur Lagerung, Behandlung oder Verwertung von Abfällen sind nach den Vorschriften des Bundes-Immissionsschutzgesetzes, des Kreislaufwirtschaftsgesetzes und der auf Grund dieser Gesetze erlassenen Rechtsverordnungen zu beurteilen.
+### § 66 - Bauüberwachung
 
-(2) Für Anlagen nach Absatz 1, die einer Genehmigung nach dem Bundes-Immissionsschutzgesetz bedürfen, gelten die bauordnungsrechtlichen Vorschriften dieses Gesetzes nur, soweit sie nicht durch das Bundes-Immissionsschutzgesetz oder die darauf beruhenden Rechtsverordnungen erfasst werden.
+(1) Die Baurechtsbehörde kann die Ordnungsmäßigkeit der Bauausführung und die ordnungsgemäße Erfüllung der Pflichten der am Bau Beteiligten nach den §§ 42 bis 45 überprüfen. Sie kann verlangen, dass Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden.
 
-### § 71 - Geothermische Anlagen
+(2) Die Ordnungsmäßigkeit der Bauausführung umfasst auch die Tauglichkeit der Gerüste und Absteifungen sowie die Bestimmungen zum Schutze der allgemeinen Sicherheit. Die Baurechtsbehörde und die von ihr Beauftragten können Proben von Bauprodukten, soweit erforderlich auch aus fertigen Bauteilen, entnehmen und prüfen oder prüfen lassen.
 
-(1) Für die Errichtung und den Betrieb von Anlagen zur Nutzung der Erdwärme (geothermische Anlagen) gelten die wasserrechtlichen und bergrechtlichen Vorschriften.
+(3) Den mit der Überwachung beauftragten Personen ist jederzeit Zutritt zu Baustellen und Betriebsstätten sowie Einblick in Genehmigungen und Zulassungen, Prüfzeugnisse, Übereinstimmungserklärungen, Übereinstimmungszertifikate, Überwachungsnachweise, Zeugnisse und Aufzeichnungen über die Prüfung von Bauprodukten, in die CE-Kennzeichnungen und Leistungserklärungen nach der Verordnung (EU) Nr. 305/2011, in die Bautagebücher und andere vorgeschriebene Aufzeichnungen zu gewähren. Der Bauherr hat die für die Überwachung erforderlichen Arbeitskräfte und Geräte zur Verfügung zu stellen.
 
-(2) Bauliche Anlagen, die der Erdwärmenutzung dienen, bedürfen keiner Baugenehmigung, soweit sie nicht Gebäude sind und die wasserrechtlichen Anforderungen erfüllt sind.
+(4) Die Baurechtsbehörde kann einen Nachweis darüber verlangen, dass die Grundflächen, Abstände und Höhenlagen der Gebäude eingehalten sind.
 
-### § 72 - Aufschüttungen und Abgrabungen
+(5)  Die Baurechtsbehörde soll, soweit sie im Rahmen der Bauüberwachung Erkenntnisse über systematische Rechtsverstöße gegen die Verordnung (EU) Nr. 305/2011 erlangt, diese der für die Marktüberwachung zuständigen Stelle mitteilen.
 
-(1) Aufschüttungen und Abgrabungen, die die Gestalt oder die Nutzung von Grundstücken wesentlich verändern, bedürfen der Baugenehmigung.
+(6) Sind Bauprodukte entgegen § 21 mit dem Ü-Kennzeichen gekennzeichnet, so kann die Baurechtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen.
 
-(2) Die Baugenehmigung ist zu versagen, wenn
+### § 67 - Bauabnahmen, Inbetriebnahme der Feuerungsanlagen
 
-1. die Aufschüttung oder Abgrabung gegen öffentlich-rechtliche Vorschriften verstößt,
-2. die Standsicherheit oder die Verkehrssicherheit nicht gewährleistet ist,
-3. Gefahren für Nachbargrundstücke entstehen oder
-4. das Orts- oder Landschaftsbild erheblich beeinträchtigt wird.
+(1) Soweit es bei genehmigungspflichtigen Vorhaben zur Wirksamkeit der Bauüberwachung erforderlich ist, kann in der Baugenehmigung oder der Teilbaugenehmigung, aber auch noch während der Bauausführung die Abnahme
 
----
+1. bestimmter Bauteile oder Bauarbeiten und
+2. der baulichen Anlage nach ihrer Fertigstellung vorgeschrieben werden.
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
+(2) Schreibt die Baurechtsbehörde eine Abnahme vor, hat der Bauherr rechtzeitig elektronisch in Textform mitzuteilen, wann die Voraussetzungen für die Abnahme gegeben sind. Der Bauherr oder die Unternehmer haben auf Verlangen die für die Abnahmen erforderlichen Arbeitskräfte und Geräte zur Verfügung zu stellen.
 
----
-## ZEHNTER TEIL - Verordnungsermächtigungen
+(3) Bei Beanstandungen kann die Abnahme abgelehnt werden. Über die Abnahme stellt die Baurechtsbehörde auf Verlangen des Bauherrn eine Bescheinigung aus (Abnahmeschein).
 
-### § 73 - Verordnungsermächtigungen für technische Baubestimmungen
+(4) Die Baurechtsbehörde kann verlangen, dass bestimmte Bauarbeiten erst nach einer Abnahme durchgeführt oder fortgesetzt werden. Sie kann aus den Gründen des § 3 Abs. 1 auch verlangen, dass eine bauliche Anlage erst nach einer Abnahme in Gebrauch genommen wird.
 
-(1) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung technische Baubestimmungen zu erlassen oder Technische Baubestimmungen bekannt zu machen.
+(5) Bei genehmigungspflichtigen und bei kenntnisgabepflichtigen Vorhaben dürfen die Feuerungsanlagen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Brandsicherheit und die sichere Abführung der Verbrennungsgase bescheinigt hat. Satz 1 gilt für ortsfeste Blockheizkraftwerke und Verbrennungsmotoren in Gebäuden entsprechend.
 
-(2) Technische Baubestimmungen können insbesondere betreffen:
+### § 68 - Typengenehmigung, Typenprüfung
 
-1. Anforderungen an Bauprodukte,
-2. Anforderungen an Bauarten,
-3. Anforderungen an die Ausführung baulicher Anlagen,
-4. Anforderungen an den Brandschutz,
-5. Anforderungen an den Schallschutz,
-6. Anforderungen an den Wärmeschutz,
-7. Anforderungen an die Standsicherheit.
+(1) Für bauliche Anlagen oder Teile von baulichen Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die höhere Baurechtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Gesetz oder aufgrund dieses Gesetzes erlassenen Vorschriften entsprechen. Eine Typengenehmigung kann auch für bauliche Anlagen erteilt werden, die in unterschiedlicher Ausführung, aber nach einem bestimmten System und aus bestimmten Bauteilen an mehreren Stellen errichtet werden sollen; in der Typengenehmigung ist die zulässige Veränderbarkeit festzulegen. Für Fliegende Bauten wird eine Typengenehmigung nicht erteilt.
 
-(3) Technische Baubestimmungen können auch durch Verweis auf technische Regeln, Normen oder sonstige Bestimmungen in Bezug genommen werden.
+(2) Die höhere Baurechtsbehörde kann die Prüfung der Nachweise der Standsicherheit, des Schallschutzes oder der Feuerwiderstandsdauer der Bauteile (bautechnische Prüfung) ganz oder teilweise einem Prüfamt für Baustatik übertragen.
 
-(4) Die oberste Baurechtsbehörde macht die Liste der Technischen Baubestimmungen im Gemeinsamen Ministerialblatt bekannt.
+(3) Auf Antrag bei einem Prüfamt für Baustatik kann dieses durch Bescheid feststellen, dass die Nachweise im Umfang der bautechnischen Prüfung nach Absatz 2 den öffentlich-rechtlichen Vorschriften entsprechen (Typenprüfung). Die Typenprüfung darf nur widerruflich erteilt oder verlängert werden; die Absätze 4 bis 6 gelten insoweit entsprechend.
 
-(5) Soweit in den Technischen Baubestimmungen auf technische Regeln verwiesen wird, sind diese beim Deutschen Institut für Bautechnik archivmäßig gesichert niedergelegt und jedermann zugänglich.
+(4) Die Typengenehmigung gilt fünf Jahre. Die Frist kann auf Antrag jeweils bis zu fünf Jahre verlängert werden; § 62 Absatz 2 Satz 2 gilt entsprechend.
 
-(6) Die oberste Baurechtsbehörde wird ferner ermächtigt, durch Rechtsverordnung
+(5) Typengenehmigungen anderer Bundesländer gelten auch in Baden-Württemberg.
 
-1. die Voraussetzungen und das Verfahren für die Anerkennung von Prüfsachverständigen und Prüfstellen zu regeln,
-2. die Anforderungen an die Ausbildung, Prüfung und Fortbildung von Prüfsachverständigen zu regeln,
-3. die Vergütung der Prüfsachverständigen und Prüfstellen zu regeln.
+(6) Eine Typengenehmigung entbindet nicht von der Verpflichtung, ein bauaufsichtliches Verfahren durchzuführen. Die in der Typengenehmigung entschiedenen Fragen sind von der Baurechtsbehörde nicht mehr zu prüfen.
 
-(7) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung Vorschriften über die Bauvorlagen zu erlassen, insbesondere über
+### § 69 - Fliegende Bauten
 
-1. den Inhalt und die Form der Bauvorlagen,
-2. die Zahl der Ausfertigungen,
-3. die beizufügenden Unterlagen und Nachweise,
-4. die elektronische Einreichung.
+(1) Fliegende Bauten sind bauliche Anlagen, die geeignet und bestimmt sind, an verschiedenen Orten wiederholt aufgestellt und abgebaut zu werden. Baustelleneinrichtungen und Baugerüste gelten nicht als Fliegende Bauten.
 
-(7a) Die oberste Baurechtsbehörde kann durch Rechtsverordnung bestimmen, für welche Bauprodukte ein Verwendbarkeitsnachweis erforderlich ist.
+(2) Fliegende Bauten bedürfen, bevor sie erstmals aufgestellt und in Gebrauch genommen werden, einer Ausführungsgenehmigung. Dies gilt nicht für unbedeutende Fliegende Bauten, an die besondere Sicherheitsanforderungen nicht gestellt werden, sowie für Fliegende Bauten, die der Landesverteidigung dienen.
 
-### § 73a - Technische Baubestimmungen
+(3) Zuständig für die Erteilung der Ausführungsgenehmigung ist die von der obersten Baurechtsbehörde in einer Rechtsverordnung nach § 73 Absatz 8 Nummer 1 bestimmte Stelle.
 
-(1) Die oberste Baurechtsbehörde macht Technische Baubestimmungen bekannt.
+(4) Die Ausführungsgenehmigung wird für eine bestimmte Frist erteilt, die fünf Jahre nicht überschreiten soll. Sie kann auf elektronisch in Textform gestellten Antrag jeweils bis zu fünf Jahren verlängert werden. § 62 Abs. 2 Satz 2 gilt entsprechend. Die Ausführungsgenehmigung und deren Verlängerung werden in ein Prüfbuch eingetragen, dem eine Ausfertigung der mit Genehmigungsvermerk versehenen Bauvorlagen beizufügen ist.
 
-(2) Technische Baubestimmungen können sich beziehen auf:
+(5) Der Inhaber der Ausführungsgenehmigung hat den Wechsel seines Wohnsitzes oder seiner gewerblichen Niederlassung oder die Übertragung eines Fliegenden Baues an Dritte der zuletzt für die Ausführungsgenehmigung zuständigen Behörde unverzüglich anzuzeigen. Diese hat die Änderungen in das Prüfbuch einzutragen und sie, wenn mit den Änderungen ein Wechsel der Zuständigkeit verbunden ist, der nunmehr zuständigen Behörde mitzuteilen.
 
-1. Bauprodukte, für die harmonisierte technische Spezifikationen bestehen,
-2. Bauarten,
-3. die Planung, Bemessung und Ausführung baulicher Anlagen.
+(6) Fliegende Bauten, die nach Absatz 2 einer Ausführungsgenehmigung bedürfen, dürfen unbeschadet anderer Vorschriften nur in Gebrauch genommen werden, wenn ihre Aufstellung der Baurechtsbehörde des Aufstellungsortes rechtzeitig unter Vorlage des Prüfbuches oder unter Angabe der wesentlichen Daten des Fliegenden Baus, insbesondere Angaben zu der Art des Fliegenden Baus, den Größenabmessungen (Grundfläche, Höhe), der Geltungsdauer der Ausführungsgenehmigung und den Nebenbestimmungen, der geplanten Betriebszeit und dem Betreiber, in Textform angezeigt ist. Die Baurechtsbehörde kann die Inbetriebnahme von einer Gebrauchsabnahme abhängig machen. Das Ergebnis der Gebrauchsabnahme oder der Verzicht darauf ist in das Prüfbuch einzutragen.
 
-(3) Die Bekanntmachung der Technischen Baubestimmungen erfolgt als Liste im Gemeinsamen Ministerialblatt.
+(7) Die für die Gebrauchsabnahme zuständige Baurechtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil
 
-### § 74 - Weitere Verordnungsermächtigungen
+1. die Betriebs- oder Standsicherheit nicht gewährleistet ist,
+2. von der Ausführungsgenehmigung abgewichen wird oder
+3. die Ausführungsgenehmigung abgelaufen ist.
 
-(1) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung
+Wird die Aufstellung oder der Gebrauch wegen Mängeln am Fliegenden Bau untersagt, so ist dies in das Prüfbuch einzutragen; ist die Beseitigung der Mängel innerhalb angemessener Frist nicht zu erwarten, so ist das Prüfbuch einzuziehen und der für die Erteilung der Ausführungsgenehmigung zuständigen Behörde zuzuleiten.
 
-1. Vorschriften über die Beschaffenheit, Ausführung und den Betrieb von Sonderbauten zu erlassen,
-2. Vorschriften über besondere Anforderungen an Verkaufsstätten zu erlassen,
-3. Vorschriften über Garagen und Stellplätze zu erlassen,
-4. Vorschriften über Kinderspielplätze zu erlassen.
+(8) Bei Fliegenden Bauten, die längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Baurechtsbehörde Nachabnahmen durchführen. Das Ergebnis der Nachabnahmen ist in das Prüfbuch einzutragen.
 
-(2) Die oberste Baurechtsbehörde kann durch Rechtsverordnung bestimmen, unter welchen Voraussetzungen und in welchem Umfang bei bestimmten Gebäuden oder Nutzungen von den Vorschriften dieses Gesetzes abgewichen werden kann.
+(9) § 47 Abs. 2, § 53 Absätze 1 bis 4 sowie § 54 Abs. 1 gelten entsprechend.
 
----
+(10) Ausführungsgenehmigungen anderer Bundesländer gelten auch in Baden-Württemberg.
 
-**Neugefasst:** 05.03.2010
-**Gültig ab:** 01.03.2010
-**Stand:** Zuletzt geändert durch Artikel 1 des Gesetzes vom 18. März 2025 (GBl. 2025 Nr. 25)
+### § 70 - Zustimmungsverfahren, Vorhaben der Landesverteidigung
 
----
-## ELFTER TEIL - Ordnungswidrigkeiten, Schlussvorschriften
+(1) An die Stelle der Baugenehmigung tritt die Zustimmung, wenn
 
-### § 75 - Ordnungswidrigkeiten
+1. der Bund, ein Land, eine andere Gebietskörperschaft des öffentlichen Rechts oder eine Kirche Bauherr ist und
+2. der Bauherr die Leitung der Entwurfsarbeiten und die Bauüberwachung geeigneten Fachkräften seiner Baubehörde übertragen hat.
+
+Dies gilt entsprechend für Vorhaben Dritter, die in Erfüllung einer staatlichen Baupflicht vom Land durchgeführt werden.
+
+(2) Der Antrag auf Zustimmung ist bei der unteren Baurechtsbehörde einzureichen. Hinsichtlich des Prüfungsumfangs gilt § 52 Absatz 2. § 52 Absatz 3, § 53 Absatz 1 bis 4, § 54 Absatz 1 und 4, § 55 Absatz 1, 2 und 4, § 56, § 58, § 59 Absatz 1 bis 3, § 61, § 62, § 64, § 65 sowie § 67 Absatz 5 gelten entsprechend. Die Fachkräfte nach Absatz 1 Satz 1 Nummer 2 sind der Baurechtsbehörde zu benennen. Die bautechnische Prüfung sowie Bauüberwachung und Bauabnahmen finden nicht statt.
+
+(3) Vorhaben, die der Landesverteidigung dienen, bedürfen weder einer Baugenehmigung noch einer Kenntnisgabe nach § 51 noch einer Zustimmung nach Absatz 1. Sie sind statt dessen der höheren Baurechtsbehörde vor Baubeginn in geeigneter Weise zur Kenntnis zu bringen.
+
+(4) Der Bauherr ist dafür verantwortlich, dass Entwurf und Ausführung von Vorhaben nach den Absätzen 1 und 3 den öffentlich-rechtlichen Vorschriften entsprechen.
+
+### § 71 - Übernahme von Baulasten
+
+(1) Durch Erklärung gegenüber der Baurechtsbehörde können Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffentlich-rechtlichen Vorschriften ergeben (Baulasten). Sie sind auch gegenüber dem Rechtsnachfolger wirksam.
+
+(2) Die Erklärung nach Absatz 1 muss vor der Baurechtsbehörde oder vor der Gemeindebehörde abgegeben oder anerkannt werden; sie kann auch in öffentlich beglaubigter Form einer dieser Behörden vorgelegt werden.
+
+(3) Die Baulast erlischt durch in Textform erklärten Verzicht der Baurechtsbehörde. Der Verzicht ist zu erklären, wenn ein öffentliches Interesse an der Baulast nicht mehr besteht. Vor dem Verzicht sollen der Verpflichtete und die durch die Baulast Begünstigten gehört werden.
+
+### § 72 - Baulastenverzeichnis
+
+(1) Die Baulasten sind auf Anordnung der Baurechtsbehörde in ein Verzeichnis einzutragen (Baulastenverzeichnis).
+
+(2) In das Baulastenverzeichnis sind auch einzutragen, soweit ein öffentliches Interesse an der Eintragung besteht,
+
+1. andere baurechtliche, altlastenrechtliche oder bodenschutzrechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffenden Tun, Dulden oder Unterlassen,
+2. Bedingungen, Befristungen und Widerrufsvorbehalte.
+
+(3) Das Baulastenverzeichnis wird von der Gemeinde geführt.
+
+(4) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich Abschriften erteilen lassen.
+
+## NEUNTER TEIL Rechtsvorschriften, Ordnungswidrigkeiten, Übergangs- und Schlussvorschriften
+
+### § 73 - Rechtsverordnungen
+
+(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Baurechtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über
+
+1. die nähere Bestimmung allgemeiner Anforderungen in den §§ 4 bis 37,
+2. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen und Räume nach § 38 für ihre Errichtung, Unterhaltung und Nutzung ergeben, sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,
+3. eine von Zeit zu Zeit zu wiederholende Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,
+4. die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen, wie Bühnenbetriebe und technisch schwierige Fliegende Bauten,
+5. den Nachweis der Befähigung der in Nummer 4 genannten Personen,
+6. die Förderung der Elektromobilität.
+
+(2) Die oberste Baurechtsbehörde wird ermächtigt, zum baurechtlichen Verfahren durch Rechtsverordnung Vorschriften zu erlassen über
+
+1. Art, Inhalt, Beschaffenheit und Zahl der Bauvorlagen, dabei kann festgelegt werden, dass bestimmte Bauvorlagen von Sachverständigen oder sachverständigen Stellen zu verfassen sind,
+2. die erforderlichen Anträge, Anzeigen, Nachweise und Bescheinigungen,
+3. das Verfahren im Einzelnen.
+
+Sie kann dabei für verschiedene Arten von Bauvorhaben unterschiedliche Anforderungen und Verfahren festlegen.
+
+(3) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung vorzuschreiben, dass die am Bau Beteiligten (§§ 42 bis 45) zum Nachweis der ordnungsgemäßen Bauausführung Bescheinigungen, Bestätigungen oder Nachweise des Entwurfsverfassers, der Unternehmer, des Bauleiters, von Sachverständigen, Fachplanern oder Behörden über die Einhaltung baurechtlicher Anforderungen vorzulegen haben.
+
+(4) Die Landesregierung wird ermächtigt, zur Vereinfachung, Erleichterung oder Beschleunigung der baurechtlichen Verfahren oder zur Entlastung der Baurechtsbehörde durch Rechtsverordnung Vorschriften zu erlassen über
+
+1. den vollständigen oder teilweisen Wegfall der Prüfung öffentlich-rechtlicher Vorschriften über die technische Beschaffenheit bei bestimmten Arten von Bauvorhaben,
+2. die Heranziehung von Sachverständigen oder sachverständigen Stellen,
+3. die Übertragung von Prüfaufgaben im Rahmen des baurechtlichen Verfahrens einschließlich der Bauüberwachung und Bauabnahmen sowie die Übertragung sonstiger, der Vorbereitung baurechtlicher Entscheidungen dienenden Aufgaben und Befugnisse der Baurechtsbehörde auf Sachverständige oder sachverständige Stellen.
+
+Sie kann dafür bestimmte Voraussetzungen festlegen, die die Verantwortlichen nach § 43 zu erfüllen haben.
+
+(5) Die oberste Baurechtsbehörde kann durch Rechtsverordnung für Sachverständige, die nach diesem Gesetz oder nach Vorschriften auf Grund dieses Gesetzes tätig werden,
+
+1. eine bestimmte Ausbildung, Sachkunde oder Erfahrung vorschreiben,
+2. die Befugnisse und Pflichten bestimmen,
+3. eine besondere Anerkennung vorschreiben,
+4. die Zuständigkeit, das Verfahren und die Voraussetzungen für die Anerkennung, ihren Widerruf, ihre Rücknahme und ihr Erlöschen sowie die Vergütung der Sachverständigen regeln.
+
+(6) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung die Befugnisse auf andere als in diesen Vorschriften aufgeführte Behörden zu übertragen für
+
+1. die Zuständigkeit für die vorhabenbezogene Bauartgenehmigung nach § 16a Absatz 2 Satz 1 Nummer 2 und den Verzicht darauf im Einzelfall nach § 16a Absatz 4 sowie die Entscheidungen über Zustimmungen im Einzelfall (§ 20),
+2. die Anerkennung von Prüf-, Zertifizierungs- und Überwachungsstellen (§ 24).
+
+Die Befugnis nach Nummer 2 kann auch auf eine Behörde eines anderen Landes übertragen werden, die der Aufsicht einer obersten Baurechtsbehörde untersteht oder an deren Willensbildung die oberste Baurechtsbehörde mitwirkt.
+
+(7) Die oberste Baurechtsbehörde kann durch Rechtsverordnung
+
+1. das Ü-Zeichen festlegen und zu diesem Zeichen zusätzliche Angaben verlangen,
+2. das Anerkennungsverfahren nach § 24, die Voraussetzungen für die Anerkennung, ihren Widerruf und ihr Erlöschen regeln, insbesondere auch Altersgrenzen festlegen, sowie eine ausreichende Haftpflichtversicherung fordern.
+
+(7a) Die oberste Baurechtsbehörde kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2 und §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen.
+
+(8) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass
+
+1. Ausführungsgenehmigungen für Fliegende Bauten nur durch bestimmte Behörden oder durch von ihr bestimmte Stellen erteilt und die in § 69 Abs. 6 bis 8 genannten Aufgaben der Baurechtsbehörde durch andere Behörden oder Stellen wahrgenommen werden; dabei kann die Vergütung dieser Stellen geregelt werden,
+2. die Anforderungen der auf Grund des § 34 des Produktsicherheitsgesetzes und des § 49 Abs. 4 des Energiewirtschaftgesetzes erlassenen Rechtsverordnungen entsprechend für Anlagen gelten, die nicht gewerblichen Zwecken dienen und nicht im Rahmen wirtschaftlicher Unternehmungen Verwendung finden; sie kann auch die Verfahrensvorschriften dieser Verordnungen für anwendbar erklären oder selbst das Verfahren bestimmen sowie Zuständigkeiten und Gebühren regeln; dabei kann sie auch vorschreiben, dass danach zu erteilende Erlaubnisse die Baugenehmigung oder die Zustimmung nach § 70 einschließlich der zugehörigen Abweichungen, Ausnahmen und Befreiungen einschließen, sowie dass § 35 Absatz 2 des Produktsicherheitsgesetzes insoweit Anwendung findet.
+
+### § 73a - Technische Baubestimmungen
+
+(1) Die Anforderungen nach § 3 Absatz 1 Satz 1 können durch Technische Baubestimmungen konkretisiert werden. Die Technischen Baubestimmungen sind zu beachten. Von den in den Technischen Baubestimmungen enthaltenen Planungs-, Bemessungs- und Ausführungsregelungen kann abgewichen werden, wenn mit einer anderen Lösung in gleichem Maße die Anforderungen erfüllt werden und in der Technischen Baubestimmung eine Abweichung nicht ausgeschlossen ist; § 16a Absatz 2 und § 17 Absatz 1 bleiben unberührt.
+
+(2) Die Konkretisierungen können durch Bezugnahmen auf technische Regeln und deren Fundstellen oder auf andere Weise erfolgen, insbesondere in Bezug auf:
+
+1. bestimmte bauliche Anlagen oder ihre Teile,
+2. die Planung, Bemessung und Ausführung baulicher Anlagen und ihrer Teile,
+3. die Leistung von Bauprodukten in bestimmten baulichen Anlagen oder ihren Teilen, insbesondere  a) Planung, Bemessung und Ausführung baulicher Anlagen bei Einbau eines Bauprodukts,
+  b) Merkmale von Bauprodukten, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Absatz 1 Satz 1 auswirken,
+  c) Verfahren für die Feststellung der Leistung eines Bauproduktes im Hinblick auf Merkmale, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Absatz 1 Satz 1 auswirken,
+  d) zulässige oder unzulässige besondere Verwendungszwecke,
+  e) die Festlegung von Klassen und Stufen in Bezug auf bestimmte Verwendungszwecke,
+  f) die für einen bestimmten Verwendungszweck anzugebende oder erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, das sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Absatz 1 Satz 1 auswirkt, soweit vorgesehen in Klassen und Stufen,
+4. die Bauarten und die Bauprodukte, die nur eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 16a Absatz 3 oder § 19 Absatz 1 bedürfen,
+5. Voraussetzungen zur Abgabe der Übereinstimmungserklärung für ein Bauprodukt nach § 22,
+6. die Art, den Inhalt und die Form technischer Dokumentation.
+
+(3) Die Technischen Baubestimmungen sollen nach den Grundanforderungen gemäß Anhang I der Verordnung (EU) Nr. 305/2011 gegliedert sein.
+
+(4) Die Technischen Baubestimmungen enthalten die in § 17 Absatz 3 genannte Liste.
+
+(5) Die oberste Baurechtsbehörde macht nach Anhörung der beteiligten Kreise zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen die Technischen Baubestimmungen nach Absatz 1 als Verwaltungsvorschrift bekannt. Soweit diese Technischen Baubestimmungen einem vom Deutschen Institut für Bautechnik im Einvernehmen mit den obersten Bauaufsichtsbehörden der Länder veröffentlichten Muster einer Verwaltungsvorschrift über Technische Baubestimmungen entsprechen und zu diesem Muster bereits eine Anhörung der beteiligten Kreise durch das Deutsche Institut für Bautechnik erfolgt ist, ist eine Anhörung nach Satz 1 entbehrlich.
+
+### § 74 - Örtliche Bauvorschriften
+
+(1) Zur Durchführung baugestalterischer Absichten, zur Erhaltung schützenswerter Bauteile, zum Schutz bestimmter Bauten, Straßen, Plätze oder Ortsteile von geschichtlicher, künstlerischer oder städtebaulicher Bedeutung sowie zum Schutz von Kultur- und Naturdenkmalen können die Gemeinden im Rahmen dieses Gesetzes in bestimmten bebauten oder unbebauten Teilen des Gemeindegebiets durch Satzung örtliche Bauvorschriften erlassen über
+
+1. Anforderungen an die äußere Gestaltung baulicher Anlagen einschließlich Regelungen über Gebäudehöhen und -tiefen sowie über die Begrünung,
+2. Anforderungen an Werbeanlagen und Automaten; dabei können sich die Vorschriften auch auf deren Art, Größe, Farbe und Anbringungsort sowie auf den Ausschluss bestimmter Werbeanlagen und Automaten beziehen,
+3. Anforderungen an die Gestaltung, Bepflanzung und Nutzung der unbebauten Flächen der bebauten Grundstücke und an die Gestaltung der Plätze für bewegliche Abfallbehälter sowie über Notwendigkeit oder Zulässigkeit und über Art, Gestaltung und Höhe von Einfriedungen,
+4. die Beschränkung oder den Ausschluss der Verwendung von Außenantennen,
+5. die Unzulässigkeit von Niederspannungsfreileitungen in neuen Baugebieten und Sanierungsgebieten,
+6. das Erfordernis einer Kenntnisgabe für Vorhaben, die nach § 50 verfahrensfrei sind,
+7. andere als die in § 5 Abs. 7 vorgeschriebenen Maße. Die Gemeinden können solche Vorschriften auch erlassen, soweit dies zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung gewährleistet ist. Sie können zudem regeln, dass § 5 Abs. 7 keine Anwendung findet, wenn durch die Festsetzungen einer städtebaulichen Satzung Außenwände zugelassen oder vorgeschrieben werden, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach diesen Vorschriften liegen müssten.
+
+Anforderungen nach Satz 1 Nummer 1 und 3 sind nur zulässig, wenn sie gleichzeitig die Nutzung erneuerbarer Energien zulassen. Anforderungen in bereits bestehenden Satzungen, die dem Satz 2 widersprechende Anforderungen enthalten, werden unwirksam.
+
+(2) Soweit Gründe des Verkehrs oder städtebauliche Gründe oder Gründe sparsamer Flächennutzung dies rechtfertigen, können die Gemeinden für das Gemeindegebiet oder für genau abgegrenzte Teile des Gemeindegebiets durch Satzung bestimmen, dass
+
+1. die Stellplatzverpflichtung (§ 37 Abs. 1) eingeschränkt wird,
+2. die Stellplatzverpflichtung für Wohnungen (§ 37 Abs. 1) auf bis zu zwei Stellplätze erhöht wird; für diese Stellplätze gilt § 37 entsprechend,
+3. die Herstellung von Stellplätzen und Garagen eingeschränkt oder untersagt wird,
+4. Stellplätze und Garagen auf anderen Grundstücken als dem Baugrundstück herzustellen sind,
+5. Stellplätze und Garagen nur in einer platzsparenden Bauart hergestellt werden dürfen, zum Beispiel mehrgeschossig, als kraftbetriebene Hebebühnen oder als automatische Garagen,
+6. Abstellplätze für Fahrräder in ausreichender Zahl und geeigneter Beschaffenheit herzustellen sind.
+
+(3) Die Gemeinden können durch Satzung für das Gemeindegebiet oder genau abgegrenzte Teile des Gemeindegebiets bestimmen, dass
+
+1. zur Vermeidung von überschüssigem Bodenaushub die Höhenlage der Grundstücke erhalten oder verändert wird,
+2. Anlagen zum Sammeln, Verwenden oder Versickern von Niederschlagswasser oder zum Verwenden von Brauchwasser herzustellen sind, um die Abwasseranlagen zu entlasten, Überschwemmungsgefahren zu vermeiden und den Wasserhaushalt zu schonen, soweit gesundheitliche oder wasserwirtschaftliche Belange nicht beeinträchtigt werden.
+
+(4) Durch Satzung können die Gemeinden für das Gemeindegebiet oder genau abgegrenzte Teile des Gemeindegebiets bestimmen, dass
+
+1. für bestehende Gebäude Kinderspielplätze nach § 9 Absatz 2 Satz 1 anzulegen sind, wenn hierfür geeignete nichtüberbaute Flächen auf dem Grundstück vorhanden sind oder ohne wesentliche Änderung oder Abbruch baulicher Anlagen geschaffen werden können,
+2. eine von § 9 Absatz 2 Satz 1 abweichende Wohnungszahl gilt.
+
+(5) Anforderungen nach den Absätzen 1 bis 3 können in den örtlichen Bauvorschriften auch in Form zeichnerischer Darstellungen gestellt werden.
+
+(6) Die örtlichen Bauvorschriften werden nach den entsprechend geltenden Vorschriften des § 1 Abs. 3 Satz 2 und Abs. 8, § 3 Abs. 2, des § 4 Abs. 2, des § 9 Abs. 7 und des § 13 BauGB erlassen. § 10 Abs. 3 BauGB gilt entsprechend mit der Maßgabe, dass die Gemeinde in der Satzung auch einen späteren Zeitpunkt für das Inkrafttreten bestimmen kann.
+
+(7) Werden örtliche Bauvorschriften zusammen mit einem Bebauungsplan oder einer anderen städtebaulichen Satzung nach dem Baugesetzbuch beschlossen, richtet sich das Verfahren für ihren Erlass in vollem Umfang nach den für den Bebauungsplan oder die sonstige städtebauliche Satzung geltenden Vorschriften. Dies gilt für die Änderung, Ergänzung und Aufhebung entsprechend.
+
+### § 75 - Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. ohne die erforderliche Baugenehmigung, Zustimmung, Abweichung, Ausnahme oder Befreiung ein Vorhaben durchführt oder durchführen lässt,
-2. einer vollziehbaren Auflage oder Bedingung in einer Baugenehmigung oder einem Bauvorbescheid nicht nachkommt,
-3. einer vollziehbaren Anordnung der Baurechtsbehörde nicht nachkommt,
-4. gegen eine Vorschrift über die Bauüberwachung verstößt,
-5. die Fertigstellung einer baulichen Anlage nicht oder nicht rechtzeitig anzeigt,
-6. entgegen § 59 Absatz 2 den Baubeginn nicht anzeigt,
-7. entgegen § 59 Absatz 3 die erforderlichen Festlegungen nicht oder nicht rechtzeitig vornimmt,
-8. gegen Vorschriften über Standplätze und Lagerplätze verstößt.
+1. entgegen § 8 Absatz 2 Satz 1 die geplante Teilung eines Grundstücks nicht anzeigt,
+2. entgegen § 15 Absatz 6 Satz 3, 4, 8 oder 9 Zu- oder Durchgänge oder Zu- oder Durchfahrten für die Feuerwehr durch Einbauten einengt oder entgegen § 15 Absatz 7 die Zu- oder Durchfahrten, Aufstellflächen oder Bewegungsflächen für die Feuerwehr nicht freihält,
+3. Bauprodukte entgegen § 21 Absatz 3 ohne das Ü-Zeichen verwendet,
+4. Bauarten entgegen § 16a ohne Bauartgenehmigung oder allgemeines bauaufsichtliches Prüfzeugnis für Bauarten anwendet,
+5. Bauprodukte mit dem Ü-Zeichen kennzeichnet, ohne dass dafür die Voraussetzungen nach § 21 Absatz 3 vorliegen,
+6. als Bauherr entgegen § 42 Absatz 1 Satz 3 die erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten nicht bereithält oder entgegen § 42 Absatz 2 Satz 3 kenntnisgabepflichtige Abbrucharbeiten ausführt oder ausführen lässt,
+7. als Entwurfsverfasser entgegen § 43 Absatz 2 den Bauherrn nicht veranlasst, geeignete Fachplaner zu bestellen,
+8. als Unternehmer entgegen § 44 Absatz 1 Satz 2 nicht für die ordnungsgemäße Einrichtung und den sicheren Betrieb der Baustellen sorgt oder entgegen § 44 Absatz 1 Satz 3 die erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten nicht erbringt oder nicht bereithält,
+9. als Bauleiter entgegen § 45 Absatz 1 nicht auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmer achtet,
+10. als Bauherr, Unternehmer oder Bauleiter eine nach § 49 genehmigungspflichtige Anlage oder Einrichtung ohne Genehmigung errichtet, benutzt oder von der erteilten Genehmigung abweicht, obwohl er dazu einer Genehmigung bedurft hätte,
+11. als Bauherr oder Bauleiter von den im Kenntnisgabeverfahren eingereichten Bauvorlagen abweicht, es sei denn, die Abweichung ist nach § 50 verfahrensfrei,
+12. als Bauherr, Unternehmer oder Bauleiter entgegen § 59 Absatz 1 ohne Baufreigabeschein mit der Ausführung eines genehmigungspflichtigen Vorhabens beginnt, oder als Bauherr entgegen § 59 Absatz 2 den Baubeginn oder die Wiederaufnahme von Bauarbeiten nicht oder nicht rechtzeitig mitteilt, entgegen § 59 Absatz 3, 4 oder 5 mit der Bauausführung beginnt, entgegen § 67 Absatz 4 ohne vorherige Abnahme Bauarbeiten durchführt oder fortsetzt oder eine bauliche Anlage in Gebrauch nimmt oder entgegen § 67 Absatz 5 eine Feuerungsanlage in Betrieb nimmt,
+13. Fliegende Bauten entgegen § 69 Absatz 2 ohne Ausführungsgenehmigung oder entgegen § 69 Absatz 6 ohne Anzeige und Abnahme in Gebrauch nimmt.
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 500.000 Euro geahndet werden.
+(2) Ordnungswidrig handelt auch, wer wider besseres Wissen
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Baurechtsbehörde.
+1. unrichtige Angaben macht oder unrichtige Pläne oder Unterlagen vorlegt, um einen nach diesem Gesetz vorgesehenen Verwaltungsakt zu erwirken oder zu verhindern, oder
+2. eine unrichtige bautechnische Prüfbestätigung nach § 17 Abs. 2 und 3 LBOVVO abgibt.
 
-### § 76 - Bestandsschutz, Fortbestand von Genehmigungen
+(3) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig
 
-(1) Rechtmäßig errichtete bauliche Anlagen genießen Bestandsschutz, auch wenn sie den Anforderungen dieses Gesetzes oder den auf Grund dieses Gesetzes erlassenen Vorschriften nicht mehr entsprechen.
+1. als Bauherr oder Unternehmer einer vollziehbaren Verfügung der Baurechtsbehörde zuwiderhandelt,
+2. einer auf Grund dieses Gesetzes ergangenen Rechtsverordnung oder örtlichen Bauvorschrift zuwiderhandelt, wenn die Rechtsverordnung oder örtliche Bauvorschrift für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2) Nutzungsänderungen und bauliche Änderungen führen nicht zum Verlust des Bestandsschutzes, soweit die Anforderungen nach § 3 Absatz 1 Satz 1 weiterhin erfüllt werden.
+(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 100 000 Euro geahndet werden.
 
-(3) Baugenehmigungen und Bauvorbesche bleiben auch dann wirksam, wenn sich die Rechtslage nach ihrer Erteilung geändert hat.
+(5) Gegenstände, auf die sich eine Ordnungswidrigkeit nach Absatz 1 Nummern 2 oder 4 oder Absatz 2 bezieht, können eingezogen werden.
 
-### § 77 - Einvernehmen der Gemeinde
+(6) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die untere Baurechtsbehörde. Hat den zu vollziehenden Verwaltungsakt eine höhere oder oberste Landesbehörde erlassen, so ist diese Behörde zuständig.
 
-Soweit nach diesem Gesetz oder nach anderen öffentlich-rechtlichen Vorschriften das Einvernehmen der Gemeinde erforderlich ist, hat die Gemeinde ihre Stellungnahme innerhalb eines Monats abzugeben. Äußert sich die Gemeinde nicht innerhalb dieser Frist, gilt das Einvernehmen als erteilt, es sei denn, die Gemeinde hat die Frist aus wichtigen Gründen verlängert.
+### § 76 - Bestehende bauliche Anlagen
 
-### § 78 - Übergangsvorschriften
+(1) Eine bauliche Anlage genießt Bestandsschutz, soweit sie genehmigt und genehmigungskonform errichtet worden ist und den Umfang der genehmigten Nutzung nicht verlassen hat. Eine bauliche Anlage genießt auch Bestandsschutz, wenn sie zum Zeitpunkt ihrer Errichtung dem geltenden Recht entsprochen hat oder wenn die bauliche Anlage zu einem späteren Zeitpunkt hätte genehmigt werden können und die Anlage nicht zwischenzeitlich zu anderen Zwecken genutzt wird.
 
-(1) Für Vorhaben, für die vor dem Inkrafttreten dieses Gesetzes ein Bauantrag oder eine Bauvoranfrage gestellt oder eine Kenntnisgabe vorgenommen worden ist, gilt das bisherige Recht.
+(2) Werden in diesem Gesetz oder in den auf Grund dieses Gesetzes erlassenen Vorschriften andere Anforderungen als nach dem bisherigen Recht gestellt, so kann verlangt werden, dass rechtmäßig bestehende oder nach genehmigten Bauvorlagen bereits begonnene Anlagen den neuen Vorschriften angepasst werden, wenn Leben oder Gesundheit bedroht sind.
 
-(2) Für bauliche Anlagen, die vor dem Inkrafttreten dieses Gesetzes rechtmäßig errichtet oder genehmigt worden sind, gelten die Vorschriften dieses Gesetzes nur, soweit in diesem Gesetz oder in den auf Grund dieses Gesetzes erlassenen Vorschriften nichts anderes bestimmt ist.
+(3) Sollen rechtmäßig bestehende Anlagen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile der Anlage mit diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Vorschriften in Einklang gebracht werden, wenn
 
-(3) Abweichend von Absatz 1 können Bauherren bis zum 31. Dezember 2026 beantragen, dass ihr Vorhaben nach den Vorschriften dieses Gesetzes beurteilt wird.
+1. die Bauteile, die diesen Vorschriften nicht mehr entsprechen, mit dem beabsichtigten Vorhaben in einem konstruktiven Zusammenhang stehen und
+2. die Einhaltung dieser Vorschriften bei den von dem Vorhaben nicht berührten Teilen der Anlage keine unzumutbaren Mehrkosten verursacht.
 
-### § 79 - Inkrafttreten, Außerkrafttreten
+### § 77 - Übergangsvorschriften
 
-(1) Dieses Gesetz tritt am 1. März 2010 in Kraft.
+(1) Die vor Inkrafttreten dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Vorschriften eingeleiteten Verfahren sind nach den bisherigen Verfahrensvorschriften weiterzuführen. Die materiellen Vorschriften dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Vorschriften sind in diesen Verfahren nur insoweit anzuwenden, als sie für den Antragsteller eine günstigere Regelung enthalten als das bisher geltende Recht. § 76 bleibt unberührt. Die Sätze 1 bis 3 gelten für Änderungsgesetze zu diesem Gesetz oder zu den aufgrund dieses Gesetzes erlassenen Vorschriften entsprechend, soweit nichts Abweichendes geregelt ist.
 
-(2) Gleichzeitig tritt die Landesbauordnung vom 8. August 1995 (GBl. S. 617), zuletzt geändert durch Artikel 2 des Gesetzes vom 17. Dezember 2009 (GBl. S. 809, 815), außer Kraft.
+(2) Wer bis zum Inkrafttreten dieses Gesetzes als Planverfasser für Bauvorlagen bestellt werden durfte, darf in bisherigem Umfang auch weiterhin als Entwurfsverfasser bestellt werden.
 
-(3) Änderungen dieses Gesetzes treten jeweils zu den in den Änderungsgesetzen bestimmten Zeitpunkten in Kraft.
+(3) Bis zum Ablauf des 30. November 2017 für Bauarten erteilte allgemeine bauaufsichtliche Zulassungen oder Zustimmungen im Einzelfall gelten als Bauartgenehmigung nach § 16a Absatz 2 fort.
 
----
+(4) Bestehende Anerkennungen von Prüf-, Überwachungs- und Zertifizierungsstellen bleiben in dem bis zum Ablauf des 30. November 2017 geregelten Umfang wirksam. Bis zum Ablauf des 30. November 2017 gestellte Anträge auf Anerkennung von Prüf-, Überwachungs- und Zertifizierungsstellen gelten als Anträge nach diesem Gesetz.
+
+(5) Bis zum 31. Dezember 2024 können abweichend von § 53 Absatz 2, § 56 Absatz 6 Satz 1, § 57 Absatz 1 Satz 1, § 61 Absatz 1 Satz 1, § 62 Absatz 2 Satz 1, § 62 Absatz 3 Satz 2, § 68 Absatz 2 Satz 1 sowie § 69 Absatz 4 Satz 2 Anträge und Bauvorlagen in Textform nach § 126b des Bürgerlichen Gesetzbuchs eingereicht werden sowie abweichend von § 59 Absatz 2 und § 67 Absatz 2 Satz 1 Mitteilungen in Textform nach § 126b des Bürgerlichen Gesetzbuchs erfolgen. Die Baurechtsbehörde kann jedoch verlangen, dass Bauanträge und Bauvorlagen elektronisch in Textform einzureichen sind.
+
+(6) Die in Anhang 2 bestimmten Ausbildungsanforderungen finden keine Anwendung auf Personen, die vor dem 1. Juni 2025 ihr Studium bereits begonnen haben. Für diese Personen gelten die Ausbildungsanforderungen des § 43 Absatz 6 in der bis zu diesem Zeitpunkt geltenden Fassung.
+
+### § 78 - Außerkrafttreten bisherigen Rechts
+
+(1) Am 1. Januar 1996 treten außer Kraft
+
+1. die Landesbauordnung für Baden-Württemberg (LBO) in der Fassung vom 28. November 1983 (GBl. S. 770, ber. 1984 S. 519), zuletzt geändert durch Artikel 14 der Verordnung vom 23. Juli 1993 (GBl. S. 533) mit Ausnahme der §§ 20 bis 24,
+2. die Verordnung des Innenministeriums über den Wegfall der Genehmigungspflicht bei Wohngebäuden und Nebenanlagen (Baufreistellungsverordnung) vom 26. April 1990 (GBl. S. 144), geändert durch Verordnung vom 27. April 1995 (GBl. S. 371),
+3. die Verordnung des Innenministeriums über den Wegfall der Genehmigungs- und Anzeigepflicht von Werbeanlagen während des Wahlkampfes (Werbeanlagenverordnung) vom 12. Juni 1969 (GBl. S. 122).
+
+(2) Am Tage nach der Verkündung treten außer Kraft
+
+1. die §§ 20 bis 24 der Landesbauordnung für Baden-Württemberg (LBO) in der Fassung vom 28. November 1983 (GBl. S. 770, ber. 1984 S. 519), zuletzt geändert durch Artikel 14 der Verordnung vom 23. Juli 1993 (GBl. S. 533),
+2. die Verordnung des Innenministeriums über prüfzeichenpflichtige Baustoffe, Bauteile und Einrichtungen (Prüfzeichenverordnung) vom 13. Juni 1991 (GBl. S. 483),
+3. die Verordnung des Innenministeriums über die Überwachung von Baustoffen und Bauteilen (Überwachungsverordnung) vom 30. September 1985 (GBl. S. 349).
+
+### § 79 - Inkrafttreten
+
+Dieses Gesetz tritt am 1. Januar 1996 in Kraft. Abweichend hiervon treten die §§ 17 bis 25, § 77 Abs. 3 bis 8 sowie Vorschriften, die zum Erlass von Rechtsverordnungen oder örtlichen Bauvorschriften ermächtigen, am Tage nach der Verkündung in Kraft.
