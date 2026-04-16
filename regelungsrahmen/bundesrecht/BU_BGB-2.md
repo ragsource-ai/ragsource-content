@@ -309,7 +309,7 @@ Abschnitt 6 - Schuldübernahme
 - § 416 - Übernahme einer Hypothekenschuld
 - § 417 - Einwendungen des Übernehmers
 - § 418 - Erlöschen von Sicherungs- und Vorzugsrechten
-- § 419
+- § 419 (weggefallen)
 
 Abschnitt 7 - Mehrheit von Schuldnern und Gläubigern
 - § 420 - Teilbare Leistung
@@ -2992,9 +2992,7 @@ Eine Schuld kann von einem Dritten durch Vertrag mit dem Gläubiger in der Weise
 
 (2) Ein mit der Forderung für den Fall des Insolvenzverfahrens verbundenes Vorzugsrecht kann nicht im Insolvenzverfahren über das Vermögen des Übernehmers geltend gemacht werden.
 
-### § 419
-
-(weggefallen)
+### § 419 (weggefallen)
 
 
 ## Abschnitt 7 - Mehrheit von Schuldnern und Gläubigern
