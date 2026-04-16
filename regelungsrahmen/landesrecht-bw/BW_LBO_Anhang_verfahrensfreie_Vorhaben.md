@@ -1,5 +1,5 @@
 ---
-titel: Landesbauordnung Baden-Württemberg – Anhang: Verfahrensfreie Vorhaben (LBO BW)
+titel: "Landesbauordnung Baden-Württemberg – Anhang: Verfahrensfreie Vorhaben (LBO BW)"
 ebene: land
 saule: regelungsrahmen
 land_ars: 08
