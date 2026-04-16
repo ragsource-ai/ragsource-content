@@ -7,7 +7,8 @@ status: published
 endpoints:
   - amtsschimmel
 extensions:
-  - Sozialrecht---
+  - Sozialrecht
+---
 
 ## Inhaltsverzeichnis
 

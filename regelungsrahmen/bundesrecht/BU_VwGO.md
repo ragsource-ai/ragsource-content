@@ -9,7 +9,8 @@ endpoints:
   - amtsschimmel
 extensions:
   - Verwaltungsrecht
-  - universal---
+  - universal
+---
 
 ## Inhaltsverzeichnis
 

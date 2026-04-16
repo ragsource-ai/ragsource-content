@@ -9,7 +9,8 @@ endpoints:
   - amtsschimmel
 extensions:
   - Strafrecht & OWiG
-  - universal---
+  - universal
+---
 
 ## Inhaltsverzeichnis
 

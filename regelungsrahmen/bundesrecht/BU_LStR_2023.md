@@ -13,7 +13,8 @@ endpoints:
   - amtsschimmel
 extensions:
   - Arbeitsrecht
-  - Steuer- & Abgabenrecht---
+  - Steuer- & Abgabenrecht
+---
 
 ## Inhaltsverzeichnis
 
