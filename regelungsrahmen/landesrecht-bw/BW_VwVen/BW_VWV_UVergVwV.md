@@ -15,7 +15,7 @@ status: published
 endpoints:
   - amtsschimmel
 extensions:
-  - Beamtenrecht
+  - Arbeitsrecht
 ---
 
 ## Inhaltsverzeichnis

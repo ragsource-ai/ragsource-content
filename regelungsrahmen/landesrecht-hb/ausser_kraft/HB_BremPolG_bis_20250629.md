@@ -11,7 +11,6 @@ endpoints:
   - brandmeister
 extensions:
   - Gefahrenabwehrrecht
-  - Polizeirecht
 gueltig_ab: "2026-04-14"
 gueltig_bis: "2025-06-29"
 url_nachfolger: "https://www.transparenz.bremen.de/metainformationen/bremisches-polizeigesetz-brempolg-in-der-fassung-vom-6-dezember-2001-319760?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d"

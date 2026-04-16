@@ -11,7 +11,6 @@ endpoints:
   - brandmeister
 extensions:
   - Gefahrenabwehrrecht
-  - Katastrophenschutz
 stand: "2026-04-15"
 status: published
 ---

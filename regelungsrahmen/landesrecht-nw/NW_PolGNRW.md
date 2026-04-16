@@ -12,7 +12,6 @@ endpoints:
   - brandmeister
 extensions:
   - Gefahrenabwehrrecht
-  - Polizeirecht
 stand: "2026-04-14"
 status: published
 ---

@@ -14,7 +14,6 @@ endpoints:
   - brandmeister
 extensions:
   - Gefahrenabwehrrecht
-  - Rettungsdienst
 stand: "2026-04-14"
 status: published
 ---

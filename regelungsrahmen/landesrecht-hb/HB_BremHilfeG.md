@@ -12,9 +12,6 @@ endpoints:
   - brandmeister
 extensions:
   - Gefahrenabwehrrecht
-  - Feuerwehr
-  - Katastrophenschutz
-  - Rettungsdienst
 stand: "2026-04-14"
 status: published
 ---

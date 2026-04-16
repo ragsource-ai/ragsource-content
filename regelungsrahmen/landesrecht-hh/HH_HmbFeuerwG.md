@@ -13,7 +13,6 @@ endpoints:
   - brandmeister
 extensions:
   - Gefahrenabwehrrecht
-  - Feuerwehr
 stand: "2026-04-14"
 status: published
 ---
