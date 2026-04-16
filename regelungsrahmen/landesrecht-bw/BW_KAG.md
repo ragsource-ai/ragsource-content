@@ -5,7 +5,7 @@ saule: regelungsrahmen
 land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz vom 17.03.2005 (GBl. 2005, 206), zuletzt geändert durch Artikel 7 des Gesetzes vom 17.12.2020 (GBl. S. 1233, 1249)
-gueltig_ab: 2020-12-17
+gueltig_ab: 2020-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KAGBW2005rahmen"
 stand: "2020-12-17"
 status: published

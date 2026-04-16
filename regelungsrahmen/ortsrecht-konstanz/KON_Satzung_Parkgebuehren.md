@@ -11,7 +11,7 @@ kreis: Konstanz
 gemeinde: Konstanz
 gueltig_ab: 2025-12-17
 stand: 2025-12-16
-url: "https://www.konstanz.de/site/Konstanz/get/documents_E-473973891/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_16%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Parkgeb%C3%BChren%20in%20Konstanz%20%28Parkgeb%C3%BChrensatzung%29.pdf"
+url: "https://www.konstanz.de/site/Konstanz/get/documents_E-939603329/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_16%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Parkgeb%C3%BChren%20in%20Konstanz%20%28Parkgeb%C3%BChrensatzung%29.pdf"
 status: published
 endpoints:
   - amtsschimmel
@@ -74,21 +74,21 @@ Die Gebühren für das Parken auf Langzeitparkplätzen (zulässige Höchstparkze
 | bis 7 Stunden | 22,00 € | 11,50 € |
 | Tageshöchstsatz | 25,00 € | 11,50 € |
 
-**b) Im rechtsrheinischen Stadtgebiet mit Ausnahme des Parkplatzes Klausenhorn in Dingelsdorf (Strandbad) und des „Freibad Horn"**
+**b) Im rechtsrheinischen Stadtgebiet mit Ausnahme des Parkplatzes Klausenhorn in Dingelsdorf (Strandbad), des Parkplatzes „Am Seerhein" und des „Freibad Horn"**
 
 | Parkzeit | Gebühr |
 |---|---|
-| bis ½ Stunde | 1,00 € |
-| bis 1 Stunde | 2,00 € |
-| bis 1 ½ Stunden | 3,00 € |
-| bis 2 Stunden | 4,00 € |
-| bis 2 ½ Stunden | 5,00 € |
-| bis 3 Stunden | 6,00 € |
-| bis 3 ½ Stunden | 7,00 € |
-| bis 4 Stunden | 8,00 € |
-| bis 4 ½ Stunden | 9,00 € |
-| bis 5 Stunden | 10,00 € |
-| mehr als 5 Stunden | 11,00 € |
+| bis ½ Stunde | 0,50 € |
+| bis 1 Stunde | 1,00 € |
+| bis 1 ½ Stunden | 1,50 € |
+| bis 2 Stunden | 2,00 € |
+| bis 2 ½ Stunden | 2,50 € |
+| bis 3 Stunden | 3,00 € |
+| bis 3 ½ Stunden | 3,50 € |
+| bis 4 Stunden | 4,00 € |
+| bis 4 ½ Stunden | 4,50 € |
+| bis 5 Stunden | 5,00 € |
+| mehr als 5 Stunden | 6,00 € |
 
 ### § 4 Gebühren für die Parkplätze Klausenhorn in Dingelsdorf (Strandbad)
 
