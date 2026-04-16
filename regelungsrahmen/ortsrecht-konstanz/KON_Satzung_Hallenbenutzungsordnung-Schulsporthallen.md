@@ -17,6 +17,9 @@ url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1356086822/konstanz/
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Bildungs- & Jugendrecht
 ---
 
 ## Inhaltsverzeichnis

@@ -15,6 +15,10 @@ status: published
 endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-932265306/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_14%20Rechtsverordnung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Erhebung%20von%20Geb%C3%BChren%20f%C3%BCr%20Bewohnerparkausweise%20%28Bewohnerparkausweisgeb%C3%BChrenverordnung%29"
+extensions:
+  - Kommunalrecht
+  - Verkehrsrecht
+  - Steuer- & Abgabenrecht
 ---
 
 ## Inhaltsverzeichnis

@@ -15,6 +15,10 @@ gueltig_ab: 2016-01-01
 status: published
 endpoints:
   - amtsschimmel
+url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/benutzungsordnung_sporthallen.pdf"
+extensions:
+  - Kommunalrecht
+  - Bildungs- & Jugendrecht
 ---
 
 ## Inhaltsverzeichnis

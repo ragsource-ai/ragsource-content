@@ -12,7 +12,11 @@ offiziell: Landkreisordnung für Baden-Württemberg
 erlassdatum: 1987-06-19
 quelle: Fassung vom 19.06.1987 (GBl. BW); zuletzt geändert durch Art. 14 G v. 18.11.2025 (GBl. 2025 Nr. 124)
 gueltig_ab: 2025-11-18
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-LKreisOBWrahmen"
 status: published
+extensions:
+  - Kommunalrecht
+  - Verwaltungsrecht
 ---
 
 ## Inhaltsverzeichnis

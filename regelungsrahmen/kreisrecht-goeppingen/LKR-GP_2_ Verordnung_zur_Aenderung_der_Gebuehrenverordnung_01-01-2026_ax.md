@@ -6,11 +6,15 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E1191122565/24725887/2_%20Verordnung_zur_Aenderung_der_Gebuehrenverordnung_01-01-2026_ax.pdf
 quelle: Rechtsverordnung des Landratsamts Göppingen vom 18.12.2025
 gueltig_ab: 2026-01-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Steuer- & Abgabenrecht
 ---
 
 ## Inhaltsverzeichnis

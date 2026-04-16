@@ -446,7 +446,7 @@
     "stats": {
       "h2": 11,
       "h3": 82,
-      "zeichen": 140509,
+      "zeichen": 140492,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/bundesrecht/BU_BPolG.md"
@@ -556,7 +556,6 @@
   {
     "ok": false,
     "fehler": [
-      "#### Heading gefunden — verbotene Tiefe (Untergliederung via **fett**)",
       "§§ nicht sortiert: § 39e vor § 39",
       "Lücken in §§-Nummerierung: § 27, § 29, § 30, § 47, § 53 (+6 weitere) — weggefallene §§ als '### § N (weggefallen)' eintragen"
     ],
@@ -689,7 +688,6 @@
     "ok": false,
     "fehler": [
       "gueltig_ab (2026-01-01) liegt nach stand (2025-01-01)",
-      "#### Heading gefunden — verbotene Tiefe (Untergliederung via **fett**)",
       "§§ nicht sortiert: § 24a vor § 24",
       "Lücken in §§-Nummerierung: § 27, § 29, § 30, § 47, § 53 (+6 weitere) — weggefallene §§ als '### § N (weggefallen)' eintragen"
     ],
@@ -1007,7 +1005,7 @@
     "stats": {
       "h2": 0,
       "h3": 10,
-      "zeichen": 12010,
+      "zeichen": 11987,
       "size_class": "M"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/bundesrecht/BU_THWG.md"
@@ -1085,7 +1083,7 @@
     "stats": {
       "h2": 12,
       "h3": 32,
-      "zeichen": 30644,
+      "zeichen": 30621,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/bundesrecht/BU_ZSKG.md"
@@ -1402,7 +1400,7 @@
     "stats": {
       "h2": 16,
       "h3": 52,
-      "zeichen": 81694,
+      "zeichen": 81657,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bb/BB_BbgBKG.md"
@@ -1426,7 +1424,7 @@
     "stats": {
       "h2": 21,
       "h3": 79,
-      "zeichen": 93210,
+      "zeichen": 93193,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bb/BB_BbgPolG.md"
@@ -1438,7 +1436,7 @@
     "stats": {
       "h2": 1,
       "h3": 24,
-      "zeichen": 37751,
+      "zeichen": 37732,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bb/BB_BbgRettG.md"
@@ -1450,7 +1448,7 @@
     "stats": {
       "h2": 11,
       "h3": 128,
-      "zeichen": 281287,
+      "zeichen": 281270,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-be/BE_ASOGBln.md"
@@ -1474,7 +1472,7 @@
     "stats": {
       "h2": 6,
       "h3": 22,
-      "zeichen": 27388,
+      "zeichen": 27374,
       "size_class": "M"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-be/BE_FwGBln.md"
@@ -1486,7 +1484,7 @@
     "stats": {
       "h2": 0,
       "h3": 29,
-      "zeichen": 54006,
+      "zeichen": 53987,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-be/BE_RDGBln.md"
@@ -1628,7 +1626,7 @@
     "stats": {
       "h2": 7,
       "h3": 40,
-      "zeichen": 59622,
+      "zeichen": 59608,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_FwG.md"
@@ -1948,7 +1946,7 @@
     "stats": {
       "h2": 6,
       "h3": 61,
-      "zeichen": 67096,
+      "zeichen": 67073,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LKatSG.md"
@@ -2189,7 +2187,7 @@
     "stats": {
       "h2": 24,
       "h3": 138,
-      "zeichen": 236596,
+      "zeichen": 236579,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_PolG.md"
@@ -2201,7 +2199,7 @@
     "stats": {
       "h2": 6,
       "h3": 61,
-      "zeichen": 136202,
+      "zeichen": 136183,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_RDG.md"
@@ -3800,7 +3798,7 @@
     "stats": {
       "h2": 5,
       "h3": 33,
-      "zeichen": 42956,
+      "zeichen": 42942,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-by/BY_BayFwG.md"
@@ -3812,7 +3810,7 @@
     "stats": {
       "h2": 9,
       "h3": 25,
-      "zeichen": 28244,
+      "zeichen": 28221,
       "size_class": "M"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-by/BY_BayKSG.md"
@@ -3824,7 +3822,7 @@
     "stats": {
       "h2": 19,
       "h3": 64,
-      "zeichen": 118688,
+      "zeichen": 118669,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-by/BY_BayRDG.md"
@@ -3836,7 +3834,7 @@
     "stats": {
       "h2": 16,
       "h3": 109,
-      "zeichen": 198762,
+      "zeichen": 198745,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-by/BY_PAG.md"
@@ -3848,7 +3846,7 @@
     "stats": {
       "h2": 0,
       "h3": 92,
-      "zeichen": 139712,
+      "zeichen": 139656,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-hb/HB_BremHilfeG.md"
@@ -3872,7 +3870,7 @@
     "stats": {
       "h2": 5,
       "h3": 164,
-      "zeichen": 311669,
+      "zeichen": 311652,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-hb/HB_BremPolG.md"
@@ -3886,7 +3884,7 @@
     "stats": {
       "h2": 4,
       "h3": 152,
-      "zeichen": 260346,
+      "zeichen": 260329,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-hb/ausser_kraft/HB_BremPolG_bis_20250629.md"
@@ -3898,7 +3896,7 @@
     "stats": {
       "h2": 6,
       "h3": 72,
-      "zeichen": 103265,
+      "zeichen": 103228,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-he/HE_HBKG.md"
@@ -3922,7 +3920,7 @@
     "stats": {
       "h2": 0,
       "h3": 23,
-      "zeichen": 37803,
+      "zeichen": 37784,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-he/HE_HRDG.md"
@@ -3934,7 +3932,7 @@
     "stats": {
       "h2": 14,
       "h3": 139,
-      "zeichen": 251353,
+      "zeichen": 251336,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-he/HE_HSOG.md"
@@ -3958,7 +3956,7 @@
     "stats": {
       "h2": 5,
       "h3": 33,
-      "zeichen": 50045,
+      "zeichen": 50031,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-hh/HH_HmbFeuerwG.md"
@@ -3970,7 +3968,7 @@
     "stats": {
       "h2": 6,
       "h3": 38,
-      "zeichen": 65796,
+      "zeichen": 65777,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-hh/HH_HmbRDG.md"
@@ -3982,7 +3980,7 @@
     "stats": {
       "h2": 8,
       "h3": 51,
-      "zeichen": 71952,
+      "zeichen": 71935,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-hh/HH_SOG.md"
@@ -3994,7 +3992,7 @@
     "stats": {
       "h2": 7,
       "h3": 35,
-      "zeichen": 46882,
+      "zeichen": 46845,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-mv/MV_BrSchGMV.md"
@@ -4018,7 +4016,7 @@
     "stats": {
       "h2": 5,
       "h3": 34,
-      "zeichen": 59767,
+      "zeichen": 59748,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-mv/MV_RDGMV.md"
@@ -4030,7 +4028,7 @@
     "stats": {
       "h2": 10,
       "h3": 188,
-      "zeichen": 299436,
+      "zeichen": 299419,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-mv/MV_SOGMV.md"
@@ -4054,7 +4052,7 @@
     "stats": {
       "h2": 0,
       "h3": 51,
-      "zeichen": 85982,
+      "zeichen": 85968,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-ni/NI_NBrandSchG.md"
@@ -4066,7 +4064,7 @@
     "stats": {
       "h2": 0,
       "h3": 133,
-      "zeichen": 183767,
+      "zeichen": 183750,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-ni/NI_NPOG.md"
@@ -4078,7 +4076,7 @@
     "stats": {
       "h2": 0,
       "h3": 38,
-      "zeichen": 45307,
+      "zeichen": 45288,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-ni/NI_NRettDG.md"
@@ -4090,7 +4088,7 @@
     "stats": {
       "h2": 16,
       "h3": 59,
-      "zeichen": 100413,
+      "zeichen": 100376,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-nw/NW_BHKG.md"
@@ -4114,7 +4112,7 @@
     "stats": {
       "h2": 0,
       "h3": 89,
-      "zeichen": 155812,
+      "zeichen": 155795,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-nw/NW_PolGNRW.md"
@@ -4126,7 +4124,7 @@
     "stats": {
       "h2": 12,
       "h3": 69,
-      "zeichen": 178807,
+      "zeichen": 178770,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-rp/RP_LBKG.md"
@@ -4150,7 +4148,7 @@
     "stats": {
       "h2": 14,
       "h3": 34,
-      "zeichen": 68853,
+      "zeichen": 68834,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-rp/RP_RettDGRP.md"
@@ -4162,7 +4160,7 @@
     "stats": {
       "h2": 9,
       "h3": 51,
-      "zeichen": 82598,
+      "zeichen": 82584,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-sh/SH_BrSchGSH.md"
@@ -4186,7 +4184,7 @@
     "stats": {
       "h2": 13,
       "h3": 403,
-      "zeichen": 465759,
+      "zeichen": 465742,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-sh/SH_LVwGSH.md"
@@ -4210,7 +4208,7 @@
     "stats": {
       "h2": 5,
       "h3": 32,
-      "zeichen": 57000,
+      "zeichen": 56981,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-sl/SL_RettDGSL.md"
@@ -4222,7 +4220,7 @@
     "stats": {
       "h2": 13,
       "h3": 60,
-      "zeichen": 106701,
+      "zeichen": 106664,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-sl/SL_SBKG.md"
@@ -4234,7 +4232,7 @@
     "stats": {
       "h2": 12,
       "h3": 81,
-      "zeichen": 73387,
+      "zeichen": 73370,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-sl/SL_SPolG.md"
@@ -4258,7 +4256,7 @@
     "stats": {
       "h2": 10,
       "h3": 82,
-      "zeichen": 169077,
+      "zeichen": 169021,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-sn/SN_SaechsBRKG.md"
@@ -4270,7 +4268,7 @@
     "stats": {
       "h2": 7,
       "h3": 46,
-      "zeichen": 42668,
+      "zeichen": 42651,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-sn/SN_SaechsPBG.md"
@@ -4294,7 +4292,7 @@
     "stats": {
       "h2": 6,
       "h3": 37,
-      "zeichen": 36046,
+      "zeichen": 36032,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-st/ST_BrSchGLSA.md"
@@ -4306,7 +4304,7 @@
     "stats": {
       "h2": 6,
       "h3": 32,
-      "zeichen": 27834,
+      "zeichen": 27811,
       "size_class": "M"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-st/ST_KatSGLSA.md"
@@ -4318,7 +4316,7 @@
     "stats": {
       "h2": 10,
       "h3": 54,
-      "zeichen": 85626,
+      "zeichen": 85607,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-st/ST_RettDGLSA.md"
@@ -4330,7 +4328,7 @@
     "stats": {
       "h2": 15,
       "h3": 138,
-      "zeichen": 196910,
+      "zeichen": 196893,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-st/ST_SOGLSA.md"
@@ -4342,7 +4340,7 @@
     "stats": {
       "h2": 9,
       "h3": 68,
-      "zeichen": 105724,
+      "zeichen": 105687,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-th/TH_ThuerBKG.md"
@@ -4366,7 +4364,7 @@
     "stats": {
       "h2": 6,
       "h3": 91,
-      "zeichen": 124168,
+      "zeichen": 124151,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-th/TH_ThuerPAG.md"
@@ -4378,7 +4376,7 @@
     "stats": {
       "h2": 7,
       "h3": 41,
-      "zeichen": 61804,
+      "zeichen": 61785,
       "size_class": "L"
     },
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-th/TH_ThuerRettG.md"
@@ -4941,7 +4939,6 @@
     "ok": true,
     "fehler": [],
     "warnungen": [
-      "rechtsnatur unbekannt: 'Geschäftsordnung'",
       "Body→IHV Abschnitt fehlt: ['II. Rechte und Pflichten der „Stadträtinnen und Stadträte\"', 'III. Vorbereitung und Durchführung der Sitzungen des Gemeinderates', 'IV. Beschlussfassung durch Offenlegung bzw. das schriftliche Verfahren'] (+4)"
     ],
     "stats": {
@@ -4955,9 +4952,7 @@
   {
     "ok": true,
     "fehler": [],
-    "warnungen": [
-      "rechtsnatur unbekannt: 'Geschäftsordnung'"
-    ],
+    "warnungen": [],
     "stats": {
       "h2": 0,
       "h3": 10,
@@ -4970,7 +4965,6 @@
     "ok": true,
     "fehler": [],
     "warnungen": [
-      "rechtsnatur unbekannt: 'Geschäftsordnung'",
       "Body→IHV Abschnitt fehlt: ['I. Allgemeine Bestimmungen', 'II. Rechte und Pflichten der „Ortschaftsrätinnen und Ortschaftsräte\"', 'III. Vorbereitung und Durchführung der Sitzungen des Ortschaftsrates'] (+4)"
     ],
     "stats": {
@@ -4987,7 +4981,6 @@
       "Lücken in §§-Nummerierung: § 8 — weggefallene §§ als '### § N (weggefallen)' eintragen"
     ],
     "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'",
       "IHV→Body fehlt: ['Präambel']",
       "Body→IHV Abschnitt fehlt: ['Präambel']"
     ],
@@ -5003,7 +4996,6 @@
     "ok": true,
     "fehler": [],
     "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'",
       "IHV→Body fehlt: ['Präambel']",
       "Body→IHV Abschnitt fehlt: ['Präambel']"
     ],
@@ -5019,7 +5011,6 @@
     "ok": true,
     "fehler": [],
     "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'",
       "IHV→Body fehlt: ['Bescheinigung nach § 54 Absatz 1 Satz 2 GmbHG']"
     ],
     "stats": {
@@ -5034,7 +5025,6 @@
     "ok": true,
     "fehler": [],
     "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'",
       "Body→IHV Abschnitt fehlt: ['II. Verfassung', 'III. Geschäftsjahr, Rechnungslegung und Auflösung der Gesellschaft']"
     ],
     "stats": {
@@ -5048,9 +5038,7 @@
   {
     "ok": true,
     "fehler": [],
-    "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'"
-    ],
+    "warnungen": [],
     "stats": {
       "h2": 0,
       "h3": 20,
@@ -5062,9 +5050,7 @@
   {
     "ok": true,
     "fehler": [],
-    "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'"
-    ],
+    "warnungen": [],
     "stats": {
       "h2": 0,
       "h3": 18,
@@ -5077,7 +5063,6 @@
     "ok": true,
     "fehler": [],
     "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'",
       "Body→IHV Abschnitt fehlt: ['I. Allgemeine Vorschriften', 'II. Gesellschafter, Kapitalverhältnisse', 'III. Organisation'] (+2)"
     ],
     "stats": {
@@ -5091,9 +5076,7 @@
   {
     "ok": true,
     "fehler": [],
-    "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'"
-    ],
+    "warnungen": [],
     "stats": {
       "h2": 0,
       "h3": 13,
@@ -5105,9 +5088,7 @@
   {
     "ok": true,
     "fehler": [],
-    "warnungen": [
-      "rechtsnatur unbekannt: 'Gesellschaftsvertrag'"
-    ],
+    "warnungen": [],
     "stats": {
       "h2": 0,
       "h3": 9,
@@ -5178,8 +5159,7 @@
   {
     "ok": false,
     "fehler": [
-      "gueltig_ab (2025-01-01) liegt nach stand (2024-12-12)",
-      "#### Heading gefunden — verbotene Tiefe (Untergliederung via **fett**)"
+      "gueltig_ab (2025-01-01) liegt nach stand (2024-12-12)"
     ],
     "warnungen": [
       "rechtsnatur unbekannt: 'Richtlinien'",
@@ -5883,10 +5863,8 @@
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/ortsrecht-konstanz/KON_Satzung_Kita-Kostenbeitraege.md"
   },
   {
-    "ok": false,
-    "fehler": [
-      "#### Heading gefunden — verbotene Tiefe (Untergliederung via **fett**)"
-    ],
+    "ok": true,
+    "fehler": [],
     "warnungen": [],
     "stats": {
       "h2": 0,
@@ -6089,10 +6067,8 @@
     "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/ortsrecht-konstanz/KON_Satzung_Schulkindbetreuung-Grundschulen.md"
   },
   {
-    "ok": false,
-    "fehler": [
-      "#### Heading gefunden — verbotene Tiefe (Untergliederung via **fett**)"
-    ],
+    "ok": true,
+    "fehler": [],
     "warnungen": [
       "VORIS-Artefakt: doppelte Listennummern (z.B. '1. 1. Text')"
     ],

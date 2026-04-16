@@ -15,6 +15,9 @@ gueltig_ab: 2018-04-12
 status: published
 endpoints:
   - amtsschimmel
+url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/G2_-_Geschaeftsordnung_Gemeinderat.pdf"
+extensions:
+  - Kommunalrecht
 ---
 
 ## Inhaltsverzeichnis

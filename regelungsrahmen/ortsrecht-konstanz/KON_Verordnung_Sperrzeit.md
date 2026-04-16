@@ -15,6 +15,9 @@ status: published
 endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1694979538/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_02%20Rechtsverordnung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Sperrzeit.pdf"
+extensions:
+  - Kommunalrecht
+  - Wirtschaftsrecht
 ---
 
 ## Inhaltsverzeichnis

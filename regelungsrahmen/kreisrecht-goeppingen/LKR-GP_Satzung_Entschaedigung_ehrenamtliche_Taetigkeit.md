@@ -6,11 +6,15 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-2078686602/22305979/3_3_Entschaedigungssatzung_nh_bar.pdf
 quelle: Kreistagsbeschluss vom 20.05.2022
 gueltig_ab: 2022-07-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Arbeitsrecht
 ---
 
 ## Inhaltsverzeichnis

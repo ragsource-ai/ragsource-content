@@ -9,6 +9,8 @@ gueltig_ab: 1974-07-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Verwaltungsrecht
 ---
 
 ## Inhaltsverzeichnis

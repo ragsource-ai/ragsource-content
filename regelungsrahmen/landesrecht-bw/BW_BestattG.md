@@ -13,6 +13,9 @@ stand: "2021-02-03"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Verwaltungsrecht
+  - Kommunalrecht
 ---
 
 ## Inhaltsverzeichnis

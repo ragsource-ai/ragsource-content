@@ -9,6 +9,10 @@ gueltig_ab: 2010-03-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Baurecht
+  - Verwaltungsrecht
+
 ---
 
 **Neugefasst:** 05.03.2010  

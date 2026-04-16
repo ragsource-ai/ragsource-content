@@ -15,6 +15,10 @@ gueltig_ab: 2022-09-01
 status: published
 endpoints:
   - amtsschimmel
+url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/K1_-_Kigagebuehren_Satzung_Stand_10_2024.pdf"
+extensions:
+  - Kommunalrecht
+  - Bildungs- & Jugendrecht
 ---
 
 ## Inhaltsverzeichnis

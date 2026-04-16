@@ -7,6 +7,9 @@ gueltig_ab: 2025-12-22
 endpoints:
   - amtsschimmel
 status: published
+url: "https://www.gesetze-im-internet.de/sgb_12/"
+extensions:
+  - Sozialrecht
 ---
 
 ## Inhaltsverzeichnis

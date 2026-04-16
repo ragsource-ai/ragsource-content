@@ -1,0 +1,785 @@
+[
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "Body→IHV Abschnitt fehlt: ['1. ABSCHNITT - Zuständige Behörden', '2. ABSCHNITT - Umlegungsausschuß', '3. ABSCHNITT - Enteignungsverfahren'] (+1)"
+    ],
+    "stats": {
+      "h2": 4,
+      "h3": 10,
+      "zeichen": 10097,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_BauGBDV.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1971-01-01 — bitte prüfen",
+      "IHV→Body fehlt: ['Dritter Abschnitt - Grabstätten']",
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Friedhofswesen', 'Erster Abschnitt - Anlegung und Unterhaltung von Bestattungsplätzen', '1. Friedhöfe'] (+15)"
+    ],
+    "stats": {
+      "h2": 18,
+      "h3": 56,
+      "zeichen": 51675,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_BestattG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [],
+    "stats": {
+      "h2": 0,
+      "h3": 12,
+      "zeichen": 16002,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_BzGBW.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1984-01-01 — bitte prüfen",
+      "IHV→Body fehlt: ['1. ABSCHNITT - Denkmalschutz und Denkmalpflege', '2. ABSCHNITT - Gegenstand und Organisation des Denkmalschutzes', '3. ABSCHNITT - Allgemeine Schutzvorschriften'] (+6)",
+      "Body→IHV Abschnitt fehlt: ['1. ABSCHNITT - Denkmalschutz und Denkmalpflege', '2. ABSCHNITT - Gegenstand und Organisation des Denkmalschutzes', '3. ABSCHNITT - Allgemeine Schutzvorschriften'] (+6)"
+    ],
+    "stats": {
+      "h2": 9,
+      "h3": 30,
+      "zeichen": 31193,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_DSchG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['ERSTER TEIL - Maßnahmen der Polizei', 'ERSTER ABSCHNITT - Durchführung von Einzelmaßnahmen', 'ZWEITER ABSCHNITT - Datenerhebung und weitere Verarbeitung der erhobenen personenbezogenen Daten'] (+9)",
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Maßnahmen der Polizei', 'ERSTER ABSCHNITT - Durchführung von Einzelmaßnahmen', 'ZWEITER ABSCHNITT - Datenerhebung und weitere Verarbeitung der erhobenen personenbezogenen Daten'] (+9)"
+    ],
+    "stats": {
+      "h2": 12,
+      "h3": 33,
+      "zeichen": 43177,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_DVO-PolG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['Abschnitt 1 - Grundlagen', 'Abschnitt 2 - Elektronisches Verwaltungshandeln', 'Abschnitt 3 - Organisation und Strukturen der Zusammenarbeit in der Informationstechnik']",
+      "Body→IHV Abschnitt fehlt: ['Abschnitt 1 - Grundlagen', 'Abschnitt 2 - Elektronisches Verwaltungshandeln', 'Abschnitt 3 - Organisation und Strukturen der Zusammenarbeit in der Informationstechnik']"
+    ],
+    "stats": {
+      "h2": 3,
+      "h3": 33,
+      "zeichen": 54447,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_EGovG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "Body→IHV Abschnitt fehlt: ['1. ABSCHNITT - Grundsätzliche Bestimmungen', '2. ABSCHNITT - Verfassung und Verwaltung', '3. ABSCHNITT - Wirtschaftsführung und Rechnungswesen'] (+1)"
+    ],
+    "stats": {
+      "h2": 4,
+      "h3": 19,
+      "zeichen": 19836,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_EigBetrG.md"
+  },
+  {
+    "ok": false,
+    "fehler": [
+      "Lücken in §§-Nummerierung: § 22, § 23, § 24, § 25, § 26 (+4 weitere) — weggefallene §§ als '### § N (weggefallen)' eintragen"
+    ],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1981-01-01 — bitte prüfen",
+      "IHV→Body fehlt: ['Erster Abschnitt - Allgemeine Vorschriften', 'Zweiter Abschnitt - Fischereirecht', 'Dritter Abschnitt - Ausübung des Fischereirechts'] (+8)",
+      "Body→IHV fehlt: ['§ 34 - [red. weggefallen]']",
+      "Body→IHV Abschnitt fehlt: ['Erster Abschnitt - Allgemeine Vorschriften', 'Zweiter Abschnitt - Fischereirecht', 'Dritter Abschnitt - Ausübung des Fischereirechts'] (+7)"
+    ],
+    "stats": {
+      "h2": 10,
+      "h3": 52,
+      "zeichen": 66318,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_FischG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [],
+    "stats": {
+      "h2": 7,
+      "h3": 40,
+      "zeichen": 59608,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_FwG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Allgemeine Vorschriften', 'ZWEITER TEIL - Zweckverband', '1. Abschnitt - Grundlagen des Zweckverbands'] (+9)"
+    ],
+    "stats": {
+      "h2": 12,
+      "h3": 42,
+      "zeichen": 39976,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_GKZ.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [],
+    "stats": {
+      "h2": 0,
+      "h3": 20,
+      "zeichen": 31115,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_GaVO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['ERSTER ABSCHNITT - Haushaltsplan, Finanzplanung', 'ZWEITER ABSCHNITT - Planungsgrundsätze', 'DRITTER ABSCHNITT - Deckungsgrundsätze'] (+8)",
+      "Body→IHV Abschnitt fehlt: ['ERSTER ABSCHNITT - Haushaltsplan, Finanzplanung', 'ZWEITER ABSCHNITT - Planungsgrundsätze', 'DRITTER ABSCHNITT - Deckungsgrundsätze'] (+8)"
+    ],
+    "stats": {
+      "h2": 11,
+      "h3": 66,
+      "zeichen": 97081,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_GemHVO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['ERSTER ABSCHNITT - Aufgaben und Organisation der Gemeindekasse', 'ZWEITER ABSCHNITT - Kassenanordnungen', 'DRITTER ABSCHNITT - Zahlungsverkehr'] (+5)",
+      "Body→IHV Abschnitt fehlt: ['ERSTER ABSCHNITT - Aufgaben und Organisation der Gemeindekasse', 'ZWEITER ABSCHNITT - Kassenanordnungen', 'DRITTER ABSCHNITT - Zahlungsverkehr'] (+5)"
+    ],
+    "stats": {
+      "h2": 8,
+      "h3": 33,
+      "zeichen": 35961,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_GemKVO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Wesen und Aufgaben der Gemeinde', '1. ABSCHNITT - Rechtsstellung', '2. ABSCHNITT - Gemeindegebiet'] (+26)",
+      "Titellose §§ ohne (Red. TITEL): ['§ 23', '§ 63', '§ 114a'] (+2)"
+    ],
+    "stats": {
+      "h2": 29,
+      "h3": 163,
+      "zeichen": 201252,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_GemO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [],
+    "stats": {
+      "h2": 0,
+      "h3": 5,
+      "zeichen": 4006,
+      "size_class": "S"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_JArbEhrStärkGBW.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "IHV→Body fehlt: ['Abschnitt 1 - Allgemeine Bestimmungen', 'Abschnitt 2 - Jagdbezirke', 'Abschnitt 3 - Beteiligung Dritter an der Jagd'] (+8)",
+      "Body→IHV Abschnitt fehlt: ['Abschnitt 1 - Allgemeine Bestimmungen', 'Abschnitt 2 - Jagdbezirke', 'Abschnitt 3 - Beteiligung Dritter an der Jagd'] (+8)"
+    ],
+    "stats": {
+      "h2": 11,
+      "h3": 76,
+      "zeichen": 152519,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_JWMG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Allgemeine Vorschriften', 'ZWEITER TEIL - Steuern', 'DRITTER TEIL - Gebühren für öffentliche Leistungen einschließlich Benutzungsgebühren'] (+9)"
+    ],
+    "stats": {
+      "h2": 12,
+      "h3": 50,
+      "zeichen": 65240,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_KAG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben"
+    ],
+    "stats": {
+      "h2": 0,
+      "h3": 20,
+      "zeichen": 43029,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_KiTaG.md"
+  },
+  {
+    "ok": false,
+    "fehler": [
+      "Lücken in §§-Nummerierung: § 42, § 43, § 44, § 45, § 46 (+2 weitere) — weggefallene §§ als '### § N (weggefallen)' eintragen"
+    ],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1983-09-01 — bitte prüfen",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "IHV→Body fehlt: ['§§ 42 bis 48 (aufgehoben)']",
+      "Body→IHV Abschnitt fehlt: ['1. ABSCHNITT - Geltung des Kommunalwahlgesetzes', '2. ABSCHNITT - Vorbereitung der Wahl und Wahlorgane', '1. Unterabschnitt - Wahltag und Bekanntmachung der Wahl'] (+17)"
+    ],
+    "stats": {
+      "h2": 20,
+      "h3": 55,
+      "zeichen": 75672,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_KomWG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1983-09-10 — bitte prüfen",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "IHV→Body fehlt: ['§ 54 (aufgehoben) - [red. weggefallen]', '[Anlage 1 - Muster des Wahlscheins](https://www.landesrecht-bw.de/bsbw/document/jlr-KomWOBW1983V25IVZ/format/xsl/anchor/jlr-KomWOBW1983V20Anlage1)', '[Anlage 2](https://www.landesrecht-bw.de/bsbw/document/jlr-KomWOBW1983V25IVZ/format/xsl/anchor/jlr-KomWOBW1983V22Anlage2)'] (+20)",
+      "Body→IHV fehlt: ['§ 54 - [red. weggefallen]', 'Anlage 1 - Muster des Wahlscheins', 'Anlage 2 - Formblatt für eine Unterstützungsunterschrift'] (+20)",
+      "Body→IHV Abschnitt fehlt: ['1. ABSCHNITT - Vorbereitung der Wahl und Wahlorgane', '1. Unterabschnitt - Bekanntmachung der Wahl, Wahlbezirke', '2. Unterabschnitt - Wählerverzeichnis'] (+20)"
+    ],
+    "stats": {
+      "h2": 23,
+      "h3": 93,
+      "zeichen": 164208,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_KomWO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab (2025-07-30) liegt nach stand (2025-07-22) — normal bei Beschluss vor Inkrafttreten"
+    ],
+    "stats": {
+      "h2": 0,
+      "h3": 14,
+      "zeichen": 26396,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LArchG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['Erster Teil - Allgemeine Vorschriften', 'Zweiter Teil - Beamtenverhältnis', 'Dritter Teil - Laufbahnen'] (+15)",
+      "Body→IHV Abschnitt fehlt: ['Erster Teil - Allgemeine Vorschriften', 'Zweiter Teil - Beamtenverhältnis', 'Dritter Teil - Laufbahnen'] (+15)"
+    ],
+    "stats": {
+      "h2": 18,
+      "h3": 97,
+      "zeichen": 186596,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LBG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [],
+    "stats": {
+      "h2": 9,
+      "h3": 97,
+      "zeichen": 197271,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LBO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "Kein ## Inhaltsverzeichnis"
+    ],
+    "stats": {
+      "h2": 4,
+      "h3": 1,
+      "zeichen": 5503,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LBO_Anhang_verfahrensfreie_Vorhaben.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['1. Abschnitt - Allgemeine Vorschriften', '2. Abschnitt - Grundgehälter, Leistungsbezüge an Hochschulen', '1. Unterabschnitt - Allgemeine Grundsätze'] (+100)",
+      "Body→IHV Abschnitt fehlt: ['1. Abschnitt - Allgemeine Vorschriften', '2. Abschnitt - Grundgehälter, Leistungsbezüge an Hochschulen', '1. Unterabschnitt - Allgemeine Grundsätze'] (+100)"
+    ],
+    "stats": {
+      "h2": 103,
+      "h3": 114,
+      "zeichen": 232358,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LBesGBW.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['Teil 1 - Allgemeine Bestimmungen', 'Teil 2 - Disziplinarbehörden, Zuständigkeit', 'Teil 3 - Verfahren'] (+6)",
+      "Body→IHV Abschnitt fehlt: ['Teil 1 - Allgemeine Bestimmungen', 'Teil 2 - Disziplinarbehörden, Zuständigkeit', 'Teil 3 - Verfahren'] (+6)"
+    ],
+    "stats": {
+      "h2": 9,
+      "h3": 43,
+      "zeichen": 45244,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LDG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab (2026-02-28) liegt nach stand (2026-02-10) — normal bei Beschluss vor Inkrafttreten",
+      "Body→IHV Abschnitt fehlt: ['ABSCHNITT 1 - Allgemeine Bestimmungen', 'ABSCHNITT 2 - Rechtsgrundlagen der Verarbeitung personenbezogener Daten', 'ABSCHNITT 3 - Rechte der betroffenen Person'] (+5)"
+    ],
+    "stats": {
+      "h2": 8,
+      "h3": 47,
+      "zeichen": 73929,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LDSG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "Body→IHV Abschnitt fehlt: ['ERSTER ABSCHNITT - Allgemeine Grundsätze', 'ZWEITER ABSCHNITT - Entstehung und Festsetzung', 'DRITTER ABSCHNITT - Erhebung'] (+1)"
+    ],
+    "stats": {
+      "h2": 4,
+      "h3": 27,
+      "zeichen": 20667,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LGebG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben"
+    ],
+    "stats": {
+      "h2": 0,
+      "h3": 12,
+      "zeichen": 23428,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LIFG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [],
+    "stats": {
+      "h2": 6,
+      "h3": 61,
+      "zeichen": 67073,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LKatSG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Wesen und Aufgaben des Landkreises', '1. ABSCHNITT - Rechtsstellung', '2. ABSCHNITT - Gebiet des Landkreises'] (+12)"
+    ],
+    "stats": {
+      "h2": 15,
+      "h3": 67,
+      "zeichen": 85089,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LKrO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "IHV→Body fehlt: ['ABSCHNITT 1 - Allgemeine Vorschriften', 'ABSCHNITT 2 - Entsorgung durch öffentlich-rechtliche Entsorgungsträger', 'ABSCHNITT 3 - Entsorgung gefährlicher Abfälle zur Beseitigung'] (+4)",
+      "Body→IHV Abschnitt fehlt: ['ABSCHNITT 1 - Allgemeine Vorschriften', 'ABSCHNITT 2 - Entsorgung durch öffentlich-rechtliche Entsorgungsträger', 'ABSCHNITT 3 - Entsorgung gefährlicher Abfälle zur Beseitigung'] (+4)"
+    ],
+    "stats": {
+      "h2": 7,
+      "h3": 28,
+      "zeichen": 60258,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LKreiWiG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1972-07-01 — bitte prüfen"
+    ],
+    "stats": {
+      "h2": 0,
+      "h3": 17,
+      "zeichen": 18840,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LNTVO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['Teil 1 - Allgemeine Vorschriften', 'Teil 2 - Der Personalrat', 'Abschnitt 1 - Wahl und Zusammensetzung'] (+20)",
+      "Body→IHV Abschnitt fehlt: ['Teil 1 - Allgemeine Vorschriften', 'Teil 2 - Der Personalrat', 'Abschnitt 1 - Wahl und Zusammensetzung'] (+20)",
+      "Titellose §§ ohne (Red. TITEL): ['§ 58', '§ 67', '§ 91'] (+4)"
+    ],
+    "stats": {
+      "h2": 23,
+      "h3": 117,
+      "zeichen": 175657,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LPVG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1953-11-20 — bitte prüfen",
+      "IHV→Body fehlt: ['Artikel 1 - Mensch und Staat', 'Artikel 2 - Bekenntnis zum Grundgesetz, Menschenrecht auf Heimat', 'Artikel 2a - Schutz von Kindern und Jugendlichen'] (+100)",
+      "Body→IHV fehlt: ['Artikel 1', 'Artikel 2', 'Artikel 2a'] (+100)",
+      "Body→IHV Abschnitt fehlt: ['ERSTER HAUPTTEIL - Vom Menschen und seinen Ordnungen', 'I. Mensch und Staat', 'II. Religion und Religionsgemeinschaften'] (+10)",
+      "Titellose §§ ohne (Red. TITEL): ['Artikel 1', 'Artikel 2', 'Artikel 2a'] (+98)"
+    ],
+    "stats": {
+      "h2": 13,
+      "h3": 104,
+      "zeichen": 62640,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LV.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1974-07-01 — bitte prüfen",
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Gemeinsame Vorschriften', 'ZWEITER TEIL - Vollstreckung von Verwaltungsakten, die zu einer Geldleistung verpflichten', 'DRITTER TEIL - Vollstreckung von Verwaltungsakten, die zu einer sonstigen Handlung, einer Duldung oder einer Unterlassung verpflichten'] (+4)"
+    ],
+    "stats": {
+      "h2": 7,
+      "h3": 36,
+      "zeichen": 22913,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LVwVG.md"
+  },
+  {
+    "ok": false,
+    "fehler": [
+      "Lücken in §§-Nummerierung: § 73, § 74, § 75, § 76, § 77 (+1 weitere) — weggefallene §§ als '### § N (weggefallen)' eintragen"
+    ],
+    "warnungen": [
+      "Body→IHV Abschnitt fehlt: ['TEIL I - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit', 'Abschnitt 1 - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation', 'Abschnitt 2 - Amtshilfe'] (+16)"
+    ],
+    "stats": {
+      "h2": 19,
+      "h3": 117,
+      "zeichen": 139809,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LVwVfG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben"
+    ],
+    "stats": {
+      "h2": 0,
+      "h3": 14,
+      "zeichen": 17766,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LVwZG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "Body→IHV Abschnitt fehlt: ['1. ABSCHNITT - Wahlsystem', '2. ABSCHNITT - Gliederung des Wahlgebiets', '3. ABSCHNITT - Wahlrecht und Wählbarkeit'] (+10)"
+    ],
+    "stats": {
+      "h2": 13,
+      "h3": 61,
+      "zeichen": 123784,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LWG.md"
+  },
+  {
+    "ok": false,
+    "fehler": [
+      "Lücken in §§-Nummerierung: § 50, § 51, § 52, § 53, § 54 (+12 weitere) — weggefallene §§ als '### § N (weggefallen)' eintragen"
+    ],
+    "warnungen": [
+      "gueltig_ab (2025-08-06) liegt nach stand (2025-07-29) — normal bei Beschluss vor Inkrafttreten",
+      "IHV→Body fehlt: ['§§ 50 bis 66 (aufgehoben)', '[Anlage 1 - Wahlschein](https://www.landesrecht-bw.de/bsbw/document/jlr-WahlOBW2005V5IVZ/format/xsl/anchor/jlr-WahlOBW2005V5Anlage1)', '[Anlage 1a - Bekanntmachung über das Recht auf Einsicht in das Wählerverzeichnis](https://www.landesrecht-bw.de/bsbw/document/jlr-WahlOBW2005V5IVZ/format/xsl/anchor/jlr-WahlOBW2005V5Anlage1a)'] (+30)",
+      "Body→IHV fehlt: ['Anlage 1 - Wahlschein', 'Anlage 1a - Bekanntmachung über das Recht auf Einsicht in das Wählerverzeichnis', 'Anlage 2 - Stimmzettel'] (+29)",
+      "Body→IHV Abschnitt fehlt: ['1. ABSCHNITT - Gliederung des Wahlgebiets', '2. ABSCHNITT - Wahlorgane', '3. ABSCHNITT - Vorbereitung der Wahl'] (+11)"
+    ],
+    "stats": {
+      "h2": 14,
+      "h3": 98,
+      "zeichen": 127566,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LWO.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['ERSTER TEIL - Allgemeine Vorschriften', 'ZWEITER TEIL - Forstliche Rahmenplanung; Erhaltung des Waldes', '1. ABSCHNITT - Forstliche Rahmenplanung und Sicherung der Funktionen des Waldes bei Vorhaben von Behörden und Planungsträgern'] (+16)",
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Allgemeine Vorschriften', 'ZWEITER TEIL - Forstliche Rahmenplanung; Erhaltung des Waldes', '1. ABSCHNITT - Forstliche Rahmenplanung und Sicherung der Funktionen des Waldes bei Vorhaben von Behörden und Planungsträgern'] (+16)"
+    ],
+    "stats": {
+      "h2": 19,
+      "h3": 101,
+      "zeichen": 121282,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LWaldG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "IHV→Body fehlt: ['ERSTER TEIL - Aufgabe der Raumordnung und Landesplanung', 'ZWEITER TEIL - Mittel der Raumordnung und Landesplanung', '1. ABSCHNITT - Entwicklungspläne'] (+8)",
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Aufgabe der Raumordnung und Landesplanung', 'ZWEITER TEIL - Mittel der Raumordnung und Landesplanung', '1. ABSCHNITT - Entwicklungspläne'] (+8)"
+    ],
+    "stats": {
+      "h2": 11,
+      "h3": 57,
+      "zeichen": 78072,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_LplG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['Teil 1 - Allgemeine Vorschriften', 'Teil 2 - Landschaftsplanung', 'Teil 3 - Allgemeiner Schutz von Natur und Landschaft'] (+12)",
+      "Body→IHV Abschnitt fehlt: ['Teil 1 - Allgemeine Vorschriften', 'Teil 2 - Landschaftsplanung', 'Teil 3 - Allgemeiner Schutz von Natur und Landschaft'] (+12)"
+    ],
+    "stats": {
+      "h2": 15,
+      "h3": 75,
+      "zeichen": 136746,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_NatSchG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben"
+    ],
+    "stats": {
+      "h2": 0,
+      "h3": 18,
+      "zeichen": 33439,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_OEPNVG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [],
+    "stats": {
+      "h2": 24,
+      "h3": 138,
+      "zeichen": 236579,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_PolG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [],
+    "stats": {
+      "h2": 6,
+      "h3": 61,
+      "zeichen": 136183,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_RDG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "gueltig_ab sehr früh: 1983-08-01 — bitte prüfen",
+      "IHV→Body fehlt: ['1. TEIL - Das Schulwesen', 'A. Auftrag der Schule', 'B. Geltungsbereich'] (+25)",
+      "Body→IHV Abschnitt fehlt: ['1. TEIL - Das Schulwesen', 'A. Auftrag der Schule', 'B. Geltungsbereich'] (+25)"
+    ],
+    "stats": {
+      "h2": 28,
+      "h3": 149,
+      "zeichen": 255175,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_SchG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['ERSTER TEIL - Allgemeine Bestimmungen', '1. ABSCHNITT - Öffentliche Straßen und Straßenbaulast', '2. ABSCHNITT - Eigentum an öffentlichen Straßen'] (+13)",
+      "Body→IHV Abschnitt fehlt: ['ERSTER TEIL - Allgemeine Bestimmungen', '1. ABSCHNITT - Öffentliche Straßen und Straßenbaulast', '2. ABSCHNITT - Eigentum an öffentlichen Straßen'] (+13)"
+    ],
+    "stats": {
+      "h2": 16,
+      "h3": 72,
+      "zeichen": 112327,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_StrG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['Teil 1 - Allgemeine Vorschriften', 'Teil 2 - Umweltprüfung', 'Abschnitt 1 - Allgemeine Vorschriften'] (+13)",
+      "Body→IHV Abschnitt fehlt: ['Teil 1 - Allgemeine Vorschriften', 'Teil 2 - Umweltprüfung', 'Abschnitt 1 - Allgemeine Vorschriften'] (+13)"
+    ],
+    "stats": {
+      "h2": 16,
+      "h3": 35,
+      "zeichen": 72078,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_UVwG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben"
+    ],
+    "stats": {
+      "h2": 0,
+      "h3": 11,
+      "zeichen": 70779,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_VWV_IndBauRL.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "url fehlt",
+      "extensions fehlt — Landesrecht sollte mindestens eine Extension haben",
+      "Body→IHV Abschnitt fehlt: ['Erster Teil - Geltungsbereich des Gesetzes und Gliederung der Verwaltungsbehörden', 'Zweiter Teil - Allgemeine Bestimmungen zur Aufsicht, Aufgabenübertragung und zur Zusammenarbeit der Verwaltungsbehörden', 'Dritter Teil - Verwaltungsbehörden'] (+7)"
+    ],
+    "stats": {
+      "h2": 10,
+      "h3": 28,
+      "zeichen": 28449,
+      "size_class": "M"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_VwG.md"
+  },
+  {
+    "ok": true,
+    "fehler": [],
+    "warnungen": [
+      "IHV→Body fehlt: ['Teil 1 - Allgemeine Bestimmungen, Gewässereinteilung, Eigentum', 'Teil 2 - Bewirtschaftung von Gewässern', 'Abschnitt 1 - Gemeinsame Bestimmungen'] (+28)",
+      "Body→IHV Abschnitt fehlt: ['Teil 1 - Allgemeine Bestimmungen, Gewässereinteilung, Eigentum', 'Teil 2 - Bewirtschaftung von Gewässern', 'Abschnitt 1 - Gemeinsame Bestimmungen'] (+28)"
+    ],
+    "stats": {
+      "h2": 31,
+      "h3": 128,
+      "zeichen": 189863,
+      "size_class": "L"
+    },
+    "datei": "/home/christian/Projekte/ragsource-content/regelungsrahmen/landesrecht-bw/BW_WG.md"
+  }
+]

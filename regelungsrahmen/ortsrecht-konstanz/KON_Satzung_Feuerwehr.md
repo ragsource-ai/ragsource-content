@@ -16,6 +16,9 @@ url: "https://www.konstanz.de/site/Konstanz/get/documents_E2070094537/konstanz/D
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Gefahrenabwehrrecht
 ---
 ## Inhaltsverzeichnis
 

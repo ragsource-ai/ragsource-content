@@ -15,6 +15,10 @@ gueltig_ab: 2016-03-01
 status: published
 endpoints:
   - amtsschimmel
+url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/richtlinien_boller_bauernmarkt.pdf"
+extensions:
+  - Kommunalrecht
+  - Verwaltungsrecht
 ---
 
 ### Richtlinien für den Bad Boller Bauernmarkt

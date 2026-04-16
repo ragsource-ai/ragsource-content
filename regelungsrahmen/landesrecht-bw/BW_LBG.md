@@ -15,6 +15,7 @@ endpoints:
   - amtsschimmel
 extensions:
   - Arbeitsrecht
+  - Verwaltungsrecht
 ---
 
 ## Inhaltsverzeichnis

@@ -6,11 +6,15 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-1385584905/22305989/3_10_Archivordnung.pdf
 quelle: Kreistagsbeschluss vom 30.06.1989
 gueltig_ab: 1989-07-20
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Verwaltungsrecht
 ---
 
 ## Inhaltsverzeichnis

@@ -8,6 +8,8 @@ url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/do
 endpoints:
   - amtsschimmel
   - brandmeister
+extensions:
+  - Gefahrenabwehrrecht
 ---
 
 ## Inhaltsverzeichnis

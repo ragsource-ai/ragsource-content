@@ -12,6 +12,9 @@ stand: 2024-08-21
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Gefahrenabwehrrecht
+  - Verwaltungsrecht
 ---
 
 Verwaltungsvorschrift des Innenministeriums über Zuwendungen für das Feuerwehrwesen (ZFeuVwV)

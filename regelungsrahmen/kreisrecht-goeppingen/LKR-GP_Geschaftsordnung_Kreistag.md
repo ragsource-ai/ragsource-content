@@ -6,11 +6,14 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E1611034794/22305990/Geschaeftsordnung%20Stand%2013.07.2018.pdf
 quelle: Kreistagsbeschluss vom 09.07.1974, zuletzt geändert am 13.07.2018
 gueltig_ab: 2018-07-13
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
 ---
 
 ## Inhaltsverzeichnis

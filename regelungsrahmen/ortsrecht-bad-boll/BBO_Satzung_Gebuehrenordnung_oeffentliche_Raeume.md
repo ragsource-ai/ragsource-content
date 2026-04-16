@@ -15,6 +15,10 @@ gueltig_ab: 2016-01-21
 status: published
 endpoints:
   - amtsschimmel
+url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/gebuehrenordnung_fuer_oeffentliche_raeume.pdf"
+extensions:
+  - Kommunalrecht
+  - Steuer- & Abgabenrecht
 ---
 
 **Stand:** Januar 2016

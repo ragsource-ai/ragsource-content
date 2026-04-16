@@ -13,6 +13,9 @@ stand: "2026-03-29"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Umwelt- & Naturrecht
+  - Verwaltungsrecht
 ---
 
 ## Inhaltsverzeichnis

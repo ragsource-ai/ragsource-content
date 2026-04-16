@@ -13,6 +13,11 @@ stand: "2025-07-29"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Bildungs- & Jugendrecht
+  - Sozialrecht
+  - Verwaltungsrecht
+
 ---
 
 ## Inhaltsverzeichnis

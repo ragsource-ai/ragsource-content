@@ -13,6 +13,9 @@ stand: "2025-11-18"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Gefahrenabwehrrecht
+  - Verwaltungsrecht
 ---
 
 ## Inhaltsverzeichnis

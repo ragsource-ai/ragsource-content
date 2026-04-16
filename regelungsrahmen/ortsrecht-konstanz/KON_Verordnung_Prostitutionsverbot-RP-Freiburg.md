@@ -15,6 +15,9 @@ status: published
 endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-875812998/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_03%20Verordnung%20des%20Regierungspr%C3%A4sidiums%20Freiburg%20%C3%BCber%20das%20Verbot%20der%20Prostitution%20in%20der%20Gro%C3%9Fen%20Kreisstadt%20Konstanz.pdf"
+extensions:
+  - Kommunalrecht
+  - Strafrecht & OWiG
 ---
 
 ## Inhaltsverzeichnis

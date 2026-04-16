@@ -12,6 +12,9 @@ stand: 2022-09-27
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Gefahrenabwehrrecht
+  - Verwaltungsrecht
 ---
 
 Verwaltungsvorschrift des Innenministeriums über die einheitliche Bekleidung, die Dienstgrade sowie die Dienstgrad- und Funktionsabzeichen bei den Feuerwehren und im feuerwehrtechnischen Dienst in Baden-Württemberg (VwV Feuerwehrbekleidung und Dienstgrade)

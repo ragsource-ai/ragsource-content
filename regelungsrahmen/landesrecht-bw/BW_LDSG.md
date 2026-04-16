@@ -13,6 +13,9 @@ stand: 2026-02-10
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Datenschutz & IT-Recht
+  - Verwaltungsrecht
 ---
 
 ## Inhaltsverzeichnis

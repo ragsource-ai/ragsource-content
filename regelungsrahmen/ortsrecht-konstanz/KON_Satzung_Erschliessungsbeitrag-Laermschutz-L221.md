@@ -16,6 +16,10 @@ url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1524531203/konstanz/
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Baurecht
+  - Steuer- & Abgabenrecht
 ---
 
 ## Inhaltsverzeichnis

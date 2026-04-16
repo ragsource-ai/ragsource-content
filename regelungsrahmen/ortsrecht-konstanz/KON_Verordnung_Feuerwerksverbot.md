@@ -16,6 +16,9 @@ status: published
 endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E678115132/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_27%20Allgemeine%20Anordnung%20zum%20Abbrennverbot%20von%20Feuerwerksk%C3%B6rpern%20an%20Silvester%20und%20Neujahr%20in%20Konstanz.pdf"
+extensions:
+  - Kommunalrecht
+  - Gefahrenabwehrrecht
 ---
 
 ## Inhaltsverzeichnis

@@ -6,11 +6,15 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-284641690/22305978/3_02_BetriebssatzungAWB.pdf
 quelle: Kreistagsbeschluss vom 24.11.2000
 gueltig_ab: 2001-01-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Umwelt- & Naturrecht
 ---
 
 ## Inhaltsverzeichnis

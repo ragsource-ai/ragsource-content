@@ -6,11 +6,16 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E1998584160/22305993/Satzung_Rabattierung_Zeitfahrausweise_Ausbildungsverkehr_axes.pdf
 quelle: Kreistagsbeschluss vom 16.04.2021
 gueltig_ab: 2021-01-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Verkehrsrecht
+  - Bildungs- & Jugendrecht
 ---
 
 ## Inhaltsverzeichnis

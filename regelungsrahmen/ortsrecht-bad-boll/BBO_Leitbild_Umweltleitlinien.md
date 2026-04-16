@@ -15,6 +15,10 @@ gueltig_ab: 1999-02-12
 status: published
 endpoints:
   - amtsschimmel
+url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/umweltleitlinien_fuer_die_gemeinde_boll.pdf"
+extensions:
+  - Kommunalrecht
+  - Umwelt- & Naturrecht
 ---
 
 ### Umweltleitlinien für die Gemeinde Bad Boll

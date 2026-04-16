@@ -10,6 +10,10 @@ offiziell: Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe
 quelle: BGBl. I 2012 S. 2022, zuletzt geändert durch Art. 2 G v. 3.4.2025 (BGBl. 2025 I Nr. 107)
 gueltig_ab: 2025-04-03
 status: published
+url: "https://www.gesetze-im-internet.de/sgb_8/"
+extensions:
+  - Sozialrecht
+  - Bildungs- & Jugendrecht
 ---
 
 ## Inhaltsverzeichnis

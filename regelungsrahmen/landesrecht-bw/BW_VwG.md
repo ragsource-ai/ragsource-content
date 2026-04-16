@@ -9,6 +9,9 @@ gueltig_ab: 2008-10-14
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Verwaltungsrecht
+  - Kommunalrecht
 ---
 
 ## Inhaltsverzeichnis

@@ -9,6 +9,10 @@ gueltig_ab: 2025-07-22
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Verwaltungsrecht
+
 ---
 
 ## Inhaltsverzeichnis

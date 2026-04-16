@@ -13,6 +13,10 @@ stand: "2026-03-28"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Gefahrenabwehrrecht
+  - Arbeitsrecht
+  - Verwaltungsrecht
 ---
 
 ## Inhaltsverzeichnis

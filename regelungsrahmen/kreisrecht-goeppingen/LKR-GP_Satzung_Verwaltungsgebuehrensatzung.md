@@ -6,11 +6,15 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-1130848360/22305985/3_7_Gebuehrensatzung_LKR_Goeppingen.pdf
 quelle: Kreistagsbeschluss vom 13.11.2020, geändert ab 01.01.2021
 gueltig_ab: 2020-01-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Steuer- & Abgabenrecht
 ---
 
 ## Inhaltsverzeichnis

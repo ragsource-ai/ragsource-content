@@ -6,11 +6,15 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-1426475136/22290469/Gebuehrenverzeichnis_01-01-2025_ax.pdf
 quelle: Anlage zur Gebührenverordnung des Landratsamts Göppingen vom 01.03.2025
 gueltig_ab: 2025-03-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Steuer- & Abgabenrecht
 ---
 
 **Erster Teil des Gebührenverzeichnisses. Fortsetzung ab Umweltschutzamt in [[LKR-GP_Gebuehrenverzeichnis_Anlage_zur_Gebuehrenverordnung_Teil_2_von_2**]] und [[LKR-GP_Gebuehrenverzeichnis_Anlage_zur_Gebuehrenverordnung_Teil_3_von_3]]

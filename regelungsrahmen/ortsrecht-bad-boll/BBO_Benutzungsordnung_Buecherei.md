@@ -15,6 +15,10 @@ gueltig_ab: 2014-05-01
 status: published
 endpoints:
   - amtsschimmel
+url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/benutzungsordnung_buecherei_im_alten_schulhaus.pdf"
+extensions:
+  - Kommunalrecht
+  - Bildungs- & Jugendrecht
 ---
 
 ## Inhaltsverzeichnis

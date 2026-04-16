@@ -6,11 +6,14 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E357644221/22305977/3_1_Hauptsatzung.pdf
 quelle: Kreistagsbeschluss vom 24.11.2000, zuletzt geändert am 15.12.2020
 gueltig_ab: 2021-01-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
 ---
 
 ## Inhaltsverzeichnis

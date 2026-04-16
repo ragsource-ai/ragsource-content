@@ -14,8 +14,9 @@ endpoints:
   - amtsschimmel
   - brandmeister
 extensions:
-  - universal
-kurztitel: DSGVO
+  - Datenschutz & IT-Recht
+  - Verwaltungsrecht
+  - universalkurztitel: DSGVO
 rechtstyp: EU-Verordnung
 offiziell: Verordnung (EU) 2016/679
 erlassdatum: 2016-04-27

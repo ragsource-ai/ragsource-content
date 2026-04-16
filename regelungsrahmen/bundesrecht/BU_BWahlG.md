@@ -7,6 +7,9 @@ geaendert_am: "2024-03-07"
 quelle: "Gesetz vom 1956-05-07 (BGBl I 1956, 383), zuletzt geändert durch Art. 1 G v. 7.3.2024 I Nr. 91"
 gueltig_ab: 2024-03-07
 url: "https://www.gesetze-im-internet.de/bwahlg/"
+extensions:
+  - Kommunalrecht
+  - Verwaltungsrecht
 stand: "2024-03-07"
 status: published
 endpoints:

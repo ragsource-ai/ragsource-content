@@ -11,6 +11,11 @@ stand: "2020-12-17"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Steuer- & Abgabenrecht
+  - Verwaltungsrecht
+
 ---
 
 ## Inhaltsverzeichnis

@@ -9,6 +9,11 @@ gueltig_ab: 2024-11-05
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Steuer- & Abgabenrecht
+  - Verwaltungsrecht
+
 ---
 
 ## Inhaltsverzeichnis

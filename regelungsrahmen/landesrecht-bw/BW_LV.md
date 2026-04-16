@@ -13,6 +13,8 @@ stand: "2022-04-26"
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Verfassungsrecht
 ---
 
 ## Inhaltsverzeichnis

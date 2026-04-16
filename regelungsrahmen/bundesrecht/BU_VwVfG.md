@@ -8,8 +8,8 @@ status: published
 endpoints:
   - amtsschimmel
 extensions:
-  - universal
----
+  - Verwaltungsrecht
+  - universal---
 
 ## Inhaltsverzeichnis
 

@@ -6,11 +6,15 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-502338224/22305992/Kulturf%C3%B6rderrichtlinien.pdf
 quelle: Kreistagsbeschluss, gültig ab 2020
 gueltig_ab: 2020-01-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Verwaltungsrecht
 ---
 
 Der Landkreis Göppingen verfügt über ein vielseitiges kulturelles Profil und fördert dieses regelmäßig mit finanziellen Mitteln aus dem Kreishaushalt. Die Kulturförderung des Landkreises ist dabei grundsätzlich nachrangig zur kommunalen Kulturförderung zu sehen. Sie verfolgt eine kontinuierliche Sicherung sowie eine innovative Weiterentwicklung von qualitativ hochwertigen Kulturangeboten aus den Bereichen Musik, Kunst, Kulturpflege und Bildung für die Bewohnerinnen und Bewohner sowie die Besucherinnen und Besucher des Landkreises.

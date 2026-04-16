@@ -6,11 +6,15 @@ land_ars: 08
 kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
+url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E550698728/23950013/Geb%C3%BChrenverordnung_01-01-2025.pdf
 quelle: Rechtsverordnung des Landratsamts Göppingen vom 28.02.2025
 gueltig_ab: 2025-03-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Steuer- & Abgabenrecht
 ---
 
 ## Inhaltsverzeichnis

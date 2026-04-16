@@ -15,6 +15,9 @@ gueltig_ab: 2016-07-01
 status: published
 endpoints:
   - amtsschimmel
+url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/veroeffentlichungsrichtlinien.pdf"
+extensions:
+  - Kommunalrecht
 ---
 
 ### Veröffentlichungsrichtlinie für das amtliche Mitteilungsblatt des Gemeindeverwaltungsverbandes Raum Bad Boll und der Gemeinden Aichelberg, Bad Boll, Dürnau, Gammelshausen, Hattenhofen und Zell u. A.

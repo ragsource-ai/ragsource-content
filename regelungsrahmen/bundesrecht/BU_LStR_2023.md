@@ -6,14 +6,14 @@ erlassen_am: "2022-09-15"
 geaendert_am: "2022-09-15"
 quelle: "Allgemeine Verwaltungsvorschrift der Bundesregierung vom 15.09.2022, Bundesrat Drucksache 455/22"
 gueltig_ab: 2023-01-01
-url: ""
+url: "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerarten/Lohnsteuer/BMF_Schreiben_Allgemeines/2022-07-05-entwurf-lstr-2023.html"
 stand: "2022-09-15"
 status: published
 endpoints:
   - amtsschimmel
 extensions:
   - Arbeitsrecht
----
+  - Steuer- & Abgabenrecht---
 
 ## Inhaltsverzeichnis
 
