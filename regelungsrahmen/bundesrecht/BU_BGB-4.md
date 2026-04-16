@@ -118,7 +118,7 @@ Untertitel 1 - Gesetzliches Güterrecht
 - § 1367 - Einseitige Rechtsgeschäfte
 - § 1368 - Geltendmachung der Unwirksamkeit
 - § 1369 - Verfügungen über Haushaltsgegenstände
-- § 1370 - (weggefallen)
+- § 1370 (weggefallen)
 - § 1371 - Zugewinnausgleich im Todesfall
 - § 1372 - Zugewinnausgleich in anderen Fällen
 - § 1373 - Zugewinn
@@ -137,7 +137,7 @@ Untertitel 1 - Gesetzliches Güterrecht
 - § 1386 - Vorzeitige Aufhebung der Zugewinngemeinschaft
 - § 1387 - Berechnungszeitpunkt des Zugewinns und Höhe der Ausgleichsforderung bei vorzeitigem Ausgleich oder vorzeitiger Aufhebung
 - § 1388 - Eintritt der Gütertrennung
-- § 1389 - (weggefallen)
+- § 1389 (weggefallen)
 - § 1390 - Ansprüche des Ausgleichsberechtigten gegen Dritte
 
 Untertitel 2 - Vertragliches Güterrecht
@@ -221,7 +221,7 @@ des Gesamtguts durch die Ehegatten
 - § 1455 - Verwaltungshandlungen ohne Mitwirkung des anderen Ehegatten
 - § 1456 - Selbständiges Erwerbsgeschäft
 - § 1457 - Ungerechtfertigte Bereicherung des Gesamtguts
-- § 1458 - (weggefallen)
+- § 1458 (weggefallen)
 - § 1459 - Gesamtgutsverbindlichkeiten; persönliche Haftung
 - § 1460 - Haftung des Gesamtguts
 - § 1461 - Keine Haftung bei Erwerb einer Erbschaft
@@ -490,7 +490,7 @@ der Eltern
 - § 1631d - Beschneidung des männlichen Kindes
 - § 1631e - Behandlung von Kindern mit Varianten der Geschlechtsentwicklung
 - § 1632 - Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
-- § 1633 - (weggefallen)
+- § 1633 (weggefallen)
 - § 1634 (Red. weggefallen)
 - § 1635 (Red. weggefallen)
 - § 1636 (Red. weggefallen)
@@ -530,7 +530,7 @@ der Eltern
 - § 1669 (Red. weggefallen)
 - § 1670 (Red. weggefallen)
 - § 1671 - Übertragung der Alleinsorge bei Getrenntleben der Eltern
-- § 1672 - (weggefallen)
+- § 1672 (weggefallen)
 - § 1673 - Ruhen der elterlichen Sorge bei rechtlichem Hindernis
 - § 1674 - Ruhen der elterlichen Sorge bei tatsächlichem Hindernis
 - § 1674a - Ruhen der elterlichen Sorge für ein vertraulich geborenes Kind
@@ -542,7 +542,7 @@ der Eltern
 - § 1680 - Tod eines Elternteils oder Entziehung des Sorgerechts
 - § 1681 - Todeserklärung eines Elternteils
 - § 1682 - Verbleibensanordnung zugunsten von Bezugspersonen
-- § 1683 - (weggefallen)
+- § 1683 (weggefallen)
 - § 1684 - Umgang des Kindes mit den Eltern
 - § 1685 - Umgang des Kindes mit anderen Bezugspersonen
 - § 1686 - Auskunft über die persönlichen Verhältnisse des Kindes
@@ -559,7 +559,7 @@ der Eltern
 - § 1694 (Red. weggefallen)
 - § 1695 (Red. weggefallen)
 - § 1696 - Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche
-- § 1697 - (weggefallen)
+- § 1697 (weggefallen)
 - § 1697a - Kindeswohlprinzip
 - § 1698 - Herausgabe des Kindesvermögens; Rechnungslegung
 - § 1698a - Fortführung der Geschäfte in Unkenntnis der Beendigung
@@ -851,9 +851,7 @@ Titel 4 - Sonstige Pflegschaft
 
 Veranlasst ein Verlobter den Rücktritt des anderen durch ein Verschulden, das einen wichtigen Grund für den Rücktritt bildet, so ist er nach Maßgabe des § 1298 Abs. 1, 2 zum Schadensersatz verpflichtet.
 
-### § 1300
-
-(weggefallen)
+### § 1300 (weggefallen)
 
 ### § 1301 - Rückgabe der Geschenke
 
@@ -1070,9 +1068,7 @@ Todeserklärung
 
 (2) Ein Ehegatte ist nicht verpflichtet, dem Verlangen des anderen Ehegatten nach Herstellung der Gemeinschaft Folge zu leisten, wenn sich das Verlangen als Missbrauch seines Rechts darstellt oder wenn die Ehe gescheitert ist.
 
-### § 1354
-
-(weggefallen)
+### § 1354 (weggefallen)
 
 ### § 1355 - Ehename
 
@@ -1268,7 +1264,7 @@ Verfügt ein Ehegatte ohne die erforderliche Zustimmung des anderen Ehegatten ü
 
 (3) Die Vorschriften der §§ 1366 bis 1368 gelten entsprechend.
 
-### § 1370 - (weggefallen)
+### § 1370 (weggefallen)
 
 -
 
@@ -1403,7 +1399,7 @@ In den Fällen der §§ 1385 und 1386 tritt für die Berechnung des Zugewinns un
 
 Mit der Rechtskraft der Entscheidung, die die Zugewinngemeinschaft vorzeitig aufhebt, tritt Gütertrennung ein.
 
-### § 1389 - (weggefallen)
+### § 1389 (weggefallen)
 
 -
 
@@ -1734,7 +1730,7 @@ Jeder Ehegatte kann ohne Mitwirkung des anderen Ehegatten
 
 Wird durch ein Rechtsgeschäft, das ein Ehegatte ohne die erforderliche Zustimmung des anderen Ehegatten vornimmt, das Gesamtgut bereichert, so ist die Bereicherung nach den Vorschriften über die ungerechtfertigte Bereicherung aus dem Gesamtgut herauszugeben.
 
-### § 1458 - (weggefallen)
+### § 1458 (weggefallen)
 
 ### § 1459 - Gesamtgutsverbindlichkeiten; persönliche Haftung
 
@@ -2038,9 +2034,7 @@ Ist ein gemeinschaftlicher Abkömmling erbunwürdig, so ist er auch des Anteils 
 
 Das Nachlassgericht hat dem überlebenden Ehegatten auf Antrag ein Zeugnis über die Fortsetzung der Gütergemeinschaft zu erteilen. Die Vorschriften über den Erbschein finden entsprechende Anwendung.
 
-### § 1508
-
-(weggefallen)
+### § 1508 (weggefallen)
 
 ### § 1509 - Ausschließung der fortgesetzten Gütergemeinschaft durch letztwillige Verfügung
 
@@ -3067,7 +3061,7 @@ Die Eltern können nicht in eine Sterilisation des Kindes einwilligen. Auch das 
 1. sich innerhalb eines im Hinblick auf die Entwicklung des Kindes vertretbaren Zeitraums trotz angebotener geeigneter Beratungs- und Unterstützungsmaßnahmen die Erziehungsverhältnisse bei den Eltern nicht nachhaltig verbessert haben und eine derartige Verbesserung mit hoher Wahrscheinlichkeit auch zukünftig nicht zu erwarten ist und
 2. die Anordnung zum Wohl des Kindes erforderlich ist.
 
-### § 1633 - (weggefallen)
+### § 1633 (weggefallen)
 
 ### § 1634 (Red. weggefallen)
 ### § 1635 (Red. weggefallen)
@@ -3138,9 +3132,7 @@ Die Eltern haben Beginn, Art und Umfang eines neuen Erwerbsgeschäfts im Namen d
 
 (2) Die Vorschriften des Absatzes 1 sind entsprechend anzuwenden, wenn die Eltern mit Mitteln des Kindes ein Recht an Sachen der bezeichneten Art oder ein anderes Recht erwerben, zu dessen Übertragung der Abtretungsvertrag genügt.
 
-### § 1647
-
-(weggefallen)
+### § 1647 (weggefallen)
 
 ### § 1648 - Ersatz von Aufwendungen
 
@@ -3172,9 +3164,7 @@ Machen die Eltern bei der Ausübung der Personensorge oder der Vermögenssorge A
 
 (2) Sind für einen Schaden beide Eltern verantwortlich, so haften sie als Gesamtschuldner.
 
-### § 1665
-
-(weggefallen)
+### § 1665 (weggefallen)
 
 ### § 1666 - Gerichtliche Maßnahmen bei Gefährdung des Kindeswohls
 
@@ -3225,7 +3215,7 @@ Machen die Eltern bei der Ausübung der Personensorge oder der Vermögenssorge A
 
 (4) Den Anträgen nach den Absätzen 1 und 2 ist nicht stattzugeben, soweit die elterliche Sorge auf Grund anderer Vorschriften abweichend geregelt werden muss.
 
-### § 1672 - (weggefallen)
+### § 1672 (weggefallen)
 
 ### § 1673 - Ruhen der elterlichen Sorge bei rechtlichem Hindernis
 
@@ -3247,9 +3237,7 @@ Die elterliche Sorge der Eltern für ein nach § 25 Absatz 1 des Schwangerschaft
 
 Solange die elterliche Sorge ruht, ist ein Elternteil nicht berechtigt, sie auszuüben.
 
-### § 1676
-
-(weggefallen)
+### § 1676 (weggefallen)
 
 ### § 1677 - Beendigung der Sorge durch Todeserklärung
 
@@ -3261,9 +3249,7 @@ Die elterliche Sorge eines Elternteils endet, wenn er für tot erklärt oder sei
 
 (2) Ruht die elterliche Sorge des Elternteils, dem sie gemäß § 1626a Absatz 3 oder § 1671 allein zustand, und besteht keine Aussicht, dass der Grund des Ruhens wegfallen werde, so hat das Familiengericht die elterliche Sorge dem anderen Elternteil zu übertragen, wenn dies dem Wohl des Kindes nicht widerspricht.
 
-### § 1679
-
-(weggefallen)
+### § 1679 (weggefallen)
 
 ### § 1680 - Tod eines Elternteils oder Entziehung des Sorgerechts
 
@@ -3283,7 +3269,7 @@ Die elterliche Sorge eines Elternteils endet, wenn er für tot erklärt oder sei
 
 Hat das Kind seit längerer Zeit in einem Haushalt mit einem Elternteil und dessen Ehegatten gelebt und will der andere Elternteil, der nach den §§ 1678, 1680, 1681 den Aufenthalt des Kindes nunmehr allein bestimmen kann, das Kind von dem Ehegatten wegnehmen, so kann das Familiengericht von Amts wegen oder auf Antrag des Ehegatten anordnen, dass das Kind bei dem Ehegatten verbleibt, wenn und solange das Kindeswohl durch die Wegnahme gefährdet würde. Satz 1 gilt entsprechend, wenn das Kind seit längerer Zeit in einem Haushalt mit einem Elternteil und dessen Lebenspartner oder einer nach § 1685 Abs. 1 umgangsberechtigten volljährigen Person gelebt hat.
 
-### § 1683 - (weggefallen)
+### § 1683 (weggefallen)
 
 -
 
@@ -3365,7 +3351,7 @@ Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das Familien
 
 (3) Eine Anordnung nach § 1632 Absatz 4 ist auf Antrag der Eltern aufzuheben, wenn die Wegnahme des Kindes von der Pflegeperson das Kindeswohl nicht gefährdet.
 
-### § 1697 - (weggefallen)
+### § 1697 (weggefallen)
 
 -
 

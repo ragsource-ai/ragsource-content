@@ -452,7 +452,7 @@ Untertitel 2 - Finanzierungshilfen zwischen einem Unternehmer und einem Verbrauc
 - § 506 - Zahlungsaufschub, sonstige Finanzierungshilfe
 - § 507 - Teilzahlungsgeschäfte
 - § 508 - Rücktritt bei Teilzahlungsgeschäften
-- § 509 - (weggefallen)
+- § 509 (weggefallen)
 
 Untertitel 3 - Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
 - § 510 - Ratenlieferungsverträge
@@ -701,7 +701,7 @@ Titel 8 - Dienstvertrag und ähnliche Verträge
 Untertitel 1 - Dienstvertrag
 - § 611 - Vertragstypische Pflichten beim Dienstvertrag
 - § 611a - Arbeitsvertrag
-- § 611b - (weggefallen)
+- § 611b (weggefallen)
 - § 612 - Vergütung
 - § 612a - Maßregelungsverbot
 - § 613 - Unübertragbarkeit
@@ -753,7 +753,7 @@ Kapitel 1 - Allgemeine Vorschriften
 - § 639 - Haftungsausschluss
 - § 640 - Abnahme
 - § 641 - Fälligkeit der Vergütung
-- § 641a - (weggefallen)
+- § 641a (weggefallen)
 - § 642 - Mitwirkung des Bestellers
 - § 643 - Kündigung bei unterlassener Mitwirkung
 - § 644 - Gefahrtragung
@@ -1423,9 +1423,7 @@ Wer nur für diejenige Sorgfalt einzustehen hat, welche er in eigenen Angelegenh
 
 Der Schuldner hat ein Verschulden seines gesetzlichen Vertreters und der Personen, deren er sich zur Erfüllung seiner Verbindlichkeit bedient, in gleichem Umfang zu vertreten wie eigenes Verschulden. Die Vorschrift des § 276 Abs. 3 findet keine Anwendung.
 
-### § 279
-
-(weggefallen)
+### § 279 (weggefallen)
 
 ### § 280 - Schadensersatz wegen Pflichtverletzung
 
@@ -3894,7 +3892,7 @@ Das Bundesministerium der Finanzen und das Bundesministerium der Justiz und für
 
 Der Unternehmer kann von einem Teilzahlungsgeschäft wegen Zahlungsverzugs des Verbrauchers nur unter den in § 498 Absatz 1 Satz 1 bezeichneten Voraussetzungen zurücktreten. Dem Nennbetrag entspricht der Gesamtbetrag. Der Verbraucher hat dem Unternehmer auch die infolge des Vertrags gemachten Aufwendungen zu ersetzen. Bei der Bemessung der Vergütung von Nutzungen einer zurückzugewährenden Sache ist auf die inzwischen eingetretene Wertminderung Rücksicht zu nehmen. Nimmt der Unternehmer die auf Grund des Teilzahlungsgeschäfts gelieferte Sache wieder an sich, gilt dies als Ausübung des Rücktrittsrechts, es sei denn, der Unternehmer einigt sich mit dem Verbraucher, diesem den gewöhnlichen Verkaufswert der Sache im Zeitpunkt der Wegnahme zu vergüten. Satz 5 gilt entsprechend, wenn ein Vertrag über die Lieferung einer Sache mit einem Verbraucherdarlehensvertrag verbunden ist (§ 358 Absatz 3) und wenn der Darlehensgeber die Sache an sich nimmt; im Fall des Rücktritts bestimmt sich das Rechtsverhältnis zwischen dem Darlehensgeber und dem Verbraucher nach den Sätzen 3 und 4.
 
-### § 509 - (weggefallen)
+### § 509 (weggefallen)
 
 
 ## Untertitel 3 - Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
@@ -5332,9 +5330,7 @@ Die Ersatzansprüche des Verleihers wegen Veränderungen oder Verschlechterungen
 
 Ein Entgelt hat der Darlehensnehmer spätestens bei Rückerstattung der überlassenen Sache zu bezahlen.
 
-### § 610
-
-(weggefallen)
+### § 610 (weggefallen)
 
 
 ## Titel 8 - Dienstvertrag und ähnliche Verträge
@@ -5354,7 +5350,7 @@ Ein Entgelt hat der Darlehensnehmer spätestens bei Rückerstattung der überlas
 
 (2) Der Arbeitgeber ist zur Zahlung der vereinbarten Vergütung verpflichtet.
 
-### § 611b - (weggefallen)
+### § 611b (weggefallen)
 
 ### § 612 - Vergütung
 
@@ -5699,7 +5695,7 @@ Auf eine Vereinbarung, durch welche die Rechte des Bestellers wegen eines Mangel
 
 (4) Eine in Geld festgesetzte Vergütung hat der Besteller von der Abnahme des Werkes an zu verzinsen, sofern nicht die Vergütung gestundet ist.
 
-### § 641a - (weggefallen)
+### § 641a (weggefallen)
 
 -
 
@@ -7498,9 +7494,7 @@ Zur Gültigkeit eines Vertrags, durch den eine Leibrente versprochen wird, ist, 
 
 Ein Lotterievertrag oder ein Ausspielvertrag ist verbindlich, wenn die Lotterie oder die Ausspielung staatlich genehmigt ist. Anderenfalls findet die Vorschrift des § 762 Anwendung.
 
-### § 764
-
-(weggefallen)
+### § 764 (weggefallen)
 
 
 ## Titel 20 - Bürgschaft
@@ -7628,9 +7622,7 @@ Händigt jemand eine Urkunde, in der er einen anderen anweist, Geld, Wertpapiere
 
 Der Angewiesene ist nur gegen Aushändigung der Anweisung zur Leistung verpflichtet.
 
-### § 786
-
-(weggefallen)
+### § 786 (weggefallen)
 
 ### § 787 - Anweisung auf Schuld
 
@@ -7678,9 +7670,7 @@ Inhaber
 
 (2) Auf die Wirksamkeit einer Schuldverschreibung auf den Inhaber ist es ohne Einfluss, wenn die Urkunde ausgegeben wird, nachdem der Aussteller gestorben oder geschäftsunfähig geworden ist.
 
-### § 795
-
-(weggefallen)
+### § 795 (weggefallen)
 
 ### § 796 - Einwendungen des Ausstellers
 
@@ -7891,9 +7881,7 @@ Wird durch ein Tier ein Mensch getötet oder der Körper oder die Gesundheit ein
 
 Wer für denjenigen, welcher ein Tier hält, die Führung der Aufsicht über das Tier durch Vertrag übernimmt, ist für den Schaden verantwortlich, den das Tier einem Dritten in der im § 833 bezeichneten Weise zufügt. Die Verantwortlichkeit tritt nicht ein, wenn er bei der Führung der Aufsicht die im Verkehr erforderliche Sorgfalt beobachtet oder wenn der Schaden auch bei Anwendung dieser Sorgfalt entstanden sein würde.
 
-### § 835
-
-(weggefallen)
+### § 835 (weggefallen)
 
 ### § 836 - Haftung des Grundstücksbesitzers
 
@@ -7967,9 +7955,7 @@ Im Falle der Tötung, der Verletzung des Körpers oder der Gesundheit sowie im F
 
 Hat in den Fällen der §§ 844, 845 bei der Entstehung des Schadens, den der Dritte erleidet, ein Verschulden des Verletzten mitgewirkt, so findet auf den Anspruch des Dritten die Vorschrift des § 254 Anwendung.
 
-### § 847
-
-(weggefallen)
+### § 847 (weggefallen)
 
 ### § 848 - Haftung für Zufall bei Entziehung einer Sache
 

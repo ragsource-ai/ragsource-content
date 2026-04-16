@@ -406,11 +406,11 @@ Titel 7 - Errichtung und Aufhebung eines Testaments
 - § 2257 - Widerruf des Widerrufs
 - § 2258 - Widerruf durch ein späteres Testament
 - § 2259 - Ablieferungspflicht
-- § 2260 - (weggefallen)
-- § 2261 - (weggefallen)
-- § 2262 - (weggefallen)
+- § 2260 (weggefallen)
+- § 2261 (weggefallen)
+- § 2262 (weggefallen)
 - § 2263 - Nichtigkeit eines Eröffnungsverbots
-- § 2264 - (weggefallen)
+- § 2264 (weggefallen)
 
 Titel 8 - Gemeinschaftliches Testament
 - § 2265 - Errichtung durch Ehegatten
@@ -421,13 +421,13 @@ Titel 8 - Gemeinschaftliches Testament
 - § 2270 - Wechselbezügliche Verfügungen
 - § 2271 - Widerruf wechselbezüglicher Verfügungen
 - § 2272 - Rücknahme aus amtlicher Verwahrung
-- § 2273 - (weggefallen)
+- § 2273 (weggefallen)
 
 Abschnitt 4 - Erbvertrag
 - § 2274 - Persönlicher Abschluss
 - § 2275 - Voraussetzungen
 - § 2276 - Form
-- § 2277 - (weggefallen)
+- § 2277 (weggefallen)
 - § 2278 - Zulässige vertragsmäßige Verfügungen
 - § 2279 - Vertragsmäßige Zuwendungen und Auflagen; Anwendung von § 2077
 - § 2280 - Anwendung von § 2269
@@ -490,8 +490,8 @@ getretenen Erben
 - § 2331a - Stundung
 - § 2332 - Verjährung
 - § 2333 - Entziehung des Pflichtteils
-- § 2334 - (weggefallen)
-- § 2335 - (weggefallen)
+- § 2334 (weggefallen)
+- § 2335 (weggefallen)
 - § 2336 - Form, Beweislast, Unwirksamwerden
 - § 2337 - Verzeihung
 - § 2338 - Pflichtteilsbeschränkung
@@ -517,23 +517,22 @@ Abschnitt 7 - Erbverzicht
 Abschnitt 8 - Erbschein
 - § 2353 - Zuständigkeit des Nachlassgerichts, Antrag
 
-(XXXX)§§ 2354 bis 2359
 - § 2354 (Red. weggefallen)
 - § 2355 (Red. weggefallen)
 - § 2356 (Red. weggefallen)
 - § 2357 (Red. weggefallen)
 - § 2358 (Red. weggefallen)
 - § 2359 (Red. weggefallen)
-- § 2360 - (weggefallen)
+- § 2360 (weggefallen)
 - § 2361 - Einziehung oder Kraftloserklärung des unrichtigen Erbscheins
 - § 2362 - Herausgabe- und Auskunftsanspruch des wirklichen Erben
 - § 2363 - Herausgabeanspruch des Nacherben und des Testamentsvollstreckers
-- § 2364 - (weggefallen)
+- § 2364 (weggefallen)
 - § 2365 - Vermutung der Richtigkeit des Erbscheins
 - § 2366 - Öffentlicher Glaube des Erbscheins
 - § 2367 - Leistung an Erbscheinserben
 - § 2368 - Testamentsvollstreckerzeugnis
-- § 2369 - (weggefallen)
+- § 2369 (weggefallen)
 - § 2370 - Öffentlicher Glaube bei Todeserklärung
 
 Abschnitt 9 - Erbschaftskauf
@@ -2301,9 +2300,7 @@ Das Nachlassgericht hat die Einsicht der nach § 2198 Abs. 1 Satz 2, § 2199 Abs
 
 (4) Wer wegen krankhafter Störung der Geistestätigkeit, wegen Geistesschwäche oder wegen Bewusstseinsstörung nicht in der Lage ist, die Bedeutung einer von ihm abgegebenen Willenserklärung einzusehen und nach dieser Einsicht zu handeln, kann ein Testament nicht errichten.
 
-### § 2230
-
-(weggefallen)
+### § 2230 (weggefallen)
 
 ### § 2231 - Ordentliche Testamente
 
@@ -2422,15 +2419,15 @@ Wird der durch Testament erfolgte Widerruf einer letztwilligen Verfügung widerr
 
 (2) Befindet sich ein Testament bei einer anderen Behörde als einem Gericht in amtlicher Verwahrung, so ist es nach dem Tode des Erblassers an das Nachlassgericht abzuliefern. Das Nachlassgericht hat, wenn es von dem Testament Kenntnis erlangt, die Ablieferung zu veranlassen.
 
-### § 2260 - (weggefallen)
+### § 2260 (weggefallen)
 
 -
 
-### § 2261 - (weggefallen)
+### § 2261 (weggefallen)
 
 -
 
-### § 2262 - (weggefallen)
+### § 2262 (weggefallen)
 
 -
 
@@ -2438,7 +2435,7 @@ Wird der durch Testament erfolgte Widerruf einer letztwilligen Verfügung widerr
 
 Eine Anordnung des Erblassers, durch die er verbietet, das Testament alsbald nach seinem Tode zu eröffnen, ist nichtig.
 
-### § 2264 - (weggefallen)
+### § 2264 (weggefallen)
 
 -
 
@@ -2489,7 +2486,7 @@ Zur Errichtung eines gemeinschaftlichen Testaments nach § 2247 genügt es, wenn
 
 Ein gemeinschaftliches Testament kann nach § 2256 nur von beiden Ehegatten zurückgenommen werden.
 
-### § 2273 - (weggefallen)
+### § 2273 (weggefallen)
 
 -
 
@@ -2510,7 +2507,7 @@ Einen Erbvertrag kann als Erblasser nur schließen, wer unbeschränkt geschäfts
 
 (2) Für einen Erbvertrag zwischen Ehegatten oder zwischen Verlobten, der mit einem Ehevertrag in derselben Urkunde verbunden wird, genügt die für den Ehevertrag vorgeschriebene Form.
 
-### § 2277 - (weggefallen)
+### § 2277 (weggefallen)
 
 -
 
@@ -2846,11 +2843,11 @@ Die Vorschriften der §§ 2325 bis 2329 finden keine Anwendung auf Schenkungen, 
 
 (2) Absatz 1 gilt entsprechend für die Entziehung des Eltern- oder Ehegattenpflichtteils.
 
-### § 2334 - (weggefallen)
+### § 2334 (weggefallen)
 
 -
 
-### § 2335 - (weggefallen)
+### § 2335 (weggefallen)
 
 -
 
@@ -2963,17 +2960,13 @@ Wer durch Testament als Erbe eingesetzt oder mit einem Vermächtnis bedacht ist,
 
 Das Nachlassgericht hat dem Erben auf Antrag ein Zeugnis über sein Erbrecht und, wenn er nur zu einem Teil der Erbschaft berufen ist, über die Größe des Erbteils zu erteilen (Erbschein).
 
-## (XXXX)§§ 2354 bis 2359
-
-(weggefallen)
-
 ### § 2354 (Red. weggefallen)
 ### § 2355 (Red. weggefallen)
 ### § 2356 (Red. weggefallen)
 ### § 2357 (Red. weggefallen)
 ### § 2358 (Red. weggefallen)
 ### § 2359 (Red. weggefallen)
-### § 2360 - (weggefallen)
+### § 2360 (weggefallen)
 
 -
 
@@ -2991,7 +2984,7 @@ Ergibt sich, dass der erteilte Erbschein unrichtig ist, so hat ihn das Nachlassg
 
 Dem Nacherben sowie dem Testamentsvollstrecker steht das in § 2362 Absatz 1 bestimmte Recht zu.
 
-### § 2364 - (weggefallen)
+### § 2364 (weggefallen)
 
 ### § 2365 - Vermutung der Richtigkeit des Erbscheins
 
@@ -3009,7 +3002,7 @@ Die Vorschrift des § 2366 findet entsprechende Anwendung, wenn an denjenigen, w
 
 Einem Testamentsvollstrecker hat das Nachlassgericht auf Antrag ein Zeugnis über die Ernennung zu erteilen. Die Vorschriften über den Erbschein finden auf das Zeugnis entsprechende Anwendung; mit der Beendigung des Amts des Testamentsvollstreckers wird das Zeugnis kraftlos.
 
-### § 2369 - (weggefallen)
+### § 2369 (weggefallen)
 
 ### § 2370 - Öffentlicher Glaube bei Todeserklärung
 

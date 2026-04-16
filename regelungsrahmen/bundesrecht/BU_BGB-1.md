@@ -27,7 +27,7 @@ Titel 1 - Natürliche Personen, Verbraucher, Unternehmer
 - § 7 - Wohnsitz; Begründung und Aufhebung
 - § 8 - Wohnsitz nicht voll Geschäftsfähiger
 - § 9 - Wohnsitz eines Soldaten
-- § 10 - (weggefallen)
+- § 10 (weggefallen)
 - § 11 - Wohnsitz des Kindes
 - § 12 - Namensrecht
 - § 13 - Verbraucher
@@ -46,7 +46,7 @@ Kapitel 1 - Allgemeine Vorschriften
 - § 20 (Red. weggefallen)
 - § 21 - Nicht wirtschaftlicher Verein
 - § 22 - Wirtschaftlicher Verein
-- § 23 - (weggefallen)
+- § 23 (weggefallen)
 - § 24 - Sitz
 - § 25 - Verfassung
 - § 26 - Vorstand und Vertretung
@@ -374,7 +374,7 @@ Wer geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt ist, kann oh
 
 (2) Diese Vorschriften finden keine Anwendung auf Soldaten, die nur auf Grund der Wehrpflicht Wehrdienst leisten oder die nicht selbständig einen Wohnsitz begründen können.
 
-### § 10 - (weggefallen)
+### § 10 (weggefallen)
 
 ### § 11 - Wohnsitz des Kindes
 
@@ -417,7 +417,7 @@ Ein Verein, dessen Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb geri
 
 Ein Verein, dessen Zweck auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist, erlangt in Ermangelung besonderer bundesgesetzlicher Vorschriften Rechtsfähigkeit durch staatliche Verleihung. Die Verleihung steht dem Land zu, in dessen Gebiet der Verein seinen Sitz hat.
 
-### § 23 - (weggefallen)
+### § 23 (weggefallen)
 
 -
 
