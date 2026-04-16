@@ -20,10 +20,10 @@ Abschnitt 1 - Personen
 Titel 1 - Natürliche Personen, Verbraucher, Unternehmer
 - § 1 - Beginn der Rechtsfähigkeit
 - § 2 - Eintritt der Volljährigkeit
-- § 3 (Red. weggefallen)
-- § 4 (Red. weggefallen)
-- § 5 (Red. weggefallen)
-- § 6 (Red. weggefallen)
+- § 3 (weggefallen)
+- § 4 (weggefallen)
+- § 5 (weggefallen)
+- § 6 (weggefallen)
 - § 7 - Wohnsitz; Begründung und Aufhebung
 - § 8 - Wohnsitz nicht voll Geschäftsfähiger
 - § 9 - Wohnsitz eines Soldaten
@@ -38,12 +38,12 @@ Titel 2 - Juristische Personen
 Untertitel 1 - Vereine
 
 Kapitel 1 - Allgemeine Vorschriften
-- § 15 (Red. weggefallen)
-- § 16 (Red. weggefallen)
-- § 17 (Red. weggefallen)
-- § 18 (Red. weggefallen)
-- § 19 (Red. weggefallen)
-- § 20 (Red. weggefallen)
+- § 15 (weggefallen)
+- § 16 (weggefallen)
+- § 17 (weggefallen)
+- § 18 (weggefallen)
+- § 19 (weggefallen)
+- § 20 (weggefallen)
 - § 21 - Nicht wirtschaftlicher Verein
 - § 22 - Wirtschaftlicher Verein
 - § 23 (weggefallen)
@@ -90,9 +90,9 @@ Kapitel 2 - Eingetragene Vereine
 - § 58 - Sollinhalt der Vereinssatzung
 - § 59 - Anmeldung zur Eintragung
 - § 60 - Zurückweisung der Anmeldung
-- § 61 (Red. weggefallen)
-- § 62 (Red. weggefallen)
-- § 63 (Red. weggefallen)
+- § 61 (weggefallen)
+- § 62 (weggefallen)
+- § 63 (weggefallen)
 - § 64 - Inhalt der Vereinsregistereintragung
 - § 65 - Namenszusatz
 - § 66 - Aufbewahrung von Dokumenten
@@ -179,8 +179,8 @@ Titel 1 - Geschäftsfähigkeit
 - § 113 - Dienst- oder Arbeitsverhältnis
 
 Titel 2 - Willenserklärung
-- § 114 (Red. weggefallen)
-- § 115 (Red. weggefallen)
+- § 114 (weggefallen)
+- § 115 (weggefallen)
 - § 116 - Geheimer Vorbehalt
 - § 117 - Scheingeschäft
 - § 118 - Mangel der Ernstlichkeit
@@ -312,13 +312,13 @@ Titel 3 - Rechtsfolgen der Verjährung
 
 Abschnitt 6 - Ausübung der Rechte,
 Selbstverteidigung, Selbsthilfe
-- § 219 (Red. weggefallen)
-- § 220 (Red. weggefallen)
-- § 221 (Red. weggefallen)
-- § 222 (Red. weggefallen)
-- § 223 (Red. weggefallen)
-- § 224 (Red. weggefallen)
-- § 225 (Red. weggefallen)
+- § 219 (weggefallen)
+- § 220 (weggefallen)
+- § 221 (weggefallen)
+- § 222 (weggefallen)
+- § 223 (weggefallen)
+- § 224 (weggefallen)
+- § 225 (weggefallen)
 - § 226 - Schikaneverbot
 - § 227 - Notwehr
 - § 228 - Notstand
@@ -352,10 +352,10 @@ Die Rechtsfähigkeit des Menschen beginnt mit der Vollendung der Geburt.
 
 Die Volljährigkeit tritt mit der Vollendung des 18. Lebensjahres ein.
 
-### § 3 (Red. weggefallen)
-### § 4 (Red. weggefallen)
-### § 5 (Red. weggefallen)
-### § 6 (Red. weggefallen)
+### § 3 (weggefallen)
+### § 4 (weggefallen)
+### § 5 (weggefallen)
+### § 6 (weggefallen)
 ### § 7 - Wohnsitz; Begründung und Aufhebung
 
 (1) Wer sich an einem Orte ständig niederlässt, begründet an diesem Orte seinen Wohnsitz.
@@ -403,12 +403,12 @@ Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken absc
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
-### § 15 (Red. weggefallen)
-### § 16 (Red. weggefallen)
-### § 17 (Red. weggefallen)
-### § 18 (Red. weggefallen)
-### § 19 (Red. weggefallen)
-### § 20 (Red. weggefallen)
+### § 15 (weggefallen)
+### § 16 (weggefallen)
+### § 17 (weggefallen)
+### § 18 (weggefallen)
+### § 19 (weggefallen)
+### § 20 (weggefallen)
 ### § 21 - Nicht wirtschaftlicher Verein
 
 Ein Verein, dessen Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist, erlangt Rechtsfähigkeit durch Eintragung in das Vereinsregister des zuständigen Amtsgerichts.
@@ -643,9 +643,9 @@ Die Satzung soll Bestimmungen enthalten:
 
 Die Anmeldung ist, wenn den Erfordernissen der §§ 56 bis 59 nicht genügt ist, von dem Amtsgericht unter Angabe der Gründe zurückzuweisen.
 
-### § 61 (Red. weggefallen)
-### § 62 (Red. weggefallen)
-### § 63 (Red. weggefallen)
+### § 61 (weggefallen)
+### § 62 (weggefallen)
+### § 63 (weggefallen)
 ### § 64 - Inhalt der Vereinsregistereintragung
 
 Bei der Eintragung sind der Name und der Sitz des Vereins, der Tag der Errichtung der Satzung, die Mitglieder des Vorstands und ihre Vertretungsmacht anzugeben.
@@ -1123,8 +1123,8 @@ Ein einseitiges Rechtsgeschäft, das der Minderjährige ohne die erforderliche E
 
 ## Titel 2 - Willenserklärung
 
-### § 114 (Red. weggefallen)
-### § 115 (Red. weggefallen)
+### § 114 (weggefallen)
+### § 115 (weggefallen)
 ### § 116 - Geheimer Vorbehalt
 
 Eine Willenserklärung ist nicht deshalb nichtig, weil sich der Erklärende insgeheim vorbehält, das Erklärte nicht zu wollen. Die Erklärung ist nichtig, wenn sie einem anderen gegenüber abzugeben ist und dieser den Vorbehalt kennt.
@@ -1803,13 +1803,13 @@ Mit dem Hauptanspruch verjährt der Anspruch auf die von ihm abhängenden Nebenl
 ## Abschnitt 6 - Ausübung der Rechte,
 Selbstverteidigung, Selbsthilfe
 
-### § 219 (Red. weggefallen)
-### § 220 (Red. weggefallen)
-### § 221 (Red. weggefallen)
-### § 222 (Red. weggefallen)
-### § 223 (Red. weggefallen)
-### § 224 (Red. weggefallen)
-### § 225 (Red. weggefallen)
+### § 219 (weggefallen)
+### § 220 (weggefallen)
+### § 221 (weggefallen)
+### § 222 (weggefallen)
+### § 223 (weggefallen)
+### § 224 (weggefallen)
+### § 225 (weggefallen)
 ### § 226 - Schikaneverbot
 
 Die Ausübung eines Rechts ist unzulässig, wenn sie nur den Zweck haben kann, einem anderen Schaden zuzufügen.
