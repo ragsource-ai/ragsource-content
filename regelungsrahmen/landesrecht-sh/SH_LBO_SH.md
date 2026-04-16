@@ -5,11 +5,11 @@ saule: regelungsrahmen
 rechtsnatur: gesetz
 land_ars: "01"
 land: Schleswig-Holstein
-gueltig_ab: 2024-07-05
+gueltig_ab: 2025-01-01
 url: "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-BauOSH2024rahmen"
 perma_url: "https://www.gesetze-rechtsprechung.sh.juris.de/perma?a=BauO_SH"
 url_nachfolger:
-quelle: "Bekanntmachung vom 2024-07-05 (GVOBl. Schl.-H. 2024, S. 504)"
+quelle: "Bekanntmachung vom 2024-07-05 (GVOBl. Schl.-H. 2024, S. 504), zuletzt geändert durch Art. 5 G v. 13.12.2024 (GVOBl. Schl.-H. 2024, S. 875)"
 endpoints:
   - amtsschimmel
   - brandmeister
