@@ -2,8 +2,6 @@
 titel: Gesetz über die Mitbestimmung der Arbeitnehmer (MitbestG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1976-05-04"
-geaendert_am: "2021-08-07"
 quelle: "Gesetz vom 1976-05-04 (BGBl I 1976, 1153), zuletzt geändert durch Art. 17 G v. 7.8.2021 I 3311"
 gueltig_ab: 2021-08-07
 url: "https://www.gesetze-im-internet.de/mitbestg/"

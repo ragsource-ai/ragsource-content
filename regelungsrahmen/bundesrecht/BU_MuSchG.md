@@ -2,8 +2,6 @@
 titel: Gesetz zum Schutz von Müttern bei der Arbeit, in der Ausbildung und im Studium (MuSchG 2018)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2017-05-23"
-geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 2017-05-23 (BGBl I 2017, 1228), zuletzt geändert durch Art. 13 G v. 22.12.2025 I Nr. 371"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/muschg_2018/"

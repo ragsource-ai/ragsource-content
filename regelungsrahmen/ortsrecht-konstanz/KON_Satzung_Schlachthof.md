@@ -9,9 +9,7 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 1990-12-13
-geaendert_am: 1994-12-15
-gueltig_ab: 1990-12-14
+gueltig_ab: 1994-12-15
 stand: 1994-12-15
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1774832990/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_16%20Satzung%20%C3%BCber%20die%20Benutzung%20des%20Schlachthofes%20%28Schlachthofordnung%29.pdf"
 status: published

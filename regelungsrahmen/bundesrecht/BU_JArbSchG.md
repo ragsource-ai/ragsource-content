@@ -2,8 +2,6 @@
 titel: Gesetz zum Schutze der arbeitenden Jugend (JArbSchG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1976-04-12"
-geaendert_am: "2024-10-23"
 quelle: "Gesetz vom 1976-04-12 (BGBl I 1976, 965), zuletzt geändert durch Art. 53 G v. 23.10.2024 I Nr. 323"
 gueltig_ab: 2024-10-23
 url: "https://www.gesetze-im-internet.de/jarbschg/"

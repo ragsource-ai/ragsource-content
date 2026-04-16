@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "1992-05-11"
-geaendert_am: "2023-02-07"
 quelle: "Gesetz neugefasst am 11.05.1992 (GBl. 1992, 329, ber. S. 683), zuletzt geändert durch Artikel 15 des Gesetzes vom 7. Februar 2023 (GBl. S. 26, 46)"
-gueltig_ab: 1992-07-09
+gueltig_ab: 2023-02-07
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-StrGBW1992rahmen"
 stand: "2023-02-07"
 status: published

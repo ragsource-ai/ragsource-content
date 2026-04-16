@@ -2,8 +2,6 @@
 titel: Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes (SGB 4)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1976-12-23"
-geaendert_am: "2026-01-16"
 quelle: "Gesetz vom 1976-12-23 (BGBl I 1976, 3845), zuletzt geändert durch Art. 9 G v. 16.1.2026 I Nr. 14"
 gueltig_ab: 2026-01-16
 url: "https://www.gesetze-im-internet.de/sgb_4/"

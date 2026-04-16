@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: "1985-02-23"
 gueltig_ab: "1985-02-23"
 stand: ""
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E176861018/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_05%20Satzung%20%C3%BCber%20Werbeanlagen%20und%20Automaten%20der%20Stadt%20Konstanz.pdf"

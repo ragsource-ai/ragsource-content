@@ -2,8 +2,6 @@
 titel: Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall (EntgFG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1994-05-26"
-geaendert_am: "2019-11-22"
 quelle: "Gesetz vom 1994-05-26 (BGBl I 1994, 1014, 1065), zuletzt geändert durch Art. 9 G v. 22.11.2019 I 1746"
 gueltig_ab: 2019-11-22
 url: "https://www.gesetze-im-internet.de/entgfg/"

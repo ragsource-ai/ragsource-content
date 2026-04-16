@@ -2,8 +2,6 @@
 titel: Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat (DrittelbG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2004-05-18"
-geaendert_am: "2021-08-07"
 quelle: "Gesetz vom 2004-05-18 (BGBl I 2004, 974), zuletzt geändert durch Art. 21 G v. 7.8.2021 I 3311"
 gueltig_ab: 2021-08-07
 url: "https://www.gesetze-im-internet.de/drittelbg/"

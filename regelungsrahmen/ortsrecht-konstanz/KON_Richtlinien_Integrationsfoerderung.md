@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2019-02-05
 gueltig_ab: 2019-02-05
 stand: 2019-02-05
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E325095478/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_20%20Grunds%C3%A4tze%20zur%20F%C3%B6rderung%20der%20Integrationsarbeit%20durch%20die%20Stadt%20Konstanz%20%28F%C3%B6rderrichtlinien%29.pdf"

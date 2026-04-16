@@ -9,9 +9,7 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2007-05-24
-geaendert_am: 2010-12-16
-gueltig_ab: 2007-07-01
+gueltig_ab: 2010-12-16
 stand: 2010-12-16
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E313634625/konstanz/Dateien/Service/Ortsrecht/II%20Finanzen/II_03%20Satzung%20%C3%BCber%20die%20Erhebung%20einer%20Vergn%C3%BCgungssteuer.pdf"
 status: published

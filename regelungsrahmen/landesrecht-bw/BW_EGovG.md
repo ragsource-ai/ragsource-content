@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "2015-12-17"
-geaendert_am: "2026-02-10"
 quelle: "Gesetz vom 17.12.2015 (GBl. 2015, 1191), zuletzt geändert durch Artikel 2 des Gesetzes vom 10. Februar 2026 (GBl. 2026 Nr. 19)"
-gueltig_ab: 2016-01-01
+gueltig_ab: 2026-02-10
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-EGovGBWrahmen"
 stand: "2026-02-10"
 status: published

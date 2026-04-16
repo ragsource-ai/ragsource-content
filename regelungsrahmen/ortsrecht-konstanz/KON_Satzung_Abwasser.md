@@ -9,8 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2005-12-15
-geaendert_am: 2024-12-17
 quelle: Satzung in der Fassung vom 15.12.2005 (Beschluss des Gemeinderats der Stadt Konstanz), zuletzt geändert am 17.12.2024
 gueltig_ab: 2024-12-17
 stand: 2024-12-17

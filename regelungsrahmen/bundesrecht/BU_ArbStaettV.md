@@ -2,8 +2,6 @@
 titel: Verordnung über Arbeitsstätten (ArbStättV 2004)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2004-08-12"
-geaendert_am: "2024-03-27"
 quelle: "Gesetz vom 2004-08-12 (BGBl I 2004, 2179), zuletzt geändert durch Art. 10 G v. 27.3.2024 I Nr. 109"
 gueltig_ab: 2024-03-27
 url: "https://www.gesetze-im-internet.de/arbst_ttv_2004/"

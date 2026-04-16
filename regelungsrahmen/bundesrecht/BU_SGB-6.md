@@ -2,8 +2,6 @@
 titel: Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) (SGB 6)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1989-12-18"
-geaendert_am: "2026-02-04"
 quelle: "Gesetz vom 1989-12-18 (BGBl I 1989, 2261 (1990 I 1337)), zuletzt geändert durch Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33"
 gueltig_ab: 2026-02-04
 url: "https://www.gesetze-im-internet.de/sgb_6/"

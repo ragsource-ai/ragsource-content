@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "2015-06-23"
-geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 23.06.2015 (GBl. 2015, 585), zuletzt geändert durch Artikel 5 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
-gueltig_ab: 2015-07-14
+gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-NatSchGBW2015rahmen"
 stand: "2025-11-18"
 status: published

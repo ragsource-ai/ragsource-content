@@ -4,7 +4,6 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "2025-07-22"
 quelle: "Gesetz vom 22.07.2025 (GBl. 2025, Nr. 70)"
 gueltig_ab: 2025-07-30
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-ArchivGBW2025rahmen"

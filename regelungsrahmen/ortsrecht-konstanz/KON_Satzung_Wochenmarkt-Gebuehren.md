@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2021-12-16
 gueltig_ab: 2022-01-01
 stand: 2021-12-16
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1461489365/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_11%20Satzung%20%C3%BCber%20die%20Erhebung%20von%20Geb%C3%BChren%20f%C3%BCr%20die%20Benutzung%20der%20Wochenm%C3%A4rkte%20der%20Stadt%20Konstanz.pdf"

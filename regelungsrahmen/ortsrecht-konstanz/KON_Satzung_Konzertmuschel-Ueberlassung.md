@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: "2022-12-19"
 gueltig_ab: "2022-12-19"
 stand: "2022-12-19"
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1392591094/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_05%20%C3%9Cberlassungsordnung%20f%C3%BCr%20die%20Konzertmuschel.pdf"

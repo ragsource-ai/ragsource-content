@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "2010-11-09"
-geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 09.11.2010 (GBl. 2010, 793, 826), zuletzt geändert durch Artikel 1 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 122)"
-gueltig_ab: 2010-11-23
+gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BesGBW2010rahmen"
 stand: "2025-11-18"
 status: published

@@ -9,9 +9,7 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2015-12-11
-geaendert_am: 2017-12-22
-gueltig_ab: 2015-12-12
+gueltig_ab: 2017-12-22
 status: published
 endpoints:
   - amtsschimmel

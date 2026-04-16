@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: "2010-03-28"
 gueltig_ab: "2010-03-28"
 stand: "2010-03-28"
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E615831396/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_10%20Wochenmarktsatzung%20der%20Stadt%20Konstanz.pdf"

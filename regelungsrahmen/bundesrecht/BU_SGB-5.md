@@ -2,8 +2,6 @@
 titel: Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1988-12-20"
-geaendert_am: "2026-02-03"
 quelle: "Gesetz vom 1988-12-20 (BGBl I 1988, 2477, 2482), zuletzt geändert durch Art. 8 G v. 3.2.2026 I Nr. 28"
 gueltig_ab: 2026-02-03
 url: "https://www.gesetze-im-internet.de/sgb_5/"

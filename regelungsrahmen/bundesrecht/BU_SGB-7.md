@@ -2,8 +2,6 @@
 titel: Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes (SGB 7)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1996-08-07"
-geaendert_am: "2026-02-04"
 quelle: "Gesetz vom 1996-08-07 (BGBl I 1996, 1254), zuletzt geändert durch Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33"
 gueltig_ab: 2026-02-04
 url: "https://www.gesetze-im-internet.de/sgb_7/"

@@ -2,8 +2,6 @@
 titel: Arbeitsgerichtsgesetz (ArbGG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1953-09-03"
-geaendert_am: "2025-12-08"
 quelle: "Gesetz vom 1953-09-03 (BGBl I 1953, 1267), zuletzt geändert durch Art. 27 G v. 8.12.2025 I Nr. 319"
 gueltig_ab: 2025-12-08
 url: "https://www.gesetze-im-internet.de/arbgg/"

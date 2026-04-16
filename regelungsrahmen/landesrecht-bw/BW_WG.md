@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "2013-12-03"
-geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 03.12.2013 (GBl. 2013, 389), zuletzt geändert durch Artikel 3 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
-gueltig_ab: 2014-01-01
+gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WasGBW2014rahmen"
 stand: "2025-11-18"
 status: published

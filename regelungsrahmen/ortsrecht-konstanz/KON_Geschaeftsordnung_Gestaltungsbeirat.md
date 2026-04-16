@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2008-05-29
 quelle: ""
 gueltig_ab: 2008-05-29
 stand: 2019-09-26

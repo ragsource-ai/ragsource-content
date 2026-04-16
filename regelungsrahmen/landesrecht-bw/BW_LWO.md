@@ -4,8 +4,6 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: 2005-06-02
-geaendert_am: 2025-07-29
 quelle: Gesetz neugefasst am 02.06.2005 (GBl. 2005, 513), zuletzt geändert durch Verordnung vom 29. Juli 2025 (GBl. 2025 Nr. 76)
 gueltig_ab: 2025-08-06
 url: https://www.landesrecht-bw.de/bsbw/document/jlr-WahlOBW2005rahmen

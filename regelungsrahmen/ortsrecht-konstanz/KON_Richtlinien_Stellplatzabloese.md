@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2021-12-14
 gueltig_ab: 2022-01-10
 stand: 2021-12-14
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1739802586/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_07%20Allgemeine%20Bestimmungen%20%C3%BCber%20die%20Stellplatzabl%C3%B6sung.pdf"

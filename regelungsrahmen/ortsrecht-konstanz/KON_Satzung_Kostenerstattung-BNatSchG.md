@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2011-11-24
 gueltig_ab: 2011-12-08
 stand: 2011-11-24
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1003189585/konstanz/Dateien/Service/Ortsrecht/II%20Finanzen/II_04%20Satzung%20zur%20Erhebung%20von%20Kostenerstattungsbeitr%C3%A4gen%20nach%20%C2%A7%208%20a%20Bundesnaturschutzgesetz.pdf"

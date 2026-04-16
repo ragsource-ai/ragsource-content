@@ -2,8 +2,6 @@
 titel: Gesetz zur Regelung der Arbeitnehmerüberlassung (AÜG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1972-08-07"
-geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 1972-08-07 (BGBl I 1972, 1393), zuletzt geändert durch Art. 10 G v. 22.12.2025 I Nr. 369"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/a_g/"

@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "1983-09-01"
-geaendert_am: "2025-07-22"
 quelle: "Gesetz neugefasst am 01.09.1983 (GBl. 1983, 429), zuletzt geändert durch Artikel 5 des Gesetzes vom 22. Juli 2025 (GBl. 2025 Nr. 71)"
-gueltig_ab: 1983-09-01
+gueltig_ab: 2025-07-22
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KomWGBW1983rahmen"
 stand: "2025-07-22"
 status: published

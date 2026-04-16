@@ -2,8 +2,6 @@
 titel: Gesetz über Sprecherausschüsse der leitenden Angestellten (SprAuG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1988-12-20"
-geaendert_am: "2022-09-16"
 quelle: "Gesetz vom 1988-12-20 (BGBl I 1988, 2312, 2316), zuletzt geändert durch Art. 6e G v. 16.9.2022 I 1454"
 gueltig_ab: 2022-09-16
 url: "https://www.gesetze-im-internet.de/spraug/"

@@ -2,8 +2,6 @@
 titel: Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234) (SGB 9 2018)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2016-12-23"
-geaendert_am: "2026-01-16"
 quelle: "Gesetz vom 2016-12-23 (BGBl I 2016, 3234), zuletzt geändert durch Art. 13 G v. 16.1.2026 I Nr. 14"
 gueltig_ab: 2026-01-16
 url: "https://www.gesetze-im-internet.de/sgb_9_2018/"

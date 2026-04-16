@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "1997-07-07"
-geaendert_am: "2025-06-12"
 quelle: "Gesetz vom 07.07.1997 (GBl. 1997, 332), zuletzt geändert durch Artikel 3 der Verordnung vom 12. Juni 2025 (GBl. 2025 Nr. 53)"
-gueltig_ab: 1997-09-01
+gueltig_ab: 2025-06-12
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GaVBW1997rahmen"
 stand: "2025-06-12"
 status: published

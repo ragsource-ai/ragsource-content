@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "1953-11-11"
-geaendert_am: "2022-04-26"
 quelle: "Gesetz vom 11.11.1953 (GBl. 1953, 173), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. April 2022 (GBl. S. 237)"
-gueltig_ab: 1953-11-20
+gueltig_ab: 2022-04-26
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-VerfBWrahmen"
 stand: "2022-04-26"
 status: published

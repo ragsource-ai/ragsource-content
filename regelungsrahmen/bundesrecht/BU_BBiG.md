@@ -2,8 +2,6 @@
 titel: Berufsbildungsgesetz (BBiG 2005)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2005-03-23"
-geaendert_am: "2025-10-28"
 quelle: "Gesetz vom 2005-03-23 (BGBl I 2005, 931), zuletzt geändert durch Art. 9 G v. 28.10.2025 I Nr. 259"
 gueltig_ab: 2025-10-28
 url: "https://www.gesetze-im-internet.de/bbig_2005/"

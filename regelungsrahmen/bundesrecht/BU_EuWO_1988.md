@@ -2,8 +2,6 @@
 titel: Europawahlordnung (EuWO 1988)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1988-07-27"
-geaendert_am: "2023-08-11"
 quelle: "Gesetz vom 1988-07-27 (BGBl I 1988, 1453 (1989 I 228)), zuletzt geändert durch Art. 1 V v. 11.8.2023 I Nr. 215"
 gueltig_ab: 2023-08-11
 url: "https://www.gesetze-im-internet.de/euwo_1988/"

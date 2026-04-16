@@ -2,8 +2,6 @@
 titel: Grundgesetz für die Bundesrepublik Deutschland (GG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1949-05-23"
-geaendert_am: "2025-03-22"
 quelle: "Gesetz vom 1949-05-23 (BGBl 1949, 1), zuletzt geändert durch Art. 1 G v. 22.3.2025 I Nr. 94"
 gueltig_ab: 2025-03-22
 url: "https://www.gesetze-im-internet.de/gg/"

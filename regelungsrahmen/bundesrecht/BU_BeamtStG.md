@@ -2,8 +2,6 @@
 titel: Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern (BeamtStG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2008-06-17"
-geaendert_am: "2023-12-20"
 quelle: "Gesetz vom 2008-06-17 (BGBl I 2008, 1010), zuletzt geändert durch Art. 5 G v. 20.12.2023 I Nr. 389"
 gueltig_ab: 2023-12-20
 url: "https://www.gesetze-im-internet.de/beamtstg/"

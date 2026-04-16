@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2023-02-07
 gueltig_ab: 2023-02-07
 stand: 2023-02-07
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1036337095/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_06%20Gesch%C3%A4ftsordnung%20f%C3%BCr%20den%20Ortschaftsrat%20Litzelstetten.pdf"

@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: "2009-01-01"
 gueltig_ab: 2009-01-01
 stand: "2009-01-01"
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1654629920/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_04.1%20MIETPREISORDNUNG%20f%C3%BCr%20den%20B%C3%BCrgersaal.pdf"

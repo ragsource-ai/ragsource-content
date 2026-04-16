@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: "1981-10-15"
 quelle: "http://konstanz.de/rathaus/ortsrecht/03651/00071/index.html"
 gueltig_ab: "1981-10-15"
 stand: ""

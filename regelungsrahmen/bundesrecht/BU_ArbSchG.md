@@ -2,8 +2,6 @@
 titel: Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes zur Verbesserung der Sicherheit und des Gesundheitsschutzes der Beschäftigten bei der Arbeit (ArbSchG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1996-08-07"
-geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 1996-08-07 (BGBl I 1996, 1246), zuletzt geändert durch Art. 7 G v. 22.12.2025 I Nr. 369"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/arbschg/"

@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "1972-12-28"
-geaendert_am: "2023-12-05"
 quelle: "Gesetz neugefasst am 28.12.1972 (GBl. 1973, 57), zuletzt geändert durch Artikel 8 des Gesetzes vom 5. Dezember 2023 (GBl. S. 429, 432)"
-gueltig_ab: 1972-07-01
+gueltig_ab: 2023-12-05
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-NTVBW1972rahmen"
 stand: "2023-12-05"
 status: published

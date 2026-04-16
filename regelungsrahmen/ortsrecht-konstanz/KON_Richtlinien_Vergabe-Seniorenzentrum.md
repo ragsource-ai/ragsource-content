@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: "1990-01-01"
 gueltig_ab: "1990-01-01"
 stand: ""
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1038361432/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_07%20VERGABEORDNUNG%20f%C3%BCr%20die%20R%C3%A4ume%20des%20Seniorenzentrums.pdf"

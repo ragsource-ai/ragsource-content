@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "1970-07-21"
-geaendert_am: "2021-02-03"
 quelle: "Gesetz vom 21.07.1970 (GBl. 1970, 395, ber. S. 458), zuletzt geändert durch Gesetz vom 3. Februar 2021 (GBl. S. 55)"
-gueltig_ab: 1971-01-01
+gueltig_ab: 2021-02-03
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BestattGBWrahmen"
 stand: "2021-02-03"
 status: published

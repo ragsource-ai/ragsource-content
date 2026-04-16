@@ -9,8 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 1981-07-08
-geaendert_am: 2023-09-28
 gueltig_ab: 2023-09-29
 stand: 2023-09-29
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E468575503/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_01%20Hauptsatzung%20der%20Stadt%20Konstanz.pdf"

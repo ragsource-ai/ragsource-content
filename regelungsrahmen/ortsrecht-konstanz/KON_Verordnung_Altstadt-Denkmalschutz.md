@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 1982-03-11
 gueltig_ab: 1982-03-12
 stand: 1982-03-11
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-501481759/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_04%20Rechtsverordnung%20des%20Regierungspr%C3%A4sidiums%20Freiburg%20als%20h%C3%B6here%20Denkmalschutzbeh%C3%B6rde%20%C3%BCber%20die%20Gesamtanlage%20Altstadt%20Konstanz.pdf"

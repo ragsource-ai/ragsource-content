@@ -2,8 +2,6 @@
 titel: Gesetz über die Familienpflegezeit (FPfZG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2011-12-06"
-geaendert_am: "2024-10-23"
 quelle: "Gesetz vom 2011-12-06 (BGBl I 2011, 2564), zuletzt geändert durch Art. 69 G v. 23.10.2024 I Nr. 323"
 gueltig_ab: 2024-10-23
 url: "https://www.gesetze-im-internet.de/fpfzg/"

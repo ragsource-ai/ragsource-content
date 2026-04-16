@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "2014-11-25"
-geaendert_am: "2025-11-18"
 quelle: "Gesetz vom 25.11.2014 (GBl. 2014, 592), zuletzt geändert durch Artikel 2 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
-gueltig_ab: 2015-01-01
+gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-UmwVwGBWrahmen"
 stand: "2025-11-18"
 status: published

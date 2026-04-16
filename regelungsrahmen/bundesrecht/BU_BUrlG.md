@@ -2,8 +2,6 @@
 titel: Mindesturlaubsgesetz für Arbeitnehmer (BUrlG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1963-01-08"
-geaendert_am: "2013-04-20"
 quelle: "Gesetz vom 1963-01-08 (BGBl I 1963, 2), zuletzt geändert durch Art. 3 Abs. 3 G v. 20.4.2013 I 868"
 gueltig_ab: 2013-04-20
 url: "https://www.gesetze-im-internet.de/burlg/"

@@ -2,8 +2,6 @@
 titel: Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen (AEntG 2009)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2009-04-20"
-geaendert_am: "2026-02-03"
 quelle: "Gesetz vom 2009-04-20 (BGBl I 2009, 799), zuletzt geändert durch Art. 5a G v. 3.2.2026 I Nr. 29"
 gueltig_ab: 2026-02-03
 url: "https://www.gesetze-im-internet.de/aentg_2009/"

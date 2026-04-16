@@ -2,8 +2,6 @@
 titel: Bürgerliches Gesetzbuch (BGB), Buch 5 – Erbrecht
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1896-08-18"
-geaendert_am: "2026-02-04"
 quelle: "Gesetz vom 1896-08-18 (RGBl 1896, 195), zuletzt geändert durch Art. 2 G v. 4.2.2026 I Nr. 33"
 gueltig_ab: 2026-02-04
 url: "https://www.gesetze-im-internet.de/bgb/"

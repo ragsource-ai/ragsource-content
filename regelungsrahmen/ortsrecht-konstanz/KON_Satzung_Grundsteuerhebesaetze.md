@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2024-10-24
 gueltig_ab: 2025-01-01
 stand: 2024-11-20
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E2067351906/konstanz/Dateien/Service/Ortsrecht/II%20Finanzen/II_06%20Satzung%20%C3%BCber%20die%20Festsetzung%20der%20Grundsteuerhebes%C3%A4tze%20A%20und%20B%20in%20der%20Stadt%20Konstanz.pdf"

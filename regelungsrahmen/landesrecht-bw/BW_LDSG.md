@@ -4,8 +4,6 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: 2018-06-12
-geaendert_am: 2026-02-10
 quelle: Gesetz vom 12.06.2018 (GBl. 2018, 173), zuletzt geändert durch Artikel 1 des Gesetzes vom 10. Februar 2026 (GBl. 2026 Nr. 19)
 gueltig_ab: 2026-02-28
 url: https://www.landesrecht-bw.de/bsbw/document/jlr-DSGBW2018rahmen

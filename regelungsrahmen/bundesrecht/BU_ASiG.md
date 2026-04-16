@@ -2,8 +2,6 @@
 titel: Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1973-12-12"
-geaendert_am: "2013-04-20"
 quelle: "Gesetz vom 1973-12-12 (BGBl I 1973, 1885), zuletzt geändert durch Art. 3 Abs. 5 G v. 20.4.2013 I 868"
 gueltig_ab: 2013-04-20
 url: "https://www.gesetze-im-internet.de/asig/"

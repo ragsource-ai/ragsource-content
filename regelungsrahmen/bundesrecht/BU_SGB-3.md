@@ -2,8 +2,6 @@
 titel: Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes (SGB 3)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "1997-03-24"
-geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 1997-03-24 (BGBl I 1997, 594, 595), zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 371"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/sgb_3/"

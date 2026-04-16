@@ -9,7 +9,6 @@ gemeinde_ars: "083355004043"
 land: Baden-Württemberg
 kreis: Konstanz
 gemeinde: Konstanz
-erlassen_am: 2017-07-13
 gueltig_ab: 2017-10-31
 stand: 2017-07-13
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1504953065/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_04%20Allgemeine%20Bestimmungen%20f%C3%BCr%20Werbung%20in%20Sportst%C3%A4tten.pdf"

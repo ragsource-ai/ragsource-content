@@ -2,8 +2,6 @@
 titel: Gesetz über die Pflegezeit (PflegeZG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2008-05-28"
-geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 2008-05-28 (BGBl I 2008, 874, 896), zuletzt geändert durch Art. 4 G v. 22.12.2025 I Nr. 371"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/pflegezg/"

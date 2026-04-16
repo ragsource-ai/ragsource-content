@@ -4,10 +4,8 @@ ebene: land
 saule: regelungsrahmen
 land_ars: "08"
 land: Baden-Württemberg
-erlassen_am: "2008-10-14"
-geaendert_am: "2021-02-03"
 quelle: "Gesetz vom 14.10.2008 (GBl. 2008, 343), zuletzt geändert durch Artikel 3 des Gesetzes vom 3. Februar 2021 (GBl. S. 53)"
-gueltig_ab: 2008-10-22
+gueltig_ab: 2021-02-03
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-DGBWrahmen"
 stand: "2021-02-03"
 status: published

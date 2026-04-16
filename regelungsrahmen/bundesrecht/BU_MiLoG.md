@@ -2,8 +2,6 @@
 titel: Gesetz zur Regelung eines allgemeinen Mindestlohns (MiLoG)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2014-08-11"
-geaendert_am: "2025-12-22"
 quelle: "Gesetz vom 2014-08-11 (BGBl I 2014, 1348), zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 369"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/milog/"

@@ -2,8 +2,6 @@
 titel: Bundesdatenschutzgesetz (BDSG 2018)
 ebene: bund
 saule: regelungsrahmen
-erlassen_am: "2017-06-30"
-geaendert_am: "2024-05-06"
 quelle: "Gesetz vom 2017-06-30 (BGBl I 2017, 2097), zuletzt geändert durch Art. 7 G v. 6.5.2024 I Nr. 149"
 gueltig_ab: 2024-05-06
 url: "https://www.gesetze-im-internet.de/bdsg_2018/"
