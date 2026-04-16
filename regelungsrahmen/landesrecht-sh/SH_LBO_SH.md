@@ -9,7 +9,7 @@ gueltig_ab: 2024-07-05
 url: "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-BauOSH2024rahmen"
 perma_url: "https://www.gesetze-rechtsprechung.sh.juris.de/perma?a=BauO_SH"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Bekanntmachung vom 2024-07-05 (GVOBl. Schl.-H. 2024, S. 504)"
 endpoints:
   - amtsschimmel
   - brandmeister

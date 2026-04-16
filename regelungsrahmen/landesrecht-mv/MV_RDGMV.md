@@ -8,7 +8,7 @@ land: Mecklenburg-Vorpommern
 gueltig_ab: 2018-05-16
 url: "https://www.landesrecht-mv.de/bsmv/document/jlr-RettDGMV2015rahmen"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Gesetz vom 2015-02-09 (GVOBl. M-V 2015, S. 50), zuletzt geändert durch Art. 7 G v. 16.5.2018 (GVOBl. M-V S. 183)"
 endpoints:
   - amtsschimmel
   - brandmeister

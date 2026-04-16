@@ -8,7 +8,7 @@ land: Saarland
 gueltig_ab: 2020-12-11
 url: "https://recht.saarland.de/bssl/document/jlr-RettDGSL2020rahmen"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Gesetz vom 2020-11-11 (Amtsbl. Saar. 2020, S. 1250)"
 endpoints:
   - amtsschimmel
   - brandmeister

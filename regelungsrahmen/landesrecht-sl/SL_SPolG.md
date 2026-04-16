@@ -8,7 +8,7 @@ land: Saarland
 gueltig_ab: 2025-04-09
 url: "https://recht.saarland.de/bssl/document/jlr-PolGSLrahmen"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Bekanntmachung vom 2001-03-26 (Amtsbl. Saar. 2001, S. 1074), zuletzt geändert durch Art. 1 G v. 9.4.2025 (Amtsbl. Saar. I 2025, S. 506)"
 endpoints:
   - amtsschimmel
   - brandmeister

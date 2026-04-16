@@ -8,7 +8,7 @@ land: Mecklenburg-Vorpommern
 gueltig_ab: 2023-12-14
 url: "https://www.landesrecht-mv.de/bsmv/document/jlr-SOGMV2020pIVZ"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Gesetz vom 2020-04-27 (GVOBl. M-V 2020, S. 334), zuletzt geändert durch G v. 14.12.2023 (GVOBl. M-V 2023, S. 891)"
 endpoints:
   - amtsschimmel
   - brandmeister

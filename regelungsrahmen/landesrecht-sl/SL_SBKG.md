@@ -8,7 +8,7 @@ land: Saarland
 gueltig_ab: 2023-12-12
 url: "https://recht.saarland.de/bssl/document/jlr-BrandTHKatSchGSLrahmen"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Gesetz vom 2006-11-29 (Amtsbl. Saar. 2006, S. 2207), zuletzt geändert durch G v. 12.12.2023 (Amtsbl. Saar. I 2023, S. 1111)"
 endpoints:
   - amtsschimmel
   - brandmeister

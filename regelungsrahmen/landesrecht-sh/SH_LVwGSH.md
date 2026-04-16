@@ -9,7 +9,7 @@ gueltig_ab: 2025-06-10
 url: "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-VwGSHrahmen"
 perma_url: "https://www.gesetze-rechtsprechung.sh.juris.de/perma?a=VwG_SH"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Bekanntmachung vom 1992-06-02 (GVOBl. Schl.-H. 1992, S. 243), zuletzt geändert durch G v. 10.6.2025 (GVOBl. Schl.-H. 2025, Nr. 76)"
 endpoints:
   - amtsschimmel
   - brandmeister

@@ -8,7 +8,7 @@ land: Mecklenburg-Vorpommern
 gueltig_ab: 2025-03-18
 url: "https://www.landesrecht-mv.de/bsmv/document/jlr-BauOMV2015pG14"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Bekanntmachung der Neufassung vom 2015-10-15 (GVOBl. M-V 2015, S. 344), zuletzt geändert durch Art. 2 G v. 18.3.2025 (GVOBl. M-V 2025, S. 130)"
 endpoints:
   - amtsschimmel
   - brandmeister

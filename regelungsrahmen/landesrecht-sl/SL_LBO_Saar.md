@@ -8,7 +8,7 @@ land: Saarland
 gueltig_ab: 2025-08-27
 url: "https://recht.saarland.de/bssl/document/jlr-BauOSL2004rahmen"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Bekanntmachung vom 2004-02-18 (Amtsbl. Saar. 2004, S. 822), zuletzt geändert durch Art. 1 G v. 27.8.2025 (Amtsbl. Saar. I 2025, S. 854)"
 endpoints:
   - amtsschimmel
   - brandmeister

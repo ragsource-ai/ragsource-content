@@ -8,7 +8,7 @@ land: Mecklenburg-Vorpommern
 gueltig_ab: 2025-12-11
 url: "https://www.landesrecht-mv.de/bsmv/document/jlr-Brand_TechHLGMV2015V5IVZ"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Bekanntmachung der Neufassung vom 2015-12-21 (GVOBl. M-V 2015, S. 612), zuletzt geändert durch Haushaltsbegleitgesetz 2026/2027 v. 11.12.2025 (GVOBl. M-V 2025, S. 764)"
 endpoints:
   - amtsschimmel
   - brandmeister

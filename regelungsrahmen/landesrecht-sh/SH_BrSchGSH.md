@@ -9,7 +9,7 @@ gueltig_ab: 2024-03-20
 url: "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-BrandSchGSHV14IVZ"
 perma_url: "https://www.gesetze-rechtsprechung.sh.juris.de/perma?a=BrSchG_SH"
 url_nachfolger:
-quelle: "Fundstelle:"
+quelle: "Bekanntmachung vom 1996-02-10 (GVOBl. Schl.-H. 1996, S. 200), zuletzt geändert durch G v. 20.3.2024 (GVOBl. Schl.-H. 2024, S. 445)"
 endpoints:
   - amtsschimmel
   - brandmeister
