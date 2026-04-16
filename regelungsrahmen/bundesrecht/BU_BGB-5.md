@@ -380,6 +380,19 @@ Titel 7 - Errichtung und Aufhebung eines Testaments
 - § 2231 - Ordentliche Testamente
 - § 2232 - Öffentliches Testament
 - § 2233 - Sonderfälle
+- § 2234 (Red. weggefallen)
+- § 2235 (Red. weggefallen)
+- § 2236 (Red. weggefallen)
+- § 2237 (Red. weggefallen)
+- § 2238 (Red. weggefallen)
+- § 2239 (Red. weggefallen)
+- § 2240 (Red. weggefallen)
+- § 2241 (Red. weggefallen)
+- § 2242 (Red. weggefallen)
+- § 2243 (Red. weggefallen)
+- § 2244 (Red. weggefallen)
+- § 2245 (Red. weggefallen)
+- § 2246 (Red. weggefallen)
 - § 2247 - Eigenhändiges Testament
 - § 2248 - Verwahrung des eigenhändigen Testaments
 - § 2249 - Nottestament vor dem Bürgermeister
@@ -505,6 +518,12 @@ Abschnitt 8 - Erbschein
 - § 2353 - Zuständigkeit des Nachlassgerichts, Antrag
 
 (XXXX)§§ 2354 bis 2359
+- § 2354 (Red. weggefallen)
+- § 2355 (Red. weggefallen)
+- § 2356 (Red. weggefallen)
+- § 2357 (Red. weggefallen)
+- § 2358 (Red. weggefallen)
+- § 2359 (Red. weggefallen)
 - § 2360 - (weggefallen)
 - § 2361 - Einziehung oder Kraftloserklärung des unrichtigen Erbscheins
 - § 2362 - Herausgabe- und Auskunftsanspruch des wirklichen Erben
@@ -2302,6 +2321,19 @@ Zur Niederschrift eines Notars wird ein Testament errichtet, indem der Erblasser
 
 (2) Ist der Erblasser nach seinen Angaben oder nach der Überzeugung des Notars nicht im Stande, Geschriebenes zu lesen, so kann er das Testament nur durch eine Erklärung gegenüber dem Notar errichten.
 
+### § 2234 (Red. weggefallen)
+### § 2235 (Red. weggefallen)
+### § 2236 (Red. weggefallen)
+### § 2237 (Red. weggefallen)
+### § 2238 (Red. weggefallen)
+### § 2239 (Red. weggefallen)
+### § 2240 (Red. weggefallen)
+### § 2241 (Red. weggefallen)
+### § 2242 (Red. weggefallen)
+### § 2243 (Red. weggefallen)
+### § 2244 (Red. weggefallen)
+### § 2245 (Red. weggefallen)
+### § 2246 (Red. weggefallen)
 ### § 2247 - Eigenhändiges Testament
 
 (1) Der Erblasser kann ein Testament durch eine eigenhändig geschriebene und unterschriebene Erklärung errichten.
@@ -2935,6 +2967,12 @@ Das Nachlassgericht hat dem Erben auf Antrag ein Zeugnis über sein Erbrecht und
 
 (weggefallen)
 
+### § 2354 (Red. weggefallen)
+### § 2355 (Red. weggefallen)
+### § 2356 (Red. weggefallen)
+### § 2357 (Red. weggefallen)
+### § 2358 (Red. weggefallen)
+### § 2359 (Red. weggefallen)
 ### § 2360 - (weggefallen)
 
 -

@@ -59,6 +59,38 @@ Todeserklärung
 - § 1320 - Aufhebung der neuen Ehe
 
 Titel 5 - Wirkungen der Ehe im Allgemeinen
+- § 1321 (Red. weggefallen)
+- § 1322 (Red. weggefallen)
+- § 1323 (Red. weggefallen)
+- § 1324 (Red. weggefallen)
+- § 1325 (Red. weggefallen)
+- § 1326 (Red. weggefallen)
+- § 1327 (Red. weggefallen)
+- § 1328 (Red. weggefallen)
+- § 1329 (Red. weggefallen)
+- § 1330 (Red. weggefallen)
+- § 1331 (Red. weggefallen)
+- § 1332 (Red. weggefallen)
+- § 1333 (Red. weggefallen)
+- § 1334 (Red. weggefallen)
+- § 1335 (Red. weggefallen)
+- § 1336 (Red. weggefallen)
+- § 1337 (Red. weggefallen)
+- § 1338 (Red. weggefallen)
+- § 1339 (Red. weggefallen)
+- § 1340 (Red. weggefallen)
+- § 1341 (Red. weggefallen)
+- § 1342 (Red. weggefallen)
+- § 1343 (Red. weggefallen)
+- § 1344 (Red. weggefallen)
+- § 1345 (Red. weggefallen)
+- § 1346 (Red. weggefallen)
+- § 1347 (Red. weggefallen)
+- § 1348 (Red. weggefallen)
+- § 1349 (Red. weggefallen)
+- § 1350 (Red. weggefallen)
+- § 1351 (Red. weggefallen)
+- § 1352 (Red. weggefallen)
 - § 1353 - Eheliche Lebensgemeinschaft
 - § 1354
 - § 1355 - Ehename
@@ -111,6 +143,23 @@ Untertitel 1 - Gesetzliches Güterrecht
 Untertitel 2 - Vertragliches Güterrecht
 
 Kapitel 1 - Allgemeine Vorschriften
+- § 1391 (Red. weggefallen)
+- § 1392 (Red. weggefallen)
+- § 1393 (Red. weggefallen)
+- § 1394 (Red. weggefallen)
+- § 1395 (Red. weggefallen)
+- § 1396 (Red. weggefallen)
+- § 1397 (Red. weggefallen)
+- § 1398 (Red. weggefallen)
+- § 1399 (Red. weggefallen)
+- § 1400 (Red. weggefallen)
+- § 1401 (Red. weggefallen)
+- § 1402 (Red. weggefallen)
+- § 1403 (Red. weggefallen)
+- § 1404 (Red. weggefallen)
+- § 1405 (Red. weggefallen)
+- § 1406 (Red. weggefallen)
+- § 1407 (Red. weggefallen)
 - § 1408 - Ehevertrag, Vertragsfreiheit
 - § 1409 - Beschränkung der Vertragsfreiheit
 - § 1410 - Form
@@ -246,6 +295,50 @@ Untertitel 3 - (weggefallen)
 Titel 7 - Scheidung der Ehe
 
 Untertitel 1 - Scheidungsgründe
+- § 1520 (Red. weggefallen)
+- § 1521 (Red. weggefallen)
+- § 1522 (Red. weggefallen)
+- § 1523 (Red. weggefallen)
+- § 1524 (Red. weggefallen)
+- § 1525 (Red. weggefallen)
+- § 1526 (Red. weggefallen)
+- § 1527 (Red. weggefallen)
+- § 1528 (Red. weggefallen)
+- § 1529 (Red. weggefallen)
+- § 1530 (Red. weggefallen)
+- § 1531 (Red. weggefallen)
+- § 1532 (Red. weggefallen)
+- § 1533 (Red. weggefallen)
+- § 1534 (Red. weggefallen)
+- § 1535 (Red. weggefallen)
+- § 1536 (Red. weggefallen)
+- § 1537 (Red. weggefallen)
+- § 1538 (Red. weggefallen)
+- § 1539 (Red. weggefallen)
+- § 1540 (Red. weggefallen)
+- § 1541 (Red. weggefallen)
+- § 1542 (Red. weggefallen)
+- § 1543 (Red. weggefallen)
+- § 1544 (Red. weggefallen)
+- § 1545 (Red. weggefallen)
+- § 1546 (Red. weggefallen)
+- § 1547 (Red. weggefallen)
+- § 1548 (Red. weggefallen)
+- § 1549 (Red. weggefallen)
+- § 1550 (Red. weggefallen)
+- § 1551 (Red. weggefallen)
+- § 1552 (Red. weggefallen)
+- § 1553 (Red. weggefallen)
+- § 1554 (Red. weggefallen)
+- § 1555 (Red. weggefallen)
+- § 1556 (Red. weggefallen)
+- § 1557 (Red. weggefallen)
+- § 1558 (Red. weggefallen)
+- § 1559 (Red. weggefallen)
+- § 1560 (Red. weggefallen)
+- § 1561 (Red. weggefallen)
+- § 1562 (Red. weggefallen)
+- § 1563 (Red. weggefallen)
 - § 1564 - Scheidung durch richterliche Entscheidung
 - § 1565 - Scheitern der Ehe
 - § 1566 - Vermutung für das Scheitern
@@ -371,6 +464,9 @@ Eltern und dem Kind im Allgemeinen
 - § 1618 - Pflicht zu Beistand und Rücksicht
 - § 1619 - Dienstleistungen in Haus und Geschäft
 - § 1620 - Aufwendungen des Kindes für den elterlichen Haushalt
+- § 1621 (Red. weggefallen)
+- § 1622 (Red. weggefallen)
+- § 1623 (Red. weggefallen)
 - § 1624 - Ausstattung aus dem Elternvermögen
 - § 1625 - Ausstattung aus dem Kindesvermögen
 
@@ -395,6 +491,10 @@ der Eltern
 - § 1631e - Behandlung von Kindern mit Varianten der Geschlechtsentwicklung
 - § 1632 - Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
 - § 1633 - (weggefallen)
+- § 1634 (Red. weggefallen)
+- § 1635 (Red. weggefallen)
+- § 1636 (Red. weggefallen)
+- § 1637 (Red. weggefallen)
 - § 1638 - Beschränkung der Vermögenssorge
 - § 1639 - Anordnungen des Erblassers oder Zuwendenden
 - § 1640 - Vermögensverzeichnis
@@ -407,11 +507,28 @@ der Eltern
 - § 1647
 - § 1648 - Ersatz von Aufwendungen
 - § 1649 - Verwendung der Einkünfte des Kindesvermögens
+- § 1650 (Red. weggefallen)
+- § 1651 (Red. weggefallen)
+- § 1652 (Red. weggefallen)
+- § 1653 (Red. weggefallen)
+- § 1654 (Red. weggefallen)
+- § 1655 (Red. weggefallen)
+- § 1656 (Red. weggefallen)
+- § 1657 (Red. weggefallen)
+- § 1658 (Red. weggefallen)
+- § 1659 (Red. weggefallen)
+- § 1660 (Red. weggefallen)
+- § 1661 (Red. weggefallen)
+- § 1662 (Red. weggefallen)
+- § 1663 (Red. weggefallen)
 - § 1664 - Beschränkte Haftung der Eltern
 - § 1665
 - § 1666 - Gerichtliche Maßnahmen bei Gefährdung des Kindeswohls
 - § 1666a - Grundsatz der Verhältnismäßigkeit; Vorrang öffentlicher Hilfen
 - § 1667 - Gerichtliche Maßnahmen bei Gefährdung des Kindesvermögens
+- § 1668 (Red. weggefallen)
+- § 1669 (Red. weggefallen)
+- § 1670 (Red. weggefallen)
 - § 1671 - Übertragung der Alleinsorge bei Getrenntleben der Eltern
 - § 1672 - (weggefallen)
 - § 1673 - Ruhen der elterlichen Sorge bei rechtlichem Hindernis
@@ -434,7 +551,13 @@ der Eltern
 - § 1687a - Entscheidungsbefugnisse des nicht sorgeberechtigten Elternteils
 - § 1687b - Sorgerechtliche Befugnisse des Ehegatten
 - § 1688 - Entscheidungsbefugnisse der Pflegeperson
+- § 1689 (Red. weggefallen)
+- § 1690 (Red. weggefallen)
+- § 1691 (Red. weggefallen)
+- § 1692 (Red. weggefallen)
 - § 1693 - Gerichtliche Maßnahmen bei Verhinderung der Eltern
+- § 1694 (Red. weggefallen)
+- § 1695 (Red. weggefallen)
 - § 1696 - Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche
 - § 1697 - (weggefallen)
 - § 1697a - Kindeswohlprinzip
@@ -444,6 +567,19 @@ der elterlichen Sorge
 - § 1698b - Fortführung dringender Geschäfte nach Tod des Kindes
 
 Titel 6 - Beistandschaft
+- § 1699 (Red. weggefallen)
+- § 1700 (Red. weggefallen)
+- § 1701 (Red. weggefallen)
+- § 1702 (Red. weggefallen)
+- § 1703 (Red. weggefallen)
+- § 1704 (Red. weggefallen)
+- § 1705 (Red. weggefallen)
+- § 1706 (Red. weggefallen)
+- § 1707 (Red. weggefallen)
+- § 1708 (Red. weggefallen)
+- § 1709 (Red. weggefallen)
+- § 1710 (Red. weggefallen)
+- § 1711 (Red. weggefallen)
 - § 1712 - Beistandschaft des Jugendamts; Aufgaben
 - § 1713 - Antragsberechtigte
 - § 1714 - Eintritt der Beistandschaft
@@ -454,6 +590,29 @@ Titel 6 - Beistandschaft
 Titel 7 - Annahme als Kind
 
 Untertitel 1 - Annahme Minderjähriger
+- § 1718 (Red. weggefallen)
+- § 1719 (Red. weggefallen)
+- § 1720 (Red. weggefallen)
+- § 1721 (Red. weggefallen)
+- § 1722 (Red. weggefallen)
+- § 1723 (Red. weggefallen)
+- § 1724 (Red. weggefallen)
+- § 1725 (Red. weggefallen)
+- § 1726 (Red. weggefallen)
+- § 1727 (Red. weggefallen)
+- § 1728 (Red. weggefallen)
+- § 1729 (Red. weggefallen)
+- § 1730 (Red. weggefallen)
+- § 1731 (Red. weggefallen)
+- § 1732 (Red. weggefallen)
+- § 1733 (Red. weggefallen)
+- § 1734 (Red. weggefallen)
+- § 1735 (Red. weggefallen)
+- § 1736 (Red. weggefallen)
+- § 1737 (Red. weggefallen)
+- § 1738 (Red. weggefallen)
+- § 1739 (Red. weggefallen)
+- § 1740 (Red. weggefallen)
 - § 1741 - Zulässigkeit der Annahme
 - § 1742 - Annahme nur als gemeinschaftliches Kind
 - § 1743 - Mindestalter
@@ -873,6 +1032,38 @@ Todeserklärung
 
 ## Titel 5 - Wirkungen der Ehe im Allgemeinen
 
+### § 1321 (Red. weggefallen)
+### § 1322 (Red. weggefallen)
+### § 1323 (Red. weggefallen)
+### § 1324 (Red. weggefallen)
+### § 1325 (Red. weggefallen)
+### § 1326 (Red. weggefallen)
+### § 1327 (Red. weggefallen)
+### § 1328 (Red. weggefallen)
+### § 1329 (Red. weggefallen)
+### § 1330 (Red. weggefallen)
+### § 1331 (Red. weggefallen)
+### § 1332 (Red. weggefallen)
+### § 1333 (Red. weggefallen)
+### § 1334 (Red. weggefallen)
+### § 1335 (Red. weggefallen)
+### § 1336 (Red. weggefallen)
+### § 1337 (Red. weggefallen)
+### § 1338 (Red. weggefallen)
+### § 1339 (Red. weggefallen)
+### § 1340 (Red. weggefallen)
+### § 1341 (Red. weggefallen)
+### § 1342 (Red. weggefallen)
+### § 1343 (Red. weggefallen)
+### § 1344 (Red. weggefallen)
+### § 1345 (Red. weggefallen)
+### § 1346 (Red. weggefallen)
+### § 1347 (Red. weggefallen)
+### § 1348 (Red. weggefallen)
+### § 1349 (Red. weggefallen)
+### § 1350 (Red. weggefallen)
+### § 1351 (Red. weggefallen)
+### § 1352 (Red. weggefallen)
 ### § 1353 - Eheliche Lebensgemeinschaft
 
 (1) Die Ehe wird von zwei Personen verschiedenen oder gleichen Geschlechts auf Lebenszeit geschlossen. Die Ehegatten sind einander zur ehelichen Lebensgemeinschaft verpflichtet; sie tragen füreinander Verantwortung.
@@ -1234,6 +1425,23 @@ Mit der Rechtskraft der Entscheidung, die die Zugewinngemeinschaft vorzeitig auf
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
+### § 1391 (Red. weggefallen)
+### § 1392 (Red. weggefallen)
+### § 1393 (Red. weggefallen)
+### § 1394 (Red. weggefallen)
+### § 1395 (Red. weggefallen)
+### § 1396 (Red. weggefallen)
+### § 1397 (Red. weggefallen)
+### § 1398 (Red. weggefallen)
+### § 1399 (Red. weggefallen)
+### § 1400 (Red. weggefallen)
+### § 1401 (Red. weggefallen)
+### § 1402 (Red. weggefallen)
+### § 1403 (Red. weggefallen)
+### § 1404 (Red. weggefallen)
+### § 1405 (Red. weggefallen)
+### § 1406 (Red. weggefallen)
+### § 1407 (Red. weggefallen)
 ### § 1408 - Ehevertrag, Vertragsfreiheit
 
 (1) Die Ehegatten können ihre güterrechtlichen Verhältnisse durch Vertrag (Ehevertrag) regeln, insbesondere auch nach der Eingehung der Ehe den Güterstand aufheben oder ändern.
@@ -1906,6 +2114,50 @@ Vereinbaren die Ehegatten durch Ehevertrag den Güterstand der Wahl-Zugewinngeme
 
 ## Untertitel 1 - Scheidungsgründe
 
+### § 1520 (Red. weggefallen)
+### § 1521 (Red. weggefallen)
+### § 1522 (Red. weggefallen)
+### § 1523 (Red. weggefallen)
+### § 1524 (Red. weggefallen)
+### § 1525 (Red. weggefallen)
+### § 1526 (Red. weggefallen)
+### § 1527 (Red. weggefallen)
+### § 1528 (Red. weggefallen)
+### § 1529 (Red. weggefallen)
+### § 1530 (Red. weggefallen)
+### § 1531 (Red. weggefallen)
+### § 1532 (Red. weggefallen)
+### § 1533 (Red. weggefallen)
+### § 1534 (Red. weggefallen)
+### § 1535 (Red. weggefallen)
+### § 1536 (Red. weggefallen)
+### § 1537 (Red. weggefallen)
+### § 1538 (Red. weggefallen)
+### § 1539 (Red. weggefallen)
+### § 1540 (Red. weggefallen)
+### § 1541 (Red. weggefallen)
+### § 1542 (Red. weggefallen)
+### § 1543 (Red. weggefallen)
+### § 1544 (Red. weggefallen)
+### § 1545 (Red. weggefallen)
+### § 1546 (Red. weggefallen)
+### § 1547 (Red. weggefallen)
+### § 1548 (Red. weggefallen)
+### § 1549 (Red. weggefallen)
+### § 1550 (Red. weggefallen)
+### § 1551 (Red. weggefallen)
+### § 1552 (Red. weggefallen)
+### § 1553 (Red. weggefallen)
+### § 1554 (Red. weggefallen)
+### § 1555 (Red. weggefallen)
+### § 1556 (Red. weggefallen)
+### § 1557 (Red. weggefallen)
+### § 1558 (Red. weggefallen)
+### § 1559 (Red. weggefallen)
+### § 1560 (Red. weggefallen)
+### § 1561 (Red. weggefallen)
+### § 1562 (Red. weggefallen)
+### § 1563 (Red. weggefallen)
 ### § 1564 - Scheidung durch richterliche Entscheidung
 
 Eine Ehe kann nur durch richterliche Entscheidung auf Antrag eines oder beider Ehegatten geschieden werden. Die Ehe ist mit der Rechtskraft der Entscheidung aufgelöst. Die Voraussetzungen, unter denen die Scheidung begehrt werden kann, ergeben sich aus den folgenden Vorschriften.
@@ -2651,6 +2903,9 @@ Das Kind ist, solange es dem elterlichen Hausstand angehört und von den Eltern 
 
 Macht ein dem elterlichen Hausstand angehörendes volljähriges Kind zur Bestreitung der Kosten des Haushalts aus seinem Vermögen eine Aufwendung oder überlässt es den Eltern zu diesem Zwecke etwas aus seinem Vermögen, so ist im Zweifel anzunehmen, dass die Absicht fehlt, Ersatz zu verlangen.
 
+### § 1621 (Red. weggefallen)
+### § 1622 (Red. weggefallen)
+### § 1623 (Red. weggefallen)
 ### § 1624 - Ausstattung aus dem Elternvermögen
 
 (1) Was einem Kind mit Rücksicht auf seine Verheiratung, auf seine Begründung einer Lebenspartnerschaft oder auf die Erlangung einer selbständigen Lebensstellung zur Begründung oder zur Erhaltung der Wirtschaft oder der Lebensstellung von dem Vater oder der Mutter zugewendet wird (Ausstattung), gilt, auch wenn eine Verpflichtung nicht besteht, nur insoweit als Schenkung, als die Ausstattung das den Umständen, insbesondere den Vermögensverhältnissen des Vaters oder der Mutter, entsprechende Maß übersteigt.
@@ -2814,6 +3069,10 @@ Die Eltern können nicht in eine Sterilisation des Kindes einwilligen. Auch das 
 
 ### § 1633 - (weggefallen)
 
+### § 1634 (Red. weggefallen)
+### § 1635 (Red. weggefallen)
+### § 1636 (Red. weggefallen)
+### § 1637 (Red. weggefallen)
 ### § 1638 - Beschränkung der Vermögenssorge
 
 (1) Die Vermögenssorge erstreckt sich nicht auf das Vermögen, welches das Kind von Todes wegen, durch unentgeltliche Zuwendung auf den Todesfall oder unter Lebenden erwirbt, wenn der Erblasser durch letztwillige Verfügung, der Zuwendende bei der Zuwendung bestimmt hat, dass die Eltern das Vermögen nicht verwalten sollen.
@@ -2893,6 +3152,20 @@ Machen die Eltern bei der Ausübung der Personensorge oder der Vermögenssorge A
 
 (2) Die Eltern können die Einkünfte des Vermögens, die zur ordnungsmäßigen Verwaltung des Vermögens und für den Unterhalt des Kindes nicht benötigt werden, für ihren eigenen Unterhalt und für den Unterhalt der minderjährigen Geschwister des Kindes verwenden, soweit dies unter Berücksichtigung der Vermögens- und Erwerbsverhältnisse der Beteiligten der Billigkeit entspricht.
 
+### § 1650 (Red. weggefallen)
+### § 1651 (Red. weggefallen)
+### § 1652 (Red. weggefallen)
+### § 1653 (Red. weggefallen)
+### § 1654 (Red. weggefallen)
+### § 1655 (Red. weggefallen)
+### § 1656 (Red. weggefallen)
+### § 1657 (Red. weggefallen)
+### § 1658 (Red. weggefallen)
+### § 1659 (Red. weggefallen)
+### § 1660 (Red. weggefallen)
+### § 1661 (Red. weggefallen)
+### § 1662 (Red. weggefallen)
+### § 1663 (Red. weggefallen)
 ### § 1664 - Beschränkte Haftung der Eltern
 
 (1) Die Eltern haben bei der Ausübung der elterlichen Sorge dem Kind gegenüber nur für die Sorgfalt einzustehen, die sie in eigenen Angelegenheiten anzuwenden pflegen.
@@ -2935,6 +3208,9 @@ Machen die Eltern bei der Ausübung der Personensorge oder der Vermögenssorge A
 
 (4) Die Kosten der angeordneten Maßnahmen trägt der Elternteil, der sie veranlasst hat.
 
+### § 1668 (Red. weggefallen)
+### § 1669 (Red. weggefallen)
+### § 1670 (Red. weggefallen)
 ### § 1671 - Übertragung der Alleinsorge bei Getrenntleben der Eltern
 
 (1) Leben Eltern nicht nur vorübergehend getrennt und steht ihnen die elterliche Sorge gemeinsam zu, so kann jeder Elternteil beantragen, dass ihm das Familiengericht die elterliche Sorge oder einen Teil der elterlichen Sorge allein überträgt. Dem Antrag ist stattzugeben, soweit
@@ -3071,10 +3347,16 @@ Für jeden Elternteil, der nicht Inhaber der elterlichen Sorge ist und bei dem s
 
 (4) Für eine Person, bei der sich das Kind auf Grund einer gerichtlichen Entscheidung nach § 1632 Abs. 4 oder § 1682 aufhält, gelten die Absätze 1 und 3 mit der Maßgabe, dass die genannten Befugnisse nur das Familiengericht einschränken oder ausschließen kann.
 
+### § 1689 (Red. weggefallen)
+### § 1690 (Red. weggefallen)
+### § 1691 (Red. weggefallen)
+### § 1692 (Red. weggefallen)
 ### § 1693 - Gerichtliche Maßnahmen bei Verhinderung der Eltern
 
 Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das Familiengericht die im Interesse des Kindes erforderlichen Maßregeln zu treffen.
 
+### § 1694 (Red. weggefallen)
+### § 1695 (Red. weggefallen)
 ### § 1696 - Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche
 
 (1) Eine Entscheidung zum Sorge- oder Umgangsrecht oder ein gerichtlich gebilligter Vergleich ist zu ändern, wenn dies aus triftigen, das Wohl des Kindes nachhaltig berührenden Gründen angezeigt ist. Entscheidungen nach § 1626a Absatz 2 können gemäß § 1671 Absatz 1 geändert werden; § 1671 Absatz 4 gilt entsprechend. § 1678 Absatz 2, § 1680 Absatz 2 sowie § 1681 Absatz 1 und 2 bleiben unberührt.
@@ -3113,6 +3395,19 @@ Endet die elterliche Sorge durch den Tod des Kindes, so haben die Eltern die Ges
 
 ## Titel 6 - Beistandschaft
 
+### § 1699 (Red. weggefallen)
+### § 1700 (Red. weggefallen)
+### § 1701 (Red. weggefallen)
+### § 1702 (Red. weggefallen)
+### § 1703 (Red. weggefallen)
+### § 1704 (Red. weggefallen)
+### § 1705 (Red. weggefallen)
+### § 1706 (Red. weggefallen)
+### § 1707 (Red. weggefallen)
+### § 1708 (Red. weggefallen)
+### § 1709 (Red. weggefallen)
+### § 1710 (Red. weggefallen)
+### § 1711 (Red. weggefallen)
 ### § 1712 - Beistandschaft des Jugendamts; Aufgaben
 
 (1) Auf schriftlichen Antrag eines Elternteils wird das Jugendamt Beistand des Kindes für folgende Aufgaben:
@@ -3151,6 +3446,29 @@ Die Beistandschaft tritt nur ein, wenn das Kind seinen gewöhnlichen Aufenthalt 
 
 ## Untertitel 1 - Annahme Minderjähriger
 
+### § 1718 (Red. weggefallen)
+### § 1719 (Red. weggefallen)
+### § 1720 (Red. weggefallen)
+### § 1721 (Red. weggefallen)
+### § 1722 (Red. weggefallen)
+### § 1723 (Red. weggefallen)
+### § 1724 (Red. weggefallen)
+### § 1725 (Red. weggefallen)
+### § 1726 (Red. weggefallen)
+### § 1727 (Red. weggefallen)
+### § 1728 (Red. weggefallen)
+### § 1729 (Red. weggefallen)
+### § 1730 (Red. weggefallen)
+### § 1731 (Red. weggefallen)
+### § 1732 (Red. weggefallen)
+### § 1733 (Red. weggefallen)
+### § 1734 (Red. weggefallen)
+### § 1735 (Red. weggefallen)
+### § 1736 (Red. weggefallen)
+### § 1737 (Red. weggefallen)
+### § 1738 (Red. weggefallen)
+### § 1739 (Red. weggefallen)
+### § 1740 (Red. weggefallen)
 ### § 1741 - Zulässigkeit der Annahme
 
 (1) Die Annahme als Kind ist zulässig, wenn sie dem Wohl des Kindes dient und zu erwarten ist, dass zwischen dem Annehmenden und dem Kind ein Eltern-Kind-Verhältnis entsteht. Wer an einer gesetzes- oder sittenwidrigen Vermittlung oder Verbringung eines Kindes zum Zwecke der Annahme mitgewirkt oder einen Dritten hiermit beauftragt oder hierfür belohnt hat, soll ein Kind nur dann annehmen, wenn dies zum Wohl des Kindes erforderlich ist.

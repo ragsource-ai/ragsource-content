@@ -211,6 +211,12 @@ Titel 5 - Miteigentum
 Abschnitt 4 - Dienstbarkeiten
 
 Titel 1 - Grunddienstbarkeiten
+- § 1012 (Red. weggefallen)
+- § 1013 (Red. weggefallen)
+- § 1014 (Red. weggefallen)
+- § 1015 (Red. weggefallen)
+- § 1016 (Red. weggefallen)
+- § 1017 (Red. weggefallen)
 - § 1018 - Gesetzlicher Inhalt der Grunddienstbarkeit
 - § 1019 - Vorteil des herrschenden Grundstücks
 - § 1020 - Schonende Ausübung
@@ -493,6 +499,19 @@ Titel 1 - Pfandrecht an beweglichen Sachen
 - § 1259 - Verwertung des gewerblichen Pfandes
 
 Titel 2 - Pfandrecht an Rechten
+- § 1260 (Red. weggefallen)
+- § 1261 (Red. weggefallen)
+- § 1262 (Red. weggefallen)
+- § 1263 (Red. weggefallen)
+- § 1264 (Red. weggefallen)
+- § 1265 (Red. weggefallen)
+- § 1266 (Red. weggefallen)
+- § 1267 (Red. weggefallen)
+- § 1268 (Red. weggefallen)
+- § 1269 (Red. weggefallen)
+- § 1270 (Red. weggefallen)
+- § 1271 (Red. weggefallen)
+- § 1272 (Red. weggefallen)
 - § 1273 - Gesetzlicher Inhalt des Pfandrechts an Rechten
 - § 1274 - Bestellung
 - § 1275 - Pfandrecht an Recht auf Leistung
@@ -1414,6 +1433,12 @@ Jeder Miteigentümer kann die Ansprüche aus dem Eigentum Dritten gegenüber in 
 
 ## Titel 1 - Grunddienstbarkeiten
 
+### § 1012 (Red. weggefallen)
+### § 1013 (Red. weggefallen)
+### § 1014 (Red. weggefallen)
+### § 1015 (Red. weggefallen)
+### § 1016 (Red. weggefallen)
+### § 1017 (Red. weggefallen)
 ### § 1018 - Gesetzlicher Inhalt der Grunddienstbarkeit
 
 Ein Grundstück kann zugunsten des jeweiligen Eigentümers eines anderen Grundstücks in der Weise belastet werden, dass dieser das Grundstück in einzelnen Beziehungen benutzen darf oder dass auf dem Grundstück gewisse Handlungen nicht vorgenommen werden dürfen oder dass die Ausübung eines Rechts ausgeschlossen ist, das sich aus dem Eigentum an dem belasteten Grundstück dem anderen Grundstück gegenüber ergibt (Grunddienstbarkeit).
@@ -2768,6 +2793,19 @@ Sind Eigentümer und Pfandgläubiger Unternehmer, juristische Personen des öffe
 
 ## Titel 2 - Pfandrecht an Rechten
 
+### § 1260 (Red. weggefallen)
+### § 1261 (Red. weggefallen)
+### § 1262 (Red. weggefallen)
+### § 1263 (Red. weggefallen)
+### § 1264 (Red. weggefallen)
+### § 1265 (Red. weggefallen)
+### § 1266 (Red. weggefallen)
+### § 1267 (Red. weggefallen)
+### § 1268 (Red. weggefallen)
+### § 1269 (Red. weggefallen)
+### § 1270 (Red. weggefallen)
+### § 1271 (Red. weggefallen)
+### § 1272 (Red. weggefallen)
 ### § 1273 - Gesetzlicher Inhalt des Pfandrechts an Rechten
 
 (1) Gegenstand des Pfandrechts kann auch ein Recht sein.
