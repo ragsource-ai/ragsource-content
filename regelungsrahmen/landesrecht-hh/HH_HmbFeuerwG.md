@@ -7,6 +7,7 @@ land_ars: "02"
 land: Hamburg
 gueltig_ab: 2018-05-18
 url: "https://www.landesrecht-hamburg.de/bsha/document/jlr-FeuerwGHArahmen"
+url_nachfolger:
 quelle: "GVBl. 1986, 137"
 endpoints:
   - amtsschimmel

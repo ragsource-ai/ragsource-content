@@ -7,6 +7,8 @@ land_ars: "08"
 land: BW
 gueltig_ab: 2007-11-24
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-JArbEhrSt%C3%A4rkGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-JArbEhrSt%C3%A4rkGBWrahmen"
+url_nachfolger:
 quelle: "GBl. 2007, 530,"
 endpoints:
   - amtsschimmel

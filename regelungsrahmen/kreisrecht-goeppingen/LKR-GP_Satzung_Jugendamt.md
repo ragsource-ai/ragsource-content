@@ -7,6 +7,7 @@ kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-876111815/22305981/3_05_SatzungJugendamt.pdf
+url_nachfolger:
 quelle: Kreistagsbeschluss vom 12.03.1993, geändert am 20.05.2003
 gueltig_ab: 1993-04-03
 status: published

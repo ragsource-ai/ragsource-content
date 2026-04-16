@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 21.07.1970 (GBl. 1970, 395, ber. S. 458), zuletzt geändert durch Gesetz vom 3. Februar 2021 (GBl. S. 55)"
 gueltig_ab: 2021-02-03
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BestattGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-BestattGBWrahmen"
+url_nachfolger:
 stand: "2021-02-03"
 status: published
 endpoints:

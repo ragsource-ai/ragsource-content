@@ -1,10 +1,11 @@
 ---
-titel: "Gesetz über die Bundespolizei"
+titel: Gesetz über die Bundespolizei (BPolG)
 ebene: bund
 saule: regelungsrahmen
 rechtsnatur: gesetz
 gueltig_ab: 2026-02-10
 url: "https://www.gesetze-im-internet.de/bgsg_1994/"
+url_nachfolger:
 quelle: "BGBl I , 1994, 2978, 2979"
 endpoints:
   - amtsschimmel

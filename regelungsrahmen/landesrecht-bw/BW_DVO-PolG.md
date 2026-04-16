@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 16.09.1994 (GBl. 1994, 567), zuletzt geändert durch Artikel 2 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 117)"
 gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PolGDVBW1994rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-PolGDVBW1994rahmen"
+url_nachfolger:
 stand: "2025-11-18"
 status: published
 endpoints:

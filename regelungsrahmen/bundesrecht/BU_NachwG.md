@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1995-07-20 (BGBl I 1995, 946), zuletzt geändert durch Art. 50 G v. 23.10.2024 I Nr. 323"
 gueltig_ab: 2024-10-23
 url: "https://www.gesetze-im-internet.de/nachwg/"
+url_nachfolger:
 stand: "2024-10-23"
 status: published
 endpoints:

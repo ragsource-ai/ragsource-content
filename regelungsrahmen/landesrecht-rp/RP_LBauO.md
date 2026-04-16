@@ -7,6 +7,7 @@ land_ars: "07"
 land: Rheinland-Pfalz
 gueltig_ab: 2025-11-19
 url: "https://www.landesrecht.rlp.de/bsrp/document/jlr-BauORPV35IVZ"
+url_nachfolger:
 quelle: "GVBl. 1998, 365"
 endpoints:
   - amtsschimmel

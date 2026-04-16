@@ -8,6 +8,7 @@ land: Thüringen
 gueltig_ab: 2023-10-09
 url: "https://landesrecht.thueringen.de/bsth/document/jlr-BauOTH2024rahmen"
 perma_url: "https://landesrecht.thueringen.de/perma?a=BauO_TH"
+url_nachfolger:
 quelle: "GVBl. 2024, 298"
 endpoints:
   - amtsschimmel

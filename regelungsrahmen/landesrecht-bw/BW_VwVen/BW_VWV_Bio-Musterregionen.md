@@ -9,6 +9,7 @@ quelle: "GABl. 2018, 344"
 gueltig_ab: 2024-03-08
 gueltig_bis: 2031-03-07
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000041606"
+url_nachfolger:
 beschreibung: "Förderung von Bio-Musterregionen"
 stand: "2026-03-27"
 status: published

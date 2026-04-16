@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 14.11.1979 (GBl. 1979, 466, ber. 1980 S. 136), zuletzt geändert durch Artikel 1 des Gesetzes vom 15. Oktober 2024 (GBl. 2024 Nr. 85)"
 gueltig_ab: 2024-10-15
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-FischGBW1979rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-FischGBW1979rahmen"
+url_nachfolger:
 stand: "2024-10-15"
 status: published
 endpoints:

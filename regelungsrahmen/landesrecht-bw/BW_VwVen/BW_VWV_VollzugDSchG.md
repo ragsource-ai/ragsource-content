@@ -7,7 +7,6 @@ land_ars: "08"
 land: Baden-Württemberg
 quelle: "GABl. 2015, S. 4"
 gueltig_ab: 2015-01-29
-gueltig_bis: 2021-12-31
 stand: "2026-03-29"
 status: published
 endpoints:
@@ -15,6 +14,7 @@ endpoints:
 extensions:
   - Baurecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

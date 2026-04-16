@@ -13,6 +13,7 @@ quelle: ""
 gueltig_ab: 1992-10-01
 stand: 2022-10-27
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1578469305/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_04%20Gesch%C3%A4ftsordnung%20f%C3%BCr%20den%20Gemeinderat%20der%20Stadt%20Konstanz.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

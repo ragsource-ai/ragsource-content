@@ -8,6 +8,7 @@ land: Baden-Württemberg
 gueltig_ab: 2014-12-01
 gueltig_bis: 2028-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000010789"
+url_nachfolger:
 beschreibung: "Ausführung des Landesgesetzes über die freiwillige Gerichtsbarkeit"
 stand: "2026-03-27"
 status: published

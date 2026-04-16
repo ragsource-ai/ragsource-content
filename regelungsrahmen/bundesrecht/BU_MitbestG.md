@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1976-05-04 (BGBl I 1976, 1153), zuletzt geändert durch Art. 17 G v. 7.8.2021 I 3311"
 gueltig_ab: 2021-08-07
 url: "https://www.gesetze-im-internet.de/mitbestg/"
+url_nachfolger:
 beschreibung: "Das Mitbestimmungsgesetz (MitbestG) regelt die paritätische Mitbestimmung der Arbeitnehmer im Aufsichtsrat von Unternehmen mit mehr als 2.000 Beschäftigten sowie die Bestellung eines Arbeitsdirektors im Vorstand."
 stand: "2021-08-07"
 status: published

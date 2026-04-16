@@ -8,6 +8,7 @@ land: Berlin
 gueltig_ab: 2026-01-21
 url: "https://gesetze.berlin.de/bsbe/document/jlr-BauOBE2005V11IVZ"
 perma_url: "https://gesetze.berlin.de/perma?j=BauO_BE_Inhaltsverzeichnis"
+url_nachfolger:
 quelle: "GVBl. 2005, 495"
 endpoints:
   - amtsschimmel

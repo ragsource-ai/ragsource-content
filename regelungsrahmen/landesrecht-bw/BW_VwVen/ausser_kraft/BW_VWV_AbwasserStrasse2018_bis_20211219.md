@@ -5,11 +5,13 @@ saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift
 land_ars: "08"
 land: Baden-Württemberg
+url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000011083"
+url_nachfolger:
 quelle: "GABl. 2008 S. 54, zuletzt geändert GABl. 2014 S. 737"
 gueltig_ab: 2007-12-20
 gueltig_bis: 2021-12-19
 stand: "2026-03-29"
-status: published
+status: ausser_kraft
 endpoints:
   - amtsschimmel
 extensions:

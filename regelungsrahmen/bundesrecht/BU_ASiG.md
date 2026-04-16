@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1973-12-12 (BGBl I 1973, 1885), zuletzt geändert durch Art. 3 Abs. 5 G v. 20.4.2013 I 868"
 gueltig_ab: 2013-04-20
 url: "https://www.gesetze-im-internet.de/asig/"
+url_nachfolger:
 beschreibung: "Das Arbeitssicherheitsgesetz (ASiG) verpflichtet Arbeitgeber zur Bestellung von Betriebsärzten und Fachkräften für Arbeitssicherheit und legt deren Aufgaben, Qualifikationen und Zusammenarbeit zum Schutz der Beschäftigten fest."
 stand: "2013-04-20"
 status: published

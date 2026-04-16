@@ -5,8 +5,9 @@ saule: regelungsrahmen
 rechtsnatur: gesetz
 land_ars: "14"
 land: Sachsen
-gueltig_ab: 2024-01-08
+gueltig_ab: 2024-01-20
 url: "https://www.revosax.sachsen.de/vorschrift/4911-SaechsBRKG"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

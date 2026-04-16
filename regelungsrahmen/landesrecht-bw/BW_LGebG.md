@@ -6,6 +6,9 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz in der Fassung vom 14. Dezember 2004 (GBl. S. 895), zuletzt geändert durch Artikel 12 des Gesetzes vom 5. November 2024 (GBl. 2024 Nr. 91)
 gueltig_ab: 2024-11-05
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GebGBW2004rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-GebGBW2004rahmen"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

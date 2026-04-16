@@ -1,10 +1,11 @@
 ---
-titel: Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) (SGB 6)
+titel: Sozialgesetzbuch Sechstes Buch – Gesetzliche Rentenversicherung (SGB VI)
 ebene: bund
 saule: regelungsrahmen
 quelle: "Gesetz vom 1989-12-18 (BGBl I 1989, 2261 (1990 I 1337)), zuletzt geändert durch Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33"
 gueltig_ab: 2026-02-04
 url: "https://www.gesetze-im-internet.de/sgb_6/"
+url_nachfolger:
 beschreibung: "Das SGB VI regelt die gesetzliche Rentenversicherung, insbesondere Versicherungspflicht, Rentenarten (Altersrenten, Renten wegen Erwerbsminderung, Hinterbliebenenrenten), Rentenberechnung, Beitragsrecht sowie Leistungen zur Rehabilitation und Teilhabe am Arbeitsleben."
 stand: "2026-02-04"
 status: published

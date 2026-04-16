@@ -7,6 +7,9 @@ land: Baden-Württemberg
 quelle: Gesetz neugefasst am 12.04.2005 (GBl. 2005, 350), zuletzt geändert durch Artikel 1 des Gesetzes vom 28.01.2025 (GBl. 2025 Nr. 8)
 gueltig_ab: 2005-03-01
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-VwVfGBW2005rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-VwVfGBW2005rahmen"
+url_nachfolger:
+stand: "2025-01-28"
 status: published
 endpoints:
   - amtsschimmel

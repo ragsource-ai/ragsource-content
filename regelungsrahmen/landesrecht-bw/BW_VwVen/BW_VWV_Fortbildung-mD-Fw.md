@@ -9,6 +9,7 @@ quelle: "GABl. 2015, 16"
 gueltig_ab: 2021-12-30
 gueltig_bis: 2028-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000035787"
+url_nachfolger:
 stand: "2026-03-28"
 status: published
 endpoints:

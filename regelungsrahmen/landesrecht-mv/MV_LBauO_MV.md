@@ -7,6 +7,7 @@ land_ars: "13"
 land: Mecklenburg-Vorpommern
 gueltig_ab: 2025-03-18
 url: "https://www.landesrecht-mv.de/bsmv/document/jlr-BauOMV2015pG14"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

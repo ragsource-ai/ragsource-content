@@ -8,6 +8,7 @@ land: Baden-Württemberg
 gueltig_ab: 2020-07-01
 gueltig_bis: 2027-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000033114"
+url_nachfolger:
 beschreibung: "Reiseentschädigung Zeugen/Sachverständige"
 stand: "2026-03-27"
 status: published

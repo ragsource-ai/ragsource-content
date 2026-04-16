@@ -7,6 +7,7 @@ kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-1195439921/22305982/3_6_Abfallwirtschaftssatzung_ax.pdf
+url_nachfolger:
 quelle: Kreistagsbeschluss vom 12.11.2021
 gueltig_ab: 2022-01-01
 status: published
@@ -49,9 +50,6 @@ extensions:
 - § 27 Änderungen in der Gebührenpflicht und Gebührenerstattung
 - § 28 Ordnungswidrigkeiten
 - § 29 Inkrafttreten, Außerkrafttreten
-
-**Dieser Wissensartikel enthält die Paragraphen des Teil I und Teil II der Abfallwirtschaftssatzung.
-Die Paragraphen der Teile III, IV, V und VI sind in [[LKR-GP_Abfallwirtschaftssatzung_Teil_2_von_2]] enthalten.
 
 ### I. Allgemeine Bestimmungen
 

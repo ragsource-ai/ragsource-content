@@ -15,6 +15,7 @@ extensions:
   - Umwelt- & Naturrecht
   - Verkehrsrecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

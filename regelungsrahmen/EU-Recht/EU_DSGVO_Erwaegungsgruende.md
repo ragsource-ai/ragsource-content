@@ -1,5 +1,5 @@
 ---
-titel: Datenschutz-Grundverordnung (DSGVO)
+titel: "Datenschutz-Grundverordnung – Erwägungsgründe (DSGVO) — Verordnung (EU) 2016/679"
 ebene: eu
 saule: 1
 land_ars:
@@ -17,10 +17,10 @@ extensions:
   - Datenschutz & IT-Recht
   - Verwaltungsrecht
   - universalkurztitel: DSGVO
-rechtstyp: EU-Verordnung
-offiziell: Verordnung (EU) 2016/679
-erlassdatum: 2016-04-27
-inkrafttreten: 2018-05-25
+rechtsnatur: EU-Verordnung
+erlassen_am: 2016-04-27
+gueltig_ab: 2018-05-25
+url_nachfolger:
 ---
 
 (1) Der Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten ist ein Grundrecht. Gemäß Artikel 8 Absatz 1 der Charta der Grundrechte der Europäischen Union (im Folgenden „Charta") sowie Artikel 16 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) hat jede Person das Recht auf Schutz der sie betreffenden personenbezogenen Daten.

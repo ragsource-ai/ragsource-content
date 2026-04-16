@@ -7,6 +7,7 @@ land_ars: "07"
 land: Rheinland-Pfalz
 gueltig_ab: 2025-06-27
 url: "https://www.landesrecht.rlp.de/bsrp/document/jlr-Brand_KatSchGRP2025pIVZ"
+url_nachfolger:
 quelle: "GVBl. 2025, 171"
 endpoints:
   - amtsschimmel

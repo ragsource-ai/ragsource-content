@@ -1,11 +1,14 @@
 ---
-titel: Landesbauordnung Baden-Württemberg (LBO BW)
+titel: Landesbauordnung Baden-Württemberg – Anhang: Verfahrensfreie Vorhaben (LBO BW)
 ebene: land
 saule: regelungsrahmen
 land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz neugefasst am 05.03.2010, zuletzt geändert durch Artikel 1 des Gesetzes vom 18.03.2025 (GBl. 2025 Nr. 25)
 gueltig_ab: 2010-03-01
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BauOBW2010rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-BauOBW2010rahmen"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz neugefasst am 28.12.1972 (GBl. 1973, 57), zuletzt geändert durch Artikel 8 des Gesetzes vom 5. Dezember 2023 (GBl. S. 429, 432)"
 gueltig_ab: 2023-12-05
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-NTVBW1972rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-NTVBW1972rahmen"
+url_nachfolger:
 stand: "2023-12-05"
 status: published
 endpoints:

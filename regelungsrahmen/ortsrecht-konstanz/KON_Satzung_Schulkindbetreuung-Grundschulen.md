@@ -12,6 +12,7 @@ gemeinde: Konstanz
 gueltig_ab: 2025-09-01
 stand: 2025-06-26
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E867672312/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_21%20Satzung%20der%20Stadt%20Konstanz%20f%C3%BCr%20die%20Schulkindbetreuung%20an%20Grundschulen.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

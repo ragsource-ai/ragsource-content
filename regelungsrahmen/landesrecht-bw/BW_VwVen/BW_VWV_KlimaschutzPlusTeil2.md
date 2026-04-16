@@ -15,6 +15,7 @@ endpoints:
 extensions:
   - Umwelt- & Naturrecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

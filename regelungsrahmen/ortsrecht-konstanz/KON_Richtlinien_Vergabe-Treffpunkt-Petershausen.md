@@ -12,6 +12,7 @@ gemeinde: Konstanz
 gueltig_ab: "1990-01-01"
 stand: ""
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1803119087/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_06%20Vergabeordnung%20f%C3%BCr%20die%20R%C3%A4ume%20des%20Treffpunkt%20Petershausen.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

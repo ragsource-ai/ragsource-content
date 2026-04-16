@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz neugefasst am 31.08.1995 (GBl. 1995, 685), zuletzt geändert durch Artikel 11 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
 gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WaldGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-WaldGBWrahmen"
+url_nachfolger:
 stand: "2025-11-18"
 status: published
 endpoints:

@@ -7,6 +7,7 @@ kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E408460007/22305988/3_08_SatzungJagdsteuer_Aufhebung.pdf
+url_nachfolger:
 quelle: Kreistagsbeschluss zur Aufhebung vom 30.01.2009
 gueltig_ab: 2009-04-01
 status: published

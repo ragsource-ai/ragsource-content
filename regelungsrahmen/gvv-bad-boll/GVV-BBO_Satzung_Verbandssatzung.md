@@ -9,6 +9,7 @@ land: Baden-Württemberg
 kreis: Göppingen
 verband: GVV Raum Bad Boll
 url: https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/V1_-_Verbandssatzung.pdf
+url_nachfolger:
 quelle: Vereinbarung der Mitgliedsgemeinden, Rechtsgrundlage § 60 GemO i.V.m. § 6 GKZ, zuletzt geändert am 15.05.2024
 gueltig_ab: 2024-07-01
 status: published

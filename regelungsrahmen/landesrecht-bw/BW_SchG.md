@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz neugefasst am 01.08.1983 (GBl. 1983, 397,  <br>K.u.U. 1983K.u.U. 1983, 584), zuletzt geändert durch Artikel 1 des Gesetzes vom 16. Dezember 2025 (GBl. 2025 Nr. 148)"
 gueltig_ab: 2025-12-16
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-SchulGBW1983rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-SchulGBW1983rahmen"
+url_nachfolger:
 stand: "2025-12-16"
 status: published
 endpoints:

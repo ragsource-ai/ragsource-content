@@ -1,10 +1,11 @@
 ---
-titel: Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes (SGB 7)
+titel: Sozialgesetzbuch Siebtes Buch – Gesetzliche Unfallversicherung (SGB VII)
 ebene: bund
 saule: regelungsrahmen
 quelle: "Gesetz vom 1996-08-07 (BGBl I 1996, 1254), zuletzt geändert durch Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33"
 gueltig_ab: 2026-02-04
 url: "https://www.gesetze-im-internet.de/sgb_7/"
+url_nachfolger:
 beschreibung: "Das SGB VII regelt die gesetzliche Unfallversicherung, insbesondere Versicherungsschutz bei Arbeitsunfällen und Berufskrankheiten, Präventionspflichten der Unfallversicherungsträger, Leistungen zur medizinischen Rehabilitation und Entschädigung sowie die Organisation der Berufsgenossenschaften."
 stand: "2026-02-04"
 status: published

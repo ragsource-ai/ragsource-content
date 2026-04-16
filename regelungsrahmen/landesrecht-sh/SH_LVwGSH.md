@@ -1,5 +1,5 @@
 ---
-titel: "Allgemeines Verwaltungsgesetz Schleswig-Holstein — Polizeirecht (LVwG SH)"
+titel: Allgemeines Verwaltungsgesetz für das Land Schleswig-Holstein (LVwG SH)
 ebene: land
 saule: regelungsrahmen
 rechtsnatur: gesetz
@@ -7,6 +7,8 @@ land_ars: "01"
 land: Schleswig-Holstein
 gueltig_ab: 2025-06-10
 url: "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-VwGSHrahmen"
+perma_url: "https://www.gesetze-rechtsprechung.sh.juris.de/perma?a=VwG_SH"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

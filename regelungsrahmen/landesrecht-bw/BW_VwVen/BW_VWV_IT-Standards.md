@@ -9,6 +9,7 @@ quelle: "GABl. 2025, S. 9"
 gueltig_ab: 2025-01-01
 gueltig_bis: 2031-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000043017"
+url_nachfolger:
 stand: "2026-03-27"
 status: published
 endpoints:

@@ -1,10 +1,11 @@
 ---
-titel: Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes (SGB 4)
+titel: Sozialgesetzbuch Viertes Buch – Gemeinsame Vorschriften für die Sozialversicherung (SGB IV)
 ebene: bund
 saule: regelungsrahmen
 quelle: "Gesetz vom 1976-12-23 (BGBl I 1976, 3845), zuletzt geändert durch Art. 9 G v. 16.1.2026 I Nr. 14"
 gueltig_ab: 2026-01-16
 url: "https://www.gesetze-im-internet.de/sgb_4/"
+url_nachfolger:
 beschreibung: "Das SGB IV enthält die gemeinsamen Vorschriften für alle Zweige der Sozialversicherung, u. a. Begriffsbestimmungen zu Beschäftigung und Arbeitsentgelt, Regelungen zu Wertguthaben und geringfügiger Beschäftigung sowie das Meldeverfahren für Beschäftigte."
 stand: "2026-01-16"
 status: published

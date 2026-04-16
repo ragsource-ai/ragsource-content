@@ -9,6 +9,7 @@ quelle: "GABl. 2020, 546"
 gueltig_ab: 2025-01-01
 gueltig_bis: 2029-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000042943"
+url_nachfolger:
 beschreibung: "Schulräume für Pflegeschulen"
 stand: "2026-03-27"
 status: published

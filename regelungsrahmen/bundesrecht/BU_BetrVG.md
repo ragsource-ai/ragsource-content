@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1972-01-15 (BGBl I 1972, 13), zuletzt geändert durch Art. 1 G v. 19.7.2024 I Nr. 248"
 gueltig_ab: 2024-07-19
 url: "https://www.gesetze-im-internet.de/betrvg/"
+url_nachfolger:
 stand: "2024-07-19"
 status: published
 endpoints:

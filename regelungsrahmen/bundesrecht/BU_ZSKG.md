@@ -1,10 +1,11 @@
 ---
-titel: "Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes"
+titel: Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes (ZSKG)
 ebene: bund
 saule: regelungsrahmen
 rechtsnatur: gesetz
 gueltig_ab: 2020-06-19
 url: "https://www.gesetze-im-internet.de/zsg/"
+url_nachfolger:
 quelle: "BGBl I , 1997, 726"
 endpoints:
   - amtsschimmel

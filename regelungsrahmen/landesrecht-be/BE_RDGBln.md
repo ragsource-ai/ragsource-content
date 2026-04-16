@@ -7,6 +7,8 @@ land_ars: "11"
 land: Berlin
 gueltig_ab: 2025-04-03
 url: "https://gesetze.berlin.de/bsbe/document/jlr-RettDGBErahmen"
+perma_url: "https://gesetze.berlin.de/perma?a=RettDG_BE"
+url_nachfolger:
 quelle: "GVBl. 1993, 313"
 endpoints:
   - amtsschimmel

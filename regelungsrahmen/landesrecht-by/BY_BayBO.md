@@ -5,8 +5,9 @@ saule: regelungsrahmen
 rechtsnatur: gesetz
 land_ars: "09"
 land: Bayern
-gueltig_ab: 2026-03-26
+gueltig_ab: 2026-04-01
 url: "https://www.gesetze-bayern.de/Content/Document/BayBO/True"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 11.11.1953 (GBl. 1953, 173), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. April 2022 (GBl. S. 237)"
 gueltig_ab: 2022-04-26
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-VerfBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-VerfBWrahmen"
+url_nachfolger:
 stand: "2022-04-26"
 status: published
 endpoints:

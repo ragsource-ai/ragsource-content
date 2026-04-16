@@ -9,6 +9,7 @@ quelle: "GABl. 2024, 310"
 gueltig_ab: 2024-07-01
 gueltig_bis: 2031-06-30
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000041599"
+url_nachfolger:
 beschreibung: "Verkehrssicherheitsarbeit der Polizei (Prävention, Überwachung, Unfallaufnahme)"
 stand: "2026-03-27"
 status: published

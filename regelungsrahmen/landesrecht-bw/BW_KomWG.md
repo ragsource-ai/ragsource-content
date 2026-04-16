@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz neugefasst am 01.09.1983 (GBl. 1983, 429), zuletzt geändert durch Artikel 5 des Gesetzes vom 22. Juli 2025 (GBl. 2025 Nr. 71)"
 gueltig_ab: 2025-07-22
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KomWGBW1983rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-KomWGBW1983rahmen"
+url_nachfolger:
 stand: "2025-07-22"
 status: published
 endpoints:

@@ -7,6 +7,8 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2025-12-16
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KatSchGBW2025rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-KatSchGBW2025rahmen"
+url_nachfolger:
 quelle: "GBl. 2025, Nr. 136"
 endpoints:
   - amtsschimmel

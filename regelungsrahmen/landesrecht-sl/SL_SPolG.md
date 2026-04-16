@@ -7,6 +7,7 @@ land_ars: "10"
 land: Saarland
 gueltig_ab: 2025-04-09
 url: "https://recht.saarland.de/bssl/document/jlr-PolGSLrahmen"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

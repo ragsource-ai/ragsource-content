@@ -1,10 +1,11 @@
 ---
-titel: Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen (AEntG 2009)
+titel: Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen (AEntG)
 ebene: bund
 saule: regelungsrahmen
 quelle: "Gesetz vom 2009-04-20 (BGBl I 2009, 799), zuletzt geändert durch Art. 5a G v. 3.2.2026 I Nr. 29"
 gueltig_ab: 2026-02-03
 url: "https://www.gesetze-im-internet.de/aentg_2009/"
+url_nachfolger:
 beschreibung: "Das Arbeitnehmer-Entsendegesetz (AEntG) legt zwingende Mindestarbeitsbedingungen für ins Inland entsandte und regelmäßig im Inland beschäftigte Arbeitnehmerinnen und Arbeitnehmer fest und regelt deren Durchsetzung durch die Zollverwaltung."
 stand: "2026-02-03"
 status: published

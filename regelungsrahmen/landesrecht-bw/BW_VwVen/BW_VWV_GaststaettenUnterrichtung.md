@@ -15,6 +15,7 @@ endpoints:
 extensions:
   - Wirtschaftsrecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

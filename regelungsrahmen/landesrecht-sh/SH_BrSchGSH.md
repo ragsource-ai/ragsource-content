@@ -7,6 +7,8 @@ land_ars: "01"
 land: Schleswig-Holstein
 gueltig_ab: 2024-03-20
 url: "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-BrandSchGSHV14IVZ"
+perma_url: "https://www.gesetze-rechtsprechung.sh.juris.de/perma?a=BrSchG_SH"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

@@ -7,6 +7,7 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2019-09-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000030921"
+url_nachfolger:
 stand: "2026-03-28"
 status: published
 endpoints:

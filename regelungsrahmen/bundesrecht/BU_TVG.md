@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1949-04-09 (WiGBl 1949, 55, 68), zuletzt geändert durch Art. 8 G v. 20.5.2020 I 1055"
 gueltig_ab: 2020-05-20
 url: "https://www.gesetze-im-internet.de/tvg/"
+url_nachfolger:
 stand: "2020-05-20"
 status: published
 endpoints:

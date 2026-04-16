@@ -8,6 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2025, 501"
 gueltig_ab: 2025-04-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000044164"
+url_nachfolger:
 stand: "2026-03-27"
 status: published
 endpoints:

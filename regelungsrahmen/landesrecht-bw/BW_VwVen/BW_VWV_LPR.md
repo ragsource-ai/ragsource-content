@@ -9,6 +9,7 @@ quelle: "GABl. 2024, S. 359"
 gueltig_ab: 2024-08-01
 gueltig_bis: 2029-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000041806"
+url_nachfolger:
 stand: "2026-03-29"
 status: published
 endpoints:

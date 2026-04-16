@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 2006-12-05 (BGBl I 2006, 2748), zuletzt geändert durch Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 370"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/beeg/"
+url_nachfolger:
 stand: "2025-12-22"
 status: published
 endpoints:

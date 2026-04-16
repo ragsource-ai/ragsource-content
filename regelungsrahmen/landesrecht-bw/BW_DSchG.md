@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz neugefasst am 06.12.1983 (GBl. 1983, 797), zuletzt geändert durch Artikel 6 des Gesetzes vom 7. Februar 2023 (GBl. S. 26, 42)"
 gueltig_ab: 2023-02-07
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-DSchGBW1983rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-DSchGBW1983rahmen"
+url_nachfolger:
 stand: "2023-02-07"
 status: published
 endpoints:

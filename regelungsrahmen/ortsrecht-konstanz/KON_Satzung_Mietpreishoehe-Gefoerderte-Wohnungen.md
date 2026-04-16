@@ -12,6 +12,7 @@ gemeinde: Konstanz
 gueltig_ab: 2009-01-01
 stand: 2008-12-18
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1628519828/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_13%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20H%C3%B6he%20der%20zul%C3%A4ssigen%20Miete%20f%C3%BCr%20gef%C3%B6rderte%20Wohnungen.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

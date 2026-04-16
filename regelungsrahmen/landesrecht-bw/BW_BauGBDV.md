@@ -8,6 +8,9 @@ quelle: Verordnung vom 02.03.1998, zuletzt geändert durch Artikel 157 der Veror
 gueltig_ab: 1998-03-02
 status: published
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BauGBDVBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-BauGBDVBWrahmen"
+url_nachfolger:
+stand: "2021-12-21"
 endpoints:
   - amtsschimmel
 extensions:

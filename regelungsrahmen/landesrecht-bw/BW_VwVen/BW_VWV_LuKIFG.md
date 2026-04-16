@@ -8,6 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2026, 2"
 gueltig_ab: 2026-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000045511"
+url_nachfolger:
 beschreibung: "Kommunaler Anteil Infrastrukturfinanzierung"
 stand: "2026-03-27"
 status: published

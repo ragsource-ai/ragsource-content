@@ -7,6 +7,7 @@ land_ars: "14"
 land: Sachsen
 gueltig_ab: 2024-03-19
 url: "https://www.revosax.sachsen.de/vorschrift_gesamt/1779/46815.html"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

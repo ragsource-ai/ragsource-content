@@ -9,6 +9,7 @@ quelle: "GABl. 2024, 122"
 gueltig_ab: 2024-05-01
 gueltig_bis: 2031-04-30
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000040946"
+url_nachfolger:
 stand: "2026-03-28"
 status: published
 endpoints:

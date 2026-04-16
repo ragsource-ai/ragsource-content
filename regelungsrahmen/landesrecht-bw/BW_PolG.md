@@ -7,6 +7,8 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2026-02-10
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PolGBW2021rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-PolGBW2021rahmen"
+url_nachfolger:
 quelle: "GBl. 2020, 735, ber. S. 1092"
 endpoints:
   - amtsschimmel

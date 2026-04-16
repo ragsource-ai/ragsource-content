@@ -8,6 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 1994, 835"
 gueltig_ab: 1994-12-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000000143"
+url_nachfolger:
 beschreibung: "Rechtshilfeverkehr mit dem Ausland in Strafsachen"
 stand: "2026-03-27"
 status: published

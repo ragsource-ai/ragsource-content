@@ -7,6 +7,7 @@ land_ars: "05"
 land: Nordrhein-Westfalen
 gueltig_ab: 2025-12-13
 url: "https://recht.nrw.de/lrgv/gesetz/13122025-polizeigesetz-des-landes-nordrhein-westfalen-bekanntmachung-der-neufassung/"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

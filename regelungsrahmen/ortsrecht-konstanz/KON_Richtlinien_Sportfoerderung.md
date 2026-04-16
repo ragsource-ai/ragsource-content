@@ -13,6 +13,7 @@ quelle: ""
 gueltig_ab: 2025-01-01
 stand: 2024-04-08
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1677549521/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_10%20Richtlinie%20f%C3%BCr%20die%20Sportf%C3%B6rderung%20Stand%2001.01.2025.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

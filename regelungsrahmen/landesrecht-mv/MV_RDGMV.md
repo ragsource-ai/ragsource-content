@@ -7,6 +7,7 @@ land_ars: "13"
 land: Mecklenburg-Vorpommern
 gueltig_ab: 2018-05-16
 url: "https://www.landesrecht-mv.de/bsmv/document/jlr-RettDGMV2015rahmen"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

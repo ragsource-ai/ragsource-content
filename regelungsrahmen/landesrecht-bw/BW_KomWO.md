@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 02.09.1983 (GBl. 1983, 459), zuletzt geändert durch Verordnung vom 9. Februar 2026 (GBl. 2026 Nr. 26)"
 gueltig_ab: 2026-02-09
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KomWOBW1983rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-KomWOBW1983rahmen"
+url_nachfolger:
 stand: "2026-02-09"
 status: published
 endpoints:

@@ -12,6 +12,7 @@ gemeinde: Konstanz
 gueltig_ab: 2008-11-28
 stand: 2008-11-27
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1678891888/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_19%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20den%20Verkauf%20bestimmter%20Waren%20an%20Sonn-%20und%20Feiertagen.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

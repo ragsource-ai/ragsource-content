@@ -1,5 +1,5 @@
 ---
-titel: Datenschutz-Grundverordnung (DSGVO)
+titel: "Datenschutz-Grundverordnung (DSGVO) — Verordnung (EU) 2016/679"
 ebene: eu
 saule: 1
 land_ars:
@@ -17,11 +17,11 @@ extensions:
   - Datenschutz & IT-Recht
   - Verwaltungsrecht
   - universalkurztitel: DSGVO
-rechtstyp: EU-Verordnung
-offiziell: Verordnung (EU) 2016/679
-erlassdatum: 2016-04-27
-inkrafttreten: 2018-05-25
+rechtsnatur: EU-Verordnung
+erlassen_am: 2016-04-27
+gueltig_ab: 2018-05-25
 url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679"
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

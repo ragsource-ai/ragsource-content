@@ -6,6 +6,7 @@ rechtsnatur: gesetz
 land_ars: "04"
 land: Bremen
 url: "https://www.transparenz.bremen.de/metainformationen/bremisches-polizeigesetz-brempolg-in-der-fassung-vom-6-dezember-2001-319760?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

@@ -1,5 +1,5 @@
 ---
-titel: Gesetz zur Förderung der elektronischen Verwaltung des Landes Baden-Württemberg (E-Government-Gesetz Baden-Württemberg - EGovG BW) (EGovG)
+titel: Gesetz zur Förderung der elektronischen Verwaltung des Landes Baden-Württemberg (EGovG BW)
 ebene: land
 saule: regelungsrahmen
 land_ars: "08"
@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 17.12.2015 (GBl. 2015, 1191), zuletzt geändert durch Artikel 2 des Gesetzes vom 10. Februar 2026 (GBl. 2026 Nr. 19)"
 gueltig_ab: 2026-02-10
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-EGovGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-EGovGBWrahmen"
+url_nachfolger:
 stand: "2026-02-10"
 status: published
 endpoints:

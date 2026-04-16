@@ -7,6 +7,7 @@ land_ars: "12"
 land: Brandenburg
 gueltig_ab: 2024-06-19
 url: "https://bravors.brandenburg.de/gesetze/bbgpolg"
+url_nachfolger:
 quelle: "GVBl.I/96, [Nr. 07], S.74)"
 endpoints:
   - amtsschimmel

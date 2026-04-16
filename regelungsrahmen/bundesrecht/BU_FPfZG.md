@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 2011-12-06 (BGBl I 2011, 2564), zuletzt geändert durch Art. 69 G v. 23.10.2024 I Nr. 323"
 gueltig_ab: 2024-10-23
 url: "https://www.gesetze-im-internet.de/fpfzg/"
+url_nachfolger:
 beschreibung: "Das Familienpflegezeitgesetz (FPfZG) ermöglicht Beschäftigten eine teilweise Freistellung von bis zu 24 Monaten zur Pflege naher Angehöriger und regelt die staatliche Förderung durch ein zinsloses Darlehen zur Einkommenssicherung."
 stand: "2024-10-23"
 status: published

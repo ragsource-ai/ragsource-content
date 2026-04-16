@@ -12,6 +12,7 @@ gemeinde: Konstanz
 gueltig_ab: 2025-01-01
 stand: 2024-12-12
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E488076987/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_12%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Erhebung%20von%20Kostenbeitr%C3%A4gen%20f%C3%BCr%20den%20Besuch%20der%20st%C3%A4dtischen%20Tageseinrichtungen%20f%C3%BCr%20Kinder.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

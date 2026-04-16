@@ -9,6 +9,7 @@ quelle: "GABl. 2019, 294"
 gueltig_ab: 2019-11-01
 gueltig_bis: 2026-10-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000031072"
+url_nachfolger:
 beschreibung: "Stärke/Gliederung Katastrophenschutzdienst"
 stand: "2026-03-27"
 status: published

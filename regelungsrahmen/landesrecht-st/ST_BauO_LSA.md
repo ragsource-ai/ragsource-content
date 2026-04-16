@@ -7,6 +7,7 @@ land_ars: "15"
 land: Sachsen-Anhalt
 gueltig_ab: 2026-01-14
 url: "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-BauOST2013rahmen"
+url_nachfolger:
 quelle: "GVBl. LSA 2013, 440, 441"
 endpoints:
   - amtsschimmel

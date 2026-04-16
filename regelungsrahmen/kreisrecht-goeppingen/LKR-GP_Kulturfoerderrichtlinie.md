@@ -7,6 +7,7 @@ kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-502338224/22305992/Kulturf%C3%B6rderrichtlinien.pdf
+url_nachfolger:
 quelle: Kreistagsbeschluss, gültig ab 2020
 gueltig_ab: 2020-01-01
 status: published

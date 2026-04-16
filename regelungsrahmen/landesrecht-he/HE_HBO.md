@@ -8,6 +8,7 @@ land: Hessen
 gueltig_ab: 2025-10-09
 url: "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-BauOHE2018V3IVZ"
 perma_url: "https://www.rv.hessenrecht.hessen.de/perma?j=BauO_HE_Inhaltsverzeichnis"
+url_nachfolger:
 quelle: "GVBl. 2018, 198"
 endpoints:
   - amtsschimmel

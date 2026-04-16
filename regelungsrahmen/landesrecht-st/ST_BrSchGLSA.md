@@ -7,6 +7,7 @@ land_ars: "15"
 land: Sachsen-Anhalt
 gueltig_ab: 2020-03-24
 url: "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-BrandSchGSTV8IVZ"
+url_nachfolger:
 quelle: "GVBl. LSA 2001, 190"
 endpoints:
   - amtsschimmel

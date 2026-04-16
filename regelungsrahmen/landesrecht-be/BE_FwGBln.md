@@ -7,6 +7,8 @@ land_ars: "11"
 land: Berlin
 gueltig_ab: 2025-12-11
 url: "https://gesetze.berlin.de/bsbe/document/jlr-FeuerwGBErahmen"
+perma_url: "https://gesetze.berlin.de/perma?a=FeuerwG_BE"
+url_nachfolger:
 quelle: "GVBl. 2003, 457"
 endpoints:
   - amtsschimmel

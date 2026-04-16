@@ -6,13 +6,13 @@ land_ars: 08
 land: Baden-Württemberg
 endpoints:
   - amtsschimmel
-kurztitel: LKrO
-rechtstyp: Landesgesetz
-offiziell: Landkreisordnung für Baden-Württemberg
-erlassdatum: 1987-06-19
+rechtsnatur: Landesgesetz
+erlassen_am: 1987-06-19
 quelle: Fassung vom 19.06.1987 (GBl. BW); zuletzt geändert durch Art. 14 G v. 18.11.2025 (GBl. 2025 Nr. 124)
 gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-LKreisOBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-LKreisOBWrahmen"
+url_nachfolger:
 status: published
 extensions:
   - Kommunalrecht

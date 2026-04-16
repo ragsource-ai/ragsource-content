@@ -8,6 +8,7 @@ land: Baden-Württemberg
 gueltig_ab: 2015-06-15
 gueltig_bis: 2029-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000017229"
+url_nachfolger:
 beschreibung: "Justizwachtmeisterdienst (nicht JWMG)"
 stand: "2026-03-27"
 status: published

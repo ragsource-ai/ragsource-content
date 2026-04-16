@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 22.07.2025 (GBl. 2025, Nr. 70)"
 gueltig_ab: 2025-07-30
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-ArchivGBW2025rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-ArchivGBW2025rahmen"
+url_nachfolger:
 stand: "2025-07-22"
 status: published
 endpoints:

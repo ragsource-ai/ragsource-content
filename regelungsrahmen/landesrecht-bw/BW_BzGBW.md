@@ -7,6 +7,8 @@ land_ars: "08"
 land: BW
 gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BiZGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-BiZGBWrahmen"
+url_nachfolger:
 quelle: "GBl. 2015, 161"
 endpoints:
   - amtsschimmel

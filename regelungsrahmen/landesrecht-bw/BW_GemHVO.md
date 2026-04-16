@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 11.12.2009 (GBl. 2009, 770), zuletzt geändert durch Artikel 1 der Verordnung vom 9. Februar 2026 (GBl. 2026 Nr. 27)"
 gueltig_ab: 2026-02-09
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GemHVBW2009rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-GemHVBW2009rahmen"
+url_nachfolger:
 stand: "2026-02-09"
 status: published
 endpoints:

@@ -9,6 +9,7 @@ quelle: "GABl. 2018, 70"
 gueltig_ab: 2018-01-01
 gueltig_bis: 2027-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000027217"
+url_nachfolger:
 stand: "2026-03-27"
 status: published
 endpoints:

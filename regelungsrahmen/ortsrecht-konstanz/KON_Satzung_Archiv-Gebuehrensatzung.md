@@ -13,6 +13,7 @@ quelle: ""
 gueltig_ab: 2023-04-03
 stand: 2023-03-02
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1328263509/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_09%20Archiv-%20und%20Geb%C3%BChrensatzung%20der%20Stadt%20Konstanz"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

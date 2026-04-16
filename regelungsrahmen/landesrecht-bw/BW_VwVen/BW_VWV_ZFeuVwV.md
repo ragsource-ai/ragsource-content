@@ -7,6 +7,8 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2025-01-01
 gueltig_bis: 2031-12-31
+url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000043020"
+url_nachfolger:
 quelle: "Az.: IM6-1503-12/2, vom 21. August 2024"
 stand: 2024-08-21
 status: published

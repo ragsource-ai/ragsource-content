@@ -7,6 +7,7 @@ land_ars: "09"
 land: Bayern
 gueltig_ab: 2019-03-26
 url: "https://www.gesetze-bayern.de/Content/Document/BayKatSchutzG/True"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

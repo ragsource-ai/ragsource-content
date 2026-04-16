@@ -16,6 +16,7 @@ extensions:
   - Migrationsrecht
   - Sozialrecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

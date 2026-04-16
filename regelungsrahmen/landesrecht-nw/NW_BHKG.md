@@ -7,6 +7,7 @@ land_ars: "05"
 land: Nordrhein-Westfalen
 gueltig_ab: 2021-07-01
 url: "https://recht.nrw.de/lrgv/gesetz/01072021-gesetz-ueber-den-brandschutz-die-hilfeleistung-und-den-katastrophenschutz-bhkg/"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

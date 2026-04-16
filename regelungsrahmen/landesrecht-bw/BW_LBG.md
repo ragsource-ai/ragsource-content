@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 09.11.2010 (GBl. 2010, 793, 794), zuletzt geändert durch Artikel 10, 11 und 12 des Gesetzes vom 17. Dezember 2024 (GBl. 2024 Nr. 114)"
 gueltig_ab: 2024-12-17
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BGBW2010rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-BGBW2010rahmen"
+url_nachfolger:
 stand: "2024-12-17"
 status: published
 endpoints:

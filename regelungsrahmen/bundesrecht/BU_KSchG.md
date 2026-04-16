@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1951-08-10 (BGBl I 1951, 499), zuletzt geändert durch Art. 2 G v. 14.6.2021 I 1762"
 gueltig_ab: 2021-06-14
 url: "https://www.gesetze-im-internet.de/kschg/"
+url_nachfolger:
 stand: "2021-06-14"
 status: published
 endpoints:

@@ -8,6 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2000, 2"
 gueltig_ab: 2000-01-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000000057"
+url_nachfolger:
 beschreibung: "Akademie der Polizei BW"
 stand: "2026-03-27"
 status: published

@@ -6,6 +6,9 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz vom 12.03.1974 (GBl. 1974, 93), zuletzt geändert durch Artikel 5 der Verordnung vom 23.02.2017 (GBl. S. 99, 100)
 gueltig_ab: 1974-07-01
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-VwVGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-VwVGBWrahmen"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

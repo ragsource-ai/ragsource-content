@@ -13,6 +13,7 @@ quelle: ""
 gueltig_ab: 2026-01-01
 stand: 2025-12-11
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-508610161/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_03%20Satzung%20%C3%BCber%20die%20Vermeidung%20Verwertung%20und%20Beseitigung%20von%20Abf%C3%A4llen%20%28Abfallwirtschaftssatzung%20-%20AbfWA%29%20ab%2001.01.2026.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

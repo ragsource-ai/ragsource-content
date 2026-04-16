@@ -9,6 +9,7 @@ quelle: "GABl. 2018, 190"
 gueltig_ab: 2025-04-24
 gueltig_bis: 2032-04-25
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000043632"
+url_nachfolger:
 stand: "2026-03-27"
 status: published
 endpoints:

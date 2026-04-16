@@ -9,6 +9,7 @@ quelle: "GABl. 2021, 7"
 gueltig_ab: 2021-01-01
 gueltig_bis: 2026-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000034565"
+url_nachfolger:
 stand: "2026-03-27"
 status: published
 endpoints:

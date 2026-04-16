@@ -1,10 +1,11 @@
 ---
-titel: "Gesetz über das Technische Hilfswerk"
+titel: Gesetz über das Technische Hilfswerk (THWG)
 ebene: bund
 saule: regelungsrahmen
 rechtsnatur: gesetz
 gueltig_ab: 2021-03-30
 url: "https://www.gesetze-im-internet.de/thw-helfrg/"
+url_nachfolger:
 quelle: "BGBl I , 1990, 118"
 endpoints:
   - amtsschimmel

@@ -1,10 +1,11 @@
 ---
-titel: Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)
+titel: Sozialgesetzbuch Fünftes Buch – Gesetzliche Krankenversicherung (SGB V)
 ebene: bund
 saule: regelungsrahmen
 quelle: "Gesetz vom 1988-12-20 (BGBl I 1988, 2477, 2482), zuletzt geändert durch Art. 8 G v. 3.2.2026 I Nr. 28"
 gueltig_ab: 2026-02-03
 url: "https://www.gesetze-im-internet.de/sgb_5/"
+url_nachfolger:
 beschreibung: "Das SGB V regelt die gesetzliche Krankenversicherung in Deutschland, insbesondere Versicherungspflicht und -freiheit, Leistungsansprüche der Versicherten (u. a. Krankengeld, ärztliche Behandlung), Beitragsrecht sowie die Organisation der Krankenkassen."
 stand: "2026-02-03"
 status: published

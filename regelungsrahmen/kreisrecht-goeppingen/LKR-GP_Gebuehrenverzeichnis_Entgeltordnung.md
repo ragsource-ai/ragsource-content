@@ -7,6 +7,7 @@ kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E1050745918/22305987/3_7_Gebuehrenverzeichnis_Entgeltordnung_2021.pdf
+url_nachfolger:
 quelle: Kreistagsbeschluss vom 01.01.2021
 gueltig_ab: 2021-01-01
 status: published

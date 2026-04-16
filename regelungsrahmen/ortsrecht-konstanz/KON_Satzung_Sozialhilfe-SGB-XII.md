@@ -10,6 +10,7 @@ kreis: Konstanz
 gueltig_ab: 2020-10-19
 stand: 2020-10-19
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E707455160/konstanz/Dateien/Service/Ortsrecht/V%20Sozial-%20und%20Gesundheitswesen/V_17%20Satzung%20%C3%BCber%20die%20Durchf%C3%BChrung%20der%20Sozialhilfe%20nach%20SGB%20XII%20im%20Landkreis%20Konstanz.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

@@ -7,6 +7,8 @@ land_ars: "16"
 land: Thüringen
 gueltig_ab: 2024-07-02
 url: "https://landesrecht.thueringen.de/bsth/document/jlr-RettDGTH2008V6IVZ"
+perma_url: "https://landesrecht.thueringen.de/perma?a=RettDG_TH"
+url_nachfolger:
 quelle: "GVBl. 2008, 233"
 endpoints:
   - amtsschimmel

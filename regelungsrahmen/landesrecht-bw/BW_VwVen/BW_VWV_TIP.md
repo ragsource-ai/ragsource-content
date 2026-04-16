@@ -5,6 +5,8 @@ saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift
 land_ars: "08"
 land: Baden-Württemberg
+url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000039281"
+url_nachfolger:
 quelle: "Wirtschaftsministerium Baden-Württemberg, vom 3. April 2023"
 gueltig_ab: 2023-04-04
 gueltig_bis: 2024-06-30

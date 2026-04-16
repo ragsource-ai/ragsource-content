@@ -14,6 +14,7 @@ endpoints:
 extensions:
   - Kommunalrecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

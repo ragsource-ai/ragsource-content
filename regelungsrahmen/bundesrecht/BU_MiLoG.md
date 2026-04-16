@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 2014-08-11 (BGBl I 2014, 1348), zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 369"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/milog/"
+url_nachfolger:
 beschreibung: "Das Mindestlohngesetz (MiLoG) begründet den Anspruch jeder Arbeitnehmerin und jedes Arbeitnehmers auf einen gesetzlichen Mindestlohn, regelt die Zuständigkeiten der Mindestlohnkommission sowie die Kontrolle und Durchsetzung durch die Zollverwaltung."
 stand: "2025-12-22"
 status: published

@@ -7,6 +7,7 @@ land_ars: "10"
 land: Saarland
 gueltig_ab: 2023-12-12
 url: "https://recht.saarland.de/bssl/document/jlr-BrandTHKatSchGSLrahmen"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

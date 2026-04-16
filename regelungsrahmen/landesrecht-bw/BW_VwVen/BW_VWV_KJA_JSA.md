@@ -16,6 +16,7 @@ extensions:
   - Bildungs- & Jugendrecht
   - Sozialrecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

@@ -7,6 +7,7 @@ land_ars: "07"
 land: Rheinland-Pfalz
 gueltig_ab: 2025-06-17
 url: "https://www.landesrecht.rlp.de/bsrp/document/jlr-RettDGRPrahmen"
+url_nachfolger:
 quelle: "GVBl. 1991, 217"
 endpoints:
   - amtsschimmel

@@ -7,6 +7,7 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 1978-08-07
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000035054"
+url_nachfolger:
 beschreibung: "Zuständigkeiten Landesamt für Besoldung und Versorgung"
 stand: "2026-03-27"
 status: published

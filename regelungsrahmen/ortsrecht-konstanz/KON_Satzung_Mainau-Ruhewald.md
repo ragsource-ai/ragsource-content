@@ -13,6 +13,7 @@ quelle: ""
 gueltig_ab: 2019-12-05
 stand: 2019-11-25
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E202795192/konstanz/Dateien/Service/Ortsrecht/VII%20%C3%96ffentliche%20Einrichtungen/VII_17.1%20Satzung%20der%20Stadt%20Konstanz%20f%C3%BCr%20den%20Mainau%20Ruhewald.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

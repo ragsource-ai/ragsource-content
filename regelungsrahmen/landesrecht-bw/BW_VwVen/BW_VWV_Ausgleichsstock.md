@@ -5,6 +5,8 @@ saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift
 land_ars: "08"
 land: Baden-Württemberg
+url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000043023"
+url_nachfolger:
 quelle: "GABl. vom 27. November 2024, S. 767"
 gueltig_ab: 2025-01-01
 gueltig_bis: 2031-12-30

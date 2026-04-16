@@ -9,6 +9,7 @@ quelle: "GABl. 2023, 26"
 gueltig_ab: 2023-02-23
 gueltig_bis: 2029-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000039093"
+url_nachfolger:
 stand: "2026-03-29"
 status: published
 endpoints:

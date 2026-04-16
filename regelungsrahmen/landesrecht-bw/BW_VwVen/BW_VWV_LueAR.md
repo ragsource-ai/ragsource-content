@@ -14,6 +14,7 @@ endpoints:
 extensions:
   - Baurecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

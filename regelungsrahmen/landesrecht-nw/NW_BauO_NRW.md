@@ -7,6 +7,7 @@ land_ars: "05"
 land: Nordrhein-Westfalen
 gueltig_ab: 2024-01-01
 url: "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

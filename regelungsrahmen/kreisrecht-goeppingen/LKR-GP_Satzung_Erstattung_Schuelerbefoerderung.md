@@ -7,6 +7,7 @@ kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E-183010118/22305991/3_9_Satzung_Schuelerbefoerdungskosten_01_01_2026_ax.pdf
+url_nachfolger:
 quelle: Kreistagsbeschluss vom 10.10.2025
 gueltig_ab: 2026-01-01
 status: published

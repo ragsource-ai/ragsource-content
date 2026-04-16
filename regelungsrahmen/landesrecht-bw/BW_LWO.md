@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: Gesetz neugefasst am 02.06.2005 (GBl. 2005, 513), zuletzt geändert durch Verordnung vom 29. Juli 2025 (GBl. 2025 Nr. 76)
 gueltig_ab: 2025-08-06
 url: https://www.landesrecht-bw.de/bsbw/document/jlr-WahlOBW2005rahmen
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-WahlOBW2005rahmen"
+url_nachfolger:
 stand: 2025-07-29
 status: published
 endpoints:

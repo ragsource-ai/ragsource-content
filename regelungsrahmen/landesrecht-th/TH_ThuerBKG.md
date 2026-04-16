@@ -7,6 +7,8 @@ land_ars: "16"
 land: Thüringen
 gueltig_ab: 2024-07-02
 url: "https://landesrecht.thueringen.de/bsth/document/jlr-Brand_KatSchGTH2025pIVZ"
+perma_url: "https://landesrecht.thueringen.de/perma?a=Brand_KatSchG_TH"
+url_nachfolger:
 quelle: "GVBl. 2024, 210"
 endpoints:
   - amtsschimmel

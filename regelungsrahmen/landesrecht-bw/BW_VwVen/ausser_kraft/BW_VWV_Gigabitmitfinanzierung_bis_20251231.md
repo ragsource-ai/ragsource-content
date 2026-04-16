@@ -5,11 +5,13 @@ saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift
 land_ars: "08"
 land: Baden-Württemberg
+url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000042510"
+url_nachfolger:
 quelle: "Az.: IM7-1611-35/13/58"
 gueltig_ab: 2023-07-28
 gueltig_bis: 2025-12-31
 stand: "2026-03-29"
-status: published
+status: ausser_kraft
 endpoints:
   - amtsschimmel
 extensions:

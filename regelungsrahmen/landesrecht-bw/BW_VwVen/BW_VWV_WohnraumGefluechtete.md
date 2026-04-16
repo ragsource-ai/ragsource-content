@@ -5,6 +5,8 @@ saule: regelungsrahmen
 rechtsnatur: verwaltungsvorschrift
 land_ars: "08"
 land: Baden-Württemberg
+url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000037738"
+url_nachfolger:
 quelle: "Az.: MLW25-27-193/4"
 gueltig_ab: 2022-09-15
 stand: "2026-03-29"

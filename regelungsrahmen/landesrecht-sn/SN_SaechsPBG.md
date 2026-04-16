@@ -7,6 +7,7 @@ land_ars: "14"
 land: Sachsen
 gueltig_ab: 2024-09-01
 url: "https://www.revosax.sachsen.de/vorschrift/18194-Saechsisches-Polizeibehoerdengesetz"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

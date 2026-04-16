@@ -7,6 +7,8 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2024-08-02
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-RettDGBW2024rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-RettDGBW2024rahmen"
+url_nachfolger:
 quelle: "GBl. 2024, Nr. 66"
 endpoints:
   - amtsschimmel

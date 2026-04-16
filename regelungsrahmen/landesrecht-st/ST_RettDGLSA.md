@@ -7,6 +7,7 @@ land_ars: "15"
 land: Sachsen-Anhalt
 gueltig_ab: 2021-12-15
 url: "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-RettDGST2013V5IVZ"
+url_nachfolger:
 quelle: "GVBl. LSA 2012, 624"
 endpoints:
   - amtsschimmel

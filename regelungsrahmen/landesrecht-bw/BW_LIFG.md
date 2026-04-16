@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 17.12.2015 (GBl. 2015, 1201), zuletzt geändert durch Artikel 4 des Gesetzes vom 10. Februar 2026 (GBl. 2026 Nr. 19)"
 gueltig_ab: 2026-02-10
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-InfFrGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-InfFrGBWrahmen"
+url_nachfolger:
 stand: "2026-02-10"
 status: published
 endpoints:

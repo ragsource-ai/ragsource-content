@@ -8,6 +8,7 @@ land: Baden-Württemberg
 quelle: "GABl. 2020, 380"
 gueltig_ab: 2020-04-01
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000032897"
+url_nachfolger:
 stand: "2026-03-27"
 status: published
 endpoints:

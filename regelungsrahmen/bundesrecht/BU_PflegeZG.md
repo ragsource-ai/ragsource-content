@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 2008-05-28 (BGBl I 2008, 874, 896), zuletzt geändert durch Art. 4 G v. 22.12.2025 I Nr. 371"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/pflegezg/"
+url_nachfolger:
 beschreibung: "Das Pflegezeitgesetz (PflegeZG) gibt Beschäftigten das Recht auf kurzzeitige Arbeitsverhinderung und vollständige oder teilweise Freistellung von der Arbeit, um pflegebedürftige nahe Angehörige in häuslicher Umgebung zu pflegen."
 stand: "2025-12-22"
 status: published

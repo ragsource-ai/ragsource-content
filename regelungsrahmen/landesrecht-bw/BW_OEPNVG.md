@@ -7,6 +7,9 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 08.06.1995 (GBl. 1995, 417), zuletzt geändert durch Gesetz vom 10. Februar 2026 (GBl. 2026 Nr. 24)"
 gueltig_ab: 2026-02-10
 stand: "2026-02-10"
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-%C3%96PNVGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-%C3%96PNVGBWrahmen"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

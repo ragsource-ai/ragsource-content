@@ -15,6 +15,7 @@ extensions:
   - Baurecht
   - Gefahrenabwehrrecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

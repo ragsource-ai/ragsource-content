@@ -9,6 +9,7 @@ quelle: "GABl. 2024, 697"
 gueltig_ab: 2023-01-01
 gueltig_bis: 2027-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000042339"
+url_nachfolger:
 beschreibung: "Förderprogramm Agrarumwelt, Klimaschutz und Tierwohl"
 stand: "2026-03-27"
 status: published

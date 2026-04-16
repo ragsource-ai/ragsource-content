@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 11.12.2009 (GBl. 2009, 791), zuletzt geändert durch Artikel 2 der Verordnung vom 6. Dezember 2024 (GBl. 2024 Nr. 111)"
 gueltig_ab: 2024-12-06
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GemKVBW2009rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-GemKVBW2009rahmen"
+url_nachfolger:
 stand: "2024-12-06"
 status: published
 endpoints:

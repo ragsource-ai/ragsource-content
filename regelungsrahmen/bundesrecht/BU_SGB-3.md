@@ -1,10 +1,11 @@
 ---
-titel: Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes (SGB 3)
+titel: Sozialgesetzbuch Drittes Buch – Arbeitsförderung (SGB III)
 ebene: bund
 saule: regelungsrahmen
 quelle: "Gesetz vom 1997-03-24 (BGBl I 1997, 594, 595), zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 371"
 gueltig_ab: 2025-12-22
 url: "https://www.gesetze-im-internet.de/sgb_3/"
+url_nachfolger:
 beschreibung: "Das SGB III regelt die Arbeitsförderung in Deutschland, insbesondere Leistungen der Bundesagentur für Arbeit wie Berufsberatung, Arbeitsvermittlung, Förderung der Berufsausbildung und beruflichen Weiterbildung sowie Arbeitslosengeld und Kurzarbeitergeld."
 stand: "2025-12-22"
 status: published

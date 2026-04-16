@@ -7,6 +7,7 @@ land_ars: "15"
 land: Sachsen-Anhalt
 gueltig_ab: 2023-02-27
 url: "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-SOGST2013rahmen"
+url_nachfolger:
 quelle: "GVBl. LSA 2014, 182, 183, ber. S. 380"
 endpoints:
   - amtsschimmel

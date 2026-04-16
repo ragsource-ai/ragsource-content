@@ -9,6 +9,7 @@ quelle: "GABl. 2025, 722"
 gueltig_ab: 2025-10-29
 gueltig_bis: 2032-10-28
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000044701"
+url_nachfolger:
 stand: "2026-03-28"
 status: published
 endpoints:

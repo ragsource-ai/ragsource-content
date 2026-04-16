@@ -7,6 +7,8 @@ land_ars: "16"
 land: Thüringen
 gueltig_ab: 2022-07-29
 url: "https://landesrecht.thueringen.de/bsth/document/jlr-PolAufGTHV12IVZ"
+perma_url: "https://landesrecht.thueringen.de/perma?a=PolAufG_TH"
+url_nachfolger:
 quelle: "GVBl. 1992, 199"
 endpoints:
   - amtsschimmel

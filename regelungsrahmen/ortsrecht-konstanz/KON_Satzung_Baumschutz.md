@@ -12,6 +12,7 @@ gemeinde: Konstanz
 gueltig_ab: 2006-10-06
 stand: 2006-10-05
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E678102835/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_18%20Baumschutzsatzung%20der%20Stadt%20Konstanz.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

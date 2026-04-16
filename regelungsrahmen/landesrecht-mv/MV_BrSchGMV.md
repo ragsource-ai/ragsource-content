@@ -7,6 +7,7 @@ land_ars: "13"
 land: Mecklenburg-Vorpommern
 gueltig_ab: 2025-12-11
 url: "https://www.landesrecht-mv.de/bsmv/document/jlr-Brand_TechHLGMV2015V5IVZ"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

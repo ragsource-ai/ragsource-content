@@ -3,6 +3,10 @@ titel: Sozialgesetzbuch Zweites Buch (SGB II)
 ebene: bund
 saule: regelungsrahmen
 quelle: BGBl. I 2003 S. 2954, neugefasst durch Bek. v. 13.05.2011 I 850, 2094; zuletzt geändert durch Art. 8 G v. 22.12.2025 I Nr. 363
+gueltig_ab: 2005-01-01
+stand: "2025-12-22"
+url: "https://www.gesetze-im-internet.de/sgb_2/"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 2000-12-21 (BGBl I 2000, 1966), zuletzt geändert durch Art. 7 G v. 20.7.2022 I 1174"
 gueltig_ab: 2022-07-20
 url: "https://www.gesetze-im-internet.de/tzbfg/"
+url_nachfolger:
 beschreibung: "Das Gesetz über Teilzeitarbeit und befristete Arbeitsverträge (TzBfG) fördert Teilzeitarbeit, regelt die Voraussetzungen für befristete Arbeitsverträge und schützt Teilzeit- sowie befristet Beschäftigte vor Diskriminierung."
 stand: "2022-07-20"
 status: published

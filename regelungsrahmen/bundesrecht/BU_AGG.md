@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 2006-08-14 (BGBl I 2006, 1897), zuletzt geändert durch Art. 15 G v. 22.12.2023 I Nr. 414"
 gueltig_ab: 2023-12-22
 url: "https://www.gesetze-im-internet.de/agg/"
+url_nachfolger:
 stand: "2023-12-22"
 status: published
 endpoints:

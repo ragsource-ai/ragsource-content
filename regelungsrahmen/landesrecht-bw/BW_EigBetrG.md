@@ -6,6 +6,9 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz in der Fassung der Bekanntmachung vom 08.01.1992, zuletzt geändert durch Artikel 3 des Gesetzes vom 12.11.2024 (GBl. 2024 Nr. 98)
 gueltig_ab: 1992-01-08
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-EigBetrGBW1992rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-EigBetrGBW1992rahmen"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

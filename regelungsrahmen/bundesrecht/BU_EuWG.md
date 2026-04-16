@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1978-06-16 (BGBl I 1978, 709), zuletzt geändert durch Art. 1 G v. 11.1.2023 I Nr. 11"
 gueltig_ab: 2023-01-11
 url: "https://www.gesetze-im-internet.de/euwg/"
+url_nachfolger:
 extensions:
   - Kommunalrecht
   - Europarecht

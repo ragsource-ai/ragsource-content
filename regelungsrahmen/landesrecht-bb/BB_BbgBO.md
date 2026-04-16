@@ -7,6 +7,7 @@ land_ars: "12"
 land: Brandenburg
 gueltig_ab: 2023-09-28
 url: "https://bravors.brandenburg.de/gesetze/bbgbo_2016"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

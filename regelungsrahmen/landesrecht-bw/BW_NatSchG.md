@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 23.06.2015 (GBl. 2015, 585), zuletzt geändert durch Artikel 5 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
 gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-NatSchGBW2015rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-NatSchGBW2015rahmen"
+url_nachfolger:
 stand: "2025-11-18"
 status: published
 endpoints:

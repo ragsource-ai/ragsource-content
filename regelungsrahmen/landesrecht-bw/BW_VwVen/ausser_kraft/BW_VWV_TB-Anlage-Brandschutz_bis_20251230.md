@@ -7,9 +7,10 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2022-12-28
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000038158"
+url_nachfolger:
 beschreibung: "Brandschutz bei Leitungsanlagen (Anlage zur VwV TB)"
 stand: "2026-03-27"
-status: published
+status: ausser_kraft
 endpoints:
   - amtsschimmel
 extensions:

@@ -7,6 +7,8 @@ land_ars: "06"
 land: Hessen
 gueltig_ab: 2026-02-05
 url: "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-SOGHErahmen"
+perma_url: "https://www.rv.hessenrecht.hessen.de/perma?a=SOG_HE"
+url_nachfolger:
 quelle: "GVBl. I 2005, 14"
 endpoints:
   - amtsschimmel

@@ -7,6 +7,7 @@ land_ars: "02"
 land: Hamburg
 gueltig_ab: 2023-12-13
 url: "https://www.landesrecht-hamburg.de/bsha/document/jlr-RettDGHA2019rahmen"
+url_nachfolger:
 quelle: "GVBl. 2019, 367"
 endpoints:
   - amtsschimmel

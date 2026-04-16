@@ -7,6 +7,8 @@ land_ars: "06"
 land: Hessen
 gueltig_ab: 2026-02-05
 url: "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-Brand_KatSchGHE2014rahmen"
+perma_url: "https://www.rv.hessenrecht.hessen.de/perma?a=Brand_KatSchG_HE"
+url_nachfolger:
 quelle: "GVBl. 2014, 26"
 endpoints:
   - amtsschimmel

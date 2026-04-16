@@ -9,6 +9,7 @@ quelle: "GABl. 2024, 279"
 gueltig_ab: 2024-05-29
 gueltig_bis: 2031-12-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000041412"
+url_nachfolger:
 beschreibung: "Förderung Wasserwirtschaft (Abwasser, Wasserversorgung)"
 stand: "2026-03-27"
 status: published

@@ -7,6 +7,7 @@ land_ars: "04"
 land: Bremen
 gueltig_ab: 2026-03-03
 url: "https://www.transparenz.bremen.de/metainformationen/bremisches-hilfeleistungsgesetz-bremhilfeg-vom-1-april-2025-270208?asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

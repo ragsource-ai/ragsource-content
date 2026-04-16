@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 09.11.2010 (GBl. 2010, 793, 826), zuletzt geändert durch Artikel 1 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 122)"
 gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-BesGBW2010rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-BesGBW2010rahmen"
+url_nachfolger:
 stand: "2025-11-18"
 status: published
 endpoints:

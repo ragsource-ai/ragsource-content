@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: Gesetz vom 12.06.2018 (GBl. 2018, 173), zuletzt geändert durch Artikel 1 des Gesetzes vom 10. Februar 2026 (GBl. 2026 Nr. 19)
 gueltig_ab: 2026-02-28
 url: https://www.landesrecht-bw.de/bsbw/document/jlr-DSGBW2018rahmen
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-DSGBW2018rahmen"
+url_nachfolger:
 stand: 2026-02-10
 status: published
 endpoints:

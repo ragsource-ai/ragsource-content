@@ -12,6 +12,7 @@ gemeinde: Konstanz
 gueltig_ab: "1985-02-23"
 stand: ""
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E176861018/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_05%20Satzung%20%C3%BCber%20Werbeanlagen%20und%20Automaten%20der%20Stadt%20Konstanz.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 25.11.2014 (GBl. 2014, 550), zuletzt geändert durch Artikel 10 des Gesetzes vom 18. November 2025 (GBl. 2025 Nr. 124)"
 gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-WildTManagGBWrahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-WildTManagGBWrahmen"
+url_nachfolger:
 stand: "2025-11-18"
 status: published
 endpoints:

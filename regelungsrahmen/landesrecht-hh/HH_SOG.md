@@ -7,6 +7,7 @@ land_ars: "02"
 land: Hamburg
 gueltig_ab: 2025-01-22
 url: "https://www.landesrecht-hamburg.de/bsha/document/jlr-SOGHArahmen"
+url_nachfolger:
 quelle: "GVBl. 1966, 77"
 endpoints:
   - amtsschimmel

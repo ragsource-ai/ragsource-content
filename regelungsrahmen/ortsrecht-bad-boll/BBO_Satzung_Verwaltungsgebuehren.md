@@ -16,6 +16,7 @@ status: published
 endpoints:
   - amtsschimmel
 url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/V3_-_Verwaltungsgebuehrensatzung_NEU_Stand_Juli_2025_Komplett.pdf"
+url_nachfolger:
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

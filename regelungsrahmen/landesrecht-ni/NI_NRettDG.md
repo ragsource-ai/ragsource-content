@@ -7,6 +7,7 @@ land_ars: "03"
 land: Niedersachsen
 gueltig_ab: 2024-05-15
 url: "https://voris.wolterskluwer-online.de/browse/source/csh-da-filter%21a52e918e-8a02-41f8-8b62-1c4b6a92ff6a--WKDE_LTR_0000003520%23861c36933f51312ea79ba15501b84ebb"
+url_nachfolger:
 quelle: "Nds. GVBl. S. 473 - VORIS 21062 01 00 00 000 -)"
 endpoints:
   - amtsschimmel

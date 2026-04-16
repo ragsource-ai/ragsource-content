@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1949-06-16 (WiGBl 1949, 157), zuletzt geändert durch Art. 3 V v. 19.12.2025 I Nr. 372"
 gueltig_ab: 2025-12-19
 url: "https://www.gesetze-im-internet.de/lstdv/"
+url_nachfolger:
 stand: "2025-12-19"
 status: published
 endpoints:

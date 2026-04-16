@@ -7,6 +7,7 @@ land_ars: "02"
 land: Hamburg
 gueltig_ab: 2025-11-18
 url: "https://www.landesrecht-hamburg.de/bsha/document/jlr-BauOHA2025pIVZ"
+url_nachfolger:
 quelle: "GVBl. 2025, 93"
 endpoints:
   - amtsschimmel

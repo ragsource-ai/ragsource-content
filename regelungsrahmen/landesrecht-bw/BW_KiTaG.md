@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz neugefasst am 19.03.2009 (GBl. 2009, 161,  <br>K.u.U. 2009), zuletzt geändert durch Artikel 1 und 2 des Gesetzes vom 29. Juli 2025 (GBl. 2025, Nr. 81)[3)](https://www.landesrecht-bw.de/bsbw/document/jlr-KiTaGBW2009rahmen#/search)"
 gueltig_ab: 2025-07-29
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-KiTaGBW2009rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-KiTaGBW2009rahmen"
+url_nachfolger:
 stand: "2025-07-29"
 status: published
 endpoints:

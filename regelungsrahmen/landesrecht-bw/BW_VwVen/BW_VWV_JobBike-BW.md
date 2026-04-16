@@ -9,6 +9,7 @@ quelle: "GABl. 2020, 728"
 gueltig_ab: 2020-09-14
 gueltig_bis: 2027-05-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000036056"
+url_nachfolger:
 stand: "2026-03-27"
 status: published
 endpoints:

@@ -8,6 +8,8 @@ land: Hessen
 gueltig_ab: 2022-12-09
 gueltig_bis: 2026-12-31
 url: "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-RettDGHE2010rahmen"
+perma_url: "https://www.rv.hessenrecht.hessen.de/perma?a=RettDG_HE"
+url_nachfolger:
 quelle: "GVBl. I 2010, 646"
 endpoints:
   - amtsschimmel

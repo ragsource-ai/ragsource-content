@@ -13,6 +13,7 @@ quelle: ""
 gueltig_ab: 2024-10-31
 stand: 2024-10-31
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E935659865/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_11%20Richtlinie%20zum%20Förderprogramm%20energetische%20Bestandssanierung%20Stadt%20Konstanz.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

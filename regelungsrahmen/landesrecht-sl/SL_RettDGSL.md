@@ -7,6 +7,7 @@ land_ars: "10"
 land: Saarland
 gueltig_ab: 2020-12-11
 url: "https://recht.saarland.de/bssl/document/jlr-RettDGSL2020rahmen"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

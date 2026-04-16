@@ -7,6 +7,8 @@ land_ars: "08"
 land: Baden-Württemberg
 gueltig_ab: 2022-10-01
 gueltig_bis: 2029-09-30
+url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000040104"
+url_nachfolger:
 quelle: "Az.: IM6-1537-4/1, vom 27. September 2022"
 stand: 2022-09-27
 status: published

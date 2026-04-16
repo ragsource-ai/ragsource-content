@@ -6,6 +6,9 @@ land_ars: 08
 land: Baden-Württemberg
 quelle: Gesetz vom 14.10.2008 (GBl. 2008, S. 313), zuletzt geändert durch Artikel 3 des Gesetzes vom 17.12.2024 (GBl. 2024 Nr. 114)
 gueltig_ab: 2008-10-14
+url: "https://www.landesrecht-bw.de/bsbw/document/jlr-VwGBW2008rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-VwGBW2008rahmen"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

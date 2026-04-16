@@ -5,8 +5,9 @@ saule: regelungsrahmen
 rechtsnatur: gesetz
 land_ars: "09"
 land: Bayern
-gueltig_ab: 2025-07-08
+gueltig_ab: 2025-07-16
 url: "https://www.gesetze-bayern.de/Content/Document/BayFwG/True"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

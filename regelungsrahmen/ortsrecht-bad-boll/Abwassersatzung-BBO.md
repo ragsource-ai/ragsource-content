@@ -16,6 +16,7 @@ status: published
 endpoints:
   - amtsschimmel
 url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/A1_-_Abwassersatzung.pdf"
+url_nachfolger:
 extensions:
   - Kommunalrecht
   - Umwelt- & Naturrecht

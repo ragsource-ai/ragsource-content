@@ -7,6 +7,7 @@ land_ars: "13"
 land: Mecklenburg-Vorpommern
 gueltig_ab: 2023-12-14
 url: "https://www.landesrecht-mv.de/bsmv/document/jlr-SOGMV2020pIVZ"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

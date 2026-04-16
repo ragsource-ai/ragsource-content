@@ -9,6 +9,7 @@ quelle: "GABl. 2020, 758"
 gueltig_ab: 2024-11-01
 gueltig_bis: 2031-10-31
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000042321"
+url_nachfolger:
 beschreibung: "Zustimmungsvorbehalte Ausländerrecht"
 stand: "2026-03-27"
 status: published

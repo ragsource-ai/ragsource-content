@@ -7,6 +7,8 @@ land_ars: "11"
 land: Berlin
 gueltig_ab: 2026-03-09
 url: "https://gesetze.berlin.de/bsbe/document/jlr-ASOGBE2006rahmen"
+perma_url: "https://gesetze.berlin.de/perma?a=ASOG_BE"
+url_nachfolger:
 quelle: "GVBl. 2006, 930"
 endpoints:
   - amtsschimmel

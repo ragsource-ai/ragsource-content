@@ -5,6 +5,7 @@ saule: regelungsrahmen
 quelle: "Gesetz vom 1994-06-06 (BGBl I 1994, 1170, 1171), zuletzt geändert durch Art. 52 G v. 23.10.2024 I Nr. 323"
 gueltig_ab: 2024-10-23
 url: "https://www.gesetze-im-internet.de/arbzg/"
+url_nachfolger:
 stand: "2024-10-23"
 status: published
 endpoints:

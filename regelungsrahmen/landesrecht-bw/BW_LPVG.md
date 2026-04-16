@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 12.03.2015 (GBl. 2015, 221), zuletzt geändert durch Gesetz vom 21. Dezember 2023 (GBl. S. 482)"
 gueltig_ab: 2023-12-21
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-PersVGBW2015rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-PersVGBW2015rahmen"
+url_nachfolger:
 stand: "2023-12-21"
 status: published
 endpoints:

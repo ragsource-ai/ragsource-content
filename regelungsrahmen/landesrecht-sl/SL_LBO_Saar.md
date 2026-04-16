@@ -1,5 +1,5 @@
 ---
-titel: "Landesbauordnung des Saarlandes (LBO)"
+titel: Landesbauordnung des Saarlandes (LBO Saar)
 ebene: land
 saule: regelungsrahmen
 rechtsnatur: gesetz
@@ -7,6 +7,7 @@ land_ars: "10"
 land: Saarland
 gueltig_ab: 2025-08-27
 url: "https://recht.saarland.de/bssl/document/jlr-BauOSL2004rahmen"
+url_nachfolger:
 quelle: "Fundstelle:"
 endpoints:
   - amtsschimmel

@@ -1,13 +1,15 @@
 ---
-titel: Sozialgesetzbuch (SGB) Zwölftes Buch (XII)
+titel: Sozialgesetzbuch Zwölftes Buch – Sozialhilfe (SGB XII)
 ebene: bund
 saule: regelungsrahmen
 quelle: BGBl. I 2003 S. 3022; zuletzt geändert durch Art. 9 G v. 22.12.2025 I Nr. 363
 gueltig_ab: 2025-12-22
+stand: "2025-12-22"
 endpoints:
   - amtsschimmel
 status: published
 url: "https://www.gesetze-im-internet.de/sgb_12/"
+url_nachfolger:
 extensions:
   - Sozialrecht
 ---

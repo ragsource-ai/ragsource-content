@@ -7,6 +7,8 @@ land: Baden-Württemberg
 quelle: "Gesetz vom 07.07.1997 (GBl. 1997, 332), zuletzt geändert durch Artikel 3 der Verordnung vom 12. Juni 2025 (GBl. 2025 Nr. 53)"
 gueltig_ab: 2025-06-12
 url: "https://www.landesrecht-bw.de/bsbw/document/jlr-GaVBW1997rahmen"
+perma_url: "https://www.landesrecht-bw.de/perma?d=jlr-GaVBW1997rahmen"
+url_nachfolger:
 stand: "2025-06-12"
 status: published
 endpoints:

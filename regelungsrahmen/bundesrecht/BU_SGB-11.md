@@ -1,12 +1,13 @@
 ---
-titel: Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes (SGB 11)
+titel: Sozialgesetzbuch Elftes Buch – Soziale Pflegeversicherung (SGB XI)
 ebene: bund
 saule: regelungsrahmen
-quelle: "Gesetz vom 1994-05-26 (BGBl I 1994, 1014, 1015), zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 355"
+quelle: Gesetz vom 1994-05-26 (BGBl I 1994, 1014, 1015), zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 355
 gueltig_ab: 2025-12-22
-url: "https://www.gesetze-im-internet.de/sgb_11/"
-beschreibung: "Das SGB XI regelt die soziale Pflegeversicherung in Deutschland, insbesondere Versicherungspflicht, Pflegebedürftigkeitsbegriff und Begutachtungsverfahren, Leistungsarten (häusliche, teilstationäre und vollstationäre Pflege, Pflegegeld) sowie Beitragsrecht und Organisation der Pflegekassen."
-stand: "2025-12-22"
+url: https://www.gesetze-im-internet.de/sgb_11/
+url_nachfolger:
+beschreibung: Das SGB XI regelt die soziale Pflegeversicherung in Deutschland, insbesondere Versicherungspflicht, Pflegebedürftigkeitsbegriff und Begutachtungsverfahren, Leistungsarten (häusliche, teilstationäre und vollstationäre Pflege, Pflegegeld) sowie Beitragsrecht und Organisation der Pflegekassen.
+stand: 2025-12-22
 status: published
 endpoints:
   - amtsschimmel

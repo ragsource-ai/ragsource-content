@@ -1,5 +1,5 @@
 ---
-titel: Arbeitszeitrichtlinie (RL 2003/88/EG)
+titel: "EU-Arbeitszeitrichtlinie (ArbZRL) — Richtlinie 2003/88/EG"
 ebene: eu
 saule: 1
 land_ars:
@@ -13,12 +13,11 @@ gemeinde:
 endpoints:
 extensions:
   - Arbeitsrecht
-kurztitel: ArbZRL
-rechtstyp: EU-Richtlinie
-offiziell: Richtlinie 2003/88/EG des Europäischen Parlaments und des Rates vom 4. November 2003 über bestimmte Aspekte der Arbeitszeitgestaltung
-erlassdatum: 2003-11-04
-inkrafttreten: 2004-08-02
+rechtsnatur: EU-Richtlinie
+erlassen_am: 2003-11-04
+gueltig_ab: 2004-08-02
 url: "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32003L0088"
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

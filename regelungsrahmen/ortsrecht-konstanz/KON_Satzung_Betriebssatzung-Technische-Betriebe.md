@@ -13,6 +13,7 @@ quelle: ""
 gueltig_ab: 1997-01-01
 stand: 1996-09-19
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-678404290/konstanz/Dateien/Service/Ortsrecht/VIII%20Wirtschaft%20und%20Verkehr/VIII_02%20Betriebssatzung%20f%C3%BCr%20die%20Technischen%20Betriebe%20Konstanz.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel

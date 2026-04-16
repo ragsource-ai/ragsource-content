@@ -9,6 +9,7 @@ quelle: "GABl. 2014, 1002"
 gueltig_ab: 2014-12-31
 gueltig_bis: 2027-04-02
 url: "https://www.landesrecht-bw.de/bsbw/document/VVBW-VVBW000014050"
+url_nachfolger:
 stand: "2026-03-27"
 status: published
 endpoints:

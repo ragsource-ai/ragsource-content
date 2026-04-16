@@ -5,8 +5,9 @@ saule: regelungsrahmen
 rechtsnatur: gesetz
 land_ars: "04"
 land: Bremen
-gueltig_ab: 2024-05-29
+gueltig_ab: 2024-07-01
 url: "https://www.transparenz.bremen.de/metainformationen/bremische-landesbauordnung-vom-29-mai-2024-232736?template=20_gp_ifg_meta_detail_d"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

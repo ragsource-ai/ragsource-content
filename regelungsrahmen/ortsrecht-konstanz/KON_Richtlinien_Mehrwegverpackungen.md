@@ -14,6 +14,7 @@ status: published
 endpoints:
   - amtsschimmel
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1303057877/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_11%20F%C3%B6rderrichtlinie%20Mehrwegverpackungen%20in%20der%20Konstanzer%20Gastronomie.pdf"
+url_nachfolger:
 extensions:
   - Kommunalrecht
   - Umwelt- & Naturrecht

@@ -16,6 +16,7 @@ extensions:
   - Bildungs- & Jugendrecht
   - Migrationsrecht
   - Verwaltungsrecht
+url_nachfolger:
 ---
 
 ## Inhaltsverzeichnis

@@ -3,8 +3,9 @@ titel: "FwDV 7 – Atemschutz"
 ebene: bund
 saule: 1
 gueltig_ab: "2005-03-17"
-quellenangabe: "Feuerwehr-Dienstvorschrift 7 – Atemschutz. Hrsg.: AFKzV. Stand 2002 mit Änderungen 2005."
+quelle: "Feuerwehr-Dienstvorschrift 7 – Atemschutz. Hrsg.: AFKzV. Stand 2002 mit Änderungen 2005."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_007.pdf"
+url_nachfolger:
 endpoints:
   - amtsschimmel
   - brandmeister

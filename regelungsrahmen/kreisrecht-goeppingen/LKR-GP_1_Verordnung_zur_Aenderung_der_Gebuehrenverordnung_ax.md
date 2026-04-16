@@ -7,6 +7,7 @@ kreis_ars: 08117
 land: Baden-Württemberg
 kreis: Göppingen
 url: https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E367569776/22290468/1_Verordnung_zur_Aenderung_der_Gebuehrenverordnung_ax.pdf
+url_nachfolger:
 quelle: Rechtsverordnung des Landratsamts Göppingen vom 28.04.2025
 gueltig_ab: 2025-05-01
 status: published

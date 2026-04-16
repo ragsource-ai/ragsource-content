@@ -13,6 +13,7 @@ quelle: ""
 gueltig_ab: 2017-05-23
 stand: 2017-05-23
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1513024800/konstanz/Dateien/Service/Ortsrecht/IV%20Beteiligungen%20der%20Stadt%20Konstanz%20%28%C3%BCber%2050%20Prozent%29/IV_08%20Marketing%20und%20Tourismus%20Konstanz%20GmbH.pdf"
+url_nachfolger:
 status: published
 endpoints:
   - amtsschimmel
