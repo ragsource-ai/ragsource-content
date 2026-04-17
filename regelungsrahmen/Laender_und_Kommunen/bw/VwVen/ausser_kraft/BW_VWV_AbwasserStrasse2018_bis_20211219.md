@@ -18,6 +18,7 @@ extensions:
   - Umwelt- & Naturrecht
   - Verkehrsrecht
   - Verwaltungsrecht
+  - historisch
 ---
 
 ## Inhaltsverzeichnis

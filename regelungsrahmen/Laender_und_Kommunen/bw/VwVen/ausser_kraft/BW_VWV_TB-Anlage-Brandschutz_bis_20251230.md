@@ -17,6 +17,7 @@ extensions:
   - Baurecht
   - Gefahrenabwehrrecht
   - Verwaltungsrecht
+  - historisch
 ---
 
 ## Inhaltsverzeichnis

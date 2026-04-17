@@ -18,6 +18,7 @@ endpoints:
 extensions:
   - Kommunalrecht
   - Wirtschaftsrecht
+  - historisch
 verband: "Zweckverband Gewerbepark Wängen"
 gueltig_bis: 2017-11-16
 ---

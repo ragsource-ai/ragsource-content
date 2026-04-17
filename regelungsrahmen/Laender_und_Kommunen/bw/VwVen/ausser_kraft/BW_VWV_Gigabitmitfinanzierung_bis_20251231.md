@@ -18,6 +18,7 @@ extensions:
   - Wirtschaftsrecht
   - Datenschutz & IT-Recht
   - Verwaltungsrecht
+  - historisch
 ---
 
 ## Inhaltsverzeichnis

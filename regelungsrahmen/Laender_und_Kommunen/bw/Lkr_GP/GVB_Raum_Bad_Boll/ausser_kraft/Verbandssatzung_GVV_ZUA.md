@@ -18,6 +18,7 @@ endpoints:
   - amtsschimmel
 extensions:
   - Kommunalrecht
+  - historisch
 verband_ars: "081175009"
 verband: "GVV Raum Bad Boll"
 gueltig_bis: 2024-06-30

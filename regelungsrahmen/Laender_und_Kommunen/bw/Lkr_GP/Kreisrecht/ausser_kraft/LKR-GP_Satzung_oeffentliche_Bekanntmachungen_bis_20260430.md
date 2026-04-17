@@ -16,6 +16,7 @@ endpoints:
 extensions:
   - Kommunalrecht
   - Verwaltungsrecht
+  - historisch
 ---
 
 ## Inhaltsverzeichnis

@@ -16,6 +16,7 @@ endpoints:
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht
+  - historisch
 ---
 
 ## Inhaltsverzeichnis
