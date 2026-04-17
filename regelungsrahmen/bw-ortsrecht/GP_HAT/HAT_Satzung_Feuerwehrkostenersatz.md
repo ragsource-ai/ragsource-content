@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2024-06-19
 gueltig_ab: 2024-07-01
 quelle: "Satzungsbeschluss vom 19. Juni 2024, ausgefertigt 19. Juni 2024"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/FW-Kostenersatz-Satzung_2024.pdf"
 status: published
 endpoints:
   - amtsschimmel

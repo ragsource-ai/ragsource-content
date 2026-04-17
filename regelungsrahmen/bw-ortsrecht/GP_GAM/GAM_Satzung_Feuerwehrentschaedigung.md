@@ -12,6 +12,7 @@ gemeinde: "Gammelshausen"
 erlassen_am: 2023-06-27
 gueltig_ab: 2023-06-27
 quelle: "Gemeinde Gammelshausen, Stand: 27. Juni 2023"
+url: "https://gammelshausen.net/wp-content/uploads/Feuerwehrentschaedigungssatzung_Gammelshausen.pdf"
 status: published
 endpoints:
   - amtsschimmel

@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2022-01-26
 gueltig_ab: 2022-03-01
 quelle: "Gemeinderatsbeschluss vom 26. Januar 2022"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/Verordnung%20der%20Gemeinde%20Hattenhofen%20zum%20Schutz%20freilebender%20Katzen.pdf"
 status: published
 endpoints:
   - amtsschimmel

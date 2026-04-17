@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2019-12-18
 gueltig_ab: 2020-01-01
 quelle: "Fassung vom 19.03.2024"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1943392047/24574443/Anpassung%20der%20Verordnung%20ab%201903_02.pdf"
 stand: 2024-03-19
 status: published
 endpoints:

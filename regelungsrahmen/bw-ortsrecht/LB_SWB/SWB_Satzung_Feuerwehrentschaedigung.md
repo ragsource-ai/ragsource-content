@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2018-11-24
 gueltig_ab: 2019-01-01
 quelle: "Gemeinde Schwieberdingen"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-572271211/24574377/Satzung%20%C3%BCber%20die%20Entsch%C3%A4digung%20der%20ehrenamtlich%20t%C3%A4tigen%20Angeh%C3%B6rigen%20der%20Gemeindefeuerwehr%20Schwieberdingen%20nach%20%282%29.pdf"
 status: published
 endpoints:
   - amtsschimmel

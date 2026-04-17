@@ -12,6 +12,7 @@ gemeinde: "Gammelshausen"
 erlassen_am: 2017-05-23
 gueltig_ab: 2026-01-01
 quelle: "Gemeinderatsbeschluss vom 23.05.2017; Änderungssatzung vom 22.07.2025"
+url: "https://gammelshausen.net/wp-content/uploads/2021/02/Friedhofssatzung_Gammelshausen.pdf"
 stand: 2025-07-22
 status: published
 endpoints:

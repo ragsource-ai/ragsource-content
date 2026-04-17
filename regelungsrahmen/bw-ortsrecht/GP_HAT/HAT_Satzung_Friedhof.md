@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2023-10-18
 gueltig_ab: 2026-01-01
 quelle: "Friedhofssatzung vom 18.10.2023, geändert durch Satzung vom 25.06.2025"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/Friedhofsatzung_%28Friedhofsordnung_mit_Bestattungsgebuhrensatzung%29.pdf"
 stand: 2025-06-25
 status: published
 endpoints:

@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2024-10-16
 gueltig_ab: 2024-11-01
 quelle: "Gemeinde Hattenhofen, Beschluss vom 16.10.2024"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/06_Satzung_Gemeinde_Hattenhofen_Obdachlosen-_und_Fluechtlingsunterkuenfte_Stand_2024.pdf"
 beschreibung: "Regelt die Benutzung der gemeindlichen Obdachlosen- und Flüchtlingsunterkünfte sowie die Erhebung von Benutzungsgebühren."
 status: published
 endpoints:

@@ -13,6 +13,7 @@ erlassen_am: 2024-12-12
 gueltig_ab: 2025-01-01
 beschreibung: Festsetzung der monatlichen Elternbeiträge für die Kindertageseinrichtungen der Gemeinde Zell u.A. gem. § 4 Abs. 2 der Kita-Satzung, gültig ab 01.01.2025.
 status: published
+url: "https://zellua.de/fileadmin/media/downloads/Einrichtungen/Kita-Elternbeitraege_ab_01.01.2025.PDF"
 endpoints:
   - amtsschimmel
 extensions:

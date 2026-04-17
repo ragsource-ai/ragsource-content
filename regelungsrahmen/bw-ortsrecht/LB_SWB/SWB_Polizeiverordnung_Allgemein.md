@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2012-02-17
 gueltig_ab: 2012-03-01
 quelle: "Beschluss des Gemeinderats Schwieberdingen vom 17.02.2012"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E120830486/24574387/Polizeiverordnung%20der%20Gemeinde%20S.pdf"
 status: published
 endpoints:
   - amtsschimmel

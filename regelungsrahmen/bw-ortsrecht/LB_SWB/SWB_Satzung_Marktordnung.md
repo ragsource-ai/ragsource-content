@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2017-10-18
 gueltig_ab: 2017-10-18
 quelle: "Satzung vom 18.10.2017, zuletzt geändert am 17.09.2025"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1994207833/24574454/Barrierefreie_Satzung%20Marktordnung_17.09.2025_01_2.pdf"
 stand: 2025-09-17
 status: published
 endpoints:

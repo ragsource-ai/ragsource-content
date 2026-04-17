@@ -13,6 +13,7 @@ erlassen_am: 1994-10-19
 gueltig_ab: 1994-10-19
 stand: 2021-07-21
 quelle: "# TODO"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E52370134/24574417/Betriebssatzung%20f%C3%BCr%20den%20Eigenbetrieb%20Wasserwerk%20Schwieberdingen.pdf"
 status: published
 endpoints:
   - amtsschimmel

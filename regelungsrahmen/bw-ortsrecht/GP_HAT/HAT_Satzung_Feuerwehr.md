@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2012-05-09
 gueltig_ab: 2012-05-09
 quelle: "Satzungsbeschluss vom 9. Mai 2012, ausgefertigt 18. Mai 2012"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/12_feuerwehrsatzung_20120512.pdf"
 status: published
 endpoints:
   - amtsschimmel

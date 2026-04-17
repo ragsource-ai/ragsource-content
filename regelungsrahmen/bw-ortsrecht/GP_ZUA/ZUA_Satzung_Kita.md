@@ -13,6 +13,7 @@ erlassen_am: 2023-06-22
 gueltig_ab: 2023-07-01
 beschreibung: Satzung über die Benutzung der Kindertageseinrichtungen und die Erhebung von Gebühren in Zell unter Aichelberg, geregelt werden Aufnahme, Elternbeiträge, Aufsicht, Kündigung und Datenschutz.
 status: published
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Kita-Satzung__gueltig_ab_01.07.2023.pdf"
 endpoints:
   - amtsschimmel
 extensions:

@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2017-11-16
 gueltig_ab: 2017-12-01
 quelle: "Gemeinde Zell u.A."
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Feuerwehr-Kostenersatz-Satzung_vom_11.04.2024.pdf"
 stand: 2024-04-11
 status: published
 endpoints:

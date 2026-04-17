@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2024-11-20
 gueltig_ab: 2025-01-01
 quelle: "Gemeinderatsbeschluss vom 20.11.2024"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E454899466/24574451/Hebesatzsatzung_20250121.pdf"
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

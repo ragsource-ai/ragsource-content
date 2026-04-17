@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2024-11-20
 gueltig_ab: 2025-01-01
 quelle: "Gemeinderatsbeschluss vom 20.11.2024"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1046369591/24574448/Anlage_1_Neufassung_der_Feuerwehr_05.pdf"
 status: published
 endpoints:
   - amtsschimmel

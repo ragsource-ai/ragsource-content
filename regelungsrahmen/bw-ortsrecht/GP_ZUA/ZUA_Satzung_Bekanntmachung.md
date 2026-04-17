@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 1982-03-04
 gueltig_ab: 1982-03-04
 quelle: "Gemeinde Zell u. A., Beschluss vom 04.03.1982"
+url: "https://zellua.de/fileadmin/media/downloads/1.3_Satzung_ueber_die_Form_der_oeffentlichen_Bekanntmachung.pdf"
 status: published
 endpoints:
   - amtsschimmel

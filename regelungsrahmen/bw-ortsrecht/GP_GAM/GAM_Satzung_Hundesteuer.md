@@ -12,6 +12,7 @@ gemeinde: "Gammelshausen"
 erlassen_am: 2025-09-16
 gueltig_ab: 2026-01-01
 quelle: "Beschluss des Gemeinderats vom 16.09.2025"
+url: "https://gammelshausen.net/wp-content/uploads/Hundesteuersatzung-2026.pdf"
 status: published
 endpoints:
   - amtsschimmel

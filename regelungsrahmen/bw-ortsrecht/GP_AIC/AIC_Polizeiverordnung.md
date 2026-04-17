@@ -17,6 +17,10 @@ stand: 2002-01-01
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Gefahrenabwehrrecht
+  - Umwelt- & Naturrecht
 ---
 
 ## Inhaltsverzeichnis

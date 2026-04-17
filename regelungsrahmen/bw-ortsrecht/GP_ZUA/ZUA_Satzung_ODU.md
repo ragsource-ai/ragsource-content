@@ -14,6 +14,7 @@ gueltig_ab: 2021-07-01
 stand: 2025-06-05
 beschreibung: Regelt die Benutzung gemeindlicher Obdachlosen- und Flüchtlingsunterkünfte sowie die Erhebung von Benutzungsgebühren und Betriebskostenpauschalen.
 status: published
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/ODU-Satzung_ab_01.07.2025.pdf"
 endpoints:
   - amtsschimmel
 extensions:

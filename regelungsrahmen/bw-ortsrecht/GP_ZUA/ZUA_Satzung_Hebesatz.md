@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2025-09-18
 gueltig_ab: 2026-01-01
 quelle: "# TODO"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Hebesatzsatzung_Zell_u._A._ab_01.01.2026.pdf"
 status: published
 endpoints:
   - amtsschimmel

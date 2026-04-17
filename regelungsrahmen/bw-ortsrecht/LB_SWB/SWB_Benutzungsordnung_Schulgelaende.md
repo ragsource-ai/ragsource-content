@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2017-07-19
 gueltig_ab: 2017-08-01
 quelle: "# TODO"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1541101807/24574375/Benutzungsordnung%20Schulgel%C3%A4nde%20%283%29.pdf"
 status: published
 endpoints:
   - amtsschimmel

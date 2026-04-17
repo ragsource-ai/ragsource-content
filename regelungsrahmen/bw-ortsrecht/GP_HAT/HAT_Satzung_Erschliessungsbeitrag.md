@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2005-11-29
 gueltig_ab: 2005-12-08
 quelle: "Satzung vom 29. November 2005, in Kraft getreten am 8. Dezember 2005"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/61_Erschliessungsbeitragssatzung.pdf"
 status: published
 endpoints:
   - amtsschimmel

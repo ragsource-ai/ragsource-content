@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2015-07-22
 gueltig_ab: 2026-01-01
 quelle: "Abwassersatzung vom 22.07.2015, geändert durch Satzung vom 22.10.2025"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/Satzung_ueber_die_oeffentliche__Abwasserbeseitigung_-__Abwassersatzung_-_AbwS__der_Gemeinde_Hattenhofen.pdf"
 stand: 2025-10-22
 status: published
 endpoints:

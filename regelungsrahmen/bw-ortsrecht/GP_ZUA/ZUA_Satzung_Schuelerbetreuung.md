@@ -13,6 +13,7 @@ erlassen_am: 2020-12-10
 gueltig_ab: 2023-09-11
 stand: 2023-07-27
 quelle: "Satzung vom 10.12.2020, geändert am 15.07.2021, 21.07.2022 und 13.07.2023"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Schuelerbetreuungssatzung__Stand_09-2023.pdf"
 status: published
 endpoints:
   - amtsschimmel

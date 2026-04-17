@@ -12,6 +12,7 @@ gemeinde: "Gammelshausen"
 erlassen_am: 2025-06-03
 gueltig_ab: 2026-01-01
 quelle: "Gemeinderatsbeschluss vom 03.06.2025"
+url: "https://gammelshausen.net/wp-content/uploads/Abwassersatzung_Gammelshausen_2026.pdf"
 stand: 2025-06-03
 status: published
 endpoints:

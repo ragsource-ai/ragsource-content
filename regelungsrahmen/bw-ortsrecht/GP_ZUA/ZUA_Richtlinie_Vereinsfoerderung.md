@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2025-10-16
 gueltig_ab: 2026-01-01
 quelle: "Richtlinie vom 16.10.2025"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Vereinsfoerderrichtlinie_ab_01.01.2026.pdf"
 beschreibung: "Regelt die finanzielle Förderung eingetragener, gemeinnütziger örtlicher Vereine sowie vergleichbarer Organisationen und Gruppierungen in Zell u.A."
 status: published
 endpoints:

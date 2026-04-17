@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2025-07-23
 gueltig_ab: 2025-07-23
 quelle: "Satzung vom 23.07.2025"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-84793973/24858466/Satzung%20B%C3%BCrgerbus_03.pdf"
 beschreibung: "Regelt die Nutzungsbedingungen und Gebühren für den gemeindlichen Kleinbus (Schwieberdinger Bus), der Vereinen, Organisationen, Verbänden und Kirchen zur Verfügung steht."
 status: published
 endpoints:

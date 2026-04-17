@@ -13,6 +13,7 @@ erlassen_am: 1990-01-16
 gueltig_ab: 1990-01-16
 stand: 2002-01-01
 quelle: "Gemeinde Gammelshausen, Satzung vom 16.01.1990, geändert durch Satzung vom 06.11.2001"
+url: "https://gammelshausen.net/wp-content/uploads/2021/02/Streupflichtsatzung_Gammelshausen.pdf"
 status: published
 endpoints:
   - amtsschimmel

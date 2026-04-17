@@ -13,6 +13,7 @@ erlassen_am: 2008-02-27
 gueltig_ab: 2008-02-27
 stand: 2024-11-20
 quelle: "Beschluss des Gemeinderats Schwieberdingen vom 27.02.2008, zuletzt geändert durch Beschluss vom 20.11.2024"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-812266882/24574446/%C3%84nderung_der_Plakatierungsrichtlinie%20-20.11.2024,%20%C3%B6ffentliche%20Bekanntgabe_01.pdf"
 beschreibung: "Regelt die Plakatierung im Gemeindegebiet für Veranstaltungen sowie für Wahlwerbung und politische Veranstaltungen."
 status: published
 endpoints:

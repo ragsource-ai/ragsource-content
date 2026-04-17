@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2025-06-25
 gueltig_ab: 2025-09-01
 quelle: "Gemeinde Hattenhofen, Beschluss vom 25. Juni 2025"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/03_Satzung_Grundschulbetreuung_ab_01.09.2025.pdf"
 status: published
 endpoints:
   - amtsschimmel

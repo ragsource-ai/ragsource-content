@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2009-04-22
 gueltig_ab: 2009-01-01
 quelle: "Satzung vom 22.04.2009, in der Fassung vom 21.10.2020"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-1874487599/24574411/Satzung%20u%CC%88ber%20die%20Ho%CC%88he%20der%20zula%CC%88ssigen%20Miete%20fu%CC%88r%20gefo%CC%88rderte%20Wohnungen%20in%20Schwieberdingen_GW_01.pdf"
 stand: 2020-10-21
 status: published
 endpoints:

@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 1977-04-28
 gueltig_ab: 1977-04-28
 quelle: "Satzungsbeschluss des Gemeinderats der Gemeinde Zell u.A. vom 28.04.1977"
+url: "https://zellua.de/fileadmin/media/downloads/Rathaus___Verwaltung/Benutzungsordnung_Gemeindehalle.pdf"
 status: published
 endpoints:
   - amtsschimmel

@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2007-03-21
 gueltig_ab: 2007-04-01
 quelle: "Beschluss des Gemeinderats Schwieberdingen vom 21.03.2007, zuletzt geändert am 20.10.2022"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1000208376/24574423/Verwaltungsgeb%C3%BChrensatzung_04.pdf"
 stand: 2022-10-20
 status: published
 endpoints:

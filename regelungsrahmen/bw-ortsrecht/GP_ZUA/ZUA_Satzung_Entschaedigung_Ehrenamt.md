@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2015-12-17
 gueltig_ab: 2023-09-11
 quelle: "Änderungssatzung vom 13.07.2023, in Kraft getreten zum 11.09.2023"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Satzung_ueber_die_Entschaedigung_fuer_ehrenamtliche_Taetigkeit__Stand_2023.pdf"
 stand: 2023-07-13
 status: published
 endpoints:

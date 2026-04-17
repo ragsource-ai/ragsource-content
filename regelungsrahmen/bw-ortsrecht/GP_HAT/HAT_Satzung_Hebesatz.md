@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2025-11-19
 gueltig_ab: 2026-01-01
 quelle: "Gemeinde Hattenhofen, Beschluss vom 19. November 2025"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/Satzung_uber_die_Erhebung_der_Grund-_und_Gewerbesteuer.pdf"
 status: published
 endpoints:
   - amtsschimmel

@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2011-11-10
 gueltig_ab: 2012-01-01
 quelle: "Mitteilungsblatt Blattle vom 17.11.2011"
+url: "https://zellua.de/fileadmin/media/downloads/3.3_Feuerwehrsatzung.pdf"
 status: published
 endpoints:
   - amtsschimmel

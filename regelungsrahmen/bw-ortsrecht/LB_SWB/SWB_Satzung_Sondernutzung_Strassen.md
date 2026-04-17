@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2002-07-17
 gueltig_ab: 2002-07-17
 quelle: "Neufassung vom 17.07.2002, zuletzt geändert durch 1. Euro-Anpassungssatzung vom 17.10.2001 (Vorgängerfassung)"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-2060763792/24574385/NEUFASSU.pdf"
 beschreibung: "Regelt Erlaubnispflicht und Gebühren für Sondernutzungen an öffentlichen Straßen der Gemeinde; enthält Gebührenverzeichnis als Anlage."
 status: published
 endpoints:

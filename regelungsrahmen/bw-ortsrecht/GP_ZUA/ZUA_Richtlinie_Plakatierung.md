@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2025-11-15
 gueltig_ab: 2025-11-26
 quelle: "Gemeinde Zell u.A., Plakatierungsrichtlinie, ausgefertigt 15.11.2025"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Plakatierungsrichtlinie.pdf"
 beschreibung: Regelt die Voraussetzungen und Bedingungen für die zeitlich befristete Plakatierung öffentlicher Veranstaltungen im Gemeindegebiet Zell u.A.
 status: published
 endpoints:

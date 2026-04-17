@@ -17,6 +17,10 @@ stand: 2010-09-27
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Baurecht
+  - Steuer- & Abgabenrecht
 ---
 
 ## Inhaltsverzeichnis

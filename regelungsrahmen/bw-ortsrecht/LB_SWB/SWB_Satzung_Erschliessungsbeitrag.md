@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2007-03-21
 gueltig_ab: 2007-04-01
 quelle: "Gemeinde Schwieberdingen"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-1806027247/24574381/Erschliessungsbeitragssatzung.pdf"
 stand: 2009-07-15
 status: published
 endpoints:

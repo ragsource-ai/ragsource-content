@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2025-06-25
 gueltig_ab: 2025-09-01
 quelle: "Gemeinderatsbeschluss vom 25. Juni 2025"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/02_Satzung_Kindergartengebuhren_Hattenhofen_09-2025_einkommensabhangig.pdf"
 status: published
 endpoints:
   - amtsschimmel

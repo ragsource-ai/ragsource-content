@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2007-04-25
 gueltig_ab: 2007-05-03
 quelle: "Satzung vom 26.04.2007, ausgefertigt am 03.05.2007"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-1622398640/24574399/Neufassung%20der%20Raeum-%20und%20Streupflicht_NM_04_GW_01.pdf"
 status: published
 endpoints:
   - amtsschimmel

@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2017-11-14
 gueltig_ab: 2018-01-01
 quelle: "Satzung vom 14. November 2017, in Kraft getreten am 1. Januar 2018"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/Entschaedigungssatzung_Ehrenamt_2018.pdf"
 status: published
 endpoints:
   - amtsschimmel

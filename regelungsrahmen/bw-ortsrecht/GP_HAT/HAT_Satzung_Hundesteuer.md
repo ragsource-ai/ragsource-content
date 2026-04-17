@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2025-04-29
 gueltig_ab: 2026-01-01
 quelle: "Gemeinderatsbeschluss vom 29. April 2025"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/Hundesteuersatzung_ab_2026.pdf"
 status: published
 endpoints:
   - amtsschimmel

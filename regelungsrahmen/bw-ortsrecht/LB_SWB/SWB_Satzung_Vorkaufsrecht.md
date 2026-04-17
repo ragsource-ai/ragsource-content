@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2023-10-09
 gueltig_ab: 2023-10-09
 quelle: "Zweckverband Laiblinger Weg"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-557530337/24574442/SATZUNG_07.pdf"
 beschreibung: "Begründet ein besonderes Vorkaufsrecht des Zweckverbandes Laiblinger Weg nach § 25 Abs. 1 Nr. 2 BauGB für Grundstücke im geplanten regionalen Gewerbeschwerpunkt auf der Gemarkung Schwieberdingen."
 status: published
 endpoints:

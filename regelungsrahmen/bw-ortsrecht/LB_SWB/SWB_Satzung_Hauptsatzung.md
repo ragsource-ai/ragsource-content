@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2007-06-20
 gueltig_ab: 2021-02-12
 quelle: "Gemeinderatsbeschluss vom 20.06.2007, zuletzt geändert am 27.09.2017"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E2101151591/24574412/Hauptsatzung%20der%20Gemeinde%20Schwie_2021_02.pdf"
 stand: 2017-09-27
 extensions:
   - Kommunalrecht

@@ -13,6 +13,7 @@ erlassen_am: 2015-07-02
 gueltig_ab: 2026-01-01
 stand: 2025-06-05
 quelle: "# TODO"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Wasserversorgungssatzung_2025.pdf"
 status: published
 endpoints:
   - amtsschimmel

@@ -12,6 +12,7 @@ gemeinde: "Gammelshausen"
 erlassen_am: # TODO
 gueltig_ab: 2026-01-01
 quelle: "Stand 01.01.2026"
+url: "https://gammelshausen.net/wp-content/uploads/Gebuehrenverzeichnis-2026.pdf"
 beschreibung: "Anlage zur Verwaltungsgebührensatzung der Gemeinde Gammelshausen mit Gebührensätzen für öffentliche Leistungen der Gemeindeverwaltung."
 status: published
 endpoints:

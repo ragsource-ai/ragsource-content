@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2015-07-02
 gueltig_ab: 2016-01-01
 quelle: "Gemeinde Zell u. A., Beschluss vom 02.07.2015"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Abwassersatzung_2025.pdf"
 stand: 2025-06-05
 status: published
 endpoints:

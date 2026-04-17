@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2009-11-25
 gueltig_ab: 2010-01-01
 quelle: "Beschluss des Gemeinderats Schwieberdingen vom 25.11.2009, zuletzt geändert am 21.10.2020"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1217904910/24574409/Satzung%20u%CC%88ber%20die%20Erhebung%20einer%20Vergnu%CC%88gungssteuer%20in%20der%20Gemeinde%20Schwieberdingen_GW_01.pdf"
 stand: 2020-10-21
 status: published
 endpoints:

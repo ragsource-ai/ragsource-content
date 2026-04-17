@@ -16,7 +16,7 @@ endpoints:
 extensions:
   - Datenschutz & IT-Recht
   - Verwaltungsrecht
-  - universalkurztitel: DSGVO
+  - universal
 rechtsnatur: EU-Verordnung
 erlassen_am: 2016-04-27
 gueltig_ab: 2018-05-25

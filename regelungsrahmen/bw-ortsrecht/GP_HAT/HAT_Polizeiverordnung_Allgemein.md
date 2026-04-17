@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 1986-05-21
 gueltig_ab: 1986-06-01
 quelle: "Bekanntmachung im Mitteilungsblatt vom 30.05.1986"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/Polizeiverordnung2018.pdf"
 stand: 2004-10-13
 status: published
 endpoints:

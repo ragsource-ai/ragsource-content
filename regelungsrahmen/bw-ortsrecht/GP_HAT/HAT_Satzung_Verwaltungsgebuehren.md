@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2025-10-22
 gueltig_ab: 2026-01-01
 quelle: "Gemeinde Hattenhofen, Beschluss vom 22.10.2025"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/Verwaltungsgebuhrensatzung_mit_Gebuhrenverzeichnis_ab_01.01.2026-1761292907.pdf"
 status: published
 endpoints:
   - amtsschimmel

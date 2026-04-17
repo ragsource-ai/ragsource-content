@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2021-05-11
 gueltig_ab: 2021-07-01
 quelle: "Satzungsbeschluss vom 11. Mai 2021, ausgefertigt 27. Mai 2021"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/Feuerwehrentschaedigungssatzung.pdf"
 status: published
 endpoints:
   - amtsschimmel

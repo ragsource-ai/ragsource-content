@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2024-10-16
 gueltig_ab: 2024-11-01
 quelle: "Beschluss des Gemeinderats Schwieberdingen vom 16.10.2024"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1301106136/24574444/Satzung_%C3%BCber_die_Benutzung_der_Obdachlosen_und_Fl%C3%BCchtlingsunterk%C3%BCnfte_02.pdf"
 status: published
 endpoints:
   - amtsschimmel

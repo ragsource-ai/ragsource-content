@@ -14,7 +14,7 @@ status: published
 endpoints:
   - amtsschimmel
 extensions:
-  - Krisenrecht
+  - Notstandsrecht
   - Bildungs- & Jugendrecht
   - Verwaltungsrecht
 ---

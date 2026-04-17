@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2017-10-04
 gueltig_ab: 2025-01-01
 quelle: "Wasserversorgungssatzung vom 04.10.2017, geändert durch Satzung vom 18.09.2024"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/Wasserversorgungssatzung_1-2018.pdf"
 stand: 2024-09-18
 status: published
 endpoints:

@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2015-04-23
 gueltig_ab: 2015-04-23
 quelle: "Beschluss des Gemeinderats der Gemeinde Zell u. A. vom 23.04.2015"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Hauptsatzung_23.04.2015.pdf"
 status: published
 endpoints:
   - amtsschimmel

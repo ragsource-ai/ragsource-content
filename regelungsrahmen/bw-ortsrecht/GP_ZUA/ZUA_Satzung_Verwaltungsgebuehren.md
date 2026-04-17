@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2026-01-29
 gueltig_ab: 2026-03-01
 quelle: "# TODO"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Verwaltungsgebuehrensatzung_Zell_u.A._gesamt_ab_01.03.2026.pdf"
 status: published
 endpoints:
   - amtsschimmel

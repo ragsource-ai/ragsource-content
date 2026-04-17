@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2017-11-16
 gueltig_ab: 2017-11-16
 quelle: "Beschluss des Gemeinderats der Gemeinde Zell u. A. vom 16.11.2017"
+url: "https://zellua.de/fileadmin/media/downloads/7.9.1_Benutzungsordnung_fuer_den_Gruengutsammelplatz.pdf"
 status: published
 endpoints:
   - amtsschimmel

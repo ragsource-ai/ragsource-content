@@ -12,6 +12,7 @@ gemeinde: "Gammelshausen"
 erlassen_am: 2013-04-09
 gueltig_ab: 2013-04-09
 quelle: "Beschluss des Gemeinderats vom 09.04.2013"
+url: "https://gammelshausen.net/wp-content/uploads/2021/02/Feuerwehrsatzung_Gammelshausen.pdf"
 status: published
 endpoints:
   - amtsschimmel

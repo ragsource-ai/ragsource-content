@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 1985-07-24
 gueltig_ab: 1985-09-01
 quelle: "Gemeinderatsbeschluss vom 24. Juli 1985"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/53_GebuehrenordnungSillerhalle.pdf"
 stand: 2002-01-01
 status: published
 endpoints:

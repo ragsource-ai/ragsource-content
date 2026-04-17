@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2023-07-13
 gueltig_ab: 2023-08-01
 quelle: "Beschluss des Gemeinderats der Gemeinde Zell u. A. vom 13.07.2023, ausgefertigt am 27.07.2023"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Geschaeftsordnung_des_Gemeinderats_Zell_u._A.-_mit_Unterschrift_BM_Flik.pdf"
 status: published
 endpoints:
   - amtsschimmel

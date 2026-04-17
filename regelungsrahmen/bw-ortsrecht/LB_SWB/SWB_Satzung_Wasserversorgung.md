@@ -13,6 +13,7 @@ erlassen_am: 2007-03-21
 gueltig_ab: 2025-01-01
 stand: 2024-11-20
 quelle: "Gemeinde Schwieberdingen, Beschluss vom 21.03.2007, zuletzt geändert am 20.11.2024"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-2046022918/24574450/Wasserversorgungssatzung_20250121_02.pdf"
 status: published
 endpoints:
   - amtsschimmel

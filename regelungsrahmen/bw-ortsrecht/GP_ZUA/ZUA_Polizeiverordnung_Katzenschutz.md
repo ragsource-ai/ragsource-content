@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2021-11-11
 gueltig_ab: 2022-01-01
 quelle: "# TODO"
+url: "https://zellua.de/fileadmin/media/downloads/Katzenschutzverordnung.pdf"
 status: published
 endpoints:
   - amtsschimmel

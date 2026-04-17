@@ -13,6 +13,7 @@ erlassen_am: "2012-02-15"
 gueltig_ab: "2025-01-01"
 stand: "2024-11-20"
 quelle: "# TODO"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1990642327/24858529/Abwassersatzung%2020250121%2003%20neu.pdf"
 status: published
 endpoints:
   - amtsschimmel

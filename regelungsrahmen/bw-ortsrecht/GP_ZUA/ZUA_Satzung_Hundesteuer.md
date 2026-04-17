@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 1996-10-17
 gueltig_ab: 1997-01-01
 quelle: "# TODO"
+url: "https://zellua.de/fileadmin/media/downloads/3.4_Satzung_ueber_die_Erhebung_der_Hundesteuer.pdf"
 stand: 2020-01-01
 status: published
 endpoints:

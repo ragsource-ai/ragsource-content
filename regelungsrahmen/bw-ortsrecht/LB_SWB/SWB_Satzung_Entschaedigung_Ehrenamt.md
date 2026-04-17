@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2023-07-19
 gueltig_ab: 2024-01-01
 quelle: "# TODO"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-743020750/24574435/Satzung%20Entschaedigung%20ehrenamtl_02.pdf"
 beschreibung: "Änderungssatzung (2023) zur Entschädigungssatzung für ehrenamtliche Tätigkeit vom 10.01.2002; ändert Durchschnittssätze (§ 1 Abs. 2) und Aufwandsentschädigungen für Gemeinderäte (§ 3 Abs. 1 und 2)."
 status: published
 endpoints:

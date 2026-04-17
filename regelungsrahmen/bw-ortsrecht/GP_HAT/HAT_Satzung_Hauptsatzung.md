@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2013-02-06
 gueltig_ab: 2013-02-15
 quelle: "Gemeinde Hattenhofen, Beschluss vom 6. Februar 2013, in Kraft getreten am 15. Februar 2013"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/0_1_HAUPTSATZUNG-TE.pdf"
 status: published
 endpoints:
   - amtsschimmel

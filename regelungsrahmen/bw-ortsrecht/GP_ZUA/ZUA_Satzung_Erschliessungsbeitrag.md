@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2024-06-13
 gueltig_ab: 2024-06-13
 quelle: "Beschluss des Gemeinderats Zell u.A. vom 13.06.2024"
+url: "https://zellua.de/fileadmin/media/downloads/Erschliessungsbeitragssatzung.pdf"
 status: published
 endpoints:
   - amtsschimmel

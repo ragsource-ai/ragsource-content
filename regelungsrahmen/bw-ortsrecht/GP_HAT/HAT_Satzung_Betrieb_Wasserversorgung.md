@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2022-12-07
 gueltig_ab: 2023-01-01
 quelle: "Gemeinderatsbeschluss vom 07.12.2022"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/Betriebssatzung_Wasserversorgung_zum_1.1.2023.pdf"
 beschreibung: "Betriebssatzung für den Eigenbetrieb Wasserversorgung Hattenhofen nach Eigenbetriebsgesetz BW."
 status: published
 endpoints:

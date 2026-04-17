@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2023-07-01
 gueltig_ab: 2023-07-01
 quelle: "Gemeinde Zell u. A., ausgefertigt 31.01.2025"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Richtlinie_zur_Foerderung_von_Balkonsolarkraftanlagen.pdf"
 beschreibung: "Förderprogramm der Gemeinde Zell u.A. für die Anschaffung und Installation von Balkonsolarkraftwerken. Einmaliger Zuschuss von bis zu 100 Euro pro Anlage."
 status: published
 endpoints:

@@ -8,6 +8,7 @@ url: "https://www.gesetze-im-internet.de/bgb/"
 url_nachfolger:
 extensions:
   - Zivilrecht
+  - Familienrecht
 stand: "2026-02-04"
 status: published
 endpoints:

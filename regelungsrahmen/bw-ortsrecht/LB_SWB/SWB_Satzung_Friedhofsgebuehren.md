@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2022-11-23
 gueltig_ab: 2023-01-01
 quelle: "Gemeinderatsbeschluss vom 23.11.2022"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-1690858992/24574429/Neufassung%20der%20Friedhofsgeb%C3%BChrensatzung%20der%20Gemeinde%20Schwieberdingen%2010.11.2022.pdf"
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2025-03-13
 gueltig_ab: 2026-01-01
 quelle: "Satzungsbeschluss des Gemeinderats der Gemeinde Zell u. A. vom 13.03.2025"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Gebuehrenordnung_Gemeindehalle_zum_01.01.2026.pdf"
 beschreibung: "Gebühren für den Übungsbetrieb und Veranstaltungen in der Sporthalle, im Gymnastikraum, Foyer, Clubraum und Küche sowie für Geräteverleih, Stornierung und Ausnahmeregelungen (Fassung 2025)."
 status: published
 endpoints:

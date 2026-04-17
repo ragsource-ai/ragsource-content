@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2010-07-08
 gueltig_ab: 2025-01-01
 quelle: "Gemeinde Zell u.A."
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Friedhofsatzung_ab_01.01.2025.pdf"
 stand: 2024-10-17
 status: published
 endpoints:

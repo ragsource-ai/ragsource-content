@@ -12,6 +12,7 @@ endpoints:
   - brandmeister
 extensions:
   - Gefahrenabwehrrecht
+  - Notstandsrecht
 stand: "2026-04-15"
 status: published
 ---

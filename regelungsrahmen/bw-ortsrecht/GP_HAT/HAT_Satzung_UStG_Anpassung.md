@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2022-11-15
 gueltig_ab: 2023-01-01
 quelle: "Gemeinderatsbeschluss vom 15. November 2022, ausgefertigt Hattenhofen, 24. November 2022"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/Informativ/Ortsrecht/S_2b_UstG-Anpassungs-Satzung.pdf"
 beschreibung: "Anpassungssatzung, die in die Feuerwehr-Kostenersatz-Satzung, Friedhofssatzung und Verwaltungsgebührensatzung jeweils einen neuen § zur Umsatzsteuer einfügt."
 status: published
 endpoints:

@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2013-09-25
 gueltig_ab: 2013-11-01
 quelle: "Beschluss des Gemeinderats Schwieberdingen vom 25.09.2013, ausgefertigt 10.10.2013"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E426382817/24574394/Satzung%20ueber%20die%20Sitzungsvergue.pdf"
 status: published
 endpoints:
   - amtsschimmel

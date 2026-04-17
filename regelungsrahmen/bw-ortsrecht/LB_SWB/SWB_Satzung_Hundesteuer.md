@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 1996-12-18
 gueltig_ab: 2022-01-01
 quelle: "Satzung vom 15.12.2021 (zuletzt geändert)"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E1911006607/24574419/Satzung%20%C3%BCber%20die%20Erhebung%20der%20Hundesteuer_01.pdf"
 stand: 2021-12-15
 status: published
 endpoints:

@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2021-03-11
 gueltig_ab: 2021-04-12
 quelle: "Mitteilungsblatt Nr. 10/2021, öffentlich bekannt gemacht, in Kraft getreten 12.04.2021"
+url: "https://zellua.de/fileadmin/media/downloads/3.1_Polizeiverordnung.pdf"
 status: published
 endpoints:
   - amtsschimmel

@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2013-10-17
 gueltig_ab: 2013-11-01
 quelle: "Satzung vom 17.10.2013"
+url: "https://zellua.de/fileadmin/media/downloads/9.1_Satzung_ueber_die_Erhebung_einer_Vergnuegungssteuer.pdf"
 status: published
 endpoints:
   - amtsschimmel

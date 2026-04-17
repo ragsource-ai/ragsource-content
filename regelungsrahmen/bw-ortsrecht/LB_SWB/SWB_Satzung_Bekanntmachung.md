@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: "2025-07-23"
 gueltig_ab: "2025-07-23"
 quelle: "# TODO"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E-1361141298/24858549/%C3%B6ffentliche%20Bekanntmachung%20%28Bekanntmachungssatzung%29%20neu.pdf"
 status: published
 endpoints:
   - amtsschimmel

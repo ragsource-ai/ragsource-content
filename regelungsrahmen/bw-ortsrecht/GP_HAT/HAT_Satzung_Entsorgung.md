@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2001-01-16
 gueltig_ab: 2001-01-01
 quelle: "Satzung vom 16. Januar 2001, rückwirkend in Kraft getreten zum 1. Januar 2001"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/75_Entsorgungssatzung.pdf"
 status: published
 endpoints:
   - amtsschimmel

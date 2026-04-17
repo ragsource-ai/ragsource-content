@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 1990-01-17
 gueltig_ab: 1990-01-17
 quelle: "Gemeinderatsbeschluss vom 17.01.1990"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/62_Streupflichtsatzung.pdf"
 stand: 2002-01-01
 status: published
 endpoints:

@@ -12,6 +12,7 @@ gemeinde: "Gammelshausen"
 erlassen_am: 2024-10-22
 gueltig_ab: 2024-11-01
 quelle: "Gemeinde Gammelshausen, Stand: 22.10.2024"
+url: "https://gammelshausen.net/wp-content/uploads/Feuerwehrkostenersatzsatzung_Gammelshausen.pdf"
 status: published
 endpoints:
   - amtsschimmel

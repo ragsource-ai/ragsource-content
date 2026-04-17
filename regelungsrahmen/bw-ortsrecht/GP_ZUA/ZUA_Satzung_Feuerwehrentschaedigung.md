@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2023-11-09
 gueltig_ab: 2024-01-01
 quelle: "Beschluss des Gemeinderats Zell u.A. vom 09.11.2023, geändert durch Änderungssatzung vom 13.02.2025"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Feuerwehr-Entschaedigungssatzung_2025.pdf"
 stand: 2025-02-13
 status: published
 endpoints:

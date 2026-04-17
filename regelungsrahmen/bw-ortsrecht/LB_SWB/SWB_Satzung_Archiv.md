@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: "2025-07-23"
 gueltig_ab: "2025-07-23"
 quelle: "# TODO"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E432903614/24858548/Archivordnung%20Gemeinde%20Schwieberdingen%20neu.pdf"
 status: published
 endpoints:
   - amtsschimmel

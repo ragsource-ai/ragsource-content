@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 2019-05-08
 gueltig_ab: 2019-05-24
 quelle: "Gemeinde Hattenhofen, Beschluss vom 08.05.2019, in Kraft getreten am 24.05.2019"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/Sillerhalle_Nutungsverordnung.pdf"
 beschreibung: "Regelt die Benutzung der Sillerhalle (Mehrzweckhalle) einschließlich Mehrzweckraum, Turngeräten und Außenanlagen sowie Ordnungs- und Haftungsregeln."
 status: published
 endpoints:

@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2020-05-05
 gueltig_ab: 2020-07-01
 quelle: "Gemeinde Schwieberdingen"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/documents_E-538190895/schwieberdingen/dictionaries/Erstreckungssatzung%20der%20Gemeinde%20Schwieberdingen.pdf"
 beschreibung: "Erstreckung der Gutachterausschussgebührensatzung und Verwaltungsgebührensatzung der Großen Kreisstadt Ditzingen auf das Gebiet der Gemeinden Hemmingen, Korntal-Münchingen, Markgröningen und Schwieberdingen."
 status: published
 endpoints:

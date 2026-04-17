@@ -12,6 +12,7 @@ gemeinde: "Hattenhofen"
 erlassen_am: 1984-09-12
 gueltig_ab: 1984-09-12
 quelle: "Satzung vom 12. September 1984"
+url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht/02_OeffentlBekantmachung.pdf"
 status: published
 endpoints:
   - amtsschimmel

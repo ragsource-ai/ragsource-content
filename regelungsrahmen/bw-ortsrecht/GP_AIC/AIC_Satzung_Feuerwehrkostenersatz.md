@@ -16,6 +16,10 @@ url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/60d7315f36d202
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Gefahrenabwehrrecht
+  - Steuer- & Abgabenrecht
 ---
 
 ## Inhaltsverzeichnis

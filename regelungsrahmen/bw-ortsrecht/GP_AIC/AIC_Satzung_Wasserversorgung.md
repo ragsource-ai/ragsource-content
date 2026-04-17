@@ -18,6 +18,10 @@ beschreibung: "Redaktionell konsolidierte Lesefassung; Änderungssatzungen von 2
 status: published
 endpoints:
   - amtsschimmel
+extensions:
+  - Kommunalrecht
+  - Steuer- & Abgabenrecht
+  - Umwelt- & Naturrecht
 ---
 
 > *Redaktionelle Lesefassung: Änderungssatzungen wurden zur besseren Lesbarkeit in den Grundtext eingearbeitet. Geänderte Absätze sind mit *(Fassung gemäß Änderungssatzung vom ...)* gekennzeichnet. Verbindlich sind ausschließlich die amtlich bekannt gemachten Fassungen.*

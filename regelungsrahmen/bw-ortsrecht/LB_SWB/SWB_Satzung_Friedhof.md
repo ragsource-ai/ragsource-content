@@ -12,6 +12,7 @@ gemeinde: "Schwieberdingen"
 erlassen_am: 2012-07-18
 gueltig_ab: 2012-08-01
 quelle: "Gemeinderatsbeschluss vom 18.07.2012"
+url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E103185920/24574428/Friedhofsatzung%20der%20Gemeinde%20Sch.pdf"
 status: published
 endpoints:
   - amtsschimmel

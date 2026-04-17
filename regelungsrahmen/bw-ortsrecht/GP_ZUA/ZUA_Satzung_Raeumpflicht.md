@@ -12,6 +12,7 @@ gemeinde: "Zell u.A."
 erlassen_am: 2022-12-08
 gueltig_ab: 2022-12-08
 quelle: "Gemeinderatsbeschluss vom 08.12.2022, ausgefertigt 15.12.2022"
+url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Raeum-_und_Streupflichtsatzung.pdf"
 status: published
 endpoints:
   - amtsschimmel
