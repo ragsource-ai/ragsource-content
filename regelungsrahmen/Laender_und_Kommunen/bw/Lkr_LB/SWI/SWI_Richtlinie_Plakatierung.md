@@ -5,7 +5,7 @@ saule: regelungsrahmen
 rechtsnatur: richtlinie
 land_ars: "08"
 kreis_ars: "08118"
-gemeinde_ars: "081185006001"
+gemeinde_ars: "081185006067"
 land: "Baden-Württemberg"
 kreis: "Ludwigsburg"
 gemeinde: "Schwieberdingen"
