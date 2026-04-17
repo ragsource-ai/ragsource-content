@@ -1,6 +1,6 @@
 ---
 titel: Satzung über ein besonderes Vorkaufsrecht nach § 25 Baugesetzbuch (BauGB) — Vorkaufsrechtssatzung des Zweckverbandes Laiblinger Weg (Gemarkung Schwieberdingen)
-ebene: gemeinde
+ebene: verband
 saule: regelungsrahmen
 rechtsnatur: satzung
 land_ars: "08"
