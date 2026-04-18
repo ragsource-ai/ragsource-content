@@ -281,7 +281,7 @@ Hierbei ist auf die Zusammenarbeit mehrerer Feuerwehren sowie weiterer zuständi
 
 In vielen Fällen müssen sich ersteintreffende Einsatzkräfte der Feuerwehr wegen fehlender oder nicht ausreichender Sonderausrüstung und Ausbildung darauf beschränken, erste Maßnahmen zur Sicherung der Einsatzstelle und zur Rettung gefährdeter Personen einzuleiten. Hierbei trägt der Einsatzleiter eine besondere Verantwortung für die Sicherheit seiner Einsatzkräfte. Er muss unverzüglich die Alarmierung weiterer ausgebildeter Einsatzkräfte mit der erforderlichen Sonderausrüstung veranlassen (siehe 1.5.3.2, GAMS-Regel).
 
-**1.5.1 Lagefeststellung**
+### 1.5.1 Lagefeststellung
 
 Bei der Erkundung des Schadenereignisses/der Schadenlage ist eine frühe Feststellung der Auswirkungen auf Menschen, Tiere und Umwelt von entscheidender Bedeutung. Es sind besonders zu erkunden:
 - Ursache und Art der Beschädigung (Was ist passiert?)
@@ -305,7 +305,7 @@ Stufe 4: Experteninformation    (z. B. ATF, TUIS, besondere Gefahrguteinheiten, 
 
 Das Verfahren zur Feststellung des ABC-Gefahrstoffes oder der Stoffgruppe kann an Einsatzstellen zeitraubend und schwierig und in einigen Fällen, insbesondere bei B-Einsätzen, zeitnah nicht möglich sein. Dies macht es erforderlich, die (Feuerwehr-)Leitstellen in die Stoffrecherche einzubeziehen. Die Übertragung von Daten soll möglichst schriftlich durch Verwendung sicherer Datendienste oder durch Buchstabieren mittels Buchstabiertafel gemäß FwDV/DV 800 und FwDV/DV 810 erfolgen.
 
-**1.5.2 Lagebeurteilung**
+### 1.5.2 Lagebeurteilung
 
 Zur Beurteilung der möglichen Gefährdung ist für AC-Gefahrstoffe die zu erwartende Einsatzdosis aus der Einsatzzeit und der Dosisleistung oder der Konzentration der Gefahrstoffe, für B-Gefahrstoffe das Infektionsrisiko abzuschätzen.
 
@@ -322,7 +322,7 @@ Grundsätzlich ist bei der Beurteilung das ALARA-Prinzip ("As Low As Reasonably 
 **Ausbreitung:**
 ABC-Gefahrstoffe können sich über die Atmosphäre, Gewässer oder durch Verschleppung ausbreiten. Es ist deshalb von besonderer Bedeutung, die meteorologischen und topographischen Verhältnisse zu berücksichtigen. Kontaminationsverschleppung durch Menschen, Tiere, Fahrzeuge und Geräte außerhalb des Gefahrenbereichs ist in die Beurteilung mit einzubeziehen.
 
-**1.5.3 Einsatzmaßnahmen**
+### 1.5.3 Einsatzmaßnahmen
 
 Die Vielzahl und Verschiedenartigkeit der denkbaren Schadenfälle lassen es nicht zu, für jeden möglichen Einzelfall Maßnahmen festzulegen. Ein wesentliches Ziel der Einsatzmaßnahmen nach der Menschenrettung muss es sein, Freisetzung und Ausbreitung mit geeigneten Mitteln zu verhindern.
 
@@ -385,7 +385,7 @@ Gefahrstoff im Freien     | Personen im Gebäude belassen      | Gefährdung au�
 Gefahrstoff im Gebäude    | Personen aus Gebäude herausführen | Gefährdung im Gebäude größer als außerhalb
 ```
 
-**1.5.3.5 Gefahren-, Absperr- und Übergangsbereich**
+### 1.5.3.5 Gefahren-, Absperr- und Übergangsbereich
 
 Bei allen ABC-Einsätzen sind um das Schadenobjekt ein Gefahrenbereich, ein Absperrbereich und ggf. ein Übergangsbereich zu bilden. Dabei sind bezüglich der möglichen Ausbreitung die meteorologischen und topographischen Verhältnisse zu berücksichtigen. Im Gefahrenbereich und im Übergangsbereich sind das Rauchen, Essen und Trinken verboten.
 
@@ -425,7 +425,7 @@ Markieren und Sichern durch die Feuerwehr.
 
 Bei der Festlegung der Grenzen sind die Windverhältnisse zu berücksichtigen. Bereiche mit Verdacht auf Kontamination sind in den Gefahrenbereich mit einzubeziehen. Ergibt die weitere Erkundung genauere Erkenntnisse über die Gefahrenlage, so sind Gefahren-, Übergangs- und Absperrbereich entsprechend anzupassen. Ist weder eine Gefährdung der Umgebung zu erkennen, noch eine Gefahr außerhalb des Schadenobjektes gegeben, kann die Grenze des Gefahrenbereichs bis auf 5 m an das Schadenobjekt herangezogen werden. Bei bestehender Explosions- oder Zerknallgefahr ist der Gefahrenbereich erheblich zu erweitern und jede Deckungsmöglichkeit zu nutzen.
 
-**1.5.3.6 Dekontamination**
+### 1.5.3.6 Dekontamination
 
 Die Dekontamination (Dekon) durch die Feuerwehr ist die Grobreinigung von Einsatzkräften einschließlich ihrer persönlichen Schutzausrüstung, von anderen Personen sowie von Fahrzeugen und Geräten. Im Allgemeinen versteht man darunter die Reduzierung der Kontamination der Oberflächen von Lebewesen, Boden, Gewässern oder Gegenständen. Bei Dekontaminationsmaßnahmen ist darauf zu achten, dass es zu keiner Kontaminationsverschleppung kommt.
 
@@ -600,7 +600,7 @@ Gegebenenfalls sind zur Dekontamination/Desinfektion Personenduschen, Zelte, War
 
 ### Teil II – Spezielle Richtlinien: A-Einsatz
 
-**2.1 Einteilung in Gefahrengruppen (A-Einsatz)**
+### 2.1 Einteilung in Gefahrengruppen (A-Einsatz)
 
 Die Gefahr durch radioaktive Stoffe (A-Gefahrstoffe) ist eher selten an Einsatzstellen der Feuerwehr anzutreffen. Der Umgang mit radioaktiven Stoffen ist gesetzlich geregelt und wird regelmäßig behördlich kontrolliert. Die Einteilung in Gefahrengruppen orientiert sich daran, ob eine Kontaminationsgefahr besteht (offene Strahlenquelle) und wie hoch die Aktivität der Strahlenquelle und damit verbundenen möglichen Gesundheitsgefahren sind.
 
@@ -635,7 +635,7 @@ Gefahrengruppe IIIA:
 **Sonderregelung der Zuordnung zu einer Gefahrengruppe:**
 In Grenzfällen kann ein Bereich mit radioaktiven Stoffen einer anderen Gefahrengruppe zugeordnet werden, als es seiner Gesamtaktivität entsprechen würde. Ein Bereich zum Umgang mit offenen radioaktiven Stoffen mit einer Gesamtaktivität über der Freigrenze, aber weniger als dem 10⁴-fachen der Freigrenze, sollte der höheren Gefahrengruppe IIA zugeordnet werden, wenn es sich um leicht flüchtige Radionuklide (z. B. Jod) oder um einen Umgang in kleinen oder schlecht gelüfteten Räumen handelt.
 
-**2.2 Einsatzplanung (A-Einsatz)**
+### 2.2 Einsatzplanung (A-Einsatz)
 
 Nach den Festlegungen gemäß Strahlenschutzrecht hat der Strahlenschutzverantwortliche dafür Sorge zu tragen, dass zur Vorbereitung der Brandbekämpfung und Gefahrenabwehr mit den nach Landesrecht zuständigen Behörden die erforderlichen Maßnahmen geplant werden. Gemäß StrlSchV ist insbesondere festzulegen, an welchen Orten die Feuerwehr im Einsatzfall gemäß Gefahrengruppe I, II oder IIIA tätig werden kann.
 
@@ -649,9 +649,9 @@ Für alle anderen Einsatzstellen der Gefahrengruppe IIIA können auch andere sac
 - sachkundige Personen der zuständigen Behörden und
 - sonstige sachkundige Personen für den Strahlenschutz
 
-**2.3 Sonderausrüstung (A-Einsatz)**
+### 2.3 Sonderausrüstung (A-Einsatz)
 
-**2.3.1 Persönliche Schutzausrüstung (A-Einsatz)**
+### 2.3.1 Persönliche Schutzausrüstung (A-Einsatz)
 
 **Atemschutz:**
 Ab Gefahrengruppe IIA sind im Gefahrenbereich grundsätzlich Isoliergeräte zu tragen. Der Einsatz von Filtergeräten ist nur dann zulässig, wenn die Einsatzgrundsätze der FwDV 7 berücksichtigt werden.
@@ -665,7 +665,7 @@ Das amtliche Personendosimeter dient zur Dokumentation der im Einsatzverlauf auf
 **Dosiswarngerät:**
 Das Dosiswarngerät warnt den Träger bei Erreichen des einsatzbezogenen Referenzwertes. Da das Dosiswarngerät auch im Einsatz mit der Hand erreichbar sein muss, ist es bei Schutzkleidung Form 1 und 2 im Brustbereich erreichbar zu tragen. Bei Verwendung von Schutzkleidung Form 3 muss das Dosiswarngerät im Inneren des Anzuges getragen werden.
 
-**2.3.2 Sonstige Sonderausrüstung (A-Einsatz)**
+### 2.3.2 Sonstige Sonderausrüstung (A-Einsatz)
 
 **Dosisleistungsmessgerät:**
 Dosisleistungsmessgeräte dienen der Messung der Gamma(γ)-Dosisleistung an einem bestimmten Ort. Mit Hilfe der Messwerte kann der vorgehende Trupp den günstigsten Aufenthaltsort (geringste Dosisleistung) bestimmen und der Einsatzleiter die maximale Aufenthaltsdauer überschlägig berechnen:
@@ -680,7 +680,7 @@ Dosisleistungswarngeräte dienen der Festlegung der Grenze des Gefahrenbereichs.
 **Kontaminationsnachweisgerät:**
 Kontaminationsnachweisgeräte sind Geräte, die bereits auf geringste Kontaminationen mit radioaktiven Stoffen ansprechen. Mit diesen Geräten werden Personal und Material auf Kontamination überprüft, bevor der Gefahrenbereich verlassen werden darf. Kontaminationsnachweisgeräte können mit verschiedenartigen Großflächendetektoren ausgestattet sein, die unterschiedlich empfindlich auf verschiedene Strahlungsarten und -energien reagieren.
 
-**2.3.3 Umfang der persönlichen Schutz-/Sonderausrüstung (A-Einsatz)**
+### 2.3.3 Umfang der persönlichen Schutz-/Sonderausrüstung (A-Einsatz)
 
 Für jede Gruppe ist die persönliche Schutzausrüstung einschließlich amtlichen Personendosimeters und Dosiswarngerät für mindestens sechs Einsatzkräfte vorzuhalten.
 
@@ -706,9 +706,9 @@ Sonstige Sonderausrüstung:
 
 Je nach Länder-/Standortregelung ist die Sonderausrüstung durch Arbeitsgeräte und Verbrauchsmaterialien zu ergänzen.
 
-**2.4 Einsatz (A-Einsatz)**
+### 2.4 Einsatz (A-Einsatz)
 
-**2.4.1 Erkundung und Beurteilung (A-Einsatz)**
+### 2.4.1 Erkundung und Beurteilung (A-Einsatz)
 
 Die Lagefeststellung an Einsatzstellen mit A-Gefahrstoffen wird maßgeblich von Art und Menge der radioaktiven Stoffe bestimmt. Insbesondere sind folgende Fragen zu klären:
 - Welche Dosisleistung liegt vor?
@@ -749,7 +749,7 @@ Hinweise:
 - Für Frauen im gebärfähigen Alter gilt gemäß § 114 (1) StrlSchG i. V. m. § 78 (4) StrlSchG eine Organdosis für die Gebärmutter von 2 mSv/Monat.
 - Innerhalb einer ABC-Einheit müssen gleiche Referenzwerte verwendet werden.
 
-**2.4.2 Einsatzmaßnahmen (A-Einsatz)**
+### 2.4.2 Einsatzmaßnahmen (A-Einsatz)
 
 Je nach Zuständigkeitsregelungen sind die wesentlichen Aufgaben der Feuerwehr im A-Einsatz:
 - Gefahrenbereiche erkunden und absperren
@@ -758,15 +758,15 @@ Je nach Zuständigkeitsregelungen sind die wesentlichen Aufgaben der Feuerwehr i
 
 Insbesondere ist zu vermeiden, dass radioaktive Stoffe durch Einsatzmaßnahmen unnötig verbreitet werden (z. B. Türen zu Kontrollbereichen schließen, sparsamer Löschmitteleinsatz, kein Entlüften verrauchter Bereiche in die Atmosphäre). Weitergehende Maßnahmen erfolgen nur auf Anweisung der zuständigen Behörde im Rahmen der Amtshilfe.
 
-**2.4.2.1 Gefahrenbereich (A-Einsatz)**
+### 2.4.2.1 Gefahrenbereich (A-Einsatz)
 
 Nach Messung ist der Gefahrenbereich so zu legen, dass die Gamma(γ)-Dosisleistung außerhalb des Gefahrenbereiches 25 μSv/h nicht überschreitet. Die Dosisleistung an der Grenze des Gefahrenbereiches ist während der Gesamtdauer des Einsatzes mit Hilfe von Dosisleistungswarngeräten laufend zu überprüfen. Da die Dosisleistungswarngeräte ausschließlich die Gamma(γ)-Dosisleistung messen, sind Bereiche, bei denen eine Kontamination oder der Verdacht auf eine Kontamination besteht, in den Gefahrenbereich mit einzubeziehen.
 
-**2.4.2.2 Grundsätze (A-Einsatz)**
+### 2.4.2.2 Grundsätze (A-Einsatz)
 
 Die Einsatzmaßnahmen sind so zu planen, dass jede unnötige Strahlenexposition oder Kontamination von Menschen und Umwelt vermieden wird. Die **4-A-Regel** ist zu beachten (Anlage 2). Soweit zeitlich möglich, ist der Einsatzablauf für die vorgehenden Einsatzkräfte aufgrund vorhandener Erkundungsergebnisse vorab detailliert zu planen. Die vorgehenden Einsatzkräfte sind in den vorgesehenen Ablauf einzuweisen.
 
-**2.4.2.3 Strahlenschutzüberwachung**
+### 2.4.2.3 Strahlenschutzüberwachung
 
 Unmittelbar nach der Ausrüstung der Trupps außerhalb des Gefahrenbereiches beginnt die Strahlenschutzüberwachung.
 
@@ -784,13 +784,13 @@ Die Personendosis ist nach dem Einsatz unverzüglich durch Auswerten der amtlich
 **Umgebungsüberwachung:**
 Bei Anwesenheit offener radioaktiver Stoffe oder Beschädigung von Umhüllungen besteht die Gefahr einer Kontaminationsausbreitung. Die Umgebungsüberwachung ist auf Veranlassung von den zuständigen Stellen durchzuführen.
 
-**2.4.2.4 Dekontamination (A-Einsatz)**
+### 2.4.2.4 Dekontamination (A-Einsatz)
 
 Eine Dekontamination von Personen wird zunächst durch Entfernen kontaminierter Kleidung erreicht. Der Dekontaminationserfolg ist durch Messung nachzuweisen. Generell ist die Dekontamination von Hautoberflächen und Geräten nach Maßgaben der zuständigen Strahlenschutzbehörde durchzuführen.
 
 Grundsätzlich gilt eine Fläche als kontaminiert, wenn die Zählrate des Kontaminationsnachweisgerätes mehr als die dreifache Nullrate aufweist. Zur Vermeidung von Kontaminationsverschleppung gilt für kontaminierte Geräte und Ausrüstung: Solange der betriebliche Kontrollbereich noch intakt ist, verbleiben die Ausrüstungs- und sonstigen Gegenstände dort, bis mit der zuständigen Strahlenschutzbehörde das weitere Vorgehen festgelegt ist.
 
-**2.4.2.5 Besondere Einsatzmaßnahmen (A-Einsatz)**
+### 2.4.2.5 Besondere Einsatzmaßnahmen (A-Einsatz)
 
 **Menschenrettung:**
 Bei Einsätzen zur Menschenrettung in den Gefahrengruppen IIA und IIIA sind die Einsatzkräfte mindestens mit Isoliergeräten, Schutzkleidung Form 1, amtlichen Personendosimetern und Dosiswarngerät auszurüsten. Bei Transportunfällen kann zur Menschenrettung auch ohne amtliche Personendosimeter und Dosiswarngerät vorgegangen werden. Mindestens sind jedoch Isoliergeräte mit Flammschutzhauben und Feuerwehrschutzkleidung gemäß EN 469 zu tragen.
@@ -803,7 +803,7 @@ Radioaktive Stoffe oder Strahlenquellen sind während des Einsatzes oder nach de
 
 Die rettungsdienstliche Versorgung hat absoluten Vorrang vor den Strahlenschutzmaßnahmen. Die Einsatzkräfte übergeben sofortdekontaminierte Betroffene an der Grenze des Gefahrenbereichs an den Rettungsdienst. Einsatzkräfte mit offenen Wunden sind zur Vermeidung einer Inkorporation sofort abzulösen. Nicht verletzte Betroffene sind bei Verdacht auf Inkorporation oder starker Strahlenexposition einem ermächtigten Arzt vorzustellen oder an ein regionales Strahlenschutzzentrum zu vermitteln.
 
-**2.4.3 Ärztliche Überwachung und Nachsorge (A-Einsatz)**
+### 2.4.3 Ärztliche Überwachung und Nachsorge (A-Einsatz)
 
 Alle Personen, die an Einsätzen in Bereichen der Gefahrengruppen IIA und IIIA teilgenommen haben, sind namentlich zu erfassen. Die Einsatzzeiten im Gefahrenbereich sind zu protokollieren.
 
@@ -815,7 +815,7 @@ Wenn die ermittelte oder abgeschätzte effektive Dosis 1 mSv überschreitet, gil
 
 ### Teil II – Spezielle Richtlinien: B-Einsatz
 
-**3.1 Einteilung in Gefahrengruppen (B-Einsatz)**
+### 3.1 Einteilung in Gefahrengruppen (B-Einsatz)
 
 Bei der Beurteilung der Gefahren durch B-Gefahrstoffe stehen Infektionsrisiken für Menschen im Vordergrund. Nach dem möglichen Ausmaß der Gefährdung werden Bereiche in Gefahrengruppen unterteilt:
 
@@ -839,7 +839,7 @@ Risikogruppen (BioStoffV):
           Vorbeugung/Behandlung normalerweise nicht möglich
 ```
 
-**3.2 Einsatzplanung (B-Einsatz)**
+### 3.2 Einsatzplanung (B-Einsatz)
 
 Nach den Festlegungen gemäß Biostoffverordnung/Gentechniksicherheitsgesetz hat der Verantwortliche für die Biologische Sicherheit dafür Sorge zu tragen, dass zur Vorbereitung der Brandbekämpfung und Gefahrenabwehr mit den nach Landesrecht zuständigen Behörden die erforderlichen Maßnahmen geplant werden.
 
@@ -853,7 +853,7 @@ Für die anderen Bereiche der Gefahrengruppe IIIB sind als sachkundige Personen 
 - Projektleiter nach Gentechnikgesetz (GenTG) oder Vertreter
 - Beauftragter für Biologische Sicherheit
 
-**3.3 Sonderausrüstung (B-Einsatz)**
+### 3.3 Sonderausrüstung (B-Einsatz)
 
 **Atemschutz:**
 - In der Gefahrengruppe IIB dürfen Atemfilter ABEK2-P3 getragen werden.
@@ -880,9 +880,9 @@ Sonstige Sonderausrüstung:
 
 Je nach Länder-/Standortregelung ist die Sonderausrüstung durch Arbeitsgeräte und Verbrauchsmaterialien zu ergänzen.
 
-**3.4 Einsatz (B-Einsatz)**
+### 3.4 Einsatz (B-Einsatz)
 
-**3.4.1 Erkundung und Beurteilung (B-Einsatz)**
+### 3.4.1 Erkundung und Beurteilung (B-Einsatz)
 
 Die Lagefeststellung an Einsatzstellen mit B-Gefahrstoffen wird maßgeblich von Art und Menge der biologischen Gefahrstoffe bestimmt. Insbesondere sind folgende Fragen zu klären:
 - Um welche Materialien/Agenzien handelt es sich?
@@ -899,7 +899,7 @@ Die Lagefeststellung an Einsatzstellen mit B-Gefahrstoffen wird maßgeblich von 
 
 Liegen keine ausreichenden Erkenntnisse vor, sind die Trupps zur Erkundung mit Schutzkleidung Form 3 auszurüsten.
 
-**3.4.2 Einsatzmaßnahmen (B-Einsatz)**
+### 3.4.2 Einsatzmaßnahmen (B-Einsatz)
 
 Neben den allgemeinen Maßnahmen bei ABC-Gefahrstoffen ist das Ziel im B-Einsatz die Verhinderung der Kontaminationsverschleppung.
 
@@ -911,11 +911,11 @@ Es ist zu vermeiden, dass B-Gefahrstoffe durch Einsatzmaßnahmen unnötig verbre
 
 Weitergehende Maßnahmen erfolgen nur auf Anweisung der zuständigen Behörde im Rahmen der Amtshilfe.
 
-**3.4.2.1 Gefahrenbereich (B-Einsatz)**
+### 3.4.2.1 Gefahrenbereich (B-Einsatz)
 
 Nach der Erkundung sind die erkennbaren (gekennzeichneten) Bereiche, in denen biologische Arbeitsstoffe vorhanden sind oder vermutet werden, gleichzeitig Grundlage für die Festlegung des Gefahrenbereichs. Treten außerhalb dieser Bereiche Flüssigkeiten (Löschwasser) oder andere Emissionen auf, so ist entsprechend der Ausbreitung der Gefahrenbereich zu vergrößern.
 
-**3.4.2.2 Grundsätze (B-Einsatz)**
+### 3.4.2.2 Grundsätze (B-Einsatz)
 
 Die Einsatzmaßnahmen sind so zu planen, dass jede unnötige Verbreitung von B-Gefahrstoffen oder jede Kontamination von Menschen und Umwelt vermieden wird (Anlage 2).
 
@@ -924,15 +924,15 @@ Die Einsatzmaßnahmen sind so zu planen, dass jede unnötige Verbreitung von B-G
 - Geschlossene Behälter, Verpackungen, Schränke mit unbekanntem Inhalt oder B-Gefahrstoffen dürfen nicht geöffnet werden.
 - Einsatzstellen, die über Schleusen zugänglich sind, dürfen nur über diese betreten und wieder verlassen werden.
 
-**3.4.2.3 Feststellung von Kontamination und Inkorporation (B-Einsatz)**
+### 3.4.2.3 Feststellung von Kontamination und Inkorporation (B-Einsatz)
 
 Eine Überprüfung auf Kontamination oder Inkorporation an der Einsatzstelle ist messtechnisch zurzeit nicht möglich. Alle Personen, Geräte und sonstigen Gegenstände, die in Bereichen der Gefahrengruppen IIB oder IIIB eingesetzt werden, gelten als kontaminiert bis sie entsprechend desinfiziert und gereinigt wurden sowie eine sachkundige Person eine Kontamination mit B-Gefahrstoffen mit Sicherheit ausschließen kann.
 
-**3.4.2.4 Dekontamination (B-Einsatz)**
+### 3.4.2.4 Dekontamination (B-Einsatz)
 
 Bei Einsätzen mit B-Gefahrstoffen ist ab der Gefahrengruppe IIB in der Regel eine Desinfektion durchzuführen. Es dürfen nur geeignete Desinfektionsmittel verwendet werden. Nach der Dekontamination haben die Einsatzkräfte bei Einsätzen in der Gefahrengruppe IIB Schutzkleidung und Gerät abzulegen. Bei Einsätzen in der Gefahrengruppe IIIB kann es erforderlich sein, weitere Kleidung bei Verlassen des Gefahrenbereichs am Dekon-Platz auszuziehen. Hände, Gesicht, Haare und benetzte Hautstellen sind zu reinigen — duschen wird empfohlen. Die Anweisungen sachkundiger Personen sind zu beachten.
 
-**3.4.2.5 Besondere Einsatzmaßnahmen (B-Einsatz)**
+### 3.4.2.5 Besondere Einsatzmaßnahmen (B-Einsatz)
 
 **Menschenrettung:**
 Zur Menschenrettung in der Gefahrengruppe IIIB sind die Einsatzkräfte mindestens mit Isoliergeräten und Schutzkleidung Form 1 auszurüsten.
@@ -957,7 +957,7 @@ Verletzungen von Einsatzkräften (auch Bagatellverletzungen) sind dem Einsatzlei
 **Umgang mit Tieren:**
 Tiere sind aus Tierhaltungsräumen nur nach Rücksprache mit einer sachkundigen Person zu retten.
 
-**3.4.3 Ärztliche Überwachung und Nachsorge (B-Einsatz)**
+### 3.4.3 Ärztliche Überwachung und Nachsorge (B-Einsatz)
 
 Alle Personen, die an Einsätzen in Bereichen der Gefahrengruppen IIB und IIIB teilgenommen haben, sind namentlich zu erfassen. Personen, die an Einsätzen in Bereichen der Gefahrengruppe IIIB teilgenommen haben, oder Personen, bei denen in Bereichen der Gefahrengruppe IIB besondere Vorkommnisse zu verzeichnen waren, sind – soweit möglich – unverzüglich einem geeigneten Arzt vorzustellen. Treten in der Folgezeit Erkrankungen auf, die mit den B-Gefahrstoffen in Zusammenhang stehen könnten, sind alle beteiligten Personen erneut einem geeigneten Arzt vorzuführen.
 
@@ -965,7 +965,7 @@ Alle Personen, die an Einsätzen in Bereichen der Gefahrengruppen IIB und IIIB t
 
 ### Teil II – Spezielle Richtlinien: C-Einsatz
 
-**4.1 Einteilung in Gefahrengruppen (C-Einsatz)**
+### 4.1 Einteilung in Gefahrengruppen (C-Einsatz)
 
 C-Gefahrstoffe können sehr unterschiedliche gefährliche Eigenschaften besitzen, die häufig auch bei einem einzigen Stoff in Kombination anzutreffen sind. Von den Stoffen können neben den Gefahren durch Inkorporation, Kontamination und gefährliche Einwirkung von außen außerdem Gefahren durch Entzündung, Brandausbreitung und Explosion sowie für die Umwelt ausgehen.
 
@@ -1020,7 +1020,7 @@ Es ist möglich, dass aufgrund der Gesamtbeurteilung Anlagen oder entsprechende 
 **Transporte:**
 Die Transportmengen bei C-Gefahrstoffen sind häufig sehr groß. Gefahren, die sich aus den großen Mengen bei Transporten ergeben können, erhöhen die Gefährdung erheblich. Es kann deshalb bei Ereignissen mit großen Transportmengen notwendig sein, über die Mindestforderung hinaus wie bei der Gefahrengruppe IIIC vorzugehen.
 
-**4.2 Einsatzplanung (C-Einsatz)**
+### 4.2 Einsatzplanung (C-Einsatz)
 
 Nach den Festlegungen gemäß BImSchV/ChemG hat der Betreiber dafür Sorge zu tragen, dass zur Vorbereitung der Brandbekämpfung und Gefahrenabwehr mit den nach Landesrecht zuständigen Behörden die erforderlichen Maßnahmen geplant werden. Die Feuerwehr hat sich zur Vorbereitung einer Brandbekämpfung über die Bereiche zu informieren, in denen mit C-Gefahrstoffen mit besonderem Gefahrenpotential für die Einsatzkräfte umgegangen wird.
 
@@ -1040,7 +1040,7 @@ Als sachkundige Personen für die sonstigen Bereiche der Gefahrengruppe IIIC sin
 - Betriebsarzt oder beauftragter Arzt nach GefStoffV
 - Gefahrgutbeauftragte
 
-**4.3 Sonderausrüstung (C-Einsatz)**
+### 4.3 Sonderausrüstung (C-Einsatz)
 
 **Persönliche Schutzausrüstung:**
 Aufgrund der stark unterschiedlichen chemischen/physikalischen Eigenschaften von C-Gefahrstoffen muss der Einsatzleiter über den Umfang der persönlichen Schutzausrüstung im konkreten Fall entscheiden. Im Einzelfall kann aufgrund der Lage und nach Ausschluss von Atemgiften auf Atemschutz verzichtet werden.
@@ -1074,11 +1074,11 @@ Weiteres:
 - geeignetes Absperrmaterial
 ```
 
-**4.4 Einsatz (C-Einsatz)**
+### 4.4 Einsatz (C-Einsatz)
 
 Aufgrund der besonderen Vielfalt der C-Gefahrstoffe ist die frühzeitige Identifizierung von Art und Menge besonders wichtig. Erst nach Beurteilung der Gefahren lassen sich die speziellen Maßnahmen planen.
 
-**4.4.1 Erkundung und Beurteilung (C-Einsatz)**
+### 4.4.1 Erkundung und Beurteilung (C-Einsatz)
 
 Die Erkundung und Beurteilung werden maßgeblich von Art, Menge und Eigenschaften der C-Gefahrstoffe bestimmt. Insbesondere sind folgende Fragen zu klären:
 - Sind C-Gefahrstoffe frei geworden und wie groß ist die Freisetzungsrate?
@@ -1093,27 +1093,27 @@ Die Erkundung und Beurteilung werden maßgeblich von Art, Menge und Eigenschafte
 
 Liegen keine ausreichenden Erkenntnisse vor, sind die zur Erkundung vorgehenden Trupps mit Schutzkleidung Form 3 auszurüsten. Auf den Führungsfahrzeugen der ABC-Einheiten sind daher Informationssysteme mindestens der Stufe 3 mitzuführen.
 
-**4.4.2 Einsatzmaßnahmen (C-Einsatz)**
+### 4.4.2 Einsatzmaßnahmen (C-Einsatz)
 
-**4.4.2.1 Gefahrenbereich (C-Einsatz)**
+### 4.4.2.1 Gefahrenbereich (C-Einsatz)
 
 Stehen Nachweisgeräte zur kontinuierlichen Konzentrationsbestimmung zur Verfügung, kann die Grenze des Gefahrenbereiches so gelegt werden, dass die Schadstoffkonzentration außerhalb den festgelegten Beurteilungswert nicht überschreitet.
 
 Ist bekannt oder wird bekannt, dass es sich um größere Mengen von Explosivstoffen, militärische Munition oder größere Mengen (mehrere m³) druckverflüssigter Gase unter Brandeinwirkung handelt, ist der Abstand vom Gefahrenobjekt bei ausreichender Deckung auf mindestens **500 m** und der Absperrbereich auf **1.000 m** zu erweitern. Erst nach weiterer Erkundung und der Identifizierung bestehender Gefahren kann der Abstand angepasst und verringert werden.
 
-**4.4.2.2 Grundsätze (C-Einsatz)**
+### 4.4.2.2 Grundsätze (C-Einsatz)
 
 Die Einsatzmaßnahmen sind so zu planen, dass jede unnötige Verbreitung von C-Gefahrstoffen oder jede Kontamination von Menschen und Umwelt vermieden wird (Anlage 2). Geschlossene Behälter, Verpackungen, Schränke mit unbekanntem Inhalt oder C-Gefahrstoffen dürfen nicht geöffnet werden. Das Vermischen unterschiedlicher C-Gefahrstoffe ist wegen möglicher gefährlicher Reaktionen so weit wie möglich auszuschließen.
 
-**4.4.2.3 Feststellung von Kontamination und Inkorporation (C-Einsatz)**
+### 4.4.2.3 Feststellung von Kontamination und Inkorporation (C-Einsatz)
 
 Eine Überprüfung auf Kontamination oder Inkorporation an der Einsatzstelle ist messtechnisch zurzeit nur bedingt möglich. Alle Personen, Geräte und sonstigen Gegenstände, die in Bereichen der Gefahrengruppen IIC oder IIIC eingesetzt werden, gelten als kontaminiert bis sie entsprechend abgewaschen und gereinigt wurden und eine sachkundige Person eine Kontamination mit C-Gefahrstoffen mit Sicherheit ausschließen kann.
 
-**4.4.2.4 Dekontamination (C-Einsatz)**
+### 4.4.2.4 Dekontamination (C-Einsatz)
 
 Bei Einsätzen mit C-Gefahrstoffen ist ab der Gefahrengruppe IIC in der Regel eine Dekontamination durchzuführen. Es dürfen nur Dekon-Mittel verwendet werden, die für die jeweiligen Oberflächen und den C-Gefahrstoff geeignet sind. Nach der Dekontamination der Schutzkleidung haben die Einsatzkräfte bei Einsätzen in der Gefahrengruppe IIC die Schutzkleidung und Geräte abzulegen. Bei Einsätzen in der Gefahrengruppe IIIC kann es erforderlich sein, weitere Kleidung bei Verlassen des Gefahrenbereichs am Dekon-Platz auszuziehen. Hände, Gesicht, Haare und benetzte Hautstellen sind zu reinigen — duschen wird empfohlen.
 
-**4.4.2.5 Besondere Einsatzmaßnahmen (C-Einsatz)**
+### 4.4.2.5 Besondere Einsatzmaßnahmen (C-Einsatz)
 
 **Menschenrettung:**
 Bei Einsätzen zur Menschenrettung in den Gefahrengruppen IIC und IIIC sind die Einsatzkräfte mindestens mit Isoliergeräten und Schutzkleidung Form 1 auszurüsten.
@@ -1123,7 +1123,7 @@ Die C-Gefahrstoffe werden sowohl im Gefahrstoffrecht (GefStoffV) als auch im Tra
 
 > Bereiche der Gefahrengruppe IIIC, bei denen es sich um militärische Anlagen mit Munition oder chemischen Kampfstoffen handelt, dürfen ohne Anwesenheit eines zuständigen und sachkundigen Militärangehörigen auf keinen Fall — auch nicht zur Rettung von Menschenleben — betreten werden.
 
-**4.4.3 Ärztliche Überwachung und Nachsorge (C-Einsatz)**
+### 4.4.3 Ärztliche Überwachung und Nachsorge (C-Einsatz)
 
 Alle Personen, die an Einsätzen in Bereichen der Gefahrengruppen IIC und IIIC teilgenommen haben, sind namentlich zu erfassen. Einsatzkräfte, die von besonderen Vorkommnissen betroffen sind, wie eine nachgewiesene oder vermutete Kontamination oder/und Inkorporation (z. B. Beschädigung der Schutzkleidung, "undichter" Atemanschluss oder Verletzungen), sind einem geeigneten Arzt vorzustellen. Dies gilt auch für Einsätze mit sensibilisierenden, krebserregenden und erbgutverändernden Stoffen. Treten in der Folgezeit Erkrankungen auf, die mit den C-Gefahrstoffen in Zusammenhang stehen könnten, sind alle beteiligten Personen erneut einem geeigneten Arzt vorzuführen.
 

@@ -211,9 +211,9 @@ An jeder Tauchstelle ist, sofern nicht Bestandteil des Gerätekoffers, für das 
 
 Art und Umfang des Erste-Hilfe-Materials werden entsprechend den zu erwartenden Risiken durch den Leiter des Tauchwesens festgelegt.
 
-### 5 Ausbildung, Fortbildung und Prüfung
+## 5 Ausbildung, Fortbildung und Prüfung
 
-**5.1 Ausbildung allgemein**
+### 5.1 Ausbildung allgemein
 
 Die Ausbildung zum Feuerwehrtaucher oder zum Feuerwehrlehrtaucher erfolgt an nach Landesrecht anerkannten Ausbildungsstätten, die über einen Feuerwehrlehrtaucher verfügen.
 
@@ -237,7 +237,7 @@ Die Ausbildung zum Feuerwehrtaucher der Stufe 2 kann als ergänzende Aufbauausbi
 
 Die Ausbildung zum Feuerwehrtaucher der Stufe 3 ist als ergänzende Aufbauausbildung zum Tauchen der Stufe 2 durchzuführen.
 
-**5.2 Theoretische Ausbildung**
+### 5.2 Theoretische Ausbildung
 
 **5.2.1 Tauchanwärter der Stufe 1**
 
@@ -276,7 +276,7 @@ Folgende Unterrichtsthemen sind zu behandeln:
 - Schlauchversorgte Leichttauchgeräte.
 - Ausbildung zur Durchführung besonderer technischer Hilfeleistungen (zum Beispiel nach GUV - R 500 „Betreiben von Arbeitsmitteln", Kapitel 2.26 – Schweißen, Schneiden und verwandte Verfahren).
 
-**5.3 Praktische Ausbildung**
+### 5.3 Praktische Ausbildung
 
 **5.3.1 Tauchanwärter der Stufe 1**
 
@@ -340,7 +340,7 @@ Folgende Ausbildung ist in den 25 Tauchgängen insbesondere durchzuführen:
 
 Tauchanwärter haben für die Stufe 3 mindestens weitere 20 Tauchgänge unter Verwendung des entsprechenden Gerätes abzuleisten. Ein Ausbildungstauchgang dauert mindestens 20 Minuten.
 
-**5.4 Prüfung zum Feuerwehrtaucher**
+### 5.4 Prüfung zum Feuerwehrtaucher
 
 Die Prüfung erfolgt nach landesrechtlicher Regelung. Sie besteht aus einer schriftlichen und einer praktischen Prüfung und gegebenenfalls zusätzlich einer mündlichen Prüfung.
 
@@ -368,7 +368,7 @@ Die schriftliche Prüfung zum Feuerwehrtaucher der Stufen 1, 2 und 3 besteht aus
 
 **Praktische Prüfung Stufe 3** erstreckt sich zusätzlich auf Unterwasserarbeiten entsprechend dem Ausbildungsprogramm (siehe Abschnitt 5.2.3).
 
-**5.5 Feuerwehrlehrtaucher**
+### 5.5 Feuerwehrlehrtaucher
 
 **5.5.1 Voraussetzungen**
 

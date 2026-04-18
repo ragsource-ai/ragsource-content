@@ -693,7 +693,7 @@ Hinweise zur Sicherheit:
 - Die Last ist nötigenfalls gegen Wegrutschen zu sichern.
 - Die Last muss beim Heben durch Unterbauen gesichert werden.
 
-**12.2 Zug- und Anschlagmittel**
+### 12.2 Zug- und Anschlagmittel
 
 - **Schäkel:** Schäkel dienen zum sicheren Verbinden und Anschlagen von Drahtseilen, Anschlagketten, Rundschlingen und Hebebändern.
 - **Seile:** Seile werden entsprechend ihrer zulässigen Belastung beispielsweise zum Sichern von Lasten, zum Anschlagen von Zugmitteln an Lasten oder als Zugmittel verwendet.
@@ -715,7 +715,7 @@ Hinweise zur Sicherheit:
 - Zu unter Last stehenden Drahtseilen ist ein Sicherheitsabstand von mindestens dem 1,5fachen der Seillänge einzuhalten.
 - Der Neigungswinkel bei Anschlagmitteln soll nicht größer als 60° sein.
 
-**12.3 Mehrzweckzug**
+### 12.3 Mehrzweckzug
 
 Der Mehrzweckzug wird zum Ziehen, Heben, Ablassen und Sichern von Lasten verwendet.
 
@@ -736,7 +736,7 @@ Hinweise zur Sicherheit:
 - Das Zugseil darf erst dann durch Betätigen des Schaltgriffs in der Zugvorrichtung gelöst werden, wenn es entlastet und von der Last getrennt ist.
 - Zu unter Last stehenden Seilen ist ein Sicherheitsabstand r von mindestens dem 1,5fachen der wirksamen Seillänge einzuhalten.
 
-**12.4 Maschinelle Zugeinrichtung**
+### 12.4 Maschinelle Zugeinrichtung
 
 Maschinelle Zugeinrichtungen, die in Feuerwehrfahrzeugen eingebaut sind, dienen zum Ziehen und/oder Sichern einer Last. Der Zug wird in Längsrichtung des Fahrzeuges und im Bodenzug (mit zulässigen Abweichungen der Schrägwinkel) ausgeübt.
 
@@ -762,7 +762,7 @@ Hinweise zur Sicherheit:
 - Zu unter Last stehenden Seilen ist ein Sicherheitsabstand r von mindestens dem 1,5fachen der wirksamen Seillänge einzuhalten.
 - Beim Aufspulen des Zugseils ist die Quetschgefahr für Hände zu beachten. Daher ist beim Führen des Zugseils mit den Händen ein Abstand von ca. 1 m von der Propellerrolle einzuhalten.
 
-**12.5 Spreizer**
+### 12.5 Spreizer
 
 Der Spreizer ist ein hydraulisch betriebenes Gerät zum Spreizen, Drücken, Ziehen und Heben von Lasten. Er wird insbesondere zum Retten eingeschlossener oder eingeklemmter Personen aus verunglückten Kraftfahrzeugen verwendet und dient hierbei zum Öffnen von Türen, Hochdrücken von Fahrzeugdächern usw.
 
@@ -784,7 +784,7 @@ Zusätzliche Hinweise zur Sicherheit:
 - Auf sicheres Anschlagen der Zugketten ist zu achten.
 - Die Zugketten sollen nicht verdreht sein.
 
-**12.6 Rettungszylinder**
+### 12.6 Rettungszylinder
 
 Der Rettungszylinder ist ein hydraulisch betriebenes Gerät zum Bewegen von Lasten durch Druck oder gegebenenfalls auch Zug. Er wird insbesondere zum Retten eingeschlossener oder eingeklemmter Personen verwendet, zum Beispiel Abklappen des Vorderteils eines Kraftfahrzeuges. Er kann auch zum Abstützen und Aussteifen verwendet werden.
 
@@ -802,7 +802,7 @@ Zusätzliche Hinweise zur Sicherheit:
 - Auf sicheres Anschlagen der Zugketten ist zu achten.
 - Die Ketten sollen nicht verdreht sein.
 
-**12.7 Hebekissensysteme**
+### 12.7 Hebekissensysteme
 
 Hebekissensysteme sind pneumatisch betriebene Geräte. Sie werden aufgrund verschiedener Arbeitsdrücke unterteilt in Hebekissensysteme bis 1 bar und Hebekissensysteme über 1 bar (gebräuchlich 8 bar).
 
@@ -837,7 +837,7 @@ Hinweise zur Sicherheit:
 - Beim Heben nicht vor das eingeschobene Druckkissen stellen.
 - Beim Einsatz von Druckkissen sind die Hinweise der Hersteller zu beachten.
 
-**12.8 Hydraulische Winde**
+### 12.8 Hydraulische Winde
 
 Die hydraulische Winde dient zum Heben, Senken und Drücken von Lasten, insbesondere zum Anheben. Mit ihr können zum Beispiel unter Lasten eingeklemmte Personen befreit werden. Sie kann auch zum Abstützen von Lasten verwendet werden.
 
@@ -856,7 +856,7 @@ Hinweise zur Sicherheit:
 - Der Angriffspunkt an der Last muss ausreichend fest sein.
 - Die Winde darf bei Verwendung der balligrunden Fußplatte höchstens bis zu einem Winkel von 75° zur Fußplatte genutzt werden.
 
-**12.9 Hydraulischer Hebesatz**
+### 12.9 Hydraulischer Hebesatz
 
 Der hydraulische Hebesatz kann zum Heben, Drücken, Abstützen, Schieben und Absenken verwendet werden. Er wird in der Regel dann verwendet, wenn andere Geräte zum Bewegen von Lasten aufgrund der begrenzten Hubkraft nicht mehr einsetzbar sind.
 

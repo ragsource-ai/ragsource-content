@@ -243,9 +243,9 @@ Der Zugang zur Einsatzstelle und der Einsatzablauf dürfen nicht behindert werde
 
 An räumlich ausgedehnten Einsatzstellen, bei denen zwischen Löschfahrzeug und Verteiler ungünstige Wegverhältnisse bestehen oder bei denen der Abstand zwischen Löschfahrzeug und Verteiler groß ist – etwa mehr als fünf B-Druckschlauchlängen – sind die erforderlichen Geräte (zum Beispiel Atemschutzgeräte, Strahlrohre, Schläuche, Leitern und Sanitätsgerät) am Platz des Verteilers abzulegen.
 
-### 5 Einsatzablauf in Gruppe, Staffel und Selbstständigem Trupp
+## 5 Einsatzablauf in Gruppe, Staffel und Selbstständigem Trupp
 
-**5.1 Grundsätzliches zum Einsatzablauf**
+### 5.1 Grundsätzliches zum Einsatzablauf
 
 Die nachfolgende Aufgabenbeschreibung geht von der Mannschaftsstärke einer Gruppe aus; sie ist die taktische Grundeinheit, die zur Erfüllung der Ersteinsatzmaßnahmen notwendig ist.
 
@@ -255,7 +255,7 @@ Es wird zuerst auf den Melder, dann auf den Schlauchtrupp und schließlich auf d
 
 Ein Innenangriff mit Atemschutzgeräten kann nur durchgeführt werden, wenn eine Gruppe oder Staffel an der Einsatzstelle ist. Die Mannschaft eines Selbstständigen Trupps reicht hierfür nicht aus.
 
-**5.2 Aufgaben der Mannschaft**
+### 5.2 Aufgaben der Mannschaft
 
 **5.2.1 Aufgaben der Mannschaft beim Einsatz einer Gruppe, einer Staffel oder eines Selbstständigen Trupps**
 
@@ -298,7 +298,7 @@ Die Aufgaben der Einsatzkräfte im Zugtrupp sind:
 
 Die Mannschaft der anderen Einheiten des Zuges arbeitet wie in Abschnitt 5.2.1 beschrieben.
 
-**5.3 Einsatzgrundsätze**
+### 5.3 Einsatzgrundsätze
 
 a) Die Funktionen für Angriffs- und für den Wassertrupp sollen mit Atemschutzgeräteträgern besetzt sein.
 b) Der Trupp geht im Gefahrenbereich grundsätzlich gemeinsam vor.
@@ -311,7 +311,7 @@ h) Die Wasserversorgung zwischen Löschfahrzeug und Wasserentnahmestelle muss m�
 i) Trupps, die ihre Aufgabe erledigt haben und einsatzbereit sind, melden sich beim Einheitsführer.
 j) Bemerkt eine Einsatzkraft eine besondere Gefahr (zum Beispiel Einsturz- oder Explosionsgefahr) und ist unverzügliches In-Sicherheit-Bringen notwendig, gibt sie das Kommando "Gefahr - Alle sofort zurück!". Jede Einsatzkraft gibt dieses Kommando weiter; alle gehen zurück und sammeln sich am Feuerwehrfahrzeug. Der Einheitsführer überprüft die Vollzähligkeit der Mannschaft, trifft weitere Maßnahmen und gibt Lagemeldungen.
 
-**5.4 Einsatz mit Bereitstellung und Einsatz ohne Bereitstellung**
+### 5.4 Einsatz mit Bereitstellung und Einsatz ohne Bereitstellung
 
 Man unterscheidet in
 - Einsatz m i t Bereitstellung und
@@ -342,9 +342,9 @@ Weg                   über / durch ...
 
 Der beauftragte Truppführer wiederholt seinen Befehl ab "Einheit".
 
-**5.5 Einsatzablauf**
+### 5.5 Einsatzablauf
 
-**5.5.1 Einsatz mit Bereitstellung bei der Wasserentnahme aus Hydranten**
+### 5.5.1 Einsatz mit Bereitstellung bei der Wasserentnahme aus Hydranten
 
 **Gruppenführer, Staffelführer, Truppführer**
 
@@ -445,7 +445,7 @@ Beim Atemschutzeinsatz muss grundsätzlich die Einsatzbereitschaft des Sicherhei
 
 Der Melder bedient auf Befehl den Verteiler.
 
-**5.5.2 Einsatz ohne Bereitstellung bei der Wasserentnahme aus Hydranten**
+### 5.5.2 Einsatz ohne Bereitstellung bei der Wasserentnahme aus Hydranten
 
 Der Einsatzablauf beim Einsatz ohne Bereitstellung ist mit dem Ablauf des Einsatzes m i t Bereitstellung vergleichbar. Der Einheitsführer gibt jedoch gleich zu Einsatzbeginn den gesamten Befehl. Nach einer kurzen Lageschilderung befiehlt er:
 
@@ -462,7 +462,7 @@ Weg                   über / durch ...
 
 Der Angriffstruppführer wiederholt den Befehl ab "Einheit" und die Mannschaft führt dann den Befehl aus.
 
-**5.5.3 Wasserentnahme über Saugschläuche aus offenem Gewässer**
+### 5.5.3 Wasserentnahme über Saugschläuche aus offenem Gewässer
 
 Bei einem Löscheinsatz mit der Wasserentnahme über Saugschläuche aus offenem Gewässer befiehlt der Einheitsführer in der Regel einen Einsatz m i t Bereitstellung. Nach einer kurzen Lageschilderung befiehlt er:
 
@@ -518,7 +518,7 @@ Die Trupps bringen die Saugleitung zu Wasser.
 
 Der weitere Einsatzablauf erfolgt wie beim Einsatz mit Bereitstellung bei Wasserentnahme aus Hydranten.
 
-**5.5.4 Einsatz mit B-Rohr**
+### 5.5.4 Einsatz mit B-Rohr
 
 Der Einheitsführer erkundet die Lage und bestimmt die Fahrzeugaufstellung und gegebenenfalls den Standort der Tragkraftspritze. Nach einer kurzen Lageschilderung befiehlt er:
 
@@ -538,7 +538,7 @@ Der Einsatzablauf erfolgt sinngemäß wie bei der Vornahme des 1. Rohres; abweic
 - Bei Verwendung von B-Rollschläuchen verlegen der Angriffstrupp und der Schlauchtrupp die B-Schlauchleitung bis zum befohlenen Ziel beziehungsweise bis zum Angriffstrupp.
 - Bei Verwendung der fahrbaren Schlauchhaspel verlegt der Wassertrupp die B-Schlauchleitung bis zum befohlenen Ziel beziehungsweise bis zum Angriffstrupp und kuppelt den Verteiler ein.
 
-**5.5.5 Einsatz mit Schaumrohr**
+### 5.5.5 Einsatz mit Schaumrohr
 
 Der Gruppen- oder Staffelführer erkundet die Lage und bestimmt die Fahrzeugaufstellung und gegebenenfalls den Standort der Tragkraftspritze. Nach einer kurzen Lageschilderung befiehlt er:
 
@@ -570,7 +570,7 @@ Der Schlauchtrupp bringt den Zumischer, den D-Ansaugschlauch und Schaummittelbeh
 Er kuppelt den Zumischer in die Schlauchleitung ein. Er stellt mit dem D-Ansaugschlauch die Verbindung zwischen Zumischer und Schaummittelbehälter her.
 Der Schlauchtruppführer bedient den Zumischer; der Schlauchtruppmann stellt die Verfügbarkeit des Schaummittels am Zumischer sicher.
 
-**5.5.6 Einsatz mit Schnellangriff**
+### 5.5.6 Einsatz mit Schnellangriff
 
 Der Einheitsführer erkundet die Lage und bestimmt die Fahrzeugaufstellung. Nach einer kurzen Lageschilderung befiehlt er:
 
@@ -592,7 +592,7 @@ Der Schnellangriff wird in der Regel vorgenommen, wenn
 und
 - die Länge der Schnellangriffsleitung ausreicht.
 
-**5.6 Rücknahme oder Stellungswechsel von Strahlrohren**
+### 5.6 Rücknahme oder Stellungswechsel von Strahlrohren
 
 Der Einheitsführer befiehlt die Rücknahme oder den Stellungswechsel von Strahlrohren:
 "...trupp; ... Rohr zurück!" oder "...trupp; ...-Strahlrohr Stellungswechsel nach...!"
@@ -604,7 +604,7 @@ Anschließend nimmt der beauftragte Trupp den Stellungswechsel vor und der ...tr
 Bei der Rücknahme von Rohren kuppelt der angesprochene Trupp den entsprechenden Druckschlauch ab. Er legt alle Geräte und Schläuche am Verteiler ab.
 Zurückgerufene Trupps sammeln sich am Verteiler und können erneut eingesetzt werden.
 
-**5.7 Abschluss des Einsatzes**
+### 5.7 Abschluss des Einsatzes
 
 Der Einheitsführer befiehlt:
 "Zum Abmarsch fertig!"

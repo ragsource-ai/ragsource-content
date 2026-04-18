@@ -261,9 +261,9 @@ Die Kommunikation erfolgt vorzugsweise im Netzbetrieb (TMO). Bei einer taktische
 
 Zur Sicherstellung der Kommunikation kann die zuständige AS in Abstimmung mit der jeweils zuständigen Einsatzleitung regelnd in die Nutzung der Sprach-, Datendienste oder Anwendungen eingreifen. Bei Auswirkungen auf andere BOS werden diese von der AS über die Einschränkungen informiert.
 
-**5.1 Sprachdienste**
+### 5.1 Sprachdienste
 
-**5.1.1 Allgemeiner Sprechfunkverkehr**
+### 5.1.1 Allgemeiner Sprechfunkverkehr
 
 Die Durchführung des Sprechfunkverkehrs erfolgt grundsätzlich als Gruppenruf. Der Einzelruf ist ausschließlich dann durchzuführen, wenn er taktisch unbedingt erforderlich ist.
 
@@ -509,7 +509,7 @@ Die Nutzer schalten in die bisherige Rufgruppe zurück, wenn innerhalb von drei 
 
 Bei einer einsatztaktischen Notwendigkeit ist ein Wechsel der Rufgruppe allen mitzuteilen, die zur Nutzung dieser Rufgruppen berechtigt sind.
 
-**5.1.2 Priorisierter Sprechfunkverkehr**
+### 5.1.2 Priorisierter Sprechfunkverkehr
 
 Im priorisierten Sprechfunkverkehr wird je nach Berechtigung in unterschiedlicher Intensität in die Sprachdienste eingegriffen. Auch die Nutzung von Datendiensten kann hierdurch beeinflusst werden.
 
@@ -551,7 +551,7 @@ Die Kommunikation in andere Netze oder aus anderen Netzen soll auf den taktisch 
 
 Bei der netzübergreifenden Kommunikation besteht Abhörgefahr.
 
-**5.2 Datendienste**
+### 5.2 Datendienste
 
 **5.2.1 Statusmeldungen (Digitalfunk)**
 
@@ -611,7 +611,7 @@ Berechtigte Teilnehmer können zur Übermittlung von Kurznachrichten und zur Ver
 
 Die von den Ländern, dem Bund und der BDBOS getroffenen Regelungen zur Alarmierung sind zu beachten.
 
-**5.3 Gateway und Repeater**
+### 5.3 Gateway und Repeater
 
 **5.3.1 Gateway (Betrieb)**
 
@@ -643,7 +643,7 @@ Für eine fehlerfreie Nutzung des Sprech- und Datenfunks ist an einer Einsatzste
 
 Die Einrichtung eines TMO-Repeaters bedarf der Genehmigung der BDBOS, die über die zuständige AS zu beantragen ist.
 
-**5.4 Objektfunkanlagen**
+### 5.4 Objektfunkanlagen
 
 **5.4.1 bis 5.4.3 Objektfunkanlagen – Überblick und Arten**
 

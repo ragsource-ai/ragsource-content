@@ -172,7 +172,7 @@ Die Führungsorganisation legt die Aufgabenbereiche der Führungskräfte fest un
 
 Die Führungsorganisation stellt sicher, dass die Arbeit der Einsatzleiterin oder des Einsatzleiters beziehungsweise der Einsatzleitung bei jeder Art und Größe von Gefahrenlagen oder Schadenereignissen reibungslos und kontinuierlich verläuft. Die Einsatzleiterin oder der Einsatzleiter muss gegebenenfalls rechtzeitig erkennen, dass Führungsassistentinnen und Führungsassistenten zur Unterstützung gebraucht werden. Bestimmte Aufgabenbereiche sind bereits vorher festzulegen und zuzuordnen.
 
-**3.2.2 Einsatzleitung**
+### 3.2.2 Einsatzleitung
 
 Die Einsatzleitung besteht aus
 - der Einsatzleiterin oder dem Einsatzleiter
@@ -201,7 +201,7 @@ Der Einsatzleiterin oder dem Einsatzleiter können aufgrund gesetzlicher Bestimm
 - das Festhalten eigengefährdeter Personen;
 - das zeitbefristete Stilllegen von Produktionsanlagen.
 
-**3.2.2.2 Gliederung und Umfang der Einsatzleitung**
+### 3.2.2.2 Gliederung und Umfang der Einsatzleitung
 
 Die Einsatzleitung ist in ihrer Gliederung und ihrem Umfang abhängig von der Gefahrenlage, dem Schadenereignis und den zu führenden Einheiten.
 
@@ -281,7 +281,7 @@ Befehlsstellen müssen über geeignete Fernmeldeanschlüsse und Endgeräte verf�
 
 Für bewegliche Befehlsstellen ist immer ein mit Informations- und Kommunikationstechnik ausgestattetes Fahrzeug (zum Beispiel Einsatzleitwagen) bereitzustellen. In Einsätzen, bei denen die Einsatzleiterin oder der Einsatzleiter von einer Führungseinheit unterstützt wird, muss als bewegliche Befehlsstelle ein zur Aufnahme der Führungseinheit geeigneter Einsatzleitwagen mit Führungsraum zur Verfügung stehen.
 
-**3.2.4 Führungsebenen**
+### 3.2.4 Führungsebenen
 
 Die Führungsebene ist ein spezifisches Merkmal der Führungsorganisation; alle Führungskräfte mit vergleichbarem Zuständigkeits- und Verantwortungsbereich und in gleichem Unterstellungsverhältnis bilden eine Führungsebene. Die Führungsebenen ergeben sich aus der Gliederung der Einheiten und aus den Erfordernissen der Lage. Dabei sind der jeweiligen Führungsebene in der Regel nicht mehr als drei Trupps, zwei Gruppen beziehungsweise drei bis fünf Züge oder Verbände zuzuordnen.
 
@@ -294,7 +294,7 @@ Führungsebenen dürfen grundsätzlich nicht übersprungen werden. Es bestünde 
 
 Die Art und Anzahl der Einsatzkräfte der Feuerwehren sind für den täglichen Einsatzfall in ihrem Ausrückebereich bemessen. Die Einsatzleitung ist je nach Art und Größe der Einsatzstelle sowie entsprechend der Zahl der eingesetzten Kräfte zu besetzen.
 
-**3.2.4.1 Führungsebenen entsprechend der taktischen Gliederung der Kräfte**
+### 3.2.4.1 Führungsebenen entsprechend der taktischen Gliederung der Kräfte
 
 Nach der Gliederung der Kräfte ergeben sich die folgenden Führungsebenen:
 - Ebene der taktischen Einheiten "Trupp", "Staffel" und "Gruppe";
@@ -357,7 +357,7 @@ Als Führerin oder Führer eines Verbandes muss die Einsatzleiterin oder der Ein
 
 Die Führungseinheit für einen Verband ist in der Regel eine Führungsstaffel. Der Einsatzleiterin oder dem Einsatzleiter sollte ein Einsatzleitwagen -ELW 1 oder ELW 2- zur Verfügung stehen.
 
-**3.2.4.2 Führungsebenen entsprechend der taktischen Gliederung des Raumes**
+### 3.2.4.2 Führungsebenen entsprechend der taktischen Gliederung des Raumes
 
 Aufgrund der räumlichen Größe einer Einsatzstelle, des Umfanges eines Einsatzes oder der Art der Einsatztätigkeit kann es notwendig werden, die Einsatzstelle in Einsatzabschnitte zu unterteilen.
 
@@ -396,7 +396,7 @@ Bei der Einrichtung von Einsatzabschnitten sind als weitere Führungskräfte Ein
 
 Der Einsatzleiterin oder dem Einsatzleiter sollte als Führungsfahrzeug ein Einsatzleitwagen -ELW 1 oder ELW 2- zur Verfügung stehen.
 
-**3.2.4.3 Führungsebenen bei Großschadenereignissen und im Katastrophenfall**
+### 3.2.4.3 Führungsebenen bei Großschadenereignissen und im Katastrophenfall
 
 Bei weiträumigen und länger andauernden Großschadenereignissen oder in Katastrophenfällen wird die unmittelbare Leitung durch die politisch-gesamtverantwortliche Instanz nötig.
 
@@ -439,7 +439,7 @@ Abbildung 3: Führungsebenen bei Großschadenereignissen
 └─────────────────────────────────────────────────────────┘
 ```
 
-**3.2.5 Führungsstufen**
+### 3.2.5 Führungsstufen
 
 Die Gliederung und die personelle Besetzung der Einsatzleitung ergeben sich fließend aus der Entwicklung des Schaden- beziehungsweise Aufgabenumfanges. Grundsätzlich gibt es hierbei zweckmäßigerweise vier Führungsstufen:
 
@@ -466,7 +466,7 @@ Die Gliederung und die personelle Besetzung der Einsatzleitung ergeben sich flie
 
 ### 3.3 Führungsvorgang
 
-**3.3.1 Lagefeststellung – Erkundung / Kontrolle**
+### 3.3.1 Lagefeststellung – Erkundung / Kontrolle
 
 Der Führungsvorgang ist ein zielgerichteter, immer wiederkehrender und in sich geschlossener Denk- und Handlungsablauf. Dabei werden Entscheidungen vorbereitet und umgesetzt. Der Führungsvorgang ist nicht auf die Tätigkeit der Einsatzleiterin oder des Einsatzleiters beschränkt, sondern ist von den Führungskräften auf allen Führungsebenen sinngemäß anzuwenden.
 
@@ -506,7 +506,7 @@ Mit diesem Kreisschema kann die Zusammenarbeit zwischen den Führungsebenen bis 
 
 Der Führungsvorgang ist ein dynamischer Entscheidungs- und Handlungsprozess, der unter dem Zwang zu schnellem Handeln steht. Oft müssen sofort Entschlüsse gefasst und Befehle erteilt werden, ohne dass die Erkundung und Beurteilung der Lage umfassend abgeschlossen werden konnten. An diese Entschlüsse und Befehle muss sich dann unmittelbar eine nähere Erkundung anschließen, die gegebenenfalls zu einer erneuten Planung und Befehlsgebung führt.
 
-**3.3.1.1 Information als Grundlage zur Lagefeststellung**
+### 3.3.1.1 Information als Grundlage zur Lagefeststellung
 
 Die **Lagefeststellung** besteht aus der Erkundung und der Kontrolle. Sie ist zielgerichtet und auf die Führungsebene bezogen durchzuführen.
 
@@ -553,7 +553,7 @@ Abbildung 5: Lagefeststellung
               └───────────────────────┘
 ```
 
-**3.3.1.2 Informationsgewinnung**
+### 3.3.1.2 Informationsgewinnung
 
 Die zur Lagefeststellung erforderlichen Informationen erhält die Einsatzleiterin oder der Einsatzleiter insbesondere
 - durch den Einsatzauftrag gemäß des Alarmierungsstichwortes;
@@ -571,7 +571,7 @@ Erforderlichenfalls sind Regelungen zu treffen, um die Schnelligkeit und Sicherh
 
 zu gewährleisten.
 
-**3.3.1.3 Meldungen**
+### 3.3.1.3 Meldungen
 
 Im Allgemeinen stellen Meldungen die wichtigste Grundlage für die Lagefeststellung dar. Jede Führungskraft ist innerhalb ihres Verantwortungsbereichs ohne besonderen Befehl zur Lagefeststellung und zur Abgabe von Meldungen an die übergeordnete Führungsebene verpflichtet. Diese Verpflichtung gilt insbesondere
 - nach Vollzug von erhaltenen Einsatzaufträgen;
@@ -611,7 +611,7 @@ Nicht nur das Abwägen gleichzeitiger Erkenntnisse, sondern auch das Vergleichen
 
 Damit alle am Führungsvorgang Beteiligten und die betroffenen Einsatzkräfte jederzeit optimal führen und handeln können, bedarf es eines ständigen Informationsaustausches. Der Informationsfluss darf deshalb in der Hierarchie der Führungsebenen nicht nur einseitig von unten nach oben verlaufen. Die Einsatzleiterin oder der Einsatzleiter muss daher auch die Einheiten angemessen über die Lage informieren. Durch solche Informationen kann die Einsatzbereitschaft der Einsatzkräfte und deren Motivation zur Auftragserfüllung wesentlich erhöht werden.
 
-**3.3.2 Planung**
+### 3.3.2 Planung
 
 Planung ist systematisches Bewerten von Informationen und Fakten und daraus sich ergebendes Festlegen von Maßnahmen.
 
@@ -656,7 +656,7 @@ Abbildung 6: Planung
     BEFEHLSGEBUNG
 ```
 
-**3.3.2.1 Beurteilung**
+### 3.3.2.1 Beurteilung
 
 Die Beurteilung ist die Abwägung, wie der Auftrag zur Gefahrenabwehr oder Schadenbeseitigung mit den zur Verfügung stehenden Einsatzkräften und -mitteln unter den Einflüssen von Ort, Zeit und Wetter am besten durchgeführt werden kann.
 
@@ -674,7 +674,7 @@ Die Schwierigkeit -aber auch die Notwendigkeit- einer sachgerechten Beurteilung 
 - Die Entscheidungen müssen oft unter Zeitdruck getroffen werden, damit Gefahrenabwehr und Schadenbegrenzung beziehungsweise Schadenbeseitigung schnellstmöglich beginnen können. Das daraus entstehende Risiko belastet die Einsatzleiterin oder den Einsatzleiter umso stärker, je größer die Gefährdung der Einsatzkräfte ist.
 - Ein unvorhergesehenes Einwirken auf die eigenen Maßnahmen oder deren Behinderung durch andere muss berücksichtigt werden.
 
-**3.3.2.2 Entschluss**
+### 3.3.2.2 Entschluss
 
 Der Entschluss ist die Entscheidung über die Art der Einsatzdurchführung. Er ist das folgerichtige Ergebnis der Beurteilung der Lage. Im Entschluss spiegelt sich die Einsatzplanung wider.
 
@@ -693,7 +693,7 @@ erforderlichenfalls sind:
 
 Die Einsatzleiterin oder der Einsatzleiter muss bei allen nur denkbaren Lagen trotz etwa vorhandener Zweifel einen klaren Entschluss fassen. Von dem einmal gefassten Entschluss darf sie oder er nicht ohne zwingenden Grund abweichen. Bei der Dynamik des Einsatzes kann jedoch ein zu starres Festhalten am Entschluss zum Fehler werden. Ein Kennzeichen guter Einsatzleitung ist es, rechtzeitig die Umstände und den Zeitpunkt für eine erforderliche Änderung des Entschlusses und der sich daraus ergebenden Maßnahmen zu erkennen. Hierbei sind besonders die damit verbundenen Vor- und Nachteile abzuwägen.
 
-**3.3.3 Befehlsgebung**
+### 3.3.3 Befehlsgebung
 
 Der Befehl ist die Anordnung an die Einsatzkräfte, Maßnahmen zur Gefahrenabwehr und zur Schadenbegrenzung auszuführen. Durch den Befehl wird der Entschluss in die Tat umgesetzt.
 
@@ -705,7 +705,7 @@ Klare Unterstellungs- und Befehlsverhältnisse sind eine wesentliche Voraussetzu
 
 Die Befehlsgewalt schließt nicht nur das Recht, sondern auch die Pflicht zum Befehlen ein.
 
-**3.3.3.1 Gliederung des Befehls**
+### 3.3.3.1 Gliederung des Befehls
 
 Der Inhalt jedes Befehls muss genau überlegt und kurz und klar formuliert sein. Er soll alles das, aber auch nur das enthalten, was die nachgeordneten Führungskräfte zur Erfüllung der ihnen gestellten Aufgaben wissen müssen.
 
@@ -771,7 +771,7 @@ Unter "Führung und Kommunikationswesen" ist die festgelegte Führungsorganisati
 
 Ein Muster für einen Marschbefehl ist in Anlage 4 enthalten.
 
-**3.3.3.2 Grundsätze für die Befehlsgebung**
+### 3.3.3.2 Grundsätze für die Befehlsgebung
 
 Der Auftrag an die Einheit ist das Kernstück des Befehls. Wenn sich der Befehl auf den Auftrag beschränkt, ohne die Durchführung des Einsatzes unter Angabe der Mittel, des Zieles und des Weges vorzuschreiben, lässt er den Empfängern Handlungsfreiheit bei der Durchführung (Auftragstaktik).
 
@@ -787,7 +787,7 @@ Umgekehrt haben die Nachgeordneten die Pflicht, sich in die Absicht der Vorgeset
 
 Wann welche Befehle gegeben werden, hängt von der Lage und den Übertragungswegen ab. Je dringlicher die Lage, desto kürzer und schneller muss befohlen werden. Die Zeit, bis ein Befehl den Empfänger erreicht hat, muss bei der Planung berücksichtigt werden; sie darf nicht unterschätzt werden! Es kann notwendig sein, sich zu vergewissern, ob und wann ein Befehl den Empfänger erreicht hat.
 
-**3.3.3.3 Befehlsarten**
+### 3.3.3.3 Befehlsarten
 
 Es gibt folgende Befehlsarten:
 - Einzelbefehl
@@ -846,7 +846,7 @@ Stets ist zu prüfen, durch welche Methoden und Mittel
 
 Auch zur eigenen Kontrolle sollte die Einsatzleiterin oder der Einsatzleiter eine möglichst umfassende Einsatzdokumentation führen lassen.
 
-**3.3.5 Dokumentation und Lagedarstellung**
+### 3.3.5 Dokumentation und Lagedarstellung
 
 Die Lage und der Einsatzverlauf werden von der Leitstelle grundsätzlich im Rahmen der vorhandenen Möglichkeiten dokumentiert.
 
