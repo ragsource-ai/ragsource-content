@@ -252,7 +252,7 @@ Wer Verdacht auf Kontamination oder Inkorporation hat: Arzt aufsuchen, Registrie
 1. WGK aus Stoff-Profil lesen: `rigoletto_wgk` (0–3)
 2. Übergabe-Regeln abfragen (→ SKILL_db_gefahrstoff_abfrage § uebergabe_abrufen)
 3. Bei Treffer: `kanalisation_freigabe`, `benachrichtigung_pflicht`, `avv_schluessel_primaer` lesen
-4. Bei Phase G4 (noch nicht vollständig befüllt): AwSV §§ 24, 25 direkt abrufen
+4. Kein Treffer: AwSV §§ 24, 25 direkt abrufen (WGK-Einstufung und allgemeine Sorgfaltspflicht)
 
 **Löschwasserrückhaltung** (FwDV 500 § 1.5.3.4): Wenn Abwasser kontaminiert sein könnte → Ausbreitung verhindern, Behörde informieren.
 
