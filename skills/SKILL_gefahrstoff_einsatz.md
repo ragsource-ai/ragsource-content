@@ -1,5 +1,5 @@
 ---
-titel: "Gefahrstoff-Abfrage bei Feuerwehr-Einsatz"
+titel: "Gefahrstoff-Einsatz (C-Einsatz): Handlungsanleitung"
 typ: skill
 ebene:
 saule: 2
@@ -16,101 +16,276 @@ endpoints:
 extensions:
   - Feuerwehr
   - Gefahrgut
+  - Gefahrenabwehrrecht
 stand: 2026-04-18
-beschreibung: "Handlungsanleitung für das LLM: Gefahrstoff-Identifikation (UN-Nummer, CAS, Stoffname), Profil-Lookup, Übergabe-Regeln (WGK, AwSV), Rechtstext-Zitat. Für brandmeister.ai — ab Phase G3 vollständig einsetzbar."
+beschreibung: "Vollständige Handlungsanleitung für das LLM beim Chemikalien-Einsatz (C-Einsatz nach FwDV 500): Stoff-Identifikation, Gefahrengruppe, PSA-Auswahl, Einsatzbereiche, Grenzwertbeurteilung, Dekon-Stufen, Übergabe. Für brandmeister.ai — ab Phase G3 vollständig einsetzbar."
 ---
 
+## Vor diesem Skill
+
+Bevor du mit diesem Skill arbeitest, lade:
+1. **SKILL_db_gefahrstoff_abfrage** — alle DB-Abfragemuster (im Catalog nach "Gefahrstoff-DB: Abfrage-Rezepte" suchen)
+2. **D_FwDV_500_ABC_Einsatz** — Verfahrenstext bei spezifischen Rückfragen:
+   ```json
+   RAGSource_get({
+     "source": "D_FwDV_500_ABC_Einsatz",
+     "sections": [
+       "1.5.3.2 Erstmaßnahmen (GAMS-Regel)",
+       "4.1 Einteilung in Gefahrengruppen (C-Einsatz)",
+       "1.3.1.2 Schutzkleidung (Formen 1–3)",
+       "1.5.3.5 Gefahren-, Absperr- und Übergangsbereich",
+       "1.5.3.6 Dekontamination"
+     ]
+   })
+   ```
+3. Erst dann: Nutzeranfrage beantworten.
+
 ## Inhaltsverzeichnis
-- un_nummer_bekannt [UN-Nummer als Einstieg → Stoff-Profil + Übergabe]
-- stoffname_bekannt [Stoffname/CAS → Alias-Lookup → Profil]
-- unbekannter_stoff [Eingrenzung über Eigenschaften, Aussehen, Kontext]
-- uebergabe_ableiten [WGK + Stoffklasse → Übergabe-Regeln + Rechtsgrundlage]
-- allgemein_einsatz [Allgemeines Vorgehen bei Gefahrgut-Einsatz]
+- erstmassnahmen [GAMS-Regel + Informationsstufen 1–4]
+- stoff_identifizieren [UN bekannt / Stoffname bekannt / Stoff unbekannt]
+- gefahrengruppe [C-Gefahrengruppe I / II / III bestimmen]
+- psa_auswahl [Schutzkleidung Form 1 / 2 / 3 entscheiden]
+- einsatzbereiche [Gefahren- / Übergangs- / Absperrbereich einrichten]
+- grenzwert_beurteilung [ETW / AEGL-2 / AGW — Beurteilungswert-Hierarchie]
+- dekon [Dekon-Stufe I / II / III — Auswahl und Fristen]
+- uebergabe [Übergabe an Behörde, AwSV-Pflichten, WGK-Meldung]
+- nachsorge [Registrierung, ärztliche Überwachung]
 
-### un_nummer_bekannt
-Wenn der Nutzer eine UN-Nummer nennt (z.B. "UN 1203", "UN1203", "1203"):
+---
 
-1. UN-Nummer normalisieren: führende Nullen auffüllen auf 4 Stellen, "UN"-Präfix entfernen.
-2. Stoff-Profil abrufen:
-   `RAGSource_db_query({ db: "gefahrstoff", filter: { un_nr: "1203" } })`
-3. Aus dem Treffer ablesen:
-   - `rigoletto_wgk` (Wassergefährdungsklasse, 0–3)
-   - `bam_klasse` (Gefahrgutklasse nach ADR, z.B. "3" für entzündbare Flüssigkeiten)
-   - `niosh_psa` (persönliche Schutzausrüstung)
-   - `erg_guide_nr` (ERG-Leitfaden-Nummer für Ersteinsatz)
-   - `erg_abstand_klein_m`, `erg_abstand_gross_m` (Sicherheitsabstände)
-4. Übergabe-Regeln ableiten (→ Abschnitt `uebergabe_ableiten`).
-5. Bei mehreren Treffern (identische UN-Nr, verschiedene CAS): alle aufführen, Nutzer rückfragen.
+### erstmassnahmen
+**GAMS-Regel** (FwDV 500 § 1.5.3.2) — Erstmaßnahmen jeder Einsatzkraft ohne Sonderausrüstung:
 
-**Hinweis (bis Phase G3):** RAGSource_db_query ist noch nicht mit Daten befüllt. Bis dahin: Stoff-Eigenschaften aus dem Trainingswissen des LLM nennen, ausdrücklich als "aus Trainingswissen, nicht aus verifizierter Einsatzdatenbank" kennzeichnen.
+```
+G — Gefahr erkennen     (Gefahrguttafel, GHS-Piktogramme, Kennzeichnung lesen)
+A — Absperren           (Gefahrenbereich vorläufig 50 m, Windrichtung beachten)
+M — Menschenrettung     (Mindest-PSA: Form 1 + Isoliergerät)
+S — Spezialkräfte alarmieren (ABC-Zug, Leitstelle, ggf. TUIS/ATF)
+```
 
-### stoffname_bekannt
-Wenn der Nutzer einen Stoffnamen oder eine CAS-Nummer nennt:
+Gleichzeitig: Sofort-Dekon einrichten (→ dekon), Brandschutz sicherstellen.
 
-1. Häufige Stoffe aus Trainingswissen:
-   - "Benzin" → CAS 86290-81-5, UN 1203
-   - "Diesel" → CAS 68476-34-6, UN 1202
-   - "Heizöl EL" → CAS 68476-30-2, UN 1202
-   - "Methanol" → CAS 67-56-1, UN 1230
-   - "Ethanol" → CAS 64-17-5, UN 1170
-   - "Ammoniak (wässrig)" → CAS 1336-21-6, UN 2672
-2. Bei Unsicherheit oder unbekanntem Stoff: Alias-Lookup:
-   `RAGSource_db_query({ db: "stoff_aliases", filter: { alias_norm_like: "benzin" } })`
-   (alias_norm ist lowercase, Umlaute normalisiert: ä→ae, ö→oe, ü→ue, ß→ss)
-3. Bei mehreren Treffern: alle CAS-Nummern aufführen, Nutzer nach Kontext fragen.
-4. Mit gefundener CAS/UN-Nummer weiter wie `un_nummer_bekannt`.
+**Informationsstufen** (Verfahren nach FwDV 500 § 1.5.1 i.V.m. vfdb-Richtlinie 10/05):
 
-### unbekannter_stoff
-Wenn der Stoff nicht identifizierbar ist:
+| Stufe | Quelle | Maßnahme |
+|---|---|---|
+| 1 | Sofortinformation | Gefahrzettel, Gefahrguttafel lesen (Klasse + UN-Nr) |
+| 2 | Kurzinformation | Begleitpapiere, Sicherheitsdatenblatt, ERI-Cards |
+| 3 | Detaillierte Information | DB-Abfrage (→ stoff_identifizieren), Nachschlagewerke |
+| 4 | Experteninformation | ATF, TUIS-Notruf, BAM +49 30 18 455 5000 |
 
-1. Rückfrage nach verfügbaren Informationen:
-   - Kennzeichnung: orangefarbene Gefahrguttafel (ADR-Nummer/UN-Nummer)?
-   - GHS-Piktogramme auf Behälter/Transportdokument?
-   - Aussehen: Farbe, Konsistenz, Geruch?
-   - Aggregatszustand: flüssig, gasförmig, fest?
-   - Kontext: Tanklastzug, Betrieb, Labor, Baustelle?
+**Fahrzeugaufstellung** (FwDV 500 § 1.5.3.1):
+- Mit dem Wind anfahren, Fahrzeuge nicht in Senken oder im Gefahrenbereich
+- Mindestabstand 50 m zum gemeldeten Objekt bei unklarer Lage
+- Fahrzeuge im Gefahrenbereich gelten als kontaminiert — nicht wegfahren
 
-2. Grob-Klassifizierung aus Piktogrammen (GHS):
-   - Flamme → entzündbar (Klasse 3 oder 2.1)
+---
+
+### stoff_identifizieren
+
+**a) UN-Nummer bekannt** (z.B. auf oranger Gefahrguttafel, Begleitpapieren):
+- UN normalisieren: 4-stellig, kein Präfix
+- DB-Abfrage → SKILL_db_gefahrstoff_abfrage § un_suche
+- Lesen: `bam_klasse`, `bam_vpgruppe`, `bam_gefahrnr`, `rigoletto_wgk`, `pubchem_ghs_hazards`
+
+Die **Gefahrnummer** (obere Zahl auf ADR-Tafel) gibt Ersthinweis: 33=entzündbar+leichtflüchtig, 66=sehr toxisch, 80=ätzend, 90=umweltgefährlich.
+
+**b) Stoffname oder CAS bekannt**:
+- DB-Abfrage → SKILL_db_gefahrstoff_abfrage § stoffname_suche
+- Bei Benzin, Diesel, Heizöl: BAM-Einträge ohne CAS (Gemische) → BAM:{bamnr} als Schlüssel
+
+**c) Stoff unbekannt**:
+1. GHS-Piktogramme auf Behälter/Transportdokument auswerten:
+   - Flamme → entzündbar (ADR-Klasse 3, 2.1)
    - Totenkopf → akut toxisch
-   - Ausrufezeichen → gesundheitsschädlich/reizend
-   - Ätzwirkung → korrosiv (Klasse 8)
-   - Umwelt → wassergefährdend (WGK beachten)
-   - Gas unter Druck → Druckgas (Klasse 2)
-   - Explodierende Bombe → explosiv (Klasse 1)
+   - Ausrufezeichen → gesundheitsschädlich / reizend
+   - Ätzwirkung → korrosiv (ADR-Klasse 8)
+   - Umwelt → wassergefährdend (WGK beachten → Worst-Case: WGK 3)
+   - Gas unter Druck → Druckgas (ADR-Klasse 2)
+   - Explodierende Bombe → explosiv (ADR-Klasse 1)
+2. Bis zur Identifikation: Worst-Case-Annahmen (GG IIC, WGK 3, Form 2 PSA)
+3. Leitstelle für Parallelrecherche einbinden (Informationsstufe 4)
 
-3. Bis zur Identifikation: worst-case-Annahmen (WGK 3, toxisch) für Schutzmaßnahmen.
-4. Empfehlung: Experten der Leitstelle oder BAM-Notfalltelefon (+49 30 18 455 5000) hinzuziehen.
+---
 
-### uebergabe_ableiten
-Wenn WGK und Stoffklasse bekannt sind:
+### gefahrengruppe
+**C-Gefahrengruppe bestimmen** (FwDV 500 § 4.1):
 
-1. Übergabe-Regeln abfragen:
-   `RAGSource_db_query({ db: "uebergabe_regeln", filter: { wgk: 2, stoffklasse: "3" } })`
-2. Aus dem Treffer:
-   - `kanalisation_freigabe`: "nein" / "nur nach UWB-Freigabe" / "ja"
-   - `entsorgungspfad`: wie entsorgen?
-   - `benachrichtigung_pflicht`: wen benachrichtigen? (JSON-Array)
-   - `rechtsgrundlage_source_id` + `rechtsgrundlage_section_ref`: Rechtstext abrufen
-3. Rechtstext zitieren:
-   `RAGSource_get({ source: "D_AwSV", sections: ["§ 18"] })`
-4. Ausgabe als GAMS-Block + Übergabe-Checkliste:
-   - Gefahrstoff: [Bezeichnung, UN-Nr, CAS, WGK]
-   - Absperr-/Sicherheitsbereich: [ERG-Abstände in Metern]
-   - Maßnahmen: [Kanalisation absperren ja/nein, PSA, Erstmaßnahmen]
-   - Entsorgung: [Pfad, AVV-Schlüssel]
-   - Benachrichtigungen: [Behörden, Schwellenwerte]
-   - Rechtsgrundlage: [Zitat aus AwSV/TRGS]
+```
+Gefahrengruppe IC:
+- Haushaltschemikalien ≤ 1.000 kg, keine besonderen Gefahren
+- Verpackungsgruppe III (geringe Gefahr) nach ADR/GGVSEB
 
-**Hinweis (bis Phase G4):** db_uebergabe_regeln ist noch nicht befüllt. Bis dahin: allgemeine Hinweise aus AwSV geben, ausdrücklich kennzeichnen.
+Gefahrengruppe IIC:
+- C-Gefahrstoffe > 1.000 kg
+- Verpackungsgruppe II (mittlere Gefahr)
+- Industriechemikalien in laborüblichen Mengen
+- Schwimmbäder mit Chloranlage, Kühlanlagen mit Ammoniak
 
-### allgemein_einsatz
-Allgemeine Grundsätze beim Gefahrgut-Einsatz (ohne spezifischen Stoff):
+Gefahrengruppe IIIC:
+- Verpackungsgruppe I (hohe Gefahr)
+- Betriebsbereiche nach 12. BImSchV (Störfall-Verordnung)
+- Sprengstoffe, militärische Munition/Kampfstoffe
+- Sehr große Mengen gefährlicher Chemikalien
 
-1. **Selbstschutz zuerst:** Sicherheitsabstand einhalten (mindestens 50 m bis zur Identifikation).
-2. **Informationsbeschaffung:** Gefahrguttafel lesen (Gefahrnummer + UN-Nummer), Begleitpapiere, Sicherheitsdatenblatt anfordern.
-3. **Leitstelle informieren:** Meldung mit UN-Nummer oder Gefahrnummer.
-4. **Zugriffssteuerung:** Kanalisation und Gewässer schützen, Zündquellen eliminieren.
-5. **Fachberatung:** BAM-Notfalltelefon (+49 30 18 455 5000), TUIS-System (Chemikalien-Industrie).
-6. **Rechtsquellen nutzen:** FwDV 500 (Feuerwehr-Dienstvorschrift), AwSV (Gewässerschutz), TRGS 900 (Arbeitsplatzgrenzwerte).
-   → `RAGSource_get({ source: "D_FwDV_500", sections: ["..."] })`
+Transporte: immer mindestens GG IIC — Mengen oft sehr groß!
+Anschlag / vorsätzliche Freisetzung: immer GG IIIC.
+```
+
+VpGr aus `bam_vpgruppe`-Spalte lesen (I=hoch, II=mittel, III=gering).
+Bei mehreren Einflussgrößen: höchste Gefahrengruppe gilt.
+
+> Hinweis: Bereiche der GG IIIC mit militärischer Munition/Kampfstoffen dürfen auch zur Menschenrettung NICHT ohne sachkundigen Militärangehörigen betreten werden (FwDV 500 § 4.4.2.5).
+
+---
+
+### psa_auswahl
+**PSA-Form wählen** (FwDV 500 § 1.3.1.2):
+
+| Situation | PSA-Form |
+|---|---|
+| Menschenrettung (Minimum) | Form 1 + Isoliergerät |
+| Bekannte Gefahrenlage GG IC, kein Gaskontakt | Form 1 |
+| Standard C-Einsatz GG IIC / unbekannte Lage | Form 2 |
+| GG IIIC / Gas-/Dampfexposition möglich / unbekannter Stoff | Form 3 |
+| Erkundung ohne ausreichende Erkenntnisse | Form 3 |
+
+**Form 1**: Brandschutzbekleidung + Schutzhaube — schützt nur vor festen ABC-Gefahrstoffen, kein Spritzschutz.
+**Form 2**: Schutzanzug — schützt vor festen und begrenzt flüssigen Gefahrstoffen, NICHT gasdicht.
+**Form 3**: Vollständiger Chemikalienschutzanzug — schützt vor festen, flüssigen und gasförmigen Gefahrstoffen; Isoliergerät max. 30 min unter Schutzanzug.
+
+Am Dekon-Platz: Form 2 als Einmalschutzanzug + Kombinationsfilter ABEK2-P3.
+
+**Hautresorption prüfen**: `trgs900_art`-Spalte enthält "H" bei Hautresorption → Form 2 Mindestanforderung auch bei gasförmigem Stoff.
+
+---
+
+### einsatzbereiche
+**Drei Bereiche einrichten** (FwDV 500 § 1.5.3.5):
+
+```
+Windrichtung →
+┌──────────────── ABSPERRBEREICH (grün) — min. 100 m ────────────────┐
+│    ┌──────────── ÜBERGANGSBEREICH (gelb) — min. 50 m ─────────────┐ │
+│    │    ┌──────── GEFAHRENBEREICH (rot) — min. 50 m ─────────┐   │ │
+│    │    │              • Schadenobjekt                        │   │ │
+│    │    └─────────────────────────────────────────────────────┘   │ │
+│    └──────────────────────────────────────────────────────────────┘ │
+└─────────────────────────────────────────────────────────────────────┘
+         Dekon-Platz: windzugewandt, außerhalb Gefahrenbereich
+```
+
+**Gefahrenbereich (rot)**: Zutritt nur mit geeigneter PSA. Markieren + sichern durch Feuerwehr.
+**Übergangsbereich (gelb)**: Zutritt für Einsatz-/Unterstützungskräfte + zu dekontaminierende Personen.
+**Absperrbereich (grün)**: Zutritt nur für erforderliche Kräfte. Sichern mit Polizei abstimmen.
+
+Rauchen, Essen, Trinken im Gefahren- und Übergangsbereich verboten.
+
+**Sonderfall Explosivstoffe / druckverflüssigte Gase unter Brandeinwirkung** (GG IIIC):
+Gefahrenbereich **500 m**, Absperrbereich **1.000 m** — erst nach Erkundung verkleinern.
+
+**4A-Regel** (FwDV 500 Anlage 2 — für alle Einsatzkräfte):
+- **Abstand** halten — je größer der Abstand, desto geringer Konzentration
+- **Aufenthaltsdauer** begrenzen — Penetration/Permeation steigt mit Zeit
+- **Abschirmung** nutzen — massive Deckungen reduzieren Konzentration
+- **Abschalten** — Anlagen/Behälter sichern/schließen soweit möglich und sinnvoll
+
+---
+
+### grenzwert_beurteilung
+**Beurteilungswert-Hierarchie** (FwDV 500 § 1.5.2) für C-Gefahrstoffe:
+
+1. **ETW** (Einsatztoleranzwert, vfdb-Richtlinie 10/01) — primär für Einsatzkräfte
+2. **AEGL-2** für 4h-Exposition — Schwellenwert für irreversible Schäden
+3. **AGW** (TRGS 900, 8h-TWA) — als untere Orientierung, Arbeitsplatzkonzept
+
+Immer ALARA-Prinzip: so niedrig wie vernünftigerweise erreichbar.
+
+**AGW aus DB lesen** (→ SKILL_db_gefahrstoff_abfrage § agw_spalten):
+- `trgs900_agw_ppm` und `trgs900_agw_mg_m3` — deutscher Rechtsgrenzwert
+- `pubchem_idlh` — US-NIOSH IDLH (Lebensgefahr-Schwellenwert), guter Vergleichswert
+- Präfix `pubchem_` = US-Wert; nicht rechtsverbindlich in DE, aber einsatzpraktisch relevant
+
+**Wenn keine Messung möglich**: Worst-Case-PSA (Form 3) bis Messung verfügbar.
+Nachweisgeräte-Reihenfolge: Gaswarngerät / Ex-Schutz → Mehrgaswarngerät → Prüfröhrchen → PID.
+
+---
+
+### dekon
+**Dekon-Pflicht**: Ab GG IIC ist eine Dekontamination durchzuführen. Einsatzkräfte werden vor Betreten des Gefahrenbereichs registriert.
+
+**Dekon-Stufen** (FwDV 500 § 1.5.3.6 + Anlage 3):
+
+**Stufe I — Sofort-Dekon** (zeitgleich mit erstem Trupp einrichten!):
+- Bei PSA-Schaden, Hautkontamination, Atemluftmangel, Verletzung
+- Nicht an Dekon-Platz gebunden — Ort danach als kontaminiert absperren
+- C-Einsatz: kontaminierte Hautstellen sofort mit Wasser abspülen (nicht abreiben!)
+
+**Stufe II — Standard-Dekon** (spätestens 15 min nach erstem PSA-Anlegen):
+- Pflicht bei jedem ABC-Einsatz unter PSA
+- Dekon-Platz windzugewandt außerhalb Gefahrenbereich
+- C-Einsatz: Dekon mit Wasser + ggf. Hilfsmitteln, Reinigungsflüssigkeit auffangen
+- Dekon P (Einsatzkräfte mit intakter PSA) vs. Dekon V (Verletzte, beschädigte PSA)
+- Nach Dekon: PSA und Geräte ablegen, bei GG IIC Hände/Gesicht/Haare reinigen
+
+**Stufe III — Erweiterte Dekon** (lagebezogen, unverzüglich alarmieren wenn erforderlich):
+- Viele zu dekontaminierende Personen, liegende Verletzte, spezielle Stoffe
+- Warmduschen nach GG IIC/IIIC-Einsatz, Zelt-Umkleide
+- Sanitäts- und Fachkräfte (V-Dekon), Abwassermengen auffangen
+
+**Grundsatz**: Lebensrettende Sofortmaßnahmen gehen vor Dekon — dabei Eigenschutz beachten.
+Wer Verdacht auf Kontamination oder Inkorporation hat: Arzt aufsuchen, Registrierung sicherstellen.
+
+**C-spezifisch GG IIC/IIIC**: Alle Personen aus diesen Bereichen gelten als kontaminiert bis zur fachgerechten Reinigung + Bestätigung durch sachkundige Person.
+
+---
+
+### uebergabe
+**Grundsatz** (FwDV 500 § 1.5.3.8): Der Gefahrenbereich wird bei ABC-Einsätzen NICHT von der Feuerwehr freigegeben — immer Übergabe an die zuständige Behörde.
+
+**Zuständige Behörde** je nach Schadensart:
+- Umweltbehörde (Gewässerschutz, Bodenkontamination → AwSV)
+- Gesundheitsbehörde (Kontamination/Vergiftungen)
+- Straßenbaulastträger (Transportunfall)
+
+**WGK-Pflichten aus AwSV ableiten**:
+1. WGK aus Stoff-Profil lesen: `rigoletto_wgk` (0–3)
+2. Übergabe-Regeln abfragen (→ SKILL_db_gefahrstoff_abfrage § uebergabe_abrufen)
+3. Bei Treffer: `kanalisation_freigabe`, `benachrichtigung_pflicht`, `avv_schluessel_primaer` lesen
+4. Bei Phase G4 (noch nicht vollständig befüllt): AwSV §§ 24, 25 direkt abrufen
+
+**Löschwasserrückhaltung** (FwDV 500 § 1.5.3.4): Wenn Abwasser kontaminiert sein könnte → Ausbreitung verhindern, Behörde informieren.
+
+**Übergabe-Checkliste**:
+```
+☐ Stoff: Bezeichnung, UN-Nr, CAS, WGK, ADR-Klasse
+☐ Menge/Leckrate abgeschätzt
+☐ Gefahrenbereich markiert und gesichert
+☐ Kanalisation: gesperrt / freigegeben
+☐ Löschwasser: zurückgehalten / unkontrolliert
+☐ Behörde verständigt: [Umwelt / Gesundheit / Ordnung]
+☐ Rechtsgrundlage: [AwSV §, WHG §]
+☐ Übergabe an: [Behördenvertreter Name/Stelle]
+```
+
+---
+
+### nachsorge
+**Registrierung und ärztliche Überwachung** (FwDV 500 § 4.4.3):
+
+Bei Einsätzen in GG IIC oder IIIC: alle Einsatzkräfte namentlich erfassen.
+
+Sofort zum Arzt bei:
+- Nachgewiesener oder vermuteter Kontamination (PSA-Schaden, undichter Atemanschluss)
+- Inkorporationsverdacht
+- Verletzungen
+- Einsatz mit sensibilisierenden, krebserregenden oder erbgutverändernden Stoffen
+
+Information an den Rettungsdienst bei kontaminierten Personen:
+- Art und vermuteter Stoff
+- Grad der Kontamination, betroffene Flächen
+- Dauer der Einwirkung
+- Bisherige Dekon-Maßnahmen und Erfolg
+
+Späterkrankungen im Zusammenhang mit dem Einsatz: alle Beteiligten erneut zum Arzt.
+Dokumentation für Unfallkasse (DGUV) sicherstellen.
