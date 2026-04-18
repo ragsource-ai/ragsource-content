@@ -17,6 +17,7 @@ stand: 2025-06-03
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

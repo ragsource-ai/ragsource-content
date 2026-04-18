@@ -18,6 +18,7 @@ beschreibung: "Redaktionell konsolidierte Lesefassung; Änderungssatzungen von 2
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

@@ -15,6 +15,7 @@ beschreibung: Regelt die gemeinwirtschaftliche Tarifverpflichtung zur Rabattieru
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Verkehrsrecht
   - Kommunalrecht

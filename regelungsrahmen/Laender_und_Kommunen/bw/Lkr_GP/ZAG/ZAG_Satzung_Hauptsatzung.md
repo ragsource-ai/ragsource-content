@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Hauptsatzung_23.04.2
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 ---

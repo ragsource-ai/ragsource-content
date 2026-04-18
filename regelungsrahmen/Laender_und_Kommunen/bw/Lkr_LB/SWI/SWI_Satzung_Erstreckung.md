@@ -17,6 +17,7 @@ beschreibung: "Erstreckung der Gutachterausschussgebührensatzung und Verwaltung
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

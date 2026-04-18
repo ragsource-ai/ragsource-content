@@ -17,6 +17,7 @@ beschreibung: "Begründet ein besonderes Vorkaufsrecht des Zweckverbandes Laibli
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Baurecht
   - Kommunalrecht

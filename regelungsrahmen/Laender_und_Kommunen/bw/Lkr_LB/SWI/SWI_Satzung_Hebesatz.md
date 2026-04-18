@@ -19,6 +19,7 @@ extensions:
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 ---
 
 ## Inhaltsverzeichnis

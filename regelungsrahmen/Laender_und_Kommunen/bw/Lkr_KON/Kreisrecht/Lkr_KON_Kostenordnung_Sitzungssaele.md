@@ -15,6 +15,7 @@ beschreibung: Regelt die Entgelte und allgemeinen Bedingungen für die Nutzung d
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

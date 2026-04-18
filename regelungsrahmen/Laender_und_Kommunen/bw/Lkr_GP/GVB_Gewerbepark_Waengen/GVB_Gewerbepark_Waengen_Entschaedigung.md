@@ -15,6 +15,7 @@ beschreibung: "Regelt die Aufwandsentschädigungen und den Auslagenersatz für e
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 verband: "Zweckverband Gewerbepark Wängen"

@@ -15,6 +15,7 @@ beschreibung: Verbandssatzung des Zweckverbands Schulverband 'Westliche Voralb' 
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

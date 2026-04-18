@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Sitzungsverguetung_S
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Arbeitsrecht

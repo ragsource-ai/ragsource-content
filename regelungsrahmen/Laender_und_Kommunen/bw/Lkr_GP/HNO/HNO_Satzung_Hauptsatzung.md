@@ -16,6 +16,7 @@ url: "https://www.hattenhofen.de/fileadmin/Dateien/Dateien/Hattenhofen/Ortsrecht
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verwaltungsrecht

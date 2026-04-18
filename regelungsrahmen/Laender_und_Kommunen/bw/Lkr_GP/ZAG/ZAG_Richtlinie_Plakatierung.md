@@ -17,6 +17,7 @@ beschreibung: Regelt die Voraussetzungen und Bedingungen für die zeitlich befri
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Gefahrenabwehrrecht

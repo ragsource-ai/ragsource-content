@@ -17,6 +17,7 @@ beschreibung: "Förderprogramm der Gemeinde Zell u.A. für die Anschaffung und I
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Umwelt- & Naturrecht

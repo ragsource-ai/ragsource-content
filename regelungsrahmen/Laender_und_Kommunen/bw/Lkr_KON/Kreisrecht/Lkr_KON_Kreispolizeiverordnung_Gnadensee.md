@@ -14,6 +14,7 @@ url: "https://www.lrakn.de/site/lrakn/get/documents_E1392238840/lrakn/PB5Documen
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Gefahrenabwehrrecht
   - Kommunalrecht

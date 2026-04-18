@@ -15,6 +15,7 @@ gueltig_ab: 2024-05-16
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/feuerwehrkostenersatzsatzung.pdf"
 url_nachfolger:
 extensions:

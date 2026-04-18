@@ -17,6 +17,7 @@ beschreibung: "Regelt Organisation, Mitgliedschaft, Organe und Aufgaben der Jagd
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Umwelt- & Naturrecht

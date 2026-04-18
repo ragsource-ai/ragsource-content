@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Katzenschutzverordnung.pdf"
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Gefahrenabwehrrecht

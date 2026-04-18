@@ -15,6 +15,7 @@ beschreibung: "Regelt die Erhebung monatlicher gestaffelter Kostenbeiträge für
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Sozialrecht

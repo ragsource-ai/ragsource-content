@@ -15,6 +15,7 @@ beschreibung: "Gebührenverordnung des Landratsamtes Konstanz für Amtshandlunge
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

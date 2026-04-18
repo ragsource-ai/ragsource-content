@@ -15,6 +15,7 @@ beschreibung: Kostenbeiträge für Kindertagespflege im Landkreis Konstanz für 
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Sozialrecht

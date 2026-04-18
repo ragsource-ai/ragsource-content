@@ -15,6 +15,7 @@ stand: 2024-03-11
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

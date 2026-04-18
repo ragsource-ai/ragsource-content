@@ -17,6 +17,7 @@ beschreibung: "Regelt die finanzielle Förderung eingetragener, gemeinnütziger 
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 ---

@@ -17,6 +17,7 @@ beschreibung: "Regelt Erlaubnispflicht und Gebühren für Sondernutzungen an öf
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

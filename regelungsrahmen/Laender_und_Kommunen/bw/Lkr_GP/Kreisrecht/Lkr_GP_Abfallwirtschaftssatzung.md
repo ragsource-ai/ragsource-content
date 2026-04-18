@@ -13,6 +13,7 @@ gueltig_ab: 2022-01-01
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Umwelt- & Naturrecht

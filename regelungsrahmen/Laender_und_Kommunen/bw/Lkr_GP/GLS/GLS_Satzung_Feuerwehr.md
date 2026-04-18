@@ -16,6 +16,7 @@ url: "https://gammelshausen.net/wp-content/uploads/2021/02/Feuerwehrsatzung_Gamm
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Gefahrenabwehrrecht

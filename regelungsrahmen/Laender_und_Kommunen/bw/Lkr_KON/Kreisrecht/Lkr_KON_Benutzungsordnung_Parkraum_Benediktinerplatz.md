@@ -14,6 +14,7 @@ url: "https://www.lrakn.de/site/lrakn/get/documents_E-1660170443/lrakn/Objekte/I
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verkehrsrecht

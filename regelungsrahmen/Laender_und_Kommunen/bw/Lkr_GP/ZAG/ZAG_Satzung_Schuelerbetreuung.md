@@ -17,6 +17,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Schuelerbetreuungssa
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

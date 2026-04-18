@@ -15,6 +15,7 @@ url: https://gammelshausen.net/wp-content/uploads/Verwaltungsgebuehrensatzung-20
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

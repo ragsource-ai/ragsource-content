@@ -17,6 +17,7 @@ status: published
 url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/ODU-Satzung_ab_01.07.2025.pdf"
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Sozialrecht

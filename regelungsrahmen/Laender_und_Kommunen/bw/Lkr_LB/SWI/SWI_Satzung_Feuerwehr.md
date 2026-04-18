@@ -16,6 +16,7 @@ url: "https://www.schwieberdingen.de/site/Schwieberdingen-2025/get/params_E10463
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Gefahrenabwehrrecht

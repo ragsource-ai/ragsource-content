@@ -16,6 +16,7 @@ beschreibung: "Satzung des Gemeindeverwaltungsverbands Schwieberdingen - Hemming
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 verband_ars: "081185006"

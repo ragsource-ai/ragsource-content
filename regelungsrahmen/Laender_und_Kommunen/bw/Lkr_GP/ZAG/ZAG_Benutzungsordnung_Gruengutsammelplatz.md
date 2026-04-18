@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/7.9.1_Benutzungsordnung_fuer_d
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Umwelt- & Naturrecht

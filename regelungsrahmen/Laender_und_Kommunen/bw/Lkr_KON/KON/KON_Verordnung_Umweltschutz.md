@@ -13,6 +13,7 @@ gueltig_ab: 2022-03-22
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E1880184109/konstanz/Dateien/Service/Ortsrecht/III%20Recht,%20Sicherheit%20und%20Ordnung/III_01%20Umweltschutz-%20und%20Polizeiverordnung.pdf"
 url_nachfolger:
 extensions:

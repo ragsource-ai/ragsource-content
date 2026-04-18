@@ -17,6 +17,7 @@ beschreibung: "Anpassungssatzung, die in die Feuerwehr-Kostenersatz-Satzung, Fri
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

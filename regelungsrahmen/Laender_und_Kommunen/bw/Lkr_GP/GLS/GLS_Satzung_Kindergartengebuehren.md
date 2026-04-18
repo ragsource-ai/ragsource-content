@@ -15,6 +15,7 @@ url: https://gammelshausen.net/wp-content/uploads/2021/02/Kindergartengebuehren_
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

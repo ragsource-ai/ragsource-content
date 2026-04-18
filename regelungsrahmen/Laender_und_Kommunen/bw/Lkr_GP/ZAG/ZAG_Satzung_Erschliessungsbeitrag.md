@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Erschliessungsbeitragssatzung.
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Baurecht

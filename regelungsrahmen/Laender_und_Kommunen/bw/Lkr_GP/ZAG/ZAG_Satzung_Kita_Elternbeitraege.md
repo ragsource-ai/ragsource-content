@@ -16,6 +16,7 @@ status: published
 url: "https://zellua.de/fileadmin/media/downloads/Einrichtungen/Kita-Elternbeitraege_ab_01.01.2025.PDF"
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

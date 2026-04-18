@@ -14,6 +14,7 @@ url: https://www.lrakn.de/site/lrakn/get/documents_E-1312900431/lrakn/PB5Documen
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

@@ -17,6 +17,7 @@ beschreibung: "Betriebssatzung für den Eigenbetrieb Wasserversorgung Hattenhofe
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Umwelt- & Naturrecht

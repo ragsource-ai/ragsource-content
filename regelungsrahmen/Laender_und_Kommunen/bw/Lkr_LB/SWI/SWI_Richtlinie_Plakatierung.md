@@ -18,6 +18,7 @@ beschreibung: "Regelt die Plakatierung im Gemeindegebiet für Veranstaltungen so
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verwaltungsrecht

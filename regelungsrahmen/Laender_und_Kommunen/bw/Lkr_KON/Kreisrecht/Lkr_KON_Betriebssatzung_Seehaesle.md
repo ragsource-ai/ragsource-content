@@ -16,6 +16,7 @@ beschreibung: "Konsolidierte Lesefassung. Enthält Änderung vom 15.12.2008 (§ 
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verkehrsrecht

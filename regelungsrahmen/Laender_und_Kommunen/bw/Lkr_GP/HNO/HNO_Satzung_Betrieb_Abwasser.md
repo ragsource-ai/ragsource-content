@@ -17,6 +17,7 @@ beschreibung: "Betriebssatzung für den Eigenbetrieb Abwasserbeseitigung Hattenh
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Umwelt- & Naturrecht

@@ -15,6 +15,7 @@ gueltig_ab: 1999-03-25
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/satzung_erhebung_kostenerstattungsbeitraege.pdf"
 url_nachfolger:
 extensions:

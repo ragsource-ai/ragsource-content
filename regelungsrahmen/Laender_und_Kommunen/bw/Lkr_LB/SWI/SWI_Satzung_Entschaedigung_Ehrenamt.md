@@ -17,6 +17,7 @@ beschreibung: "Änderungssatzung (2023) zur Entschädigungssatzung für ehrenamt
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verwaltungsrecht

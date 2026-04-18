@@ -15,6 +15,7 @@ beschreibung: Regelt die Nutzung der Sportstätten an kreiseigenen Schulen des L
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

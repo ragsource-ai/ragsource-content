@@ -15,6 +15,7 @@ gueltig_ab: 2025-01-01
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/H2_-_Hundesteuersatzung_1.pdf"
 url_nachfolger:
 extensions:

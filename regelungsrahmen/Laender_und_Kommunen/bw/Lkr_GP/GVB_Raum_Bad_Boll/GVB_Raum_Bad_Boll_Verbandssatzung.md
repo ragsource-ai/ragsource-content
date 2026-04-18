@@ -15,6 +15,7 @@ gueltig_ab: 2024-07-01
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verwaltungsrecht

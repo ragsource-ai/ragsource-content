@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Raeum-_und_Streupfli
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verkehrsrecht

@@ -17,6 +17,7 @@ beschreibung: Regelt die Aufnahme, Grundsätze und Ausschlüsse von Veröffentli
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 ---

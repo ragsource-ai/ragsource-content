@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/1.3_Satzung_ueber_die_Form_der
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verwaltungsrecht

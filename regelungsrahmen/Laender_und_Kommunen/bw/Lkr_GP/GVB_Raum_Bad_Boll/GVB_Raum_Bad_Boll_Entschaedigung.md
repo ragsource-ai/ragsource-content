@@ -16,6 +16,7 @@ beschreibung: Regelt die Entschädigung für ehrenamtliche Tätigkeit im Gemeind
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 verband_ars: "081175009"

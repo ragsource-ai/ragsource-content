@@ -16,6 +16,7 @@ beschreibung: "Gebühren und Auslagen des Landratsamtes Konstanz für amtliche L
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Gesundheitsrecht
   - Steuer- & Abgabenrecht

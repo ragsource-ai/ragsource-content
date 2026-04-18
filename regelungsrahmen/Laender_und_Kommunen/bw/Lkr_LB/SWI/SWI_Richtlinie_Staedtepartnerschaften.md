@@ -17,6 +17,7 @@ beschreibung: Regelungen zur finanziellen Förderung von Begegnungen im Rahmen d
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 ---

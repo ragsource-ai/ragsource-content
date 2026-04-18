@@ -15,6 +15,7 @@ gueltig_ab: 2025-07-31
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/V3_-_Verwaltungsgebuehrensatzung_NEU_Stand_Juli_2025_Komplett.pdf"
 url_nachfolger:
 extensions:

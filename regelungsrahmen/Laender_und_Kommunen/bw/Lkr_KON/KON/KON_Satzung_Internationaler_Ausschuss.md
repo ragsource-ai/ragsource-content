@@ -15,6 +15,7 @@ quelle: ""
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 url: "https://www.konstanz.de/site/Konstanz/get/documents_E-1569669069/konstanz/Dateien/Service/Ortsrecht/I%20Allgemeine%20Verwaltung/I_15%20Satzung%20der%20Stadt%20Konstanz%20%C3%BCber%20die%20Bildung,%20Zusammensetzung%20und%20Aufgaben%20eines%20Internationalen%20Ausschusses.pdf"

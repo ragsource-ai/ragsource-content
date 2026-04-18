@@ -15,6 +15,7 @@ beschreibung: "Anlage nach § 1 Abs. 1 der Gebührenverordnung des Landratsamtes
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

@@ -16,6 +16,7 @@ beschreibung: "Verbandssatzung des Zweckverbands der Gemeinden Dürnau und Gamme
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

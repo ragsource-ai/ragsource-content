@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Hebesatzsatzung_Zell
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

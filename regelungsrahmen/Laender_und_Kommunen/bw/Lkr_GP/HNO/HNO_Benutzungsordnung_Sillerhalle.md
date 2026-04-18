@@ -17,6 +17,7 @@ beschreibung: "Regelt die Benutzung der Sillerhalle (Mehrzweckhalle) einschließ
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 ---

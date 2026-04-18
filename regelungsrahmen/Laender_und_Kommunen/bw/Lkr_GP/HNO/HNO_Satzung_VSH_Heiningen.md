@@ -17,6 +17,7 @@ beschreibung: Vereinbarung über die Übernahme der VHS-Trägerschaft für die G
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

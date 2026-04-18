@@ -13,6 +13,7 @@ gueltig_ab: 2026-01-01
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

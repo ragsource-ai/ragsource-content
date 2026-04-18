@@ -15,6 +15,7 @@ beschreibung: Regelt Nutzungsentgelte für kreiseigene Schulräume, Turnhallen u
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

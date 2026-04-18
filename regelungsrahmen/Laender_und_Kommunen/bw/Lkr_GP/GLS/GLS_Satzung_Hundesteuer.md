@@ -16,6 +16,7 @@ url: "https://gammelshausen.net/wp-content/uploads/Hundesteuersatzung-2026.pdf"
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

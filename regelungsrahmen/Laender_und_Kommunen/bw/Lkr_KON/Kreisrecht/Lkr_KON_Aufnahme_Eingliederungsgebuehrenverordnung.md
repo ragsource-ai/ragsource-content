@@ -15,6 +15,7 @@ beschreibung: "Regelt die Gebühren für die Unterbringung in Aufnahme- und Eing
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

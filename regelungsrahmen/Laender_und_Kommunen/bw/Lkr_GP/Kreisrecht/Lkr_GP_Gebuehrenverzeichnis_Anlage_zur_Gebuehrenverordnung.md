@@ -13,6 +13,7 @@ gueltig_ab: 2025-03-01
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

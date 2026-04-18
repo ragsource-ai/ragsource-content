@@ -15,6 +15,7 @@ gueltig_ab: 2015-07-30
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/B7_-_Benutzungsordnung_Obdachlosenunterkunft_10_2023.pdf"
 url_nachfolger:
 extensions:

@@ -17,6 +17,7 @@ beschreibung: "Regelt die Nutzungsbedingungen und Gebühren für den gemeindlich
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

@@ -17,6 +17,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Wasserversorgungssat
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/9.1_Satzung_ueber_die_Erhebung
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

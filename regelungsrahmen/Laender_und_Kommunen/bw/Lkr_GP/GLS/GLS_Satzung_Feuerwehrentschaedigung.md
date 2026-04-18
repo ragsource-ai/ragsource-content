@@ -16,6 +16,7 @@ url: "https://gammelshausen.net/wp-content/uploads/Feuerwehrentschaedigungssatzu
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Gefahrenabwehrrecht

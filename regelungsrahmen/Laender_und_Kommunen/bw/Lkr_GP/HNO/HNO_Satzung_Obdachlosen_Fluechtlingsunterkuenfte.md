@@ -17,6 +17,7 @@ beschreibung: "Regelt die Benutzung der gemeindlichen Obdachlosen- und Flüchtli
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Sozialrecht

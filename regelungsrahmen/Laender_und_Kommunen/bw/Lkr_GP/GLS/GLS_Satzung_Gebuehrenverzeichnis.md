@@ -17,6 +17,7 @@ beschreibung: "Anlage zur Verwaltungsgebührensatzung der Gemeinde Gammelshausen
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

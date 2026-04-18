@@ -17,6 +17,7 @@ beschreibung: "Gebühren für den Übungsbetrieb und Veranstaltungen in der Spor
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

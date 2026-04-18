@@ -16,6 +16,7 @@ url: "https://www.hattenhofen.de/fileadmin/Dateien/Cross7/Root/de/Hattenhofen/In
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Baurecht
   - Kommunalrecht

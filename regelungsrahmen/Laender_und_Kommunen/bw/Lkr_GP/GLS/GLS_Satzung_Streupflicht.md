@@ -17,6 +17,7 @@ url: "https://gammelshausen.net/wp-content/uploads/2021/02/Streupflichtsatzung_G
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Verwaltungsrecht

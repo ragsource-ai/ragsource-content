@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/Rathaus___Verwaltung/Benutzung
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 ---

@@ -14,6 +14,7 @@ url: "https://www.lrakn.de/site/lrakn/get/params_E-1971198063/3642189/Haushaltss
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

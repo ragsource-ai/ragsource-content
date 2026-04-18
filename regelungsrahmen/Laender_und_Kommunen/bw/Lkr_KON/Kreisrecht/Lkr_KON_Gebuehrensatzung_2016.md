@@ -15,6 +15,7 @@ beschreibung: "Regelt die Erhebung von Verwaltungsgebühren und Sondernutzungsge
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

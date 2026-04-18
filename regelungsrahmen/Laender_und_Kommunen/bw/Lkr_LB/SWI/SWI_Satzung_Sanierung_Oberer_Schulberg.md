@@ -18,6 +18,7 @@ beschreibung: "Förmliche Festlegung des Sanierungsgebietes 'Oberer Schulberg' n
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Baurecht
   - Kommunalrecht

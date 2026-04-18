@@ -17,6 +17,7 @@ stand: 2010-09-27
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Baurecht

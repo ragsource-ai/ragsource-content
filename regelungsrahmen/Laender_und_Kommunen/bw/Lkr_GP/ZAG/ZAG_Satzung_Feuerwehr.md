@@ -16,6 +16,7 @@ url: "https://zellua.de/fileadmin/media/downloads/3.3_Feuerwehrsatzung.pdf"
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Gefahrenabwehrrecht

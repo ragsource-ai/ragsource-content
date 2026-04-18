@@ -17,6 +17,7 @@ beschreibung: "Regelt die redaktionellen Grundsätze, Veröffentlichungsberechti
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
 ---

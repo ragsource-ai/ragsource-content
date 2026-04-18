@@ -16,6 +16,7 @@ status: published
 url: "https://zellua.de/fileadmin/media/downloads/Ortsrecht/Kita-Satzung__gueltig_ab_01.07.2023.pdf"
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

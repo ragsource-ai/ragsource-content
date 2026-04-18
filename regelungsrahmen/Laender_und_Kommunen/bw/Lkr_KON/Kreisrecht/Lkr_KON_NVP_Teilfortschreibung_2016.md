@@ -15,6 +15,7 @@ beschreibung: "Teilfortschreibung des Nahverkehrsplans 2011 für den Landkreis K
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Verkehrsrecht
   - Kommunalrecht

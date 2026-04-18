@@ -14,6 +14,7 @@ url: "https://www.lrakn.de/site/lrakn/get/documents_E82615021/lrakn/Objekte/krei
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

@@ -16,6 +16,7 @@ url: "https://gammelshausen.net/wp-content/uploads/Hebesatzsatzung_Gammelshausen
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

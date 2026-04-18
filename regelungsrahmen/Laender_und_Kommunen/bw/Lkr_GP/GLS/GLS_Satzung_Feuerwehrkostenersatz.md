@@ -16,6 +16,7 @@ url: "https://gammelshausen.net/wp-content/uploads/Feuerwehrkostenersatzsatzung_
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Gefahrenabwehrrecht

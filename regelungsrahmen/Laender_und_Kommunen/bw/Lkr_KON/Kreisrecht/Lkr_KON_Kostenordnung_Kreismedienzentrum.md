@@ -14,6 +14,7 @@ url: "https://www.lrakn.de/site/lrakn/get/documents_E-1489491805/lrakn/PB5Docume
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Steuer- & Abgabenrecht

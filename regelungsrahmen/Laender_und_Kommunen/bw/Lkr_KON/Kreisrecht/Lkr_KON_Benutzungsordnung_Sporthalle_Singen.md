@@ -15,6 +15,7 @@ beschreibung: Regelt die Nutzung der dreiteiligen Sporthalle des Landkreises Kon
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 extensions:
   - Kommunalrecht
   - Bildungs- & Jugendrecht

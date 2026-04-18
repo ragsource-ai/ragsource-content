@@ -15,6 +15,7 @@ gueltig_ab: 2007-03-29
 status: published
 endpoints:
   - amtsschimmel
+  - brandmeister
 url: "https://daten2.verwaltungsportal.de/dateien/seitengenerator/545d755504e296c7e756c08b585edfac200801/satzung_ueber_weitere_verkaufssonntage.pdf"
 url_nachfolger:
 extensions:
