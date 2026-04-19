@@ -44,7 +44,7 @@ extensions:
 
 ---
 
-### Teil I – Rahmenrichtlinien
+## Teil I – Rahmenrichtlinien
 
 **Allgemeines**
 
@@ -598,7 +598,7 @@ Gegebenenfalls sind zur Dekontamination/Desinfektion Personenduschen, Zelte, War
 
 ---
 
-### Teil II – Spezielle Richtlinien: A-Einsatz
+## Teil II – Spezielle Richtlinien: A-Einsatz
 
 ### 2.1 Einteilung in Gefahrengruppen (A-Einsatz)
 
@@ -813,7 +813,7 @@ Wenn die ermittelte oder abgeschätzte effektive Dosis 1 mSv überschreitet, gil
 
 ---
 
-### Teil II – Spezielle Richtlinien: B-Einsatz
+## Teil II – Spezielle Richtlinien: B-Einsatz
 
 ### 3.1 Einteilung in Gefahrengruppen (B-Einsatz)
 
@@ -963,7 +963,7 @@ Alle Personen, die an Einsätzen in Bereichen der Gefahrengruppen IIB und IIIB t
 
 ---
 
-### Teil II – Spezielle Richtlinien: C-Einsatz
+## Teil II – Spezielle Richtlinien: C-Einsatz
 
 ### 4.1 Einteilung in Gefahrengruppen (C-Einsatz)
 

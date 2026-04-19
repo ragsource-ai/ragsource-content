@@ -243,7 +243,7 @@ Der Zugang zur Einsatzstelle und der Einsatzablauf dürfen nicht behindert werde
 
 An räumlich ausgedehnten Einsatzstellen, bei denen zwischen Löschfahrzeug und Verteiler ungünstige Wegverhältnisse bestehen oder bei denen der Abstand zwischen Löschfahrzeug und Verteiler groß ist – etwa mehr als fünf B-Druckschlauchlängen – sind die erforderlichen Geräte (zum Beispiel Atemschutzgeräte, Strahlrohre, Schläuche, Leitern und Sanitätsgerät) am Platz des Verteilers abzulegen.
 
-## 5 Einsatzablauf in Gruppe, Staffel und Selbstständigem Trupp
+### 5 Einsatzablauf in Gruppe, Staffel und Selbstständigem Trupp
 
 ### 5.1 Grundsätzliches zum Einsatzablauf
 

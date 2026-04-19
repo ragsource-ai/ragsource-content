@@ -791,7 +791,7 @@ u   Status / Funkgerät überprüfen
 
 Der Notruf im Analogfunk wird in Abweichung zu den Festlegungen in Kapitel 5.2.1 durch die Tastenziffer "0" (Null) ausgelöst.
 
-## Anlage 1: Abkürzungsverzeichnis
+### Anlage 1: Abkürzungsverzeichnis
 
 ```
 AFKzV          Ausschuss "Feuerwehrangelegenheiten, Katastrophenschutz
@@ -823,7 +823,7 @@ TMO            Trunked Mode Operation
 TTB            Taktisch-Technische Betriebsstelle
 ```
 
-## Anlage 2: Fachbegriffe
+### Anlage 2: Fachbegriffe
 
 **Autorisierte Stelle für den Digitalfunk BOS** — verantwortliche Organisationseinheit der Länder und des Bundes für das Bereitstellen der Sprach-, Datendienste und Anwendungen im Digitalfunk BOS in ihrem Zuständigkeitsbereich
 
@@ -883,7 +883,7 @@ TTB            Taktisch-Technische Betriebsstelle
 
 **Vollduplex** — Daten können in beide Richtungen gleichzeitig übertragen werden. Vollduplex entspricht dem Gegensprechen im Analogfunk.
 
-## Anlage 3: Erläuterung Reichweitenverschiebung des DMO-Repeaters
+### Anlage 3: Erläuterung Reichweitenverschiebung des DMO-Repeaters
 
 Die Reichweitenverschiebung durch einen DMO-Repeater wird nur schematisch dargestellt. In der Praxis darf daher nicht von einem kreisförmigen Wirkbereich von Funkgeräten in Bezug auf die Reichweite ausgegangen werden. Neben der räumlichen Entfernung sind weitere beeinflussende Faktoren wie z.B. die Bebauung, die Topologie, die Sendeleistung, die Empfangsempfindlichkeit und die Antennenanlage zu berücksichtigen.
 

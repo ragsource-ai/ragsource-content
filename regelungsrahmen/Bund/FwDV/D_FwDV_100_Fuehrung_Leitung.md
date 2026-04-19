@@ -51,8 +51,6 @@ Die FwDV 100 gewährleistet sowohl die länderübergreifende Zusammenarbeit als 
 
 Die FwDV 100 "Führung und Leitung im Einsatz" baut auf die zwischen 1975 und 1980 erarbeitete FwDV 12/1 "Einsatzleitung - Führungssystem" und auf die Katastrophenschutz-Dienstvorschrift KatS-Dv 100 "Führung im Einsatz" aus dem Jahre 1982 auf. Nach Wegfall der KatS-Dv 100 im Zuge der geänderten Zivilschutzkonzeption ist es sinnvoll geworden, die Bezeichnung dieser Feuerwehr-Dienstvorschrift dem bei Polizei, Bundeswehr und den Hilfsorganisationen geläufigen Nummerierungssystem anzupassen und sie FwDV 100 zu nennen.
 
-## 1 Allgemeines
-
 ### 1 Allgemeines
 
 **1.1 Bedeutung der Einsatzleitung**
@@ -70,8 +68,6 @@ Die Einsatzleitung hat die Aufgabe, alle Maßnahmen zur Abwehr der Gefahren und 
 Grundlage für die Leitung von Einsätzen zur Gefahrenabwehr sind die gesetzlichen Regelungen der Länder, insbesondere das Feuerwehrrecht. Daraus ergibt sich, wer Einsatzleiterin oder Einsatzleiter ist und welche Rechte und Pflichten diese haben. Deren Hauptaufgabe ist es, mit Hilfe der unterstellten Einsatzkräfte die im Einzelfall zum Schutz der Allgemeinheit oder des einzelnen erforderlichen und der Feuerwehr obliegenden Maßnahmen zu treffen. Der Einsatzleiterin oder dem Einsatzleiter können entsprechend dem jeweils geltenden Landesrecht Befugnisse gegenüber Dritten übertragen sein.
 
 Erfordern Großschadenereignisse die Feststellung des Katastrophenfalls, gehen die Katastrophenschutzgesetze der Länder oder das Zivilschutzgesetz des Bundes dem Feuerwehrrecht vor.
-
-## 2 Führung und Leitung
 
 ### 2 Führung und Leitung
 
@@ -161,8 +157,6 @@ Zur Erfüllung von Führungsaufgaben gelten folgende Führungsgrundsätze:
 - Auch bei Anwendung eines kooperativen Führungsstils bleibt die Gesamtverantwortung der Einsatzleiterin oder des Einsatzleiters unberührt.
 
 Die Leistungsfähigkeit des Führungssystems zeigt sich daran, inwieweit die Führung ihre Absicht verwirklichen und den Lageänderungen schnell und sachgerecht begegnen kann.
-
-## 3.2 Führungsorganisation
 
 ### 3.2 Führungsorganisation
 
@@ -461,8 +455,6 @@ Die Gliederung und die personelle Besetzung der Einsatzleitung ergeben sich flie
   - mehrere Verbände an einer Einsatzstelle oder an mehreren Einsatzstellen im Schadengebiet
   - Führungsgruppe beziehungsweise Führungsstab des Landkreises, der kreisfreien Stadt beziehungsweise des Stadtkreises
   - Führungseinrichtung des Aufgabenträgers der überörtlichen Gefahrenabwehr (zum Beispiel Leitstelle oder Informations- und Kommunikationszentrale)
-
-## 3.3 Führungsvorgang
 
 ### 3.3 Führungsvorgang
 
@@ -873,8 +865,6 @@ In den Leitstellen erfolgt die Dokumentation mit Hilfe von Einsatzleitprogrammen
 Der Zweck und die Bedeutung der oben genannten Unterlagen und Übersichten sind in Anlage 5 zusammengestellt. Bei der Arbeit mit ihnen, insbesondere bei der Lagedarstellung, werden grafische Symbole und taktische Zeichen (Anlage 6) verwendet.
 
 Die Lagedarstellung und die Dokumentation sind nicht nur zentral, sondern auch bei den unterstellten Einheiten und Einrichtungen zu führen.
-
-## 3.4 Führungsmittel
 
 ### 3.4 Führungsmittel
 

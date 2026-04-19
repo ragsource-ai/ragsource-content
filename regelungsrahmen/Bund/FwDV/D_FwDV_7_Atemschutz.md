@@ -159,8 +159,6 @@ Für Einsatzkräfte, die das erforderliche Sehvermögen nur mit einer Brille err
 
 Wenn der Atemanschluss zur persönlichen Ausrüstung gehört, ist die personenbezogene Zuordnung in geeigneter Weise kenntlich zu machen. Es ist sicherzustellen, dass jedem Atemschutzgeräteträger ein passender Atemanschluss zur Verfügung steht.
 
-## 6 Aus- und Fortbildung
-
 ### 6 Aus- und Fortbildung
 
 Die Ausbildung zum Atemschutzgeräteträger wird nach der Feuerwehr-Dienstvorschrift 2 (FwDV 2) "Ausbildung der Freiwilligen Feuerwehren" durchgeführt. Die Ausbildung findet an nach Landesrecht anerkannten Ausbildungsstätten statt. Ausbilder für Atemschutzgeräteträger, die nach FwDV 2 ausgebildet sind, führen die Ausbildung durch. Sie können von weiteren geeigneten Personen unterstützt werden.

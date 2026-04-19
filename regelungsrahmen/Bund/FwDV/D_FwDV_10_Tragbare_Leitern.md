@@ -35,7 +35,7 @@ extensions:
   *→ enthält außerdem: 11.1 Allgemeines zur Multifunktionsleiter; Verwendungsmöglichkeiten der Multifunktionsleiter; 11.2 Vornahme von einer Multifunktionsleiter; 11.3 Vornahme von zwei Multifunktionsleitern; 11.4 Einsatzgrundsätze Multifunktionsleiter*
 - 12 Steigen und Einsteigen
 
-## Vorwort
+### Vorwort
 
 Die bundeseinheitlichen Feuerwehr-Dienstvorschriften wurden zur Anwendung bei allen Feuerwehren des Bundesgebietes zur Einführung empfohlen. Zweck der Feuerwehr-Dienstvorschriften ist es, die erforderliche Einheitlichkeit im Feuerwehrdienst in allen Bundesländern herbeizuführen und für die Zukunft sicherzustellen. Die Feuerwehr-Dienstvorschrift 10 (FwDV 10) gilt für den Einsatz, insbesondere zur Menschenrettung. Sie gilt auch für die Ausbildung.
 
@@ -60,15 +60,11 @@ Die Funktionsbezeichnungen gelten sowohl für weibliche als auch für männliche
 
 Diese Dienstvorschrift wurde vom Ausschuss „Feuerwehrangelegenheiten, Katastrophenschutz und zivile Verteidigung" (AFKzV) per Umlaufbeschluss am 8. Juli 2020 genehmigt und den Ländern zur Einführung empfohlen.
 
-## 1 Begriff: Tragbare Leitern
-
 ### 1 Begriff: Tragbare Leitern
 
 Tragbare Leitern sind Leitern, die auf oder in Feuerwehrfahrzeugen mitgeführt, an der Einsatzstelle von der Mannschaft vom oder aus dem Fahrzeug genommen und an die vorgesehene Stelle getragen werden.
 
 Tragbare Leitern gehören zur Gruppe der Rettungsgeräte.
-
-## 2 Anwendung
 
 ### 2 Anwendung
 
@@ -77,8 +73,6 @@ Tragbare Leitern können eingesetzt werden als:
 - Rettungsweg,
 - Angriffsweg und
 - Hilfsgerät.
-
-## 3 Arten tragbarer Leitern
 
 ### 3 Arten tragbarer Leitern
 
@@ -89,8 +83,6 @@ Genormte Leitern nach DIN EN 1147:
 - Hakenleiter,
 - Klappleiter und
 - Multifunktionsleiter.
-
-## 4 Rettungs- und Arbeitshöhen
 
 ### 4 Rettungs- und Arbeitshöhen
 
@@ -113,8 +105,6 @@ Maßstab (Gebäudehöhen):
 ```
 
 *Abbildung 1: Rettungs- und Arbeitshöhen tragbarer Leitern (Vergleichsdarstellung an einem dreigeschossigen Gebäude)*
-
-## 5 Kommandos
 
 ### 5 Kommandos
 
@@ -139,8 +129,6 @@ Der Truppführer bestimmt bei der Vornahme der Steckleiter die Anzahl der benöt
 - „Leiter – Halt!"
 - „Leiter – Ab!"
 - „Leiter – Auf!"
-
-## 6 Allgemeine Einsatzgrundsätze
 
 ### 6 Allgemeine Einsatzgrundsätze
 
@@ -173,8 +161,6 @@ m) Bei Anlegeleitern ist auf den richtigen Anstellwinkel (65° – 75°) zu acht
 *Abbildung 2: Überprüfen des Anstellwinkels (Feuerwehrangehöriger demonstriert: Armtest — ausgestreckter Arm berührt die Sprosse, Füße stehen am Leiterfuß)*
 
 n) Nach jeder Benutzung sind die tragbaren Leitern vom Benutzer einer Sichtprüfung auf Anzeichen von Verschleiß oder Beschädigungen zu unterziehen.
-
-## 7 Steckleiter
 
 ### 7 Steckleiter
 
@@ -285,8 +271,6 @@ Beim Einsatz als Hilfsgerät sind die zulässigen Belastungsgrenzen zu beachten.
 - Grundsätzlich dürfen nicht mehr als vier Steckleiterteile miteinander verbunden werden.
 - Wenn das unterste Leiterteil ein B-Teil ist, soll es mit einem Einsteckteil ausgerüstet sein.
 
-## 8 Dreiteilige Schiebleiter
-
 ### 8 Dreiteilige Schiebleiter
 
 Die dreiteilige Schiebleiter wird von zwei Trupps vorgenommen. Die beiden Trupps nehmen die Schiebleiter, falls erforderlich mit Unterstützung des Maschinisten, vom Fahrzeug.
@@ -329,8 +313,6 @@ Die Rücknahme der Schiebleiter erfolgt in umgekehrter Reihenfolge. Um die Schie
 
 *Abbildung 25: Sicherung des Zugseils für den Transport*
 
-## 9 Hakenleiter
-
 ### 9 Hakenleiter
 
 **9.1 Vornahme der Hakenleiter**
@@ -362,8 +344,6 @@ Die Rücknahme der Hakenleiter erfolgt in umgekehrter Reihenfolge.
 - Hakenleiter nicht als Anstellleiter benutzen.
 - Haken der Leiter bei ausgeklapptem Haken immer vom Körper weg richten.
 
-## 10 Klappleiter
-
 ### 10 Klappleiter
 
 **10.1 Vornahme der Klappleiter**
@@ -375,8 +355,6 @@ Der Feuerwehrangehörige übernimmt die Klappleiter vom Maschinisten und bringt 
 **10.2 Einsatzgrundsätze Klappleiter**
 
 Bei der Rücknahme ist die Quetschgefahr beim Zusammenklappen zu beachten.
-
-## 11 Multifunktionsleiter
 
 ### 11 Multifunktionsleiter
 
@@ -473,8 +451,6 @@ Die Rücknahme der Multifunktionsleiter erfolgt in umgekehrter Reihenfolge.
 
 - Bei der Verwendung der Multifunktionsleiter als Stehleiter mit Aufsteckteil dürfen die obersten vier Sprossen nicht betreten werden.
 - Beim Aufklappen der Multifunktionsleiter besteht am Scharnier Quetschgefahr.
-
-## 12 Steigen und Einsteigen
 
 ### 12 Steigen und Einsteigen
 
