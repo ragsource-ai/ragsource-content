@@ -1,21 +1,21 @@
-# RAGSource Content: Regelungsrahmen
+# RAGSource Content
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-[![Quellen](https://img.shields.io/badge/Quellen-621%2B-blue.svg)](regelungsrahmen/)
+[![Rechtsquellen](https://img.shields.io/badge/Rechtsquellen-621%2B-blue.svg)](regelungsrahmen/)
+[![Skills](https://img.shields.io/badge/Skills-6-8A2BE2.svg)](skills/)
 [![CI](https://github.com/ragsource-ai/ragsource-content/actions/workflows/trigger-deploy.yml/badge.svg)](https://github.com/ragsource-ai/ragsource-content/actions/workflows/trigger-deploy.yml)
 
-Öffentliche Rechtstexte für kommunale KI-Assistenten — Gesetze, Satzungen und Verordnungen als strukturiertes Markdown.
+Öffentliche Wissensbasis für KI-Assistenten — Rechtstexte, Skills und Policies als strukturiertes Markdown.
 
 ---
 
 ## Was ist das hier?
 
-Dieses Repository enthält den **öffentlichen Rechtstext-Bestand** des RAGSource-Frameworks.
-Die Artikel bilden die Wissensbasis für KI-Assistenten wie [amtsschimmel.ai](https://amtsschimmel.ai) und [brandmeister.ai](https://brandmeister.ai), die Kommunen und Behörden bei Verwaltungsaufgaben unterstützen.
+Dieses Repository enthält die **öffentliche Wissensbasis** des RAGSource-Frameworks: Gesetze, Satzungen, Verordnungen und LLM-Handlungsanleitungen (Skills) als Markdown-Dateien mit strukturierten Metadaten.
 
-Jede Markdown-Datei entspricht einem Rechtsdokument (Gesetz, Satzung, Verordnung) oder einer LLM-Handlungsanleitung (Skill) mit strukturierten Metadaten. Der RAGSource-Server liest diese Dateien, indexiert sie in einer D1-Datenbank und stellt sie über eine MCP-Schnittstelle für KI-Systeme bereit.
+Die Artikel bilden die Grundlage für KI-Assistenten wie [amtsschimmel.ai](https://amtsschimmel.ai) und [brandmeister.ai](https://brandmeister.ai). Der dazugehörige Server-Code liegt in [ragsource-server](https://github.com/ragsource-ai/ragsource-server): er liest diese Dateien, indexiert sie in einer D1-Datenbank und stellt sie über eine MCP-Schnittstelle für LLMs bereit.
 
-**Aktuell:** 621+ Quellen aus EU-, Bundes-, Landes-, Kreis- und Gemeinderecht + Tarifverträge
+**Aktuell:** 621+ Rechtsquellen + 6 Skills aus EU-, Bundes-, Landes-, Kreis- und Gemeinderecht
 
 ---
 
@@ -27,24 +27,23 @@ Jede Markdown-Datei entspricht einem Rechtsdokument (Gesetz, Satzung, Verordnung
 | Bundesrecht | `regelungsrahmen/Bund/Bundesrecht/` | BauGB, VwVfG, FwDV |
 | Landesrecht BW | `regelungsrahmen/Laender_und_Kommunen/bw/Landesgesetze/` | GemO BW, LBO, FwG BW |
 | Verwaltungsvorschriften BW | `regelungsrahmen/Laender_und_Kommunen/bw/VwVen/` | VwV-Feuerwehr, VwV-Abfall |
-| Kreisrecht | `regelungsrahmen/Laender_und_Kommunen/bw/Lkr_GP/Kreisrecht/` | Kreissatzungen GP |
+| Kreisrecht | `regelungsrahmen/Laender_und_Kommunen/bw/Lkr_GP/Kreisrecht/` | Kreissatzungen Göppingen |
 | Verbandsrecht | `regelungsrahmen/Laender_und_Kommunen/bw/Lkr_GP/GVB_*/` | Verbandssatzungen |
 | Ortsrecht | `regelungsrahmen/Laender_und_Kommunen/bw/Lkr_GP/BBO/` | Satzungen Bad Boll |
 | Tarifrecht | `regelungsrahmen/Tarifvertraege/` | TVöD, TV-L, AVR |
-| Skills (Säule 2) | `skills/` | LLM-Handlungsanleitungen |
+| Skills | `skills/` | LLM-Handlungsanleitungen |
 
 ---
 
 ## Wie funktioniert das?
 
-Jede Datei beginnt mit YAML-Frontmatter, das den Artikel klassifiziert:
+Jede Datei beginnt mit YAML-Frontmatter, das den Artikel klassifiziert. Der Server liest **ausschließlich das Frontmatter** — nicht den Dateipfad. Die Ordnerstruktur dient der menschlichen Orientierung.
 
 ```yaml
 ---
 titel: Feuerwehrsatzung der Gemeinde Bad Boll
 ebene: gemeinde
 saule: regelungsrahmen
-# ARS-Felder (maschinell, für Geo-Filterung)
 land_ars: "08"
 kreis_ars: "08117"
 verband_ars: "081175009"
@@ -54,14 +53,12 @@ kreis: Göppingen
 verband: GVV Raum Bad Boll
 gemeinde: Bad Boll
 gueltig_ab: 2021-03-25
-endpoints:            # Tenancy: leer = universell für alle Deployments
+endpoints:            # leer = universell für alle Deployments
   - amtsschimmel
-extensions:           # Themen: thematische Zuordnung
+extensions:           # thematische Zuordnung
   - Feuerwehr
 ---
 ```
-
-Der Server klassifiziert Artikel **ausschließlich anhand des Frontmatters** — nicht anhand des Dateipfads. Die Ordnerstruktur dient der menschlichen Orientierung.
 
 ### Vollständiges Frontmatter-Schema
 
@@ -71,7 +68,7 @@ Der Server klassifiziert Artikel **ausschließlich anhand des Frontmatters** —
 |------|-------|--------------|
 | `titel` | Freitext | Vollständiger Titel des Rechtsdokuments |
 | `ebene` | `eu` \| `bund` \| `land` \| `kreis` \| `verband` \| `gemeinde` | Normenhierarchie |
-| `saule` | `regelungsrahmen` | Säule 1 (Rechtstexte); Skills haben `saule: 2` |
+| `saule` | `regelungsrahmen` \| `2` | Säule 1 = Rechtstexte; Säule 2 = Skills |
 
 **Geo-Felder (ARS = Amtlicher Regionalschlüssel):**
 
@@ -93,17 +90,14 @@ Nur die Felder setzen, die zur `ebene` passen (bund = keine, land = `land_ars`, 
 | Feld | Beispiel | Beschreibung |
 |------|---------|--------------|
 | `quelle` | `Gemeinderatsbeschluss 25.03.2021` | Herkunft des Dokuments |
-| `gueltig_ab` | `2021-03-25` | Datum des Inkrafttretens (ISO-Format) |
+| `gueltig_ab` | `2021-03-25` | Inkrafttreten (ISO-Format); bei konsolid. Fassungen: letzte Änderung |
 | `stand` | `2025-12-01` | Letzte inhaltliche Änderung |
 | `url` | `https://...` | Quell-URL des Originaldokuments |
 | `status` | `published` \| `ausser_kraft` | Gültigkeitsstatus |
 | `endpoints` | `[amtsschimmel]` | Tenancy: welche Deployments sehen die Quelle (leer = alle) |
-| `extensions` | `[Feuerwehr]` | Themen: thematische Zuordnung |
-| `rechtsrang` | `1`–`6` | Normenhierarchie-Ebene (wird vom Server abgeleitet) |
+| `extensions` | `[Feuerwehr]` | Thematische Zuordnung (OR-verknüpft bei Suche) |
 
 ### Markdown-Struktur
-
-Jede Datei enthält nach dem Frontmatter ein optionales Inhaltsverzeichnis und den Volltext. Die Heading-Ebenen haben feste Bedeutung:
 
 ```markdown
 ## Inhaltsverzeichnis
@@ -111,7 +105,7 @@ Jede Datei enthält nach dem Frontmatter ein optionales Inhaltsverzeichnis und d
 - § 1 Aufgaben
 - § 2 Begriffsbestimmungen
 
-## Kapitel I — Allgemeine Bestimmungen   ← Strukturüberschrift, kein Inhalt
+## Kapitel I — Allgemeine Bestimmungen   ← Strukturüberschrift, kein eigener Inhalt
 
 ### § 1 Aufgaben                          ← Abrufbare Einheit (einzeln abholbar)
 Volltext...
@@ -120,7 +114,7 @@ Volltext...
 Volltext...
 ```
 
-**Trennregel:** Jedes `###`-Heading öffnet einen neuen, einzeln abrufbaren Abschnitt. `##`-Headings (außer `## Inhaltsverzeichnis`) sind reine Strukturüberschriften.
+**Trennregel:** Jedes `###`-Heading öffnet einen neuen, einzeln abrufbaren Abschnitt. `##`-Headings (außer `## Inhaltsverzeichnis`) sind reine Strukturüberschriften und landen im Body der nachfolgenden Section.
 
 ---
 
@@ -133,13 +127,21 @@ Volltext...
 | `EU_` | EU-Recht | `EU_DSGVO.md` |
 | `D_` | Bundesrecht | `D_BauGB.md` |
 | `BW_` | Landesrecht BW | `BW_FwG.md` |
-| `BW_VWV_` | VwVen BW | `BW_VWV_Feuerwehr.md` |
+| `BW_VWV_` | Verwaltungsvorschriften BW | `BW_VWV_Feuerwehr.md` |
 | `Lkr_GP_` | Kreisrecht Göppingen | `Lkr_GP_Kreissatzung.md` |
-| `KON_` | Ortsrecht Konstanz | `KON_Satzung_Hauptsatzung.md` |
+| `Lkr_KON_` | Kreisrecht Konstanz | `Lkr_KON_Kreissatzung.md` |
+| `GVB_` | Verbandsrecht | `GVB_GVV_BadBoll_Verbandssatzung.md` |
 | `BBO_` | Ortsrecht Bad Boll | `BBO_Satzung_Feuerwehr.md` |
+| `KON_` | Ortsrecht Konstanz | `KON_Satzung_Hauptsatzung.md` |
 | `SKILL_` | Skills (Säule 2) | `SKILL_gefahrstoff_einsatz.md` |
 
 Abgelaufene Dokumente liegen in `ausser_kraft/`-Unterordnern und tragen `status: ausser_kraft` im Frontmatter.
+
+---
+
+## Skills (Säule 2)
+
+Neben Rechtstexten enthält das Repository **Skills** — LLM-Handlungsanleitungen für domänenspezifische Workflows (Einsatztaktik, Gefahrstoffabfragen, Rechtsfragen). Sie liegen im `skills/`-Ordner und werden vom Server wie Rechtsquellen indexiert, aber mit `saule: 2` und `typ: skill` klassifiziert.
 
 ---
 
@@ -155,7 +157,7 @@ Projektleitung: **Christian Traub** — alle PRs werden manuell geprüft.
 
 ## CI/CD
 
-Bei Push auf `main` wird automatisch ein Rebuild der RAGSource-Datenbank ausgelöst. Neue Artikel sind typischerweise **innerhalb von 2 Minuten live**.
+Push auf `main` → automatischer DB-Rebuild via [ragsource-server](https://github.com/ragsource-ai/ragsource-server) → **live in ~2 Minuten**.
 
 ---
 
@@ -165,4 +167,14 @@ Bei Push auf `main` wird automatisch ein Rebuild der RAGSource-Datenbank ausgel�
 
 Amtliche Werke (§ 5 UrhG) sind gemeinfrei; die redaktionelle Aufbereitung und Strukturierung steht unter CC-BY 4.0.
 
-Powered by [RAGSource](https://github.com/ragsource-ai)
+---
+
+<p align="center">
+  <br>
+  Made with ❤️ for Open Source AI
+  <br><br>
+  This project started from a personal need: reliable, citable knowledge<br>
+  for firefighters, public servants, and everyone who needs to get things right.<br>
+  <br>
+  <strong>It belongs to everybody.</strong>
+</p>
