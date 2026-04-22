@@ -1,7 +1,7 @@
 ---
 titel: "FwDV 8 – Tauchen"
 ebene: bund
-saule: 1
+saule: regelungsrahmen
 gueltig_ab: 2014-03-20
 quelle: "Feuerwehr-Dienstvorschrift 8 – Tauchen. Hrsg.: AFKzV. Staatliche Feuerwehrschule Würzburg, Stand März 2014."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_008.pdf"

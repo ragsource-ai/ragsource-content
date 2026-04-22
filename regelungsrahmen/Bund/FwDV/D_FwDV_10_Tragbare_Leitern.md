@@ -1,7 +1,7 @@
 ---
 titel: "FwDV 10 – Tragbare Leitern"
 ebene: bund
-saule: 1
+saule: regelungsrahmen
 gueltig_ab: 2020-07-08
 quelle: "Feuerwehr-Dienstvorschrift 10 – Tragbare Leitern. Stand: November 2019. Hrsg.: AFKzV."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_010.pdf"

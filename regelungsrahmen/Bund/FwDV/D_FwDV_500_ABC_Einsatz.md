@@ -1,7 +1,7 @@
 ---
 titel: "FwDV 500 – Einheiten im ABC-Einsatz"
 ebene: bund
-saule: 1
+saule: regelungsrahmen
 gueltig_ab: 2022-04-01
 quelle: "Feuerwehr-Dienstvorschrift 500 – Einheiten im ABC-Einsatz. Hrsg.: AFKzV. Finale Version vom 1.4.2022."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_500_AFKzV_2022-03-16_02.pdf"

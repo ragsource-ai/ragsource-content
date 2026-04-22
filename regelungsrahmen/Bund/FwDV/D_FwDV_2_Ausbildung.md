@@ -1,7 +1,7 @@
 ---
 titel: "FwDV 2 – Ausbildung der Feuerwehren"
 ebene: bund
-saule: 1
+saule: regelungsrahmen
 gueltig_ab: 2012-01-01
 quelle: "Feuerwehr-Dienstvorschrift 2 – Ausbildung der Feuerwehren. Hrsg.: AFKzV."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_002.pdf"

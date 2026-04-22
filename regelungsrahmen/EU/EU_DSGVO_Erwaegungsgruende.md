@@ -1,7 +1,7 @@
 ---
 titel: "Datenschutz-Grundverordnung – Erwägungsgründe (DSGVO) — Verordnung (EU) 2016/679"
 ebene: eu
-saule: 1
+saule: regelungsrahmen
 land_ars:
 kreis_ars:
 verband_ars:

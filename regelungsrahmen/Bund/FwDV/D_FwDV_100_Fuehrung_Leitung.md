@@ -1,7 +1,7 @@
 ---
 titel: "FwDV 100 – Führung und Leitung im Einsatz"
 ebene: bund
-saule: 1
+saule: regelungsrahmen
 gueltig_ab: 2005-01-01
 quelle: "Feuerwehr-Dienstvorschrift 100 – Führung und Leitung im Einsatz. Stand: März 1999 mit Änderungen 2005. Hrsg.: AFKzV."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_100.pdf"

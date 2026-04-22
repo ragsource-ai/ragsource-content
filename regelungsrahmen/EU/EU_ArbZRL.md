@@ -1,7 +1,7 @@
 ---
 titel: "EU-Arbeitszeitrichtlinie (ArbZRL) — Richtlinie 2003/88/EG"
 ebene: eu
-saule: 1
+saule: regelungsrahmen
 land_ars:
 kreis_ars:
 verband_ars:

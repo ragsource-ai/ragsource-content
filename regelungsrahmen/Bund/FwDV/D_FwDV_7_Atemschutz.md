@@ -1,7 +1,7 @@
 ---
 titel: "FwDV 7 – Atemschutz"
 ebene: bund
-saule: 1
+saule: regelungsrahmen
 gueltig_ab: "2005-03-17"
 quelle: "Feuerwehr-Dienstvorschrift 7 – Atemschutz. Hrsg.: AFKzV. Stand 2002 mit Änderungen 2005."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_007.pdf"

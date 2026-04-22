@@ -1,7 +1,7 @@
 ---
 titel: "FwDV 3 – Einheiten im Lösch- und Hilfeleistungseinsatz"
 ebene: bund
-saule: 1
+saule: regelungsrahmen
 gueltig_ab: 2008-02-21
 quelle: "Feuerwehr-Dienstvorschrift 3 – Einheiten im Lösch- und Hilfeleistungseinsatz. Hrsg.: AFKzV."
 url: "https://www.lfs-bw.de/fileadmin/LFS-BW/themen/gesetze_vorschriften/fwdv/dokumente/FwDV_003.pdf"
