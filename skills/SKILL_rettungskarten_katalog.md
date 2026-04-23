@@ -19,18 +19,67 @@ stand: "2026-04-23"
 beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern für Einsatzkräfte bei technischer Hilfeleistung nach Verkehrsunfällen."
 ---
 
-## Handlungsanweisung
+## Inhaltsverzeichnis
+
+- [Abarth](#abarth)
+- [Alfa Romeo](#alfa-romeo)
+- [Alpine](#alpine)
+- [Audi](#audi)
+- [BMW](#bmw)
+- [Citroën](#citroen)
+- [Dacia](#dacia)
+- [DAF](#daf)
+- [Daihatsu](#daihatsu)
+- [DS Automobiles](#ds-automobiles)
+- [Fiat](#fiat)
+- [Fiat Professional](#fiat-professional)
+- [Ford](#ford)
+- [Genesis](#genesis)
+- [Honda](#honda)
+- [Hyundai](#hyundai)
+- [Isuzu](#isuzu)
+- [Jaguar](#jaguar)
+- [Jeep](#jeep)
+- [Kia](#kia)
+- [Lancia](#lancia)
+- [Land Rover](#land-rover)
+- [Lexus](#lexus)
+- [Maserati](#maserati)
+- [Mazda](#mazda)
+- [Mercedes-Benz](#mercedes-benz)
+- [MG Motor](#mg-motor)
+- [MINI](#mini)
+- [Mitsubishi](#mitsubishi)
+- [Nio](#nio)
+- [Nissan](#nissan)
+- [Opel](#opel)
+- [ORA](#ora)
+- [Peugeot](#peugeot)
+- [Polestar](#polestar)
+- [Porsche](#porsche)
+- [Renault](#renault)
+- [Renault Trucks](#renault-trucks)
+- [Saab](#saab)
+- [SEAT](#seat)
+- [Škoda](#skoda)
+- [SsangYong](#ssangyong)
+- [Subaru](#subaru)
+- [Suzuki](#suzuki)
+- [Tesla](#tesla)
+- [Toyota](#toyota)
+- [Volkswagen PKW](#volkswagen-pkw)
+- [Volvo](#volvo)
+- [Volvo Trucks](#volvo-trucks)
+- [Wey](#wey)
+
+**Übergreifend:** [ADAC Rettungskartendatenbank](https://www.adac.de/rund-ums-fahrzeug/unfall-schaden-panne/rettungskarte/) · [VDIK-Übersicht](https://www.vdik.de/themen/sicherheit-und-verkehr/rettungsdatenblaetter/)
+
+**Handlungsanweisung**
 
 1. **Fahrzeug identifizieren** — Foto des Fahrzeugs (Frontpartie, Heck, Typenschild oder Kennzeichen) auswerten, um Marke, Modell und Baujahr zu bestimmen.
 2. **Marken-Sektion abrufen** — Die passende `### Marke`-Sektion aus diesem Katalog laden.
-3. **Rettungskarte bereitstellen** — Direkten PDF-Link zum passenden Modell mitteilen oder Datei direkt bereitstellen. Bei Herstellerportalen (kein Direktlink): Nutzer auf die Modellauswahl hinweisen.
+3. **Rettungskarte bereitstellen** — Direkten PDF-Link zum passenden Modell mitteilen oder Datei direkt bereitstellen. Bei Herstellerportal (→-Link): Nutzer auf Modellauswahl hinweisen.
 4. **Fallback** — Modell nicht zuordenbar oder Marke fehlt: [ADAC-Rettungskartendatenbank](https://www.adac.de/rund-ums-fahrzeug/unfall-schaden-panne/rettungskarte/) empfehlen.
-
-## Inhaltsverzeichnis
-
-[Abarth](#abarth) · [Alfa Romeo](#alfa-romeo) · [Alpine](#alpine) · [Audi](#audi) · [BMW](#bmw) · [Citroën](#citroen) · [Dacia](#dacia) · [DAF](#daf) · [Daihatsu](#daihatsu) · [DS Automobiles](#ds-automobiles) · [Fiat](#fiat) · [Fiat Professional](#fiat-professional) · [Ford](#ford) · [Genesis](#genesis) · [Honda](#honda) · [Hyundai](#hyundai) · [Isuzu](#isuzu) · [Jaguar](#jaguar) · [Jeep](#jeep) · [Kia](#kia) · [Lancia](#lancia) · [Land Rover](#land-rover) · [Lexus](#lexus) · [Maserati](#maserati) · [Mazda](#mazda) · [Mercedes-Benz](#mercedes-benz) · [MG Motor](#mg-motor) · [MINI](#mini) · [Mitsubishi](#mitsubishi) · [Nio](#nio) · [Nissan](#nissan) · [Opel](#opel) · [ORA](#ora) · [Peugeot](#peugeot) · [Polestar](#polestar) · [Porsche](#porsche) · [Renault](#renault) · [Renault Trucks](#renault-trucks) · [Saab](#saab) · [SEAT](#seat) · [Škoda](#skoda) · [SsangYong](#ssangyong) · [Subaru](#subaru) · [Suzuki](#suzuki) · [Tesla](#tesla) · [Toyota](#toyota) · [Volkswagen PKW](#volkswagen-pkw) · [Volvo](#volvo) · [Volvo Trucks](#volvo-trucks) · [Wey](#wey)
-
-**Übergreifend:** [ADAC Rettungskartendatenbank](https://www.adac.de/rund-ums-fahrzeug/unfall-schaden-panne/rettungskarte/) · [VDIK-Übersicht](https://www.vdik.de/themen/sicherheit-und-verkehr/rettungsdatenblaetter/)
 
 ## Rettungsdatenblätter nach Hersteller
 
@@ -39,6 +88,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Abarth 595](https://www.abarth.de/content/dam/abarth/rettungsdatenblaetter/abarth_595.pdf)
 - [Abarth 695 Tribute Ferrari](https://www.abarth.de/content/dam/abarth/rettungsdatenblaetter/abarth_695_tribute_ferrari.pdf)
 - [Abarth Grande Punto](https://www.abarth.de/content/dam/abarth/rettungsdatenblaetter/abarth_grande_punto.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.abarth.de/rettungsdatenblaetter)
 
 ### Alfa Romeo
 
@@ -58,10 +108,12 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Alfa Romeo 159](https://www.alfaromeo.de/content/dam/alfa/cross/rettungsdatenblaetter/pdf/AlfaRomeo_159.pdf)
 - [Alfa Romeo 159SW](https://www.alfaromeo.de/content/dam/alfa/cross/rettungsdatenblaetter/pdf/AlfaRomeo_159SW.pdf)
 - [Alfa Romeo 147](https://www.alfaromeo.de/content/dam/alfa/cross/rettungsdatenblaetter/pdf/AlfaRomeo_147.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.alfaromeo.de/rettungsdatenblaetter)
 
 ### Alpine
 
 - [Alpine A110 (Ausgabe 07/2017)](https://cdn.group.renault.com/alp/de/pdf/rettungskarte-alpine-01-ausgabe-07-2017-de-1-1.pdf.asset.pdf/0bd152240c.pdf)
+→ [Herstellerportal (alle Modelle)](https://cdn.group.renault.com/alp/de/pdf/rettungskarte-alpine-01-ausgabe-07-2017-de-1-1.pdf.asset.pdf/0bd152240c.pdf)
 
 ### Audi
 
@@ -102,6 +154,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Spring (ab 2024)](https://cdn.group.renault.com/dac/de/editorial/rettungsdatenblaetter/Dacia_Spring_Hatchback_2024_5d_Electric_DE.pdf)
 - [Stepway](https://cdn.group.renault.com/dac/de/editorial/rettungsdatenblaetter/RDB-Stepway-2008-2012-2.pdf)
 - [AGB Connected Services](https://cdn.group.renault.com/dac/de/pdfs/20241009_DACIA_%20Connected%20Services.pdf.asset.pdf/7aee0b4d1f.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.dacia.de/rettungskarten.html)
 
 ### DAF
 
@@ -121,10 +174,12 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Axle Configuration Model Overview Hq En Def](https://www.daftrucks.de/-/media/files/document-library/infosheets/ngd/axles/axle-configuration-model-overview-hq-en-def.pdf?h=900&w=1600&rev=0cb369c968fe4054a570abdd2a2378af&hash=926ADC22D02A751CADC4652500F66AEC)
 - [Daf Corner View De](https://www.daftrucks.de/-/media/files/document-library/infosheets/ngd/daf-corner-view/daf-corner-view-de.pdf?h=900&w=1600&rev=1c012c3cd9f544a49cdb36b758aac482&hash=E7AFACF4C7903B4EC1FA79CF4921BF12)
 - [Daf Vision System Infosheet De 557212](https://www.daftrucks.de/-/media/files/document-library/infosheets/ngd/daf-cameras/daf-vision-system-infosheet-de-557212.pdf?h=900&w=1600&rev=04f8b8fdc71c4dc2810febb2401268be&hash=5A87B24218D0849497D72ADE4D7402F9)
+→ [Herstellerportal (alle Modelle)](https://www.daftrucks.de/de-de/presse-und-downloads/daf-document-library?Tags=Notfallreaktionsanleitung&Page=1)
 
 ### Daihatsu
 
 - [Alle Daihatsu-Modelle DE/AT](https://www.daihatsu.de/daihatsu_rettungsdatenblaetter_de_at.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.daihatsu.de/daihatsu_rettungsdatenblaetter_de_at.pdf)
 
 ### DS Automobiles
 
@@ -141,6 +196,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Fiat Tipo 5Tuerer](https://www.fiat.de/content/dam/fiat2023/de/aftersales-rettungsdatenblaetter/Fiat_Tipo_5Tuerer.pdf)
 - [Fiat Tipo Limousine](https://www.fiat.de/content/dam/fiat2023/de/aftersales-rettungsdatenblaetter/Fiat_Tipo_Limousine.pdf)
 - [Fiat Tipo 5Tuerer Kombi](https://www.fiat.de/content/dam/fiat2023/de/aftersales-rettungsdatenblaetter/Fiat_Tipo_5Tuerer_Kombi.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.fiat.de/rettungsdatenblaetter)
 
 ### Fiat Professional
 
@@ -161,6 +217,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Rescue Sheet G70 Shooting Brake De](https://www.genesis.com/content/dam/genesis-web-eu/site/document/global/rescue-sheets/de/rescue-sheet_g70-shooting-brake_de.pdf)
 - [Rescue Sheet Electrified G80 De](https://www.genesis.com/content/dam/genesis-web-eu/site/document/global/rescue-sheets/de/rescue-sheet_electrified_g80_de.pdf)
 - [Rescue Sheet G80 De](https://www.genesis.com/content/dam/genesis-web-eu/site/document/global/rescue-sheets/de/rescue-sheet_g80_de.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.genesis.com/de/de/service-and-ownership/ownership/downloads.html#rescuesheet)
 
 ### Honda
 
@@ -208,6 +265,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [NSX](https://www.honda.de/content/dam/local/germany/cars/pdf/rettungsdatenblaetter/de_car_rettungsdatenblatt_nsx_2017-08.pdf)
 - [Prelude](https://www.honda.de/content/dam/local/germany/cars/pdf/rettungsdatenblaetter/rettungsdatenblatt_prelude_fhev_2026.pdf)
 - [ZR-V](https://www.honda.de/content/dam/local/germany/cars/pdf/rettungsdatenblaetter/rettungsdatenblatt_zr-v_ehev_suv_2023-11.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.honda.de/cars/services/download-rettungsdatenblaetter.html)
 
 ### Hyundai
 
@@ -228,6 +286,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 ### Kia
 
 - [Alle Modelle (Stand 06/2017) – EV6/EV9 ggf. nicht enthalten](https://www.kia.com/content/dam/kwcms/kme/de/de/assets/contents/service/rettungsdienste/downloads/kia_rettungsdatenblaetter_06_2017.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.kia.com/content/dam/kwcms/kme/de/de/assets/contents/service/rettungsdienste/downloads/kia_rettungsdatenblaetter_06_2017.pdf)
 
 ### Lancia
 
@@ -245,6 +304,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Lancia Ypsilon 2011 Natural Power (2011)](http://www.lancia.de/content/dam/moc/lancia/de/pdf/lancia_ypsilon_2011_natural_power.pdf)
 - [Lancia Ypsilon 2011 LPG (2011)](http://www.lancia.de/content/dam/moc/lancia/de/pdf/lancia_ypsilon_lpg.pdf)
 - [Lancia Flavia](http://www.lancia.de/content/dam/moc/lancia/de/pdf/Lancia_Flavia.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.lancia.de/mopar/rettungsdatenblaetter)
 
 ### Land Rover
 
@@ -288,6 +348,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Freelander 2 LF (2006–2014)](https://www.landrover.de/content/dam/lrdx/local/de/pdf-files/Freelander%202%20LF_2006-2014_tcm287-231476.pdf)
 - [Freelander LN 3 door (1997–2006)](https://www.landrover.de/content/dam/lrdx/local/de/pdf-files/Freelander%20LN_3-door_1997-2006_tcm287-231477.pdf)
 - [Freelander LN 5 door (1997–2006)](https://www.landrover.de/content/dam/lrdx/local/de/pdf-files/Freelander%20LN_5-door_1997-2006_tcm287-231478.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.landrover.de/ownership/emergency.html)
 
 ### Lexus
 
@@ -296,6 +357,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 ### Maserati
 
 - [Alle Modelle (Stand 05/2016)](https://www.maserati.com/content/dam/maserati/regional/de/Preislisten/Minibooks_MY_2020_Range/original/Maserati_Rettungsdatenblatter_5_2016.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.maserati.com/content/dam/maserati/regional/de/Preislisten/Minibooks_MY_2020_Range/original/Maserati_Rettungsdatenblatter_5_2016.pdf)
 
 ### Mazda
 
@@ -359,11 +421,13 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Mazda Cx 80 Rsde Klecw A](https://media-assets.mazda.eu/raw/upload//mazdade/globalassets/mmd-local-pages/rettungskarten/cx-80/mazda_cx-80_rsde-klecw-a.pdf?rnd=4a4e53)
 - [Mazda Cx 80 Rsde Klepw A](https://media-assets.mazda.eu/raw/upload//mazdade/globalassets/mmd-local-pages/rettungskarten/cx-80/mazda_cx-80_rsde-klepw-a.pdf?rnd=4a4e53)
 - [Mazda6E Rettungskarte Deutsch V.3](https://media-assets.mazda.eu/raw/upload//mazdade/contentassets/fcc0ecc366a94f978313ad0135cd3d96/mazda6e-rettungskarte-deutsch-v.3.pdf?rnd=4a3950)
+→ [Herstellerportal (alle Modelle)](https://www.mazda.de/rettungskarten/)
 
 ### Mercedes-Benz
 
 - [Leitfaden für Rettungskräfte Pkw, Van und Geländewagen](https://rk.mb-qr.com/static/pdf/guidelines/MB_ISO-Leitfaden_Rettungskr%C3%A4fte_Pkw_Van_Gel%C3%A4ndewagen_de.pdf)
 - [Leitfaden für Abschleppdienste PKW Fahrzeuge mit elektrischen Antrieben](https://rk.mb-qr.com/static/pdf/guidelines_towing/AundB_de.pdf)
+→ [Herstellerportal (alle Modelle)](https://rk.mb-qr.com/de/)
 
 ### MG Motor
 
@@ -379,6 +443,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [MG HS Hybrid Rettungskarte](https://cdn.mgmotor.eu/files/MG-HS-Hybrid-Rettungskarte.pdf)
 - [MGS5 EV Rettungskarte](https://cdn.mgmotor.eu/files/MGS5-EV-Rettungskarte.pdf)
 - [MGS6EV Rettungskarte compressed](https://cdn.mgmotor.eu/files/MGS6EV-Rettungskarte_compressed.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.mgmotor.de/owners/rettungskarten)
 
 ### MINI
 
@@ -395,6 +460,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 ### Nissan
 
 - [Alle Modelle (Stand 06/2019)](https://www-europe.nissan-cdn.net/content/dam/Nissan/de/brochures/sonstige/Nissan_Rettungsdatenblaetter_06_2019.pdf)
+→ [Herstellerportal (alle Modelle)](https://www-europe.nissan-cdn.net/content/dam/Nissan/de/brochures/sonstige/Nissan_Rettungsdatenblaetter_06_2019.pdf)
 
 ### Opel
 
@@ -403,6 +469,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 ### ORA
 
 - [ORA Funky Cat Sedan (2022, Elektro)](https://www.ora-motor.de/hubfs/2_WEBSITE/PDF/ORA_FUNKY_CAT_Sedan_Rescue_Sheet_2022_5d_Electric_V2_DE.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.ora-motor.de/hubfs/2_WEBSITE/PDF/ORA_FUNKY_CAT_Sedan_Rescue_Sheet_2022_5d_Electric_V2_DE.pdf)
 
 ### Peugeot
 
@@ -411,6 +478,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 ### Polestar
 
 - [Alle Modelle (Polestar 2/3/4, Elektro)](https://www.polestar.com/dato-assets/11286/1608299341-rettungsdatenblatter-gesamt.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.polestar.com/dato-assets/11286/1608299341-rettungsdatenblatter-gesamt.pdf)
 
 ### Porsche
 
@@ -493,6 +561,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [MEGANE E-TECH 2 PLUG-IN HYBRID](https://cdn.group.renault.com/ren/de/rettungskarten/megane-grandtour-plug-in-hybrid/fad_Megane%20IV%20PHEV_de.pdf.asset.pdf/54fdd2c8ff.pdf)
 - [SYMBIOZ FULL HYBRID E-TECH](https://cdn.group.renault.com/ren/de/rettungskarten/symbioz/Renault_Symbioz%20E-Tech%20Full%20Hybrid__SUV_2024_5d_Hybrid%20(Electric)_DE.pdf.asset.pdf/2e7d37aee6.pdf)
 - [AGB Connected Services](https://cdn.group.renault.com/ren/de/pdf/GTC_Connected_Services_Germany_11_2025_FINAL.pdf.asset.pdf/9cb4ed750f.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.renault.de/services/tipps-und-anleitungen/rettungskarten.html)
 
 ### Renault Trucks
 
@@ -509,10 +578,12 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [9 5 Kombi Sport1997](https://saabparts.com/de/wp-content/uploads/sites/12/2019/05/9-5_Kombi_Sport1997.pdf)
 - [9 5 Kombi Sport2005](https://saabparts.com/de/wp-content/uploads/sites/12/2019/05/9-5_Kombi_Sport2005.pdf)
 - [Rechtlicher Hinweis](https://saabparts.com/de/wp-content/uploads/sites/12/2019/05/Rechtlicher_Hinweis.pdf)
+→ [Herstellerportal (alle Modelle)](https://saabparts.com/de/rettungs-relevante-informationen/)
 
 ### SEAT
 
 - [Ateca (2017)](https://www.seat.at/dam/files/14e82a0a71b974238343b42317caa2f87af086b3/d1f9efd803c30e0873dcbe306e2d982e/b875a9d4-d740-41d8-b0df-76cf424628bd/ateca-2017-de.PDF)
+→ [Herstellerportal (alle Modelle)](https://www.seat.at/service-und-zubehoer/onlinedienste/unfallrettung)
 
 ### Škoda
 
@@ -525,6 +596,7 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 ### Subaru
 
 - [Alle Modelle inkl. Autogas (bis MJ 2018)](https://www.subaru.de/fileadmin/downloads/marke-technik/sicherheit/SUBARU_Rettungskarten_fuer_Einsatzkraefte_inkl._Autogas_bis_MJ_18_v2.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.subaru.de/fileadmin/downloads/marke-technik/sicherheit/SUBARU_Rettungskarten_fuer_Einsatzkraefte_inkl._Autogas_bis_MJ_18_v2.pdf)
 
 ### Suzuki
 
@@ -545,13 +617,15 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Toyota C-HR Hybrid (MAXH10 EU,M, ab 09/19)](https://scene7.toyota.eu/is/content/toyotaeurope/toyota/nmsc/germany/downloads/rettungsdatenblätter/RK_C-HR_2.0Hybrid_2.pdf)
 - [Toyota C-HR (ab 10/2023)](https://scene7.toyota.eu/is/content/toyotaeurope/toyota/nmsc/germany/downloads/rettungsdatenblätter/C-HRHV20_DE.pdf)
 - [Toyota C-HR Plug-in Hybrid (ab 01/2024)](https://scene7.toyota.eu/is/content/toyotaeurope/toyota/nmsc/germany/downloads/rettungsdatenblätter/C-HRPHV21_LHD_DE.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.toyota.de/service_und_zubehoer/fahrzeuginformationen/technische_unterstuetzung/rettungsdatenblaetter.json)
 
 ### Volkswagen PKW
 
 - [Leitfaden für Rettungs- und Bergungskräfte](https://www.volkswagen.de/idhub/content/dam/onehub_pkw/importers/de/besitzer-und-service-4-0/ueber-ihr-auto/kundeninformationen/rechtliches/rettungsdaten/Volkswagen_2025_DE_ERG_2025_09.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/rechtliches/rescue-data.html)
 
 **Nutzfahrzeuge (Transporter, Caddy, Crafter):**
-→ [Herstellerportal (Modellauswahl)](https://www.volkswagen-nutzfahrzeuge.de/de/besitzer-und-service/rueckrufe-und-vorschriften/vorschriften/rettungsdatenblaetter.html)
+→ [Herstellerportal (alle Modelle)](https://www.volkswagen-nutzfahrzeuge.de/de/besitzer-und-service/rueckrufe-und-vorschriften/vorschriften/rettungsdatenblaetter.html)
 
 ### Volvo
 
@@ -569,3 +643,4 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 - [Rettungskarte ORA 07](https://www.gwm-motor.de/hubfs/2_WEBSITE/Rettungskarten/Rettungsdatenblatt_GWM_ORA_07.pdf)
 - [Rettungskarte Haval H6](https://www.gwm-motor.de/hubfs/2_WEBSITE/Rettungskarten/Rettungsdatenblatt_GWM_HAVAL_H6.pdf)
 - [Rettungskarte Jolion Pro](https://www.gwm-motor.de/hubfs/2_WEBSITE/Rettungskarten/Rettungsdatenblatt_GWM_HAVAL_Jolion_Pro.pdf)
+→ [Herstellerportal (alle Modelle)](https://www.wey-motor.de/rettungskarten/)
