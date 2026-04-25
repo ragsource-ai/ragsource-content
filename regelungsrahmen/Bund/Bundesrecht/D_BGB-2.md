@@ -11,6 +11,7 @@ status: published
 endpoints:
   - amtsschimmel
 extensions:
+  - Zivilrecht
   - Arbeitsrecht
 ---
 

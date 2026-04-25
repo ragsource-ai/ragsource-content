@@ -11,7 +11,7 @@ status: published
 endpoints:
   - amtsschimmel
 extensions:
-  - universal
+  - Zivilrecht
 ---
 
 ## Inhaltsverzeichnis

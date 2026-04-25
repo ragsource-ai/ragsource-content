@@ -78,8 +78,8 @@ beschreibung: "Direkte PDF-Links zu fahrzeugspezifischen Rettungsdatenblättern 
 
 1. **Fahrzeug identifizieren** — Foto des Fahrzeugs (Frontpartie, Heck, Typenschild oder Kennzeichen) auswerten, um Marke, Modell und Baujahr zu bestimmen.
 2. **Marken-Sektion abrufen** — Die passende `### Marke`-Sektion aus diesem Katalog laden.
-3. **Rettungskarte bereitstellen** — Direkten PDF-Link zum passenden Modell mitteilen oder Datei direkt bereitstellen. Bei Herstellerportal (→-Link): Nutzer auf Modellauswahl hinweisen.
-4. **Fallback** — Modell nicht zuordenbar oder Marke fehlt: [ADAC-Rettungskartendatenbank](https://www.adac.de/rund-ums-fahrzeug/unfall-schaden-panne/rettungskarte/) empfehlen.
+3. **Rettungskarte bereitstellen** — Direkten PDF-Link zum passenden Modell mitteilen oder Datei direkt bereitstellen. Bei Herstellerportal (→-Link): Nutzer auf Modellauswahl hinweisen. **Falls Modell nicht eindeutig, z.B. unklares Baujahr:** Varianten anbieten mit Tipps woran Unterschiede erkannt werden können.
+4. **Fallback** — Modell oder Marke fehlt: [ADAC-Rettungskartendatenbank](https://www.adac.de/rund-ums-fahrzeug/unfall-schaden-panne/rettungskarte/) empfehlen.
 
 ## Rettungsdatenblätter nach Hersteller
 
